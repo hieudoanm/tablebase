@@ -1,0 +1,28 @@
+fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+TIER_CUP-2018-1/16-BIDI-VTL,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-08,16:00,Quy Nhơn,BIDI,Topenland Bình Định,1,0,VTL,Viettel,Topenland Bình Định
+TIER_CUP-2018-1/16-TNI-BPH,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-08,16:30,Tây Ninh,TNI,XM Fico - YTL Tây Ninh,0,1,BPH,Bình Phước,Bình Phước
+TIER_CUP-2018-1/16-LAN-CAND,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-08,17:00,Long An,LAN,Long An,0,1,CAND,Công An Nhân Dân,Công An Nhân Dân
+TIER_CUP-2018-1/16-HUE-KHH,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-09,15:30,Tự Do,HUE,Huế,1,2,KHH,Khánh Hòa,Khánh Hòa
+TIER_CUP-2018-1/16-GLA-QNI,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-09,17:00,Pleiku,GLA,Hoàng Anh Gia Lai,5,0,QNI,Than Quảng Ninh,Hoàng Anh Gia Lai
+TIER_CUP-2018-1/16-HAN-DAL,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-09,18:00,Hàng Đẫy,HAN,Hà Nội,0,0,DAL,Đắk Lắk,Hà Nội
+TIER_CUP-2018-1/8-BPH-NAD,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-28,16:30,Bình Phước,BPH,Bình Phước,2,0,NAD,Nam Định,Bình Phước
+TIER_CUP-2018-1/8-QNA-GLA,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-28,17:00,Quảng Nam,QNA,Quảng Nam,2,3,GLA,Hoàng Anh Gia Lai,Hoàng Anh Gia Lai
+TIER_CUP-2018-1/8-KHH-HAP,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-28,17:00,19/8 Nha Trang,KHH,Khánh Hòa,2,1,HAP,Hải Phòng,Khánh Hòa
+TIER_CUP-2018-1/8-BIDU-BIDI,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-28,17:00,Bình Dương,BIDU,Becamex Bình Dương,2,0,BIDI,Topenland Bình Định,Becamex Bình Dương
+TIER_CUP-2018-1/8-HAN-SGO,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-28,18:00,Hàng Đẫy,HAN,Hà Nội,5,0,SGO,Sài Gòn,Hà Nội
+TIER_CUP-2018-1/8-THH-LAN,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-29,17:00,Thanh Hóa,THH,Đông Á Thanh Hóa,2,0,LAN,Long An,Đông Á Thanh Hóa
+TIER_CUP-2018-1/8-DAN-CAT,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-29,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,4,2,CAT,Cần Thơ,SHB Đà Nẵng
+TIER_CUP-2018-1/8-NAN-HCM,National Cup,TIER_CUP,2018,1/8,FINISHED,2018-04-29,17:00,Vinh,NAN,Sông Lam Nghệ An,2,0,HCM,TP Hồ Chí Minh,Sông Lam Nghệ An
+TIER_CUP-2018-quarterfinal-leg-1-THH-BPH,National Cup,TIER_CUP,2018,quarterfinal-leg-1,FINISHED,2018-05-11,17:00,Thanh Hóa,THH,Đông Á Thanh Hóa,2,0,BPH,Bình Phước,
+TIER_CUP-2018-quarterfinal-leg-1-DAN-NAN,National Cup,TIER_CUP,2018,quarterfinal-leg-1,FINISHED,2018-05-11,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,1,3,NAN,Sông Lam Nghệ An,
+TIER_CUP-2018-quarterfinal-leg-1-KHH-BIDU,National Cup,TIER_CUP,2018,quarterfinal-leg-1,FINISHED,2018-05-11,18:00,19/8 Nha Trang,KHH,Khánh Hòa,0,1,BIDU,Becamex Bình Dương,
+TIER_CUP-2018-quarterfinal-leg-1-GLA-HAN,National Cup,TIER_CUP,2018,quarterfinal-leg-1,FINISHED,2018-05-11,19:00,Pleiku,GLA,Hoàng Anh Gia Lai,2,2,HAN,Hà Nội,
+TIER_CUP-2018-quarterfinal-leg-2-BPH-THH,National Cup,TIER_CUP,2018,quarterfinal-leg-2,FINISHED,2018-05-15,16:30,Bình Phước,BPH,Bình Phước,1,1,THH,Đông Á Thanh Hóa,Đông Á Thanh Hóa
+TIER_CUP-2018-quarterfinal-leg-2-BIDU-KHH,National Cup,TIER_CUP,2018,quarterfinal-leg-2,FINISHED,2018-05-15,17:00,Bình Dương,BIDU,Becamex Bình Dương,3,1,KHH,Khánh Hòa,Becamex Bình Dương
+TIER_CUP-2018-quarterfinal-leg-2-NAN-DAN,National Cup,TIER_CUP,2018,quarterfinal-leg-2,FINISHED,2018-05-15,17:00,Vinh,NAN,Sông Lam Nghệ An,2,0,DAN,SHB Đà Nẵng,Sông Lam Nghệ An
+TIER_CUP-2018-quarterfinal-leg-2-HAN-GLA,National Cup,TIER_CUP,2018,quarterfinal-leg-2,FINISHED,2018-05-15,19:00,Hàng Đẫy,HAN,Hà Nội,1,1,GLA,Hoàng Anh Gia Lai,Hà Nội
+TIER_CUP-2018-semifinal-leg-1-THH-NAN,National Cup,TIER_CUP,2018,semifinal-leg-1,FINISHED,2018-07-25,17:00,Thanh Hóa,THH,Đông Á Thanh Hóa,2,3,NAN,Sông Lam Nghệ An,
+TIER_CUP-2018-semifinal-leg-1-HAN-BIDU,National Cup,TIER_CUP,2018,semifinal-leg-1,FINISHED,2018-07-25,19:00,Hàng Đẫy,HAN,Hà Nội,3,3,BIDU,Becamex Bình Dương,
+TIER_CUP-2018-semifinal-leg-2-THH-NAN,National Cup,TIER_CUP,2018,semifinal-leg-2,FINISHED,2018-09-05,17:00,Vinh,THH,Đông Á Thanh Hóa,4,0,NAN,Sông Lam Nghệ An,Đông Á Thanh Hóa
+TIER_CUP-2018-semifinal-leg-2-HAN-BIDU,National Cup,TIER_CUP,2018,semifinal-leg-2,FINISHED,2018-10-11,17:00,Bình Dương,HAN,Hà Nội,0,0,BIDU,Becamex Bình Dương,Becamex Bình Dương
+TIER_CUP-2018-final-BIDU-THH,National Cup,TIER_CUP,2018,final,FINISHED,2018-10-15,17:00,Quảng Nam,BIDU,Becamex Bình Dương,3,1,THH,Đông Á Thanh Hóa,Becamex Bình Dương
