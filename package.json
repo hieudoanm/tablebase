@@ -12,6 +12,7 @@
     "congress": "ts-node ./src/scripts/congress",
     "countries": "ts-node ./src/scripts/countries",
     "quotes": "ts-node ./src/scripts/quotes",
+    "timezones": "ts-node ./src/scripts/timezones",
     "vnindex:history": "ts-node ./src/scripts/stock/history",
     "vnindex:symbols": "ts-node ./src/scripts/stock/symbols",
     "nasdaq:symbols": "ts-node ./src/scripts/nasdaq/symbols"

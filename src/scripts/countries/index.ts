@@ -1,9 +1,7 @@
 import { writeFileSync } from 'fs';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
-import {
-  Country,
-  getCountries,
-} from '../../services/countries/countries.service';
+import { getCountries } from '../../services/countries/countries.service';
+import { Country } from '../../services/countries/countries.types';
 
 const fields: string[] = [
   'common',
@@ -13,6 +11,8 @@ const fields: string[] = [
   'status',
   'region',
   'subregion',
+  'unMember',
+  'independent',
 ];
 
 const main = async (): Promise<void> => {
@@ -27,13 +27,25 @@ const main = async (): Promise<void> => {
         status,
         region,
         subregion,
+        unMember,
+        independent,
       } = country;
-      return { common, official, cca2, cca3, status, region, subregion };
+      return {
+        common,
+        official,
+        cca2,
+        cca3,
+        status,
+        region,
+        subregion,
+        unMember,
+        independent,
+      };
     })
     .sort((a, b) => (a.common > b.common ? 1 : -1));
 
   const csv = convertJSONtoCSV(table, fields);
-  await writeFileSync(`./data/countries/countries.csv`, csv);
+  writeFileSync(`./data/world/countries.csv`, csv);
 
   process.exit(0);
 };

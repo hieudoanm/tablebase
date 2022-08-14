@@ -1,4 +1,3 @@
-import { table } from 'console';
 import { writeFileSync } from 'fs';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import { getQuotes, Quote } from '../../services/quotes/quotes.service';
