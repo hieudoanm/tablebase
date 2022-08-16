@@ -1,0 +1,22 @@
+fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+TIER_CUP-2015-1/16-PYE-BPH,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,15:30,Phú Yên,PYE,Phú Yên,1,1,BPH,Bình Phước,Bình Phước
+TIER_CUP-2015-1/16-HUE-QNI,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,15:30,Tự Do,HUE,Huế,2,2,QNI,Than Quảng Ninh,Than Quảng Ninh
+TIER_CUP-2015-1/16-DON-SGO,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,16:00,Đồng Nai,DON,Đồng Nai,3,1,SGO,Sài Gòn,Đồng Nai
+TIER_CUP-2015-1/16-KHH-DAL,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,17:00,19/8 Nha Trang,KHH,Khánh Hòa,0,1,DAL,Đắk Lắk,Đắk Lắk
+TIER_CUP-2015-1/16-CAND-HCM,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,17:00,Ninh Bình,CAND,Công An Nhân Dân,1,0,HCM,TP Hồ Chí Minh,Công An Nhân Dân
+TIER_CUP-2015-1/16-DAN-NAD,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,1,0,NAD,Nam Định,SHB Đà Nẵng
+TIER_CUP-2015-1/8-DON-CAT,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,16:00,Đồng Nai,DON,Đồng Nai,3,1,CAT,Cần Thơ,Đồng Nai
+TIER_CUP-2015-1/8-LAN-BPH,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,16:30,Long An,LAN,Long An,5,0,BPH,Bình Phước,Long An
+TIER_CUP-2015-1/8-NAN-DAL,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,17:00,Vinh,NAN,Sông Lam Nghệ An,3,0,DAL,Đắk Lắk,Sông Lam Nghệ An
+TIER_CUP-2015-1/8-BIDU-QNA,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,17:00,Bình Dương,BIDU,Becamex Bình Dương,3,1,QNA,Quảng Nam,Becamex Bình Dương
+TIER_CUP-2015-1/8-GLA-CAND,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,17:00,Pleiku,GLA,Hoàng Anh Gia Lai,0,0,CAND,Công An Nhân Dân,Hoàng Anh Gia Lai
+TIER_CUP-2015-1/8-THH-DAN,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,17:00,Thanh Hóa,THH,Đông Á Thanh Hóa,0,1,DAN,SHB Đà Nẵng,SHB Đà Nẵng
+TIER_CUP-2015-1/8-HAP-DOT,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,17:00,Lạch Tray,HAP,Hải Phòng,3,2,DOT,Đồng Tháp,Hải Phòng
+TIER_CUP-2015-1/8-QNI-HAN,National Cup,TIER_CUP,2015,1/8,FINISHED,2015-06-20,17:30,Cẩm Phả,QNI,Than Quảng Ninh,2,5,HAN,Hà Nội,Hà Nội
+TIER_CUP-2015-quarterfinal-LAN-DON,National Cup,TIER_CUP,2015,quarterfinal,FINISHED,2015-06-24,16:30,Long An,LAN,Long An,4,2,DON,Đồng Nai,Long An
+TIER_CUP-2015-quarterfinal-DAN-HAP,National Cup,TIER_CUP,2015,quarterfinal,FINISHED,2015-06-24,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,1,2,HAP,Hải Phòng,Hải Phòng
+TIER_CUP-2015-quarterfinal-NAN-BIDU,National Cup,TIER_CUP,2015,quarterfinal,FINISHED,2015-06-24,17:30,Vinh,NAN,Sông Lam Nghệ An,1,2,BIDU,Becamex Bình Dương,Becamex Bình Dương
+TIER_CUP-2015-quarterfinal-HAN-GLA,National Cup,TIER_CUP,2015,quarterfinal,FINISHED,2015-06-24,18:30,Hàng Đẫy,HAN,Hà Nội,2,0,GLA,Hoàng Anh Gia Lai,Hà Nội
+TIER_CUP-2015-semifinal-LAN-BIDU,National Cup,TIER_CUP,2015,semifinal,FINISHED,2015-08-05,16:30,Long An,LAN,Long An,3,4,BIDU,Becamex Bình Dương,Becamex Bình Dương
+TIER_CUP-2015-semifinal-HAN-HAP,National Cup,TIER_CUP,2015,semifinal,FINISHED,2015-08-05,18:30,Hàng Đẫy,HAN,Hà Nội,5,0,HAP,Hải Phòng,Hà Nội
+TIER_CUP-2015-final-BIDU-HAN,National Cup,TIER_CUP,2015,final,FINISHED,2015-09-26,17:00,Bình Dương,BIDU,Becamex Bình Dương,4,2,HAN,Hà Nội,Becamex Bình Dương

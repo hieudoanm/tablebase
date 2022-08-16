@@ -1,0 +1,21 @@
+fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+TIER_CUP-2014-1/16-CAT-ANGI,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-08,15:30,Cần Thơ,CAT,Cần Thơ,2,1,ANGI,An Giang,Cần Thơ
+TIER_CUP-2014-1/16-DAL-SGO,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-08,15:30,Buôn Ma Thuột,DAL,Đắk Lắk,1,0,SGO,Sài Gòn,Đắk Lắk
+TIER_CUP-2014-1/16-TNI-BIDU,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-09,15:30,Tây Ninh,TNI,XM Fico - YTL Tây Ninh,0,2,BIDU,Becamex Bình Dương,Becamex Bình Dương
+TIER_CUP-2014-1/16-KHH-HUE,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-09,16:00,19/8 Nha Trang,KHH,Khánh Hòa,2,1,HUE,Huế,Khánh Hòa
+TIER_CUP-2014-1/16-HCM-DOT,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-09,18:30,Thống Nhất,HCM,TP Hồ Chí Minh,0,0,DOT,Đồng Tháp,Đồng Tháp
+TIER_CUP-2014-1/8-CAT-HAP,National Cup,TIER_CUP,2014,1/8,FINISHED,2014-05-17,16:30,Cần Thơ,CAT,Cần Thơ,0,2,HAP,Hải Phòng,Hải Phòng
+TIER_CUP-2014-1/8-LAN-THH,National Cup,TIER_CUP,2014,1/8,FINISHED,2014-05-17,18:00,Long An,LAN,Long An,3,2,THH,Đông Á Thanh Hóa,Long An
+TIER_CUP-2014-1/8-GLA-DON,National Cup,TIER_CUP,2014,1/8,FINISHED,2014-05-18,16:00,Pleiku,GLA,Hoàng Anh Gia Lai,5,1,DON,Đồng Nai,Hoàng Anh Gia Lai
+TIER_CUP-2014-1/8-QNI-KHH,National Cup,TIER_CUP,2014,1/8,FINISHED,2014-05-18,16:00,Cẩm Phả,QNI,Than Quảng Ninh,2,1,KHH,Khánh Hòa,Than Quảng Ninh
+TIER_CUP-2014-1/8-DAN-DOT,National Cup,TIER_CUP,2014,1/8,FINISHED,2014-05-18,16:30,Hòa Xuân,DAN,SHB Đà Nẵng,5,2,DOT,Đồng Tháp,SHB Đà Nẵng
+TIER_CUP-2014-1/8-HAN-DAL,National Cup,TIER_CUP,2014,1/8,FINISHED,2014-05-18,17:30,Hàng Đẫy,HAN,Hà Nội,0,0,DAL,Đắk Lắk,Đắk Lắk
+TIER_CUP-2014-1/8-NAN-BIDU,National Cup,TIER_CUP,2014,1/8,FINISHED,2014-05-20,17:00,Vinh,NAN,Sông Lam Nghệ An,0,2,BIDU,Becamex Bình Dương,Becamex Bình Dương
+TIER_CUP-2014-1/8-NIB-QNA,National Cup,TIER_CUP,2014,1/8,CANCELLED,,,Ninh Bình,NIB,XM The Vissai Ninh Bình,,,QNA,Quảng Nam,Quảng Nam
+TIER_CUP-2014-quarterfinal-HAP-QNA,National Cup,TIER_CUP,2014,quarterfinal,FINISHED,2014-06-08,17:00,Lạch Tray,HAP,Hải Phòng,3,1,QNA,Quảng Nam,Hải Phòng
+TIER_CUP-2014-quarterfinal-BIDU-DAN,National Cup,TIER_CUP,2014,quarterfinal,FINISHED,2014-06-08,17:00,Bình Dương,BIDU,Becamex Bình Dương,2,1,DAN,SHB Đà Nẵng,Becamex Bình Dương
+TIER_CUP-2014-quarterfinal-QNI-GLA,National Cup,TIER_CUP,2014,quarterfinal,FINISHED,2014-06-08,17:00,Cẩm Phả,QNI,Than Quảng Ninh,2,2,GLA,Hoàng Anh Gia Lai,Hoàng Anh Gia Lai
+TIER_CUP-2014-quarterfinal-DAL-LAN,National Cup,TIER_CUP,2014,quarterfinal,FINISHED,2014-06-10,15:00,Buôn Ma Thuột,DAL,Đắk Lắk,1,3,LAN,Long An,Long An
+TIER_CUP-2014-semifinal-HAP-LAN,National Cup,TIER_CUP,2014,semifinal,FINISHED,2014-07-12,17:00,Lạch Tray,HAP,Hải Phòng,3,1,LAN,Long An,Hải Phòng
+TIER_CUP-2014-semifinal-BIDU-GLA,National Cup,TIER_CUP,2014,semifinal,FINISHED,2014-07-12,17:00,Bình Dương,BIDU,Becamex Bình Dương,3,1,GLA,Hoàng Anh Gia Lai,Becamex Bình Dương
+TIER_CUP-2014-final-HAP-BIDU,National Cup,TIER_CUP,2014,final,FINISHED,2014-08-17,17:00,Lạch Tray,HAP,Hải Phòng,2,0,BIDU,Becamex Bình Dương,Hải Phòng
