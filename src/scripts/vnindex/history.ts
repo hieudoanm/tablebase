@@ -31,7 +31,7 @@ const main = async (): Promise<void> => {
 
   for (const company of companies) {
     const stockSymbol = get(company, 'symbol', '');
-    const historyFilePath = `./data/stock/history/${stockSymbol}.csv`;
+    const historyFilePath = `./data/vietnam/stock/history/${stockSymbol}.csv`;
     const oldHistory: StockHistory[] = await convertCSVtoJSON<StockHistory>(
       historyFilePath
     );
@@ -62,7 +62,7 @@ const main = async (): Promise<void> => {
       }
     );
     const csv = convertJSONtoCSV(uniqueHistory, fields);
-    await fs.writeFileSync(`./data/stock/history/${stockSymbol}.csv`, csv);
+    await fs.writeFileSync(historyFilePath, csv);
   }
 
   process.exit(0);
