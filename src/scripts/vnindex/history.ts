@@ -1,9 +1,12 @@
-import fs from 'fs';
+import { writeFileSync } from 'fs';
 import get from 'lodash/get';
 import uniqBy from 'lodash/uniqBy';
 import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
-import { getHistory, StockHistory } from '../../services/stock/stock.service';
+import {
+  getHistory,
+  StockHistory,
+} from '../../services/vnindex/vnindex.service';
 
 const fields: string[] = [
   'date',
@@ -62,7 +65,7 @@ const main = async (): Promise<void> => {
       }
     );
     const csv = convertJSONtoCSV(uniqueHistory, fields);
-    await fs.writeFileSync(historyFilePath, csv);
+    writeFileSync(historyFilePath, csv);
   }
 
   process.exit(0);

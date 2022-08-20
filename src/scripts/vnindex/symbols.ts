@@ -4,7 +4,7 @@ import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import {
   getCompanyProfile,
   getStockSymbols,
-} from '../../services/stock/stock.service';
+} from '../../services/vnindex/vnindex.service';
 
 type Company = {
   symbol: string;
