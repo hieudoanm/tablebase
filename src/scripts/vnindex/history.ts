@@ -1,4 +1,4 @@
-import fs from 'fs';
+import { writeFileSync } from 'fs';
 import get from 'lodash/get';
 import uniqBy from 'lodash/uniqBy';
 import { convertCSVtoJSON } from '../../libs/csv-to-json';
@@ -62,7 +62,7 @@ const main = async (): Promise<void> => {
       }
     );
     const csv = convertJSONtoCSV(uniqueHistory, fields);
-    await fs.writeFileSync(historyFilePath, csv);
+    writeFileSync(historyFilePath, csv);
   }
 
   process.exit(0);
