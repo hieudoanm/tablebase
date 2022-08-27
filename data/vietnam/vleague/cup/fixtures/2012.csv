@@ -1,0 +1,24 @@
+fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+TIER_CUP-2012-1/16-TNI-NIB,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,15:30,Tây Ninh,TNI,XM Fico - YTL Tây Ninh,0,0,NIB,XM The Vissai Ninh Bình,XM The Vissai Ninh Bình
+TIER_CUP-2012-1/16-DON-,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,15:30,Đồng Nai,DON,Đồng Nai,1,1,,Khatoco Khánh Hòa,Khatoco Khánh Hòa
+TIER_CUP-2012-1/16-ANGI-BIDI,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,15:30,Kiên Giang,ANGI,An Giang,0,2,BIDI,Topenland Bình Định,Topenland Bình Định
+TIER_CUP-2012-1/16-KLKG-QNA,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,15:30,Kiên Giang,KLKG,Kienlongbank Kiên Giang,4,0,QNA,Quảng Nam,Kienlongbank Kiên Giang
+TIER_CUP-2012-1/16-CAT-QNI,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,17:00,Cần Thơ,CAT,Cần Thơ,1,1,QNI,Than Quảng Ninh,Cần Thơ
+TIER_CUP-2012-1/16-HCM-HAP,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,17:00,Thống Nhất,HCM,TP Hồ Chí Minh,1,3,HAP,Hải Phòng,Hải Phòng
+TIER_CUP-2012-1/16-BIDU-LAD,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,17:00,Bình Dương,BIDU,Becamex Bình Dương,2,2,LAD,XSKT Lâm Đồng,XSKT Lâm Đồng
+TIER_CUP-2012-1/16-LAN-DAN,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,17:00,Long An,LAN,Long An,1,3,DAN,SHB Đà Nẵng,SHB Đà Nẵng
+TIER_CUP-2012-1/8-XTSG-,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-24,16:10,Thống Nhất,XTSG,Xuân Thành Sài Gòn,3,2,,Khatoco Khánh Hòa,Xuân Thành Sài Gòn
+TIER_CUP-2012-1/8-LAD-DAN,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-25,14:45,Lam Vien,LAD,XSKT Lâm Đồng,1,1,DAN,SHB Đà Nẵng,SHB Đà Nẵng
+TIER_CUP-2012-1/8-KLKG-GLA,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-25,15:30,Kiên Giang,KLKG,Kienlongbank Kiên Giang,2,1,GLA,Hoàng Anh Gia Lai,Kienlongbank Kiên Giang
+TIER_CUP-2012-1/8-NAN-DOT,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-25,16:00,Vinh,NAN,Sông Lam Nghệ An,2,1,DOT,Đồng Tháp,Sông Lam Nghệ An
+TIER_CUP-2012-1/8-HAN-HAP,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-25,16:10,Hàng Đẫy,HAN,Hà Nội,2,0,HAP,Hải Phòng,Hà Nội
+TIER_CUP-2012-1/8-NIB-BDHN,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-25,16:30,Ninh Bình,NIB,XM The Vissai Ninh Bình,2,1,BDHN,Bóng Đá Hà Nội,XM The Vissai Ninh Bình
+TIER_CUP-2012-1/8-CAT-THH,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-25,16:30,Cần Thơ,CAT,Cần Thơ,1,3,THH,Đông Á Thanh Hóa,Đông Á Thanh Hóa
+TIER_CUP-2012-1/8-NVSG-BIDI,National Cup,TIER_CUP,2012,1/8,FINISHED,2011-12-25,17:00,Thống Nhất,NVSG,Navibank Sài Gòn,3,4,BIDI,Topenland Bình Định,Topenland Bình Định
+TIER_CUP-2012-quarterfinal-NAN-NIB,National Cup,TIER_CUP,2012,quarterfinal,FINISHED,2012-01-29,16:00,Vinh,NAN,Sông Lam Nghệ An,3,3,NIB,XM The Vissai Ninh Bình,Sông Lam Nghệ An
+TIER_CUP-2012-quarterfinal-BIDI-HAN,National Cup,TIER_CUP,2012,quarterfinal,FINISHED,2012-01-29,16:10,Quy Nhơn,BIDI,Topenland Bình Định,1,3,HAN,Hà Nội,Hà Nội
+TIER_CUP-2012-quarterfinal-DAN-KLKG,National Cup,TIER_CUP,2012,quarterfinal,FINISHED,2012-01-29,16:10,Hòa Xuân,DAN,SHB Đà Nẵng,3,0,KLKG,Kienlongbank Kiên Giang,SHB Đà Nẵng
+TIER_CUP-2012-quarterfinal-XTSG-THH,National Cup,TIER_CUP,2012,quarterfinal,FINISHED,2012-01-29,16:30,Thống Nhất,XTSG,Xuân Thành Sài Gòn,3,1,THH,Đông Á Thanh Hóa,Xuân Thành Sài Gòn
+TIER_CUP-2012-semifinal-HAN-DAN,National Cup,TIER_CUP,2012,semifinal,FINISHED,2012-08-25,17:00,Hàng Đẫy,HAN,Hà Nội,1,0,DAN,SHB Đà Nẵng,Hà Nội
+TIER_CUP-2012-semifinal-NAN-XTSG,National Cup,TIER_CUP,2012,semifinal,FINISHED,2012-08-25,18:00,Vinh,NAN,Sông Lam Nghệ An,1,3,XTSG,Xuân Thành Sài Gòn,Xuân Thành Sài Gòn
+TIER_CUP-2012-final-XTSG-HAN,National Cup,TIER_CUP,2012,final,FINISHED,2012-08-29,17:00,Thống Nhất,XTSG,Xuân Thành Sài Gòn,4,1,HAN,Hà Nội,Xuân Thành Sài Gòn
