@@ -1,0 +1,26 @@
+fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+TIER_CUP-2020-1/16-NAD-GLA,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-23,18:00,Thiên Trường,NAD,Nam Định,2,0,GLA,Hoàng Anh Gia Lai,Nam Định
+TIER_CUP-2020-1/16-ANGI-LAN,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-24,15:30,Kiên Giang,ANGI,An Giang,2,2,LAN,Long An,An Giang
+TIER_CUP-2020-1/16-HUE-DAN,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-24,16:00,Tự Do,HUE,Huế,0,1,DAN,SHB Đà Nẵng,SHB Đà Nẵng
+TIER_CUP-2020-1/16-NAN-BIDI,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-24,17:00,Vinh,NAN,Sông Lam Nghệ An,1,0,BIDI,Topenland Bình Định,Sông Lam Nghệ An
+TIER_CUP-2020-1/16-BRVT-SGO,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-24,17:00,Bà Rịa,BRVT,Bà Rịa-Vũng Tàu,2,1,SGO,Sài Gòn,Bà Rịa-Vũng Tàu
+TIER_CUP-2020-1/16-DOT-HAP,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-25,15:30,Đồng Tháp,DOT,Đồng Tháp,3,1,HAP,Hải Phòng,Đồng Tháp
+TIER_CUP-2020-1/16-PHI-THH,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-25,17:00,TTĐT trẻ PVF,PHI,Phố Hiến,1,2,THH,Đông Á Thanh Hóa,Đông Á Thanh Hóa
+TIER_CUP-2020-1/16-KHH-VTL,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-25,17:00,19/8 Nha Trang,KHH,Khánh Hòa,0,1,VTL,Viettel,Viettel
+TIER_CUP-2020-1/16-BPH-DAL,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-25,17:00,Bình Phước,BPH,Bình Phước,2,0,DAL,Đắk Lắk,Bình Phước
+TIER_CUP-2020-1/16-HAT-TNI,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-25,18:00,Hà Tĩnh,HAT,Hồng Lĩnh Hà Tĩnh,2,1,TNI,XM Fico - YTL Tây Ninh,Hồng Lĩnh Hà Tĩnh
+TIER_CUP-2020-1/8-ANGI-VTL,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-30,15:30,Kiên Giang,ANGI,An Giang,0,2,VTL,Viettel,Viettel
+TIER_CUP-2020-1/8-NAN-BRVT,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-30,17:00,Vinh,NAN,Sông Lam Nghệ An,1,1,BRVT,Bà Rịa-Vũng Tàu,Bà Rịa-Vũng Tàu
+TIER_CUP-2020-1/8-QNI-NAD,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-30,18:00,Cẩm Phả,QNI,Than Quảng Ninh,2,2,NAD,Nam Định,Than Quảng Ninh
+TIER_CUP-2020-1/8-HCM-DAN,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-30,19:00,Thống Nhất,HCM,TP Hồ Chí Minh,0,0,DAN,SHB Đà Nẵng,TP Hồ Chí Minh
+TIER_CUP-2020-1/8-BIDU-THH,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-31,17:00,Bình Dương,BIDU,Becamex Bình Dương,1,0,THH,Đông Á Thanh Hóa,Becamex Bình Dương
+TIER_CUP-2020-1/8-CAT-BPH,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-31,17:00,Cần Thơ,CAT,Cần Thơ,1,0,BPH,Bình Phước,Cần Thơ
+TIER_CUP-2020-1/8-QNA-HAT,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-31,17:00,Quảng Nam,QNA,Quảng Nam,0,1,HAT,Hồng Lĩnh Hà Tĩnh,Hồng Lĩnh Hà Tĩnh
+TIER_CUP-2020-1/8-HAN-DOT,National Cup,TIER_CUP,2020,1/8,FINISHED,2020-05-31,19:00,Hàng Đẫy,HAN,Hà Nội,3,0,DOT,Đồng Tháp,Hà Nội
+TIER_CUP-2020-quarterfinal-BRVT-HCM,National Cup,TIER_CUP,2020,quarterfinal,FINISHED,2020-09-11,17:00,Bà Rịa,BRVT,Bà Rịa-Vũng Tàu,2,3,HCM,TP Hồ Chí Minh,TP Hồ Chí Minh
+TIER_CUP-2020-quarterfinal-HAN-CAT,National Cup,TIER_CUP,2020,quarterfinal,FINISHED,2020-09-11,19:15,Hàng Đẫy,HAN,Hà Nội,7,0,CAT,Cần Thơ,Hà Nội
+TIER_CUP-2020-quarterfinal-HAT-QNI,National Cup,TIER_CUP,2020,quarterfinal,FINISHED,2020-09-12,18:00,Hà Tĩnh,HAT,Hồng Lĩnh Hà Tĩnh,2,3,QNI,Than Quảng Ninh,Than Quảng Ninh
+TIER_CUP-2020-quarterfinal-VTL-BIDU,National Cup,TIER_CUP,2020,quarterfinal,FINISHED,2020-09-12,19:15,Hàng Đẫy,VTL,Viettel,4,1,BIDU,Becamex Bình Dương,Viettel
+TIER_CUP-2020-semifinal-QNI-VTL,National Cup,TIER_CUP,2020,semifinal,FINISHED,2020-09-16,18:00,Cẩm Phả,QNI,Than Quảng Ninh,1,2,VTL,Viettel,Viettel
+TIER_CUP-2020-semifinal-HAN-HCM,National Cup,TIER_CUP,2020,semifinal,FINISHED,2020-09-16,19:15,Hàng Đẫy,HAN,Hà Nội,5,1,HCM,TP Hồ Chí Minh,Hà Nội
+TIER_CUP-2020-final-VTL-HAN,National Cup,TIER_CUP,2020,final,FINISHED,2020-09-20,18:00,Hàng Đẫy,VTL,Viettel,1,2,HAN,Hà Nội,Hà Nội
