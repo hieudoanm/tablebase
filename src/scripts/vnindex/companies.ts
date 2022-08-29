@@ -7,42 +7,12 @@ import {
   getStockSymbols,
   StockHistory,
 } from '../../services/vnindex/vnindex.service';
-
-type Company = {
-  symbol: string;
-  market: string;
-  name: string;
-  industry: string;
-  supersector: string;
-  sector: string;
-  subsector: string;
-  listedDate: string;
-  issueShare: number;
-  marketCap: number;
-  priceChangedFiveDayPercent: string | number;
-  priceChangedOneMonthPercent: string | number;
-  priceChangedThreeMonthsPercent: string | number;
-};
-
-const fields: string[] = [
-  'symbol',
-  'market',
-  'name',
-  'industry',
-  'supersector',
-  'sector',
-  'subsector',
-  'listedDate',
-  'issueShare',
-  'marketCap',
-  'priceChangedFiveDayPercent',
-  'priceChangedOneMonthPercent',
-  'priceChangedThreeMonthsPercent',
-];
+import { Company } from '../../services/vnindex/vnindex.types';
+import { fields } from './constants';
 
 const saveCSV = async (companies: Company[]): Promise<void> => {
   const csv = convertJSONtoCSV<Company>(companies, fields);
-  return fs.writeFileSync('./data/vietnam/stock/symbols.csv', csv);
+  return fs.writeFileSync('./data/vietnam/stock/companies.csv', csv);
 };
 
 const getPriceChanged = async (
@@ -82,20 +52,6 @@ const getPriceChanged = async (
 const main = async (): Promise<void> => {
   const stocks = await getStockSymbols();
   console.log(stocks.length);
-
-  const oneDay = 1000 * 60 * 60 * 24;
-  const d = new Date();
-  const day = d.getDay() || 8;
-  const dates: string[] = [];
-  if (day > 6) {
-    for (const i of [2, 3, 4, 5, 6]) {
-      const [date] = new Date(d.getTime() - oneDay * (day - i))
-        .toISOString()
-        .split('T');
-      dates.push(date);
-    }
-  }
-  console.log('dates', dates);
 
   const companies: Company[] = [];
   for (const stock of stocks) {
@@ -176,6 +132,16 @@ const main = async (): Promise<void> => {
     companies.push(company);
     await saveCSV(companies);
   }
+
+  const subsectors = companies
+    .map((company) => company.subsector)
+    .filter(
+      (value: string, index: number, array: string[]) =>
+        array.indexOf(value) === index
+    )
+    .map((value: string) => value.toLowerCase().split(' ').join('-'))
+    .sort();
+  console.log(subsectors);
 };
 
 main().catch((error: Error) => console.error(error));

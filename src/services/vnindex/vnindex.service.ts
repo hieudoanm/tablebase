@@ -106,3 +106,36 @@ export const getHistory = async ({
     return { date, symbol, open, high, low, close, volume, timestamp };
   });
 };
+
+export const GET_SUB_COMPANIES = gql`
+  query subCompanies($symbol: String!, $size: Int, $offset: Int) {
+    subCompanies(symbol: $symbol, size: $size, offset: $offset) {
+      datas {
+        parentsymbol
+        childsymbol
+      }
+      paging {
+        pagesize
+        currentpage
+        totalpage
+        totalrow
+      }
+    }
+  }
+`;
+
+export const getSubSymbols = async (symbol: string) => {
+  try {
+    const data = await infoClient.request(GET_SUB_COMPANIES, {
+      symbol,
+      offset: 0,
+      size: 2000,
+    });
+    return get(data, 'subCompanies.datas', [])
+      .map((subCompany: { childsymbol: string }) => subCompany.childsymbol)
+      .filter((childSymbol: string) => childSymbol)
+      .sort();
+  } catch (error) {
+    return [];
+  }
+};

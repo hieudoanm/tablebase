@@ -20,7 +20,7 @@ const fields: string[] = [
 ];
 
 const main = async (): Promise<void> => {
-  const companiesFilePath = './data/vietnam/stock/symbols.csv';
+  const companiesFilePath = './data/vietnam/stock/companies.csv';
   const companies: Record<string, string>[] = await convertCSVtoJSON(
     companiesFilePath
   );

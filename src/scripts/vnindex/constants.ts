@@ -1,0 +1,15 @@
+export const fields: string[] = [
+  'symbol',
+  'market',
+  'name',
+  'industry',
+  'supersector',
+  'sector',
+  'subsector',
+  'listedDate',
+  'issueShare',
+  'marketCap',
+  'priceChangedFiveDayPercent',
+  'priceChangedOneMonthPercent',
+  'priceChangedThreeMonthsPercent',
+];
