@@ -10,7 +10,8 @@
   "scripts": {
     "lint": "eslint . --fix --ext .ts",
     "asx": "ts-node ./src/scrip  ts/asx",
-    "congress": "ts-node ./src/scripts/congress",
+    "congress:committees": "ts-node ./src/scripts/congress/committees",
+    "congress:members": "ts-node ./src/scripts/congress/members",
     "quotes": "ts-node ./src/scripts/quotes",
     "github:languages": "ts-node ./src/scripts/github/languages",
     "nasdaq:symbols": "ts-node ./src/scripts/nasdaq/symbols",
