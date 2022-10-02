@@ -1,5 +1,4 @@
 import { writeFileSync } from 'fs';
-import get from 'lodash/get';
 import uniqBy from 'lodash/uniqBy';
 import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
@@ -7,6 +6,7 @@ import {
   getHistory,
   StockHistory,
 } from '../../services/vnindex/vnindex.service';
+import { Company } from '../../services/vnindex/vnindex.types';
 
 const fields: string[] = [
   'date',
@@ -21,7 +21,7 @@ const fields: string[] = [
 
 const main = async (): Promise<void> => {
   const companiesFilePath = './data/vietnam/stock/companies.csv';
-  const companies: Record<string, string>[] = await convertCSVtoJSON(
+  const companies: Company[] = await convertCSVtoJSON<Company>(
     companiesFilePath
   );
 
@@ -33,7 +33,8 @@ const main = async (): Promise<void> => {
   const to = Math.floor(new Date(toYear, toMonth, toDate).getTime() / 1000);
 
   for (const company of companies) {
-    const stockSymbol = get(company, 'symbol', '');
+    const stockSymbol = company.symbol || '';
+    if (!stockSymbol) continue;
     const historyFilePath = `./data/vietnam/stock/history/${stockSymbol}.csv`;
     const oldHistory: StockHistory[] = await convertCSVtoJSON<StockHistory>(
       historyFilePath

@@ -58,7 +58,23 @@ export const GET_COMPANY_PROFILE = gql`
   }
 `;
 
-export const getCompanyProfile = async (symbol: string) => {
+export type Profile = {
+  companyname: string;
+  industryname: string;
+  supersector: string;
+  sector: string;
+  subsector: string;
+  listingdate: string;
+  issueshare: string;
+};
+
+export type Statistics = {
+  marketcap: string;
+};
+
+export const getCompanyProfile = async (
+  symbol: string
+): Promise<{ profile: Profile; statistics: Statistics }> => {
   const data = await infoClient.request(GET_COMPANY_PROFILE, {
     symbol,
     language: 'en',
