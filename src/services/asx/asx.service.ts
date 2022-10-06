@@ -1,4 +1,4 @@
-import { retryGet } from '../../libs/axios';
+import axios from '@hieudoanm/axios';
 import { Company } from './asx.types';
 
 const baseUrl = 'https://asx.api.markitdigital.com/asx-research/1.0/companies';
@@ -12,7 +12,7 @@ export const getCompanies = async (): Promise<Company[]> => {
   urlSearchParams.set('includeFilterOptions', 'false');
   urlSearchParams.set('recentListingsOnly', 'false');
   const url = `${baseUrl}/directory?${urlSearchParams.toString()}`;
-  const response = await retryGet<{ data: { items: Company[] } }>(url);
+  const response = await axios.get<{ data: { items: Company[] } }>(url);
   const {
     data: { items = [] },
   } = response;
@@ -21,10 +21,10 @@ export const getCompanies = async (): Promise<Company[]> => {
 
 export const getCompany = async (symbol: string) => {
   const headerUrl = `${baseUrl}/${symbol}/header`;
-  const headerResponse = await retryGet<{ data: any }>(headerUrl);
+  const headerResponse = await axios.get<{ data: any }>(headerUrl);
   const { data: headerData } = headerResponse;
   const keyStatisticsUrl = `${baseUrl}/${symbol}/key-statistics`;
-  const response = await retryGet<{ data: any }>(keyStatisticsUrl);
+  const response = await axios.get<{ data: any }>(keyStatisticsUrl);
   const { data: keyStatisticsData } = response;
   return { ...headerData, ...keyStatisticsData };
 };

@@ -39,17 +39,7 @@ const saveMembersByChamber = async (congress: number, chamber: string) => {
     .sort((a, b) => (a.id > b.id ? 1 : -1));
 
   if (members.length === 0) return;
-  const fields: string[] = [
-    'id',
-    'title',
-    'firstName',
-    'lastName',
-    'name',
-    'partyShort',
-    'stateAbbreviation',
-    'leadershipRole',
-  ];
-  const csv = convertJSONtoCSV(members, fields);
+  const csv = convertJSONtoCSV(members);
   const filePath = `./data/usa/congress/${congress}/${chamber}/members.csv`;
   writeFileSync(filePath, csv);
 };

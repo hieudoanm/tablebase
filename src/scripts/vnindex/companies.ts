@@ -7,10 +7,9 @@ import {
   StockHistory,
 } from '../../services/vnindex/vnindex.service';
 import { Company } from '../../services/vnindex/vnindex.types';
-import { fields } from './constants';
 
 const saveCSV = async (companies: Company[]): Promise<void> => {
-  const csv = convertJSONtoCSV<Company>(companies, fields);
+  const csv = convertJSONtoCSV<Company>(companies);
   return fs.writeFileSync('./data/vietnam/stock/companies.csv', csv);
 };
 

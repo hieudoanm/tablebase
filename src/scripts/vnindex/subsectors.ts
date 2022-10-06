@@ -2,7 +2,6 @@ import { writeFileSync } from 'fs';
 import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import { Company } from '../../services/vnindex/vnindex.types';
-import { fields } from './constants';
 
 const main = async () => {
   const filePath = './data/vietnam/stock/companies.csv';
@@ -27,7 +26,7 @@ const main = async () => {
           company.subsector.toLowerCase().split(' ').join('-') === subsector
       );
 
-      const csv = convertJSONtoCSV<Company>(filteredCompanies, fields);
+      const csv = convertJSONtoCSV<Company>(filteredCompanies);
       writeFileSync(`./data/vietnam/stock/subsectors/${subsector}.csv`, csv);
     } catch (error) {
       console.error(error);

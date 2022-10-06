@@ -3,7 +3,6 @@ import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import { getSubSymbols } from '../../services/vnindex/vnindex.service';
 import { Company } from '../../services/vnindex/vnindex.types';
-import { fields } from './constants';
 
 const main = async () => {
   const filePath = './data/vietnam/stock/companies.csv';
@@ -29,7 +28,7 @@ const main = async () => {
         childSymbols.includes(company.symbol)
       );
 
-      const csv = convertJSONtoCSV<Company>(filteredCompanies, fields);
+      const csv = convertJSONtoCSV<Company>(filteredCompanies);
       writeFileSync(
         `./data/vietnam/stock/subcompanies/${parentSymbol}.csv`,
         csv

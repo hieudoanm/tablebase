@@ -3,19 +3,8 @@ import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import { getCompanies, getCompany } from '../../services/asx/asx.service';
 import { Company } from '../../services/asx/asx.types';
 
-const fields: string[] = [
-  'symbol',
-  'market',
-  'name',
-  'industry',
-  'sector',
-  'listedDate',
-  'issueShare',
-  'marketCap',
-];
-
 const saveCSV = (companies: any[]): void => {
-  const csv = convertJSONtoCSV<any>(companies, fields);
+  const csv = convertJSONtoCSV<any>(companies);
   writeFileSync('./data/australia/stock/companies.csv', csv);
 };
 

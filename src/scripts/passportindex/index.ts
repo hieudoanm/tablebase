@@ -3,8 +3,6 @@ import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import { getVisas } from '../../services/passportindex/passportindex.service';
 import { Visa } from '../../services/passportindex/passportindex.types';
 
-const fields: string[] = ['country', 'requirement'];
-
 const main = async (): Promise<void> => {
   const countries = [
     'australia',
@@ -20,7 +18,7 @@ const main = async (): Promise<void> => {
   ];
   for (const country of countries) {
     const visas: Visa[] = await getVisas();
-    const csv = convertJSONtoCSV(visas, fields);
+    const csv = convertJSONtoCSV(visas);
     writeFileSync(`./data/world/visas/${country}.csv`, csv);
   }
 

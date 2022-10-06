@@ -1,10 +1,10 @@
+import { sleep } from '@hieudoanm/utils';
 import { readdirSync, writeFileSync } from 'fs';
 import difference from 'lodash/difference';
 import uniq from 'lodash/uniq';
 import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { getDailyHistory } from '../../services/alpha-vantage';
 import { MemberTransaction } from '../../types';
-import sleep from '../../utils/sleep';
 
 const main = async () => {
   const filePath = './data/transactions/senate/transactions.csv';

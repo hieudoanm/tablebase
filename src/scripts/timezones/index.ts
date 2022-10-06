@@ -7,15 +7,6 @@ import {
 } from '../../services/timezones/timezones.service';
 import { TimeZone } from '../../services/timezones/timezones.types';
 
-const fields: string[] = [
-  'timezone',
-  'abbreviation',
-  'dst',
-  'dst_offset',
-  'raw_offset',
-  'utc_offset',
-];
-
 const main = async (): Promise<void> => {
   const timeZones = await getTimeZones();
   console.info('timeZones', timeZones.length);
@@ -54,7 +45,7 @@ const main = async (): Promise<void> => {
   }
   allTimeZones.sort((a, b) => (a.timezone > b.timezone ? 1 : -1));
 
-  const csv = convertJSONtoCSV(allTimeZones, fields);
+  const csv = convertJSONtoCSV(allTimeZones);
   writeFileSync(filePath, csv);
 
   process.exit(0);

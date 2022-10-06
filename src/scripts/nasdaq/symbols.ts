@@ -13,8 +13,7 @@ const main = async () => {
     const industry = item['Industry'] || '';
     return { symbol, name, country, sector, industry };
   });
-  const fields: string[] = ['symbol', 'name', 'country', 'sector', 'industry'];
-  const csv = convertJSONtoCSV(symbols, fields);
+  const csv = convertJSONtoCSV(symbols);
   writeFileSync('./data/usa/stock/symbols.csv', csv);
 
   process.exit(0);

@@ -1,11 +1,8 @@
-import { parse } from 'json2csv';
+import { jsonToCSV } from '@hieudoanm/utils';
 
-export const convertJSONtoCSV = <T>(
-  data: Array<T>,
-  fields: Array<string>
-): string => {
+export const convertJSONtoCSV = <T>(data: Array<T>): string => {
   try {
-    const csv: string = parse(data, { fields });
+    const csv: string = jsonToCSV(data);
     return csv;
   } catch (error) {
     console.error(error);

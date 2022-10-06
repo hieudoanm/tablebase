@@ -8,17 +8,6 @@ import {
 } from '../../services/vnindex/vnindex.service';
 import { Company } from '../../services/vnindex/vnindex.types';
 
-const fields: string[] = [
-  'date',
-  'symbol',
-  'open',
-  'high',
-  'low',
-  'close',
-  'volume',
-  'timestamp',
-];
-
 const main = async (): Promise<void> => {
   const companiesFilePath = './data/vietnam/stock/companies.csv';
   const companies: Company[] = convertCSVtoJSON<Company>(companiesFilePath);
@@ -62,7 +51,7 @@ const main = async (): Promise<void> => {
         };
       }
     );
-    const csv = convertJSONtoCSV(uniqueHistory, fields);
+    const csv = convertJSONtoCSV(uniqueHistory);
     writeFileSync(historyFilePath, csv);
   }
 

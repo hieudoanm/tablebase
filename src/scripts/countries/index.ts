@@ -3,18 +3,6 @@ import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import { getCountries } from '../../services/countries/countries.service';
 import { Country } from '../../services/countries/countries.types';
 
-const fields: string[] = [
-  'common',
-  'official',
-  'cca2',
-  'cca3',
-  'status',
-  'region',
-  'subregion',
-  'unMember',
-  'independent',
-];
-
 const main = async (): Promise<void> => {
   const countries = await getCountries();
 
@@ -44,7 +32,7 @@ const main = async (): Promise<void> => {
     })
     .sort((a, b) => (a.common > b.common ? 1 : -1));
 
-  const csv = convertJSONtoCSV(table, fields);
+  const csv = convertJSONtoCSV(table);
   writeFileSync(`./data/world/countries.csv`, csv);
 
   process.exit(0);
