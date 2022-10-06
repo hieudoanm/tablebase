@@ -3,7 +3,8 @@ import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 
 const main = async () => {
-  const list = await convertCSVtoJSON('./data/usa/stock/nasdaq.csv');
+  const filePath = './data/usa/stock/nasdaq.csv';
+  const list = convertCSVtoJSON(filePath);
   const symbols = list.map((item: any) => {
     const symbol = item['Symbol'] || '';
     const name = item['Name'] || '';

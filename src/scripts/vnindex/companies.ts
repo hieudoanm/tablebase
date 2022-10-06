@@ -70,9 +70,8 @@ const main = async (): Promise<void> => {
     console.log('stock', symbol, market, subsector, listedDate);
 
     const historyFilePath = `./data/vietnam/stock/history/${symbol}.csv`;
-    const history: StockHistory[] = await convertCSVtoJSON<StockHistory>(
-      historyFilePath
-    );
+    const history: StockHistory[] =
+      convertCSVtoJSON<StockHistory>(historyFilePath);
 
     const oneWeek = [2, 3, 4, 5, 6];
     const twoWeek = [-5, -4, -3, -2, -1];

@@ -6,9 +6,8 @@ import { Company } from '../../services/vnindex/vnindex.types';
 import { fields } from './constants';
 
 const main = async () => {
-  const companies = await convertCSVtoJSON<Company>(
-    './data/vietnam/stock/companies.csv'
-  );
+  const filePath = './data/vietnam/stock/companies.csv';
+  const companies = convertCSVtoJSON<Company>(filePath);
 
   const companyTrees: Record<string, string[]> = {};
 

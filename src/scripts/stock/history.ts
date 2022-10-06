@@ -7,9 +7,8 @@ import { MemberTransaction } from '../../types';
 import sleep from '../../utils/sleep';
 
 const main = async () => {
-  const transactions = await convertCSVtoJSON<MemberTransaction>(
-    './data/transactions/senate/transactions.csv'
-  );
+  const filePath = './data/transactions/senate/transactions.csv';
+  const transactions = convertCSVtoJSON<MemberTransaction>(filePath);
   const symbols = uniq(
     transactions
       .filter(

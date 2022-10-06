@@ -29,6 +29,11 @@
   resolved "https://registry.yarnpkg.com/@graphql-typed-document-node/core/-/core-3.1.1.tgz#076d78ce99822258cf813ecc1e7fa460fa74d052"
   integrity sha512-NQ17ii0rK1b34VZonlmT2QMJFI70m0TRwbknO/ihlbatXyaktDhN/98vBiUU6kNBPljqGqyIrl2T4nY2RpFANg==
 
+"@hieudoanm/utils@^0.0.1":
+  version "0.0.1"
+  resolved "https://npm.pkg.github.com/download/@hieudoanm/utils/0.0.1/265653e5a5e23f147d6b18775664a8edfbd51ec5#265653e5a5e23f147d6b18775664a8edfbd51ec5"
+  integrity sha512-qW0yZFZ3Y+H0cFcFz80J9BEUM8esC8ikf3tfCv6DwXPJve0YCiutRatClaEra77cLjWVHeAgjqcVqCYnJ8vm0A==
+
 "@humanwhocodes/config-array@^0.10.5":
   version "0.10.5"
   resolved "https://registry.yarnpkg.com/@humanwhocodes/config-array/-/config-array-0.10.5.tgz#bb679745224745fff1e9a41961c1d45a49f81c04"

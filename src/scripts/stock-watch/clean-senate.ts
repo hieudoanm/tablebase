@@ -4,9 +4,8 @@ import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 
 const main = async () => {
-  const allTransactions = await convertCSVtoJSON(
-    './data/usa/stock-watch/senate/all_transactions.csv'
-  );
+  const filePath = './data/usa/stock-watch/senate/all_transactions.csv';
+  const allTransactions = convertCSVtoJSON(filePath);
   console.log(allTransactions);
   const transactions = allTransactions
     .map((transaction: any) => {

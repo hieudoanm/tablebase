@@ -19,10 +19,9 @@ const fields: string[] = [
 const main = async (): Promise<void> => {
   const timeZones = await getTimeZones();
   console.info('timeZones', timeZones.length);
-
   const filePath = `./data/world/timezones.csv`;
 
-  const allTimeZones: TimeZone[] = await convertCSVtoJSON<TimeZone>(filePath);
+  const allTimeZones: TimeZone[] = convertCSVtoJSON<TimeZone>(filePath);
   for (const timeZone of timeZones) {
     try {
       console.info('timeZone', timeZone);

@@ -21,9 +21,7 @@ const fields: string[] = [
 
 const main = async (): Promise<void> => {
   const companiesFilePath = './data/vietnam/stock/companies.csv';
-  const companies: Company[] = await convertCSVtoJSON<Company>(
-    companiesFilePath
-  );
+  const companies: Company[] = convertCSVtoJSON<Company>(companiesFilePath);
 
   const from = Math.floor(new Date(0).getTime() / 1000);
   const toD = new Date();
@@ -36,9 +34,8 @@ const main = async (): Promise<void> => {
     const stockSymbol = company.symbol || '';
     if (!stockSymbol) continue;
     const historyFilePath = `./data/vietnam/stock/history/${stockSymbol}.csv`;
-    const oldHistory: StockHistory[] = await convertCSVtoJSON<StockHistory>(
-      historyFilePath
-    );
+    const oldHistory: StockHistory[] =
+      convertCSVtoJSON<StockHistory>(historyFilePath);
     const newHistory = await getHistory({ symbol: stockSymbol, from, to });
     console.log('history', stockSymbol);
     const allHistory = newHistory.concat(oldHistory);

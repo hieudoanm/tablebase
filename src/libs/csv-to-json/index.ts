@@ -1,12 +1,10 @@
-import csv from 'csvtojson';
+import { csvToJSON } from '@hieudoanm/utils';
 import { readFileSync } from 'fs';
 
-export const convertCSVtoJSON = async <T>(
-  csvFilePath: string
-): Promise<Array<T>> => {
+export const convertCSVtoJSON = <T>(csvFilePath: string): T[] => {
   try {
     const string = readFileSync(csvFilePath, 'utf-8');
-    const array: Array<T> = await csv().fromString(string);
+    const array: T[] = csvToJSON(string) as T[];
     return array;
   } catch (error) {
     console.error(error);
