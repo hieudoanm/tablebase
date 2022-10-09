@@ -1,4 +1,5 @@
 import { writeFileSync } from 'fs';
+import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import {
   getAvailableDates,
@@ -27,8 +28,11 @@ const main = async () => {
       console.log('updatedDate', updatedDate);
       const values = await getValueByDate(portfolioCode, updatedDate);
       const stocks = values.map((value: Holding) => {
-        const { stock, per_nav, bourse_en: market, sector_en: sector } = value;
+        const { stock, per_nav, bourse_en, sector_en: sector } = value;
         const percentage = parseFloat(per_nav);
+        let market: string = bourse_en;
+        if (bourse_en.toLowerCase().includes('hose')) market = 'HOSE';
+        if (bourse_en.toLowerCase().includes('hnx')) market = 'HNX';
         return {
           capital,
           portfolioCode,
