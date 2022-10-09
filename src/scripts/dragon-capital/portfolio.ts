@@ -8,7 +8,7 @@ import {
 import { Holding } from '../../services/dragon-capital/dragon-capital.types';
 
 const capital = 'dragon-capital';
-const portfolioCodes = ['dcbc', 'dcds'];
+const portfolioCodes = ['e1vfvn30', 'fuevfvnd', 'dcbc', 'dcds'];
 
 const main = async () => {
   for (const portfolioCode of portfolioCodes) {
