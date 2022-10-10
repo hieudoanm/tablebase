@@ -1,5 +1,5 @@
 import { writeFileSync } from 'fs';
-import { first, last, snakeCase } from 'lodash';
+import { snakeCase } from 'lodash';
 import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 
@@ -29,8 +29,8 @@ const main = async () => {
         .replace(/,/g, '')
         .trim()
         .split(' ');
-      const firstName = first(processedName);
-      const lastName = last(processedName);
+      const firstName = processedName[0];
+      const lastName = processedName[processedName.length - 1];
       const action = snakeCase(type);
       return {
         symbol,
