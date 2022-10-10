@@ -1,13 +1,12 @@
-import get from 'lodash/get';
-import { axiosGet } from '../../libs/axios';
+import axios from '@hieudoanm/axios';
 import {
-  USACongressRequest,
-  USACongressCommitteesResponse,
-  ProPublicaCongressResponse,
   Committee,
   CongressMember,
+  ProPublicaCongressResponse,
   Subcommittee,
+  USACongressCommitteesResponse,
   USACongressMembersResponse,
+  USACongressRequest,
 } from './congress.types';
 
 const API_KEY_PROPUBLICA_CONGRESS =
@@ -21,11 +20,11 @@ export const getCommittees = async ({
 }: USACongressRequest): Promise<USACongressCommitteesResponse> => {
   const url = `https://api.propublica.org/congress/v1/${congress}/${chamber}/committees.json`;
   const response: ProPublicaCongressResponse =
-    await axiosGet<ProPublicaCongressResponse>(url, { headers });
-  const status = get(response, 'status', '');
+    await axios.get<ProPublicaCongressResponse>(url, { headers });
+  const status = response.status || '';
   if (status !== 'OK') return { total: 0, data: [] };
-  const total = get(response, 'results.0.num_results', 0);
-  const data = get(response, 'results.0.committees', 0);
+  const total = response.results[0].num_results || 0;
+  const data = response.results[0].committees || [];
   return { total, data };
 };
 
@@ -36,10 +35,10 @@ export const getCommittee = async ({
 }: USACongressRequest): Promise<{ committee: Committee }> => {
   const url = `https://api.propublica.org/congress/v1/${congress}/${chamber}/committees/${id}.json`;
   const response: ProPublicaCongressResponse =
-    await axiosGet<ProPublicaCongressResponse>(url, { headers });
-  const status = get(response, 'status', '');
+    await axios.get<ProPublicaCongressResponse>(url, { headers });
+  const status = response.status || '';
   if (status !== 'OK') return { committee: {} };
-  const committee = get(response, 'results.0', {});
+  const committee = response.results[0] || {};
   return { committee };
 };
 
@@ -51,10 +50,10 @@ export const getSubcommittee = async ({
 }: USACongressRequest): Promise<{ subcommittee: Subcommittee }> => {
   const url = `https://api.propublica.org/congress/v1/${congress}/${chamber}/committees/${committee}/subcommittees/${id}.json`;
   const response: ProPublicaCongressResponse =
-    await axiosGet<ProPublicaCongressResponse>(url, { headers });
-  const status = get(response, 'status', '');
+    await axios.get<ProPublicaCongressResponse>(url, { headers });
+  const status = response.status || '';
   if (status !== 'OK') return { subcommittee: {} };
-  const subcommittee = get(response, 'results.0', {});
+  const subcommittee = response.results[0] || {};
   return { subcommittee };
 };
 
@@ -64,11 +63,11 @@ export const getMembers = async ({
 }: USACongressRequest): Promise<USACongressMembersResponse> => {
   const url = `https://api.propublica.org/congress/v1/${congress}/${chamber}/members.json`;
   const response: ProPublicaCongressResponse =
-    await axiosGet<ProPublicaCongressResponse>(url, { headers });
-  const status = get(response, 'status', '');
+    await axios.get<ProPublicaCongressResponse>(url, { headers });
+  const status = response.status || '';
   if (status !== 'OK') return { total: 0, data: [] };
-  const total = get(response, 'results.0.num_results', 0);
-  const data = get(response, 'results.0.members', 0);
+  const total = response.results[0].num_results || 0;
+  const data = response.results[0].members || [];
   return { total, data };
 };
 
@@ -77,9 +76,9 @@ export const getMember = async (
 ): Promise<{ member: CongressMember }> => {
   const url = `https://api.propublica.org/congress/v1/members/${id}.json`;
   const response: ProPublicaCongressResponse =
-    await axiosGet<ProPublicaCongressResponse>(url, { headers });
-  const status = get(response, 'status', '');
+    await axios.get<ProPublicaCongressResponse>(url, { headers });
+  const status = response.status || '';
   if (status !== 'OK') return { member: {} };
-  const member = get(response, 'results.0', 0);
+  const member = response.results[0];
   return { member };
 };

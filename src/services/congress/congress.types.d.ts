@@ -93,23 +93,24 @@ export type USACongressRequest = {
 
 export type USACongressCommitteesResponse = {
   total?: number;
-  data?: Array<Committee>;
+  data?: Committee[];
 };
 
 export type USACongressMembersResponse = {
   total?: number;
-  data?: Array<CongressMember>;
+  data?: CongressMember[];
 };
 
 export type ProPublicaCongressResult = {
-  num_results?: number;
-  committees?: Committee[];
-  members?: CongressMember[];
+  num_results: number;
+  committees: Committee[];
+  subcommittees: Subcommittee[];
+  members: CongressMember[];
 };
 
 export type ProPublicaCongressResponse = {
-  status?: string;
-  results?: ProPublicaCongressResult[];
+  status: string;
+  results: ProPublicaCongressResult[];
 };
 
 export type Member = {

@@ -1,6 +1,5 @@
+import axios from '@hieudoanm/axios';
 import { gql } from 'graphql-request';
-import get from 'lodash/get';
-import { axiosGet } from '../../libs/axios';
 import getClient from '../../libs/graphql-request';
 
 const realTimeURL = 'https://wgateway-iboard.ssi.com.vn/graphql';
@@ -30,9 +29,9 @@ export const getStockSymbols = async () => {
   const data = await realTimeClient.request(GET_STOCK_SYMBOLS);
   return Object.values(data)
     .flat(Infinity)
-    .map((value) => {
-      const market = get(value, 'exchange').toUpperCase();
-      const symbol = get(value, 'stockSymbol').toUpperCase();
+    .map((value: any) => {
+      const market = value.exchange.toUpperCase();
+      const symbol = value.stockSymbol.toUpperCase();
       return { symbol, market };
     })
     .filter((stock) => stock.symbol.length === 3)
@@ -79,8 +78,8 @@ export const getCompanyProfile = async (
     symbol,
     language: 'en',
   });
-  const profile = get(data, 'companyProfile', {});
-  const statistics = get(data, 'companyStatistics', {});
+  const profile = data.companyProfile || {};
+  const statistics = data.companyStatistics || {};
   return { profile, statistics };
 };
 
@@ -105,13 +104,13 @@ export const getHistory = async ({
   to: number;
 }): Promise<StockHistory[]> => {
   const url = `https://iboard.ssi.com.vn/dchart/api/history?resolution=D&symbol=${symbol}&from=${from}&to=${to}`;
-  const data = await axiosGet(url);
-  const arrayOfTimestamp: Array<number> = get(data, 't', []);
-  const arrayOfOpen = get(data, 'o', []);
-  const arrayOfHigh = get(data, 'h', []);
-  const arrayOfLow = get(data, 'l', []);
-  const arrayOfClose = get(data, 'c', []);
-  const arrayOfVolume = get(data, 'v', []);
+  const data: any = await axios.get(url);
+  const arrayOfTimestamp: Array<number> = data.t || [];
+  const arrayOfOpen = data.o || [];
+  const arrayOfHigh = data.h || [];
+  const arrayOfLow = data.l || [];
+  const arrayOfClose = data.c || [];
+  const arrayOfVolume = data.v || [];
   return arrayOfTimestamp.map((timestamp: number, index: number) => {
     const open = parseFloat(arrayOfOpen[index]);
     const high = parseFloat(arrayOfHigh[index]);
@@ -147,10 +146,13 @@ export const getSubSymbols = async (symbol: string) => {
       offset: 0,
       size: 2000,
     });
-    return get(data, 'subCompanies.datas', [])
-      .map((subCompany: { childsymbol: string }) => subCompany.childsymbol)
-      .filter((childSymbol: string) => childSymbol)
-      .sort();
+    return (
+      data.subCompanies.datas ||
+      []
+        .map((subCompany: { childsymbol: string }) => subCompany.childsymbol)
+        .filter((childSymbol: string) => childSymbol)
+        .sort()
+    );
   } catch (error) {
     return [];
   }
