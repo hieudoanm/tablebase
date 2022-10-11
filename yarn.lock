@@ -36,10 +36,18 @@
   dependencies:
     axios "1.1.2"
 
+"@hieudoanm/dotenv@0.0.1":
+  version "0.0.1"
+  resolved "https://npm.pkg.github.com/download/@hieudoanm/dotenv/0.0.1/852707b2b91ca89885d4d3f1f5a97931d69910a3#852707b2b91ca89885d4d3f1f5a97931d69910a3"
+  integrity sha512-jK1oRwoqEjJEvsv3GKRoBouT/5dbEqWqOl7ONyonxZarXpRt6mLqBuloP9nI/4EgIvvDnZwd0b3tw5zZ9GuAiA==
+  dependencies:
+    dotenv "16.0.3"
+    dotenv-expand "9.0.0"
+
 "@hieudoanm/utils@0.0.1":
   version "0.0.1"
-  resolved "https://npm.pkg.github.com/download/@hieudoanm/utils/0.0.1/7b9b56e7f6bb7b5da1eef1d67dcd1d396ec1c4fd#7b9b56e7f6bb7b5da1eef1d67dcd1d396ec1c4fd"
-  integrity sha512-09Zh3QrDsnZO3YKDMRReGR0T7bQhuqOempmG8YzvxCJ+HR4le8tYG31SdQKI8kta/kZtrT4mv8FMO1J1zY59SA==
+  resolved "https://npm.pkg.github.com/download/@hieudoanm/utils/0.0.1/6b54378c08d280319a13539fcfebf67db563ac4b#6b54378c08d280319a13539fcfebf67db563ac4b"
+  integrity sha512-OoUVuOU6L7u3g+D+EZOd305SXUqM/oGYr0zCxGf+DkeJfa2DIxEw8cIWIx6TuhTS4SlhTOuDPSNMAANqGj7LNg==
 
 "@humanwhocodes/config-array@^0.10.5":
   version "0.10.7"
@@ -498,6 +506,11 @@ domutils@^3.0.1:
     dom-serializer "^2.0.0"
     domelementtype "^2.3.0"
     domhandler "^5.0.1"
+
+dotenv-expand@9.0.0:
+  version "9.0.0"
+  resolved "https://registry.yarnpkg.com/dotenv-expand/-/dotenv-expand-9.0.0.tgz#1fd37e2cd63ea0b5f7389fb87256efc38b035b26"
+  integrity sha512-uW8Hrhp5ammm9x7kBLR6jDfujgaDarNA02tprvZdyrJ7MpdzD1KyrIHG4l+YoC2fJ2UcdFdNWNWIjt+sexBHJw==
 
 dotenv@16.0.3:
   version "16.0.3"

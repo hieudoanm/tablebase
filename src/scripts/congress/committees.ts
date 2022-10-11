@@ -1,4 +1,4 @@
-import dotenv from 'dotenv';
+import dotenv from '@hieudoanm/dotenv';
 dotenv.config();
 
 import { writeFileSync } from 'fs';
