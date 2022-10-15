@@ -44,6 +44,13 @@
     dotenv "16.0.3"
     dotenv-expand "9.0.0"
 
+"@hieudoanm/football@0.0.1":
+  version "0.0.1"
+  resolved "https://npm.pkg.github.com/download/@hieudoanm/football/0.0.1/51f009ada4c168d5a6eef873ec70b66c4e85d31a#51f009ada4c168d5a6eef873ec70b66c4e85d31a"
+  integrity sha512-X6FNpJ3TMbpSV1dGf752aPyqyB/UEwMaakVhNYJDtdWTHTQWL7/IlLQ/6rTOPv0AHLZ8aykUQsOO4MV3UTMG8w==
+  dependencies:
+    axios "1.1.2"
+
 "@hieudoanm/utils@0.0.1":
   version "0.0.1"
   resolved "https://npm.pkg.github.com/download/@hieudoanm/utils/0.0.1/6b54378c08d280319a13539fcfebf67db563ac4b#6b54378c08d280319a13539fcfebf67db563ac4b"
