@@ -9,7 +9,7 @@ import {
 import { Company } from '../../services/vnindex/vnindex.types';
 
 const saveCSV = async (companies: Company[]): Promise<void> => {
-  const csv = convertJSONtoCSV<Company>(companies);
+  const csv = convertJSONtoCSV(companies);
   return fs.writeFileSync('./data/vietnam/stock/companies.csv', csv);
 };
 
@@ -56,78 +56,80 @@ const main = async (): Promise<void> => {
     const symbol: string = stock.symbol || '';
     const market: string = stock.market || '';
     if (!symbol) continue;
-    const { profile, statistics } = await getCompanyProfile(symbol);
-    const name: string = profile.companyname || '';
-    const industry: string = profile.industryname || '';
-    const supersector: string = profile.supersector || '';
-    const sector: string = profile.sector || '';
-    const subsector: string = profile.subsector;
-    const [listingDate] = (profile.listingdate || '').split(' ');
-    const listedDate = listingDate.split('/').reverse().join('-');
-    const issueShare: number = parseFloat(profile.issueshare || '0');
-    const marketCap: number = parseFloat(statistics.marketcap || '0');
-    console.log('stock', symbol, market, subsector, listedDate);
+    try {
+      const { profile, statistics } = await getCompanyProfile(symbol);
+      const name: string = profile.companyname || '';
+      const industry: string = profile.industryname || '';
+      const supersector: string = profile.supersector || '';
+      const sector: string = profile.sector || '';
+      const subsector: string = profile.subsector;
+      const [listingDate] = (profile.listingdate || '').split(' ');
+      const listedDate = listingDate.split('/').reverse().join('-');
+      const issueShare: number = parseFloat(profile.issueshare || '0');
+      const marketCap: number = parseFloat(statistics.marketcap || '0');
+      console.log('stock', symbol, market, subsector, listedDate);
 
-    const historyFilePath = `./data/vietnam/stock/history/${symbol}.csv`;
-    const history: StockHistory[] =
-      convertCSVtoJSON<StockHistory>(historyFilePath);
+      const historyFilePath = `./data/vietnam/stock/history/${symbol}.csv`;
+      const history: StockHistory[] =
+        convertCSVtoJSON<StockHistory>(historyFilePath);
 
-    const oneWeek = [2, 3, 4, 5, 6];
-    const twoWeek = [-5, -4, -3, -2, -1];
-    const threeWeek = [-12, -11, -10, -9, -8];
-    const fourWeek = [-19, -18, -17, -16, -15];
-    const fiveWeek = [-26, -25, -24, -23, -22];
-    const sixWeek = [-33, -32, -31, -30, -29];
-    const sevenWeek = [-40, -39, -38, -37, -36];
-    const eightWeek = [-47, -46, -45, -44, -43];
-    const nineWeek = [-54, -53, -52, -51, -50];
-    const tenWeek = [-61, -60, -59, -58, -57];
-    const elevenWeek = [-68, -67, -66, -65, -64];
-    const twelveWeek = [-75, -74, -73, -72, -71];
+      const oneWeek = [2, 3, 4, 5, 6];
+      const twoWeek = [-5, -4, -3, -2, -1];
+      const threeWeek = [-12, -11, -10, -9, -8];
+      const fourWeek = [-19, -18, -17, -16, -15];
+      const fiveWeek = [-26, -25, -24, -23, -22];
+      const sixWeek = [-33, -32, -31, -30, -29];
+      const sevenWeek = [-40, -39, -38, -37, -36];
+      const eightWeek = [-47, -46, -45, -44, -43];
+      const nineWeek = [-54, -53, -52, -51, -50];
+      const tenWeek = [-61, -60, -59, -58, -57];
+      const elevenWeek = [-68, -67, -66, -65, -64];
+      const twelveWeek = [-75, -74, -73, -72, -71];
 
-    const lastFiveDays = oneWeek;
-    const priceChangedFiveDayPercent: string | number = await getPriceChanged(
-      history,
-      lastFiveDays
-    );
-    const lastOneMonth = oneWeek.concat(twoWeek, threeWeek, fourWeek);
-    const priceChangedOneMonthPercent: string | number = await getPriceChanged(
-      history,
-      lastOneMonth
-    );
-    const lastThreeMonths = oneWeek.concat(
-      twoWeek,
-      threeWeek,
-      fourWeek,
-      fiveWeek,
-      sixWeek,
-      sevenWeek,
-      eightWeek,
-      nineWeek,
-      tenWeek,
-      elevenWeek,
-      twelveWeek
-    );
-    const priceChangedThreeMonthsPercent: string | number =
-      await getPriceChanged(history, lastThreeMonths);
+      const lastFiveDays = oneWeek;
+      const priceChangedFiveDayPercent: string | number = await getPriceChanged(
+        history,
+        lastFiveDays
+      );
+      const lastOneMonth = oneWeek.concat(twoWeek, threeWeek, fourWeek);
+      const priceChangedOneMonthPercent: string | number =
+        await getPriceChanged(history, lastOneMonth);
+      const lastThreeMonths = oneWeek.concat(
+        twoWeek,
+        threeWeek,
+        fourWeek,
+        fiveWeek,
+        sixWeek,
+        sevenWeek,
+        eightWeek,
+        nineWeek,
+        tenWeek,
+        elevenWeek,
+        twelveWeek
+      );
+      const priceChangedThreeMonthsPercent: string | number =
+        await getPriceChanged(history, lastThreeMonths);
 
-    const company: Company = {
-      symbol,
-      market,
-      name,
-      industry,
-      supersector,
-      sector,
-      subsector,
-      listedDate,
-      issueShare,
-      marketCap,
-      priceChangedFiveDayPercent,
-      priceChangedOneMonthPercent,
-      priceChangedThreeMonthsPercent,
-    };
-    companies.push(company);
-    await saveCSV(companies);
+      const company: Company = {
+        symbol,
+        market,
+        name,
+        industry,
+        supersector,
+        sector,
+        subsector,
+        listedDate,
+        issueShare,
+        marketCap,
+        priceChangedFiveDayPercent,
+        priceChangedOneMonthPercent,
+        priceChangedThreeMonthsPercent,
+      };
+      companies.push(company);
+      await saveCSV(companies);
+    } catch (error) {
+      console.error('Error', error);
+    }
   }
 
   const subsectors = companies

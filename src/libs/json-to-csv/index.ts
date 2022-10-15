@@ -1,7 +1,7 @@
 import { jsonToCSV } from '@hieudoanm/utils';
 
-export const convertJSONtoCSV = <T>(
-  data: Array<T>,
+export const convertJSONtoCSV = (
+  data: any[],
   headers: string[] = []
 ): string => {
   try {
