@@ -1,0 +1,942 @@
+[
+  {
+    "date": "2016-11-16",
+    "symbol": "NLS",
+    "open": "7.77",
+    "high": "7.77",
+    "low": "7.77",
+    "close": "7.77",
+    "volume": "100",
+    "timestamp": "1479254400"
+  },
+  {
+    "date": "2016-11-22",
+    "symbol": "NLS",
+    "open": "7.19",
+    "high": "7.19",
+    "low": "7.19",
+    "close": "7.19",
+    "volume": "100",
+    "timestamp": "1479772800"
+  },
+  {
+    "date": "2017-01-24",
+    "symbol": "NLS",
+    "open": "7.19",
+    "high": "7.19",
+    "low": "7.19",
+    "close": "7.19",
+    "volume": "100",
+    "timestamp": "1485216000"
+  },
+  {
+    "date": "2017-02-10",
+    "symbol": "NLS",
+    "open": "7.19",
+    "high": "7.19",
+    "low": "7.19",
+    "close": "7.19",
+    "volume": "100",
+    "timestamp": "1486684800"
+  },
+  {
+    "date": "2018-10-11",
+    "symbol": "NLS",
+    "open": "6.94",
+    "high": "6.94",
+    "low": "6.94",
+    "close": "6.94",
+    "volume": "100",
+    "timestamp": "1539216000"
+  },
+  {
+    "date": "2018-10-12",
+    "symbol": "NLS",
+    "open": "6.87",
+    "high": "6.87",
+    "low": "6.8",
+    "close": "6.87",
+    "volume": "5600",
+    "timestamp": "1539302400"
+  },
+  {
+    "date": "2018-10-19",
+    "symbol": "NLS",
+    "open": "6.87",
+    "high": "6.87",
+    "low": "6.87",
+    "close": "6.87",
+    "volume": "4800",
+    "timestamp": "1539907200"
+  },
+  {
+    "date": "2019-06-20",
+    "symbol": "NLS",
+    "open": "6.96",
+    "high": "6.96",
+    "low": "6.96",
+    "close": "6.96",
+    "volume": "8300",
+    "timestamp": "1560988800"
+  },
+  {
+    "date": "2019-09-24",
+    "symbol": "NLS",
+    "open": "6.96",
+    "high": "6.96",
+    "low": "6.96",
+    "close": "6.96",
+    "volume": "3500",
+    "timestamp": "1569283200"
+  },
+  {
+    "date": "2019-10-18",
+    "symbol": "NLS",
+    "open": "6.96",
+    "high": "6.96",
+    "low": "6.96",
+    "close": "6.96",
+    "volume": "11300",
+    "timestamp": "1571356800"
+  },
+  {
+    "date": "2019-10-21",
+    "symbol": "NLS",
+    "open": "6.96",
+    "high": "6.96",
+    "low": "6.96",
+    "close": "6.96",
+    "volume": "2400",
+    "timestamp": "1571616000"
+  },
+  {
+    "date": "2019-11-01",
+    "symbol": "NLS",
+    "open": "7.69",
+    "high": "7.69",
+    "low": "7.69",
+    "close": "7.69",
+    "volume": "100",
+    "timestamp": "1572566400"
+  },
+  {
+    "date": "2019-11-04",
+    "symbol": "NLS",
+    "open": "8.64",
+    "high": "8.64",
+    "low": "8.64",
+    "close": "8.64",
+    "volume": "100",
+    "timestamp": "1572825600"
+  },
+  {
+    "date": "2019-11-05",
+    "symbol": "NLS",
+    "open": "8.86",
+    "high": "8.86",
+    "low": "8.86",
+    "close": "8.86",
+    "volume": "200",
+    "timestamp": "1572912000"
+  },
+  {
+    "date": "2019-11-06",
+    "symbol": "NLS",
+    "open": "8.93",
+    "high": "9.08",
+    "low": "8.93",
+    "close": "9.08",
+    "volume": "900",
+    "timestamp": "1572998400"
+  },
+  {
+    "date": "2019-11-07",
+    "symbol": "NLS",
+    "open": "9.45",
+    "high": "9.45",
+    "low": "9.45",
+    "close": "9.45",
+    "volume": "300",
+    "timestamp": "1573084800"
+  },
+  {
+    "date": "2019-11-08",
+    "symbol": "NLS",
+    "open": "9.45",
+    "high": "9.59",
+    "low": "9.45",
+    "close": "9.59",
+    "volume": "1200",
+    "timestamp": "1573171200"
+  },
+  {
+    "date": "2019-11-11",
+    "symbol": "NLS",
+    "open": "10.77",
+    "high": "10.77",
+    "low": "10.77",
+    "close": "10.77",
+    "volume": "100",
+    "timestamp": "1573430400"
+  },
+  {
+    "date": "2019-11-12",
+    "symbol": "NLS",
+    "open": "12.3",
+    "high": "12.3",
+    "low": "10.11",
+    "close": "12.3",
+    "volume": "2800",
+    "timestamp": "1573516800"
+  },
+  {
+    "date": "2019-11-13",
+    "symbol": "NLS",
+    "open": "12.01",
+    "high": "12.01",
+    "low": "12.01",
+    "close": "12.01",
+    "volume": "2300",
+    "timestamp": "1573603200"
+  },
+  {
+    "date": "2019-11-14",
+    "symbol": "NLS",
+    "open": "12.6",
+    "high": "12.74",
+    "low": "12.6",
+    "close": "12.74",
+    "volume": "300",
+    "timestamp": "1573689600"
+  },
+  {
+    "date": "2019-11-15",
+    "symbol": "NLS",
+    "open": "12.81",
+    "high": "12.81",
+    "low": "12.81",
+    "close": "12.81",
+    "volume": "100",
+    "timestamp": "1573776000"
+  },
+  {
+    "date": "2019-11-18",
+    "symbol": "NLS",
+    "open": "12.52",
+    "high": "12.52",
+    "low": "12.52",
+    "close": "12.52",
+    "volume": "100",
+    "timestamp": "1574035200"
+  },
+  {
+    "date": "2019-11-19",
+    "symbol": "NLS",
+    "open": "12.45",
+    "high": "12.45",
+    "low": "12.45",
+    "close": "12.45",
+    "volume": "1500",
+    "timestamp": "1574121600"
+  },
+  {
+    "date": "2019-11-20",
+    "symbol": "NLS",
+    "open": "12.38",
+    "high": "12.38",
+    "low": "12.38",
+    "close": "12.38",
+    "volume": "100",
+    "timestamp": "1574208000"
+  },
+  {
+    "date": "2019-11-21",
+    "symbol": "NLS",
+    "open": "12.45",
+    "high": "12.45",
+    "low": "12.45",
+    "close": "12.45",
+    "volume": "100",
+    "timestamp": "1574294400"
+  },
+  {
+    "date": "2019-11-22",
+    "symbol": "NLS",
+    "open": "12.52",
+    "high": "12.52",
+    "low": "12.52",
+    "close": "12.52",
+    "volume": "100",
+    "timestamp": "1574380800"
+  },
+  {
+    "date": "2019-11-25",
+    "symbol": "NLS",
+    "open": "12.01",
+    "high": "12.01",
+    "low": "12.01",
+    "close": "12.01",
+    "volume": "100",
+    "timestamp": "1574640000"
+  },
+  {
+    "date": "2019-11-26",
+    "symbol": "NLS",
+    "open": "11.94",
+    "high": "11.94",
+    "low": "11.94",
+    "close": "11.94",
+    "volume": "1200",
+    "timestamp": "1574726400"
+  },
+  {
+    "date": "2019-11-27",
+    "symbol": "NLS",
+    "open": "12.01",
+    "high": "12.01",
+    "low": "12.01",
+    "close": "12.01",
+    "volume": "900",
+    "timestamp": "1574812800"
+  },
+  {
+    "date": "2019-11-28",
+    "symbol": "NLS",
+    "open": "12.08",
+    "high": "12.08",
+    "low": "12.08",
+    "close": "12.08",
+    "volume": "1100",
+    "timestamp": "1574899200"
+  },
+  {
+    "date": "2019-11-29",
+    "symbol": "NLS",
+    "open": "11.79",
+    "high": "11.79",
+    "low": "11.79",
+    "close": "11.79",
+    "volume": "1200",
+    "timestamp": "1574985600"
+  },
+  {
+    "date": "2019-12-02",
+    "symbol": "NLS",
+    "open": "11.72",
+    "high": "11.72",
+    "low": "11.72",
+    "close": "11.72",
+    "volume": "1400",
+    "timestamp": "1575244800"
+  },
+  {
+    "date": "2019-12-03",
+    "symbol": "NLS",
+    "open": "11.72",
+    "high": "11.72",
+    "low": "11.72",
+    "close": "11.72",
+    "volume": "1000",
+    "timestamp": "1575331200"
+  },
+  {
+    "date": "2019-12-04",
+    "symbol": "NLS",
+    "open": "11.5",
+    "high": "11.5",
+    "low": "11.5",
+    "close": "11.5",
+    "volume": "1900",
+    "timestamp": "1575417600"
+  },
+  {
+    "date": "2019-12-05",
+    "symbol": "NLS",
+    "open": "11.5",
+    "high": "11.5",
+    "low": "11.5",
+    "close": "11.5",
+    "volume": "900",
+    "timestamp": "1575504000"
+  },
+  {
+    "date": "2019-12-06",
+    "symbol": "NLS",
+    "open": "10.62",
+    "high": "10.62",
+    "low": "10.62",
+    "close": "10.62",
+    "volume": "11100",
+    "timestamp": "1575590400"
+  },
+  {
+    "date": "2019-12-09",
+    "symbol": "NLS",
+    "open": "10.54",
+    "high": "10.54",
+    "low": "10.54",
+    "close": "10.54",
+    "volume": "300",
+    "timestamp": "1575849600"
+  },
+  {
+    "date": "2019-12-10",
+    "symbol": "NLS",
+    "open": "10.54",
+    "high": "10.54",
+    "low": "10.54",
+    "close": "10.54",
+    "volume": "100",
+    "timestamp": "1575936000"
+  },
+  {
+    "date": "2019-12-11",
+    "symbol": "NLS",
+    "open": "10.54",
+    "high": "10.54",
+    "low": "10.54",
+    "close": "10.54",
+    "volume": "100",
+    "timestamp": "1576022400"
+  },
+  {
+    "date": "2019-12-12",
+    "symbol": "NLS",
+    "open": "10.54",
+    "high": "10.54",
+    "low": "10.54",
+    "close": "10.54",
+    "volume": "900",
+    "timestamp": "1576108800"
+  },
+  {
+    "date": "2019-12-13",
+    "symbol": "NLS",
+    "open": "10.54",
+    "high": "10.54",
+    "low": "10.54",
+    "close": "10.54",
+    "volume": "1100",
+    "timestamp": "1576195200"
+  },
+  {
+    "date": "2019-12-16",
+    "symbol": "NLS",
+    "open": "10.54",
+    "high": "10.54",
+    "low": "10.54",
+    "close": "10.54",
+    "volume": "1200",
+    "timestamp": "1576454400"
+  },
+  {
+    "date": "2019-12-17",
+    "symbol": "NLS",
+    "open": "10.62",
+    "high": "10.62",
+    "low": "10.62",
+    "close": "10.62",
+    "volume": "300",
+    "timestamp": "1576540800"
+  },
+  {
+    "date": "2019-12-18",
+    "symbol": "NLS",
+    "open": "10.69",
+    "high": "10.69",
+    "low": "10.69",
+    "close": "10.69",
+    "volume": "500",
+    "timestamp": "1576627200"
+  },
+  {
+    "date": "2019-12-19",
+    "symbol": "NLS",
+    "open": "10.47",
+    "high": "10.47",
+    "low": "10.47",
+    "close": "10.47",
+    "volume": "800",
+    "timestamp": "1576713600"
+  },
+  {
+    "date": "2019-12-20",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "11.13",
+    "low": "10.98",
+    "close": "11.13",
+    "volume": "3800",
+    "timestamp": "1576800000"
+  },
+  {
+    "date": "2019-12-23",
+    "symbol": "NLS",
+    "open": "12.67",
+    "high": "12.67",
+    "low": "12.67",
+    "close": "12.67",
+    "volume": "12800",
+    "timestamp": "1577059200"
+  },
+  {
+    "date": "2019-12-24",
+    "symbol": "NLS",
+    "open": "14.5",
+    "high": "14.5",
+    "low": "14.5",
+    "close": "14.5",
+    "volume": "756200",
+    "timestamp": "1577145600"
+  },
+  {
+    "date": "2019-12-25",
+    "symbol": "NLS",
+    "open": "16.62",
+    "high": "16.62",
+    "low": "12.38",
+    "close": "12.38",
+    "volume": "20300",
+    "timestamp": "1577232000"
+  },
+  {
+    "date": "2019-12-26",
+    "symbol": "NLS",
+    "open": "12.23",
+    "high": "12.38",
+    "low": "12.23",
+    "close": "12.23",
+    "volume": "15100",
+    "timestamp": "1577318400"
+  },
+  {
+    "date": "2019-12-27",
+    "symbol": "NLS",
+    "open": "10.62",
+    "high": "10.62",
+    "low": "10.62",
+    "close": "10.62",
+    "volume": "1100",
+    "timestamp": "1577404800"
+  },
+  {
+    "date": "2019-12-30",
+    "symbol": "NLS",
+    "open": "11.06",
+    "high": "12.16",
+    "low": "10.62",
+    "close": "10.62",
+    "volume": "5900",
+    "timestamp": "1577664000"
+  },
+  {
+    "date": "2019-12-31",
+    "symbol": "NLS",
+    "open": "9.81",
+    "high": "9.81",
+    "low": "9.81",
+    "close": "9.81",
+    "volume": "5000",
+    "timestamp": "1577750400"
+  },
+  {
+    "date": "2020-01-02",
+    "symbol": "NLS",
+    "open": "9.15",
+    "high": "9.15",
+    "low": "8.86",
+    "close": "8.86",
+    "volume": "9300",
+    "timestamp": "1577923200"
+  },
+  {
+    "date": "2020-01-03",
+    "symbol": "NLS",
+    "open": "9.52",
+    "high": "9.67",
+    "low": "9.52",
+    "close": "9.67",
+    "volume": "1200",
+    "timestamp": "1578009600"
+  },
+  {
+    "date": "2020-01-06",
+    "symbol": "NLS",
+    "open": "10.4",
+    "high": "10.4",
+    "low": "10.4",
+    "close": "10.4",
+    "volume": "200",
+    "timestamp": "1578268800"
+  },
+  {
+    "date": "2020-01-07",
+    "symbol": "NLS",
+    "open": "11.57",
+    "high": "11.94",
+    "low": "10.33",
+    "close": "10.33",
+    "volume": "7000",
+    "timestamp": "1578355200"
+  },
+  {
+    "date": "2020-01-08",
+    "symbol": "NLS",
+    "open": "10.4",
+    "high": "10.4",
+    "low": "10.4",
+    "close": "10.4",
+    "volume": "300",
+    "timestamp": "1578441600"
+  },
+  {
+    "date": "2020-01-15",
+    "symbol": "NLS",
+    "open": "10.47",
+    "high": "10.47",
+    "low": "10.47",
+    "close": "10.47",
+    "volume": "300",
+    "timestamp": "1579046400"
+  },
+  {
+    "date": "2020-01-16",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "200",
+    "timestamp": "1579132800"
+  },
+  {
+    "date": "2020-01-17",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "300",
+    "timestamp": "1579219200"
+  },
+  {
+    "date": "2020-01-21",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "300",
+    "timestamp": "1579564800"
+  },
+  {
+    "date": "2020-01-30",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "400",
+    "timestamp": "1580342400"
+  },
+  {
+    "date": "2020-01-31",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "200",
+    "timestamp": "1580428800"
+  },
+  {
+    "date": "2020-02-03",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "300",
+    "timestamp": "1580688000"
+  },
+  {
+    "date": "2020-02-04",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "400",
+    "timestamp": "1580774400"
+  },
+  {
+    "date": "2020-02-05",
+    "symbol": "NLS",
+    "open": "10.91",
+    "high": "10.91",
+    "low": "10.91",
+    "close": "10.91",
+    "volume": "1100",
+    "timestamp": "1580860800"
+  },
+  {
+    "date": "2020-02-06",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "700",
+    "timestamp": "1580947200"
+  },
+  {
+    "date": "2020-02-07",
+    "symbol": "NLS",
+    "open": "11.06",
+    "high": "11.06",
+    "low": "11.06",
+    "close": "11.06",
+    "volume": "200",
+    "timestamp": "1581033600"
+  },
+  {
+    "date": "2020-02-10",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "300",
+    "timestamp": "1581292800"
+  },
+  {
+    "date": "2020-02-11",
+    "symbol": "NLS",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "200",
+    "timestamp": "1581379200"
+  },
+  {
+    "date": "2020-02-13",
+    "symbol": "NLS",
+    "open": "9.89",
+    "high": "9.89",
+    "low": "9.89",
+    "close": "9.89",
+    "volume": "2700",
+    "timestamp": "1581552000"
+  },
+  {
+    "date": "2020-02-14",
+    "symbol": "NLS",
+    "open": "9.89",
+    "high": "9.89",
+    "low": "9.89",
+    "close": "9.89",
+    "volume": "1200",
+    "timestamp": "1581638400"
+  },
+  {
+    "date": "2020-02-17",
+    "symbol": "NLS",
+    "open": "9.89",
+    "high": "9.89",
+    "low": "9.89",
+    "close": "9.89",
+    "volume": "2700",
+    "timestamp": "1581897600"
+  },
+  {
+    "date": "2020-02-18",
+    "symbol": "NLS",
+    "open": "10.11",
+    "high": "10.11",
+    "low": "10.11",
+    "close": "10.11",
+    "volume": "100",
+    "timestamp": "1581984000"
+  },
+  {
+    "date": "2020-02-19",
+    "symbol": "NLS",
+    "open": "10.4",
+    "high": "10.62",
+    "low": "10.4",
+    "close": "10.62",
+    "volume": "1600",
+    "timestamp": "1582070400"
+  },
+  {
+    "date": "2020-02-20",
+    "symbol": "NLS",
+    "open": "11.06",
+    "high": "11.06",
+    "low": "11.06",
+    "close": "11.06",
+    "volume": "100",
+    "timestamp": "1582156800"
+  },
+  {
+    "date": "2020-02-21",
+    "symbol": "NLS",
+    "open": "11.28",
+    "high": "11.28",
+    "low": "11.28",
+    "close": "11.28",
+    "volume": "2700",
+    "timestamp": "1582243200"
+  },
+  {
+    "date": "2020-02-26",
+    "symbol": "NLS",
+    "open": "12.45",
+    "high": "12.45",
+    "low": "12.45",
+    "close": "12.45",
+    "volume": "5300",
+    "timestamp": "1582675200"
+  },
+  {
+    "date": "2020-03-03",
+    "symbol": "NLS",
+    "open": "12.45",
+    "high": "12.45",
+    "low": "12.45",
+    "close": "12.45",
+    "volume": "700",
+    "timestamp": "1583193600"
+  },
+  {
+    "date": "2020-05-04",
+    "symbol": "NLS",
+    "open": "12.45",
+    "high": "12.45",
+    "low": "12.45",
+    "close": "12.45",
+    "volume": "100",
+    "timestamp": "1588550400"
+  },
+  {
+    "date": "2020-05-05",
+    "symbol": "NLS",
+    "open": "12.45",
+    "high": "12.45",
+    "low": "12.45",
+    "close": "12.45",
+    "volume": "2900",
+    "timestamp": "1588636800"
+  },
+  {
+    "date": "2020-05-06",
+    "symbol": "NLS",
+    "open": "14.21",
+    "high": "14.21",
+    "low": "14.21",
+    "close": "14.21",
+    "volume": "100",
+    "timestamp": "1588723200"
+  },
+  {
+    "date": "2020-05-07",
+    "symbol": "NLS",
+    "open": "16.33",
+    "high": "16.33",
+    "low": "16.33",
+    "close": "16.33",
+    "volume": "100",
+    "timestamp": "1588809600"
+  },
+  {
+    "date": "2020-05-08",
+    "symbol": "NLS",
+    "open": "18.67",
+    "high": "18.67",
+    "low": "18.67",
+    "close": "18.67",
+    "volume": "100",
+    "timestamp": "1588896000"
+  },
+  {
+    "date": "2020-05-25",
+    "symbol": "NLS",
+    "open": "15.89",
+    "high": "15.89",
+    "low": "15.89",
+    "close": "15.89",
+    "volume": "100",
+    "timestamp": "1590364800"
+  },
+  {
+    "date": "2020-05-26",
+    "symbol": "NLS",
+    "open": "13.55",
+    "high": "13.55",
+    "low": "13.55",
+    "close": "13.55",
+    "volume": "100",
+    "timestamp": "1590451200"
+  },
+  {
+    "date": "2020-05-28",
+    "symbol": "NLS",
+    "open": "11.64",
+    "high": "11.64",
+    "low": "11.64",
+    "close": "11.64",
+    "volume": "100",
+    "timestamp": "1590624000"
+  },
+  {
+    "date": "2020-06-01",
+    "symbol": "NLS",
+    "open": "10.03",
+    "high": "10.03",
+    "low": "10.03",
+    "close": "10.03",
+    "volume": "100",
+    "timestamp": "1590969600"
+  },
+  {
+    "date": "2020-06-02",
+    "symbol": "NLS",
+    "open": "8.64",
+    "high": "8.64",
+    "low": "8.64",
+    "close": "8.64",
+    "volume": "100",
+    "timestamp": "1591056000"
+  },
+  {
+    "date": "2020-11-19",
+    "symbol": "NLS",
+    "open": "5.25",
+    "high": "5.25",
+    "low": "5.25",
+    "close": "5.25",
+    "volume": "100",
+    "timestamp": "1605744000"
+  },
+  {
+    "date": "2021-01-29",
+    "symbol": "NLS",
+    "open": "5.25",
+    "high": "5.25",
+    "low": "5.25",
+    "close": "5.25",
+    "volume": "160000",
+    "timestamp": "1611878400"
+  },
+  {
+    "date": "2021-07-01",
+    "symbol": "NLS",
+    "open": "4.45",
+    "high": "4.45",
+    "low": "4.45",
+    "close": "4.45",
+    "volume": "400",
+    "timestamp": "1625097600"
+  }
+]

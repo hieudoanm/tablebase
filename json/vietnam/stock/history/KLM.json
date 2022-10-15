@@ -1,0 +1,382 @@
+[
+  {
+    "date": "2020-02-06",
+    "symbol": "KLM",
+    "open": "12",
+    "high": "12",
+    "low": "12",
+    "close": "12",
+    "volume": "8300",
+    "timestamp": "1580947200"
+  },
+  {
+    "date": "2020-02-17",
+    "symbol": "KLM",
+    "open": "12",
+    "high": "12",
+    "low": "12",
+    "close": "12",
+    "volume": "2100",
+    "timestamp": "1581897600"
+  },
+  {
+    "date": "2020-06-12",
+    "symbol": "KLM",
+    "open": "15",
+    "high": "15",
+    "low": "15",
+    "close": "15",
+    "volume": "17000",
+    "timestamp": "1591920000"
+  },
+  {
+    "date": "2020-06-15",
+    "symbol": "KLM",
+    "open": "15",
+    "high": "15",
+    "low": "12.8",
+    "close": "12.8",
+    "volume": "16800",
+    "timestamp": "1592179200"
+  },
+  {
+    "date": "2020-06-16",
+    "symbol": "KLM",
+    "open": "12.8",
+    "high": "12.8",
+    "low": "12.8",
+    "close": "12.8",
+    "volume": "200",
+    "timestamp": "1592265600"
+  },
+  {
+    "date": "2020-06-17",
+    "symbol": "KLM",
+    "open": "11",
+    "high": "11",
+    "low": "11",
+    "close": "11",
+    "volume": "200",
+    "timestamp": "1592352000"
+  },
+  {
+    "date": "2020-06-19",
+    "symbol": "KLM",
+    "open": "9.6",
+    "high": "9.6",
+    "low": "9.6",
+    "close": "9.6",
+    "volume": "200",
+    "timestamp": "1592524800"
+  },
+  {
+    "date": "2020-12-21",
+    "symbol": "KLM",
+    "open": "9.6",
+    "high": "9.6",
+    "low": "9.6",
+    "close": "9.6",
+    "volume": "200",
+    "timestamp": "1608508800"
+  },
+  {
+    "date": "2021-07-19",
+    "symbol": "KLM",
+    "open": "13.3",
+    "high": "13.3",
+    "low": "13.3",
+    "close": "13.3",
+    "volume": "300",
+    "timestamp": "1626652800"
+  },
+  {
+    "date": "2021-07-20",
+    "symbol": "KLM",
+    "open": "15.1",
+    "high": "15.1",
+    "low": "15.1",
+    "close": "15.1",
+    "volume": "200",
+    "timestamp": "1626739200"
+  },
+  {
+    "date": "2021-07-21",
+    "symbol": "KLM",
+    "open": "17.2",
+    "high": "17.2",
+    "low": "17.2",
+    "close": "17.2",
+    "volume": "200",
+    "timestamp": "1626825600"
+  },
+  {
+    "date": "2021-07-22",
+    "symbol": "KLM",
+    "open": "19.6",
+    "high": "19.6",
+    "low": "19.6",
+    "close": "19.6",
+    "volume": "500",
+    "timestamp": "1626912000"
+  },
+  {
+    "date": "2021-09-24",
+    "symbol": "KLM",
+    "open": "18.5",
+    "high": "18.5",
+    "low": "18.5",
+    "close": "18.5",
+    "volume": "300",
+    "timestamp": "1632441600"
+  },
+  {
+    "date": "2021-10-15",
+    "symbol": "KLM",
+    "open": "16",
+    "high": "16",
+    "low": "16",
+    "close": "16",
+    "volume": "100",
+    "timestamp": "1634256000"
+  },
+  {
+    "date": "2021-10-20",
+    "symbol": "KLM",
+    "open": "13.6",
+    "high": "13.6",
+    "low": "13.6",
+    "close": "13.6",
+    "volume": "900",
+    "timestamp": "1634688000"
+  },
+  {
+    "date": "2021-10-21",
+    "symbol": "KLM",
+    "open": "11.7",
+    "high": "11.7",
+    "low": "11.7",
+    "close": "11.7",
+    "volume": "1200",
+    "timestamp": "1634774400"
+  },
+  {
+    "date": "2021-10-22",
+    "symbol": "KLM",
+    "open": "10",
+    "high": "10",
+    "low": "10",
+    "close": "10",
+    "volume": "200",
+    "timestamp": "1634860800"
+  },
+  {
+    "date": "2021-10-25",
+    "symbol": "KLM",
+    "open": "10",
+    "high": "10",
+    "low": "10",
+    "close": "10",
+    "volume": "100",
+    "timestamp": "1635120000"
+  },
+  {
+    "date": "2021-11-01",
+    "symbol": "KLM",
+    "open": "11.3",
+    "high": "11.3",
+    "low": "11.3",
+    "close": "11.3",
+    "volume": "400",
+    "timestamp": "1635724800"
+  },
+  {
+    "date": "2021-11-09",
+    "symbol": "KLM",
+    "open": "11.3",
+    "high": "11.3",
+    "low": "11.3",
+    "close": "11.3",
+    "volume": "100",
+    "timestamp": "1636416000"
+  },
+  {
+    "date": "2021-11-10",
+    "symbol": "KLM",
+    "open": "11.3",
+    "high": "11.3",
+    "low": "11",
+    "close": "11",
+    "volume": "300",
+    "timestamp": "1636502400"
+  },
+  {
+    "date": "2021-11-12",
+    "symbol": "KLM",
+    "open": "9.5",
+    "high": "9.5",
+    "low": "9.5",
+    "close": "9.5",
+    "volume": "100",
+    "timestamp": "1636675200"
+  },
+  {
+    "date": "2021-12-03",
+    "symbol": "KLM",
+    "open": "10",
+    "high": "10",
+    "low": "10",
+    "close": "10",
+    "volume": "100",
+    "timestamp": "1638489600"
+  },
+  {
+    "date": "2021-12-09",
+    "symbol": "KLM",
+    "open": "10",
+    "high": "10",
+    "low": "8.6",
+    "close": "8.6",
+    "volume": "300",
+    "timestamp": "1639008000"
+  },
+  {
+    "date": "2021-12-16",
+    "symbol": "KLM",
+    "open": "10.9",
+    "high": "10.9",
+    "low": "10.9",
+    "close": "10.9",
+    "volume": "400",
+    "timestamp": "1639612800"
+  },
+  {
+    "date": "2021-12-17",
+    "symbol": "KLM",
+    "open": "12.5",
+    "high": "12.5",
+    "low": "12.5",
+    "close": "12.5",
+    "volume": "200",
+    "timestamp": "1639699200"
+  },
+  {
+    "date": "2021-12-20",
+    "symbol": "KLM",
+    "open": "14.3",
+    "high": "14.3",
+    "low": "14.3",
+    "close": "14.3",
+    "volume": "500",
+    "timestamp": "1639958400"
+  },
+  {
+    "date": "2021-12-21",
+    "symbol": "KLM",
+    "open": "16.4",
+    "high": "16.4",
+    "low": "16.4",
+    "close": "16.4",
+    "volume": "200",
+    "timestamp": "1640044800"
+  },
+  {
+    "date": "2021-12-22",
+    "symbol": "KLM",
+    "open": "16.4",
+    "high": "18.8",
+    "low": "16.4",
+    "close": "18.8",
+    "volume": "300",
+    "timestamp": "1640131200"
+  },
+  {
+    "date": "2022-01-20",
+    "symbol": "KLM",
+    "open": "16",
+    "high": "16",
+    "low": "16",
+    "close": "16",
+    "volume": "500",
+    "timestamp": "1642636800"
+  },
+  {
+    "date": "2022-03-07",
+    "symbol": "KLM",
+    "open": "16",
+    "high": "16",
+    "low": "16",
+    "close": "16",
+    "volume": "200",
+    "timestamp": "1646611200"
+  },
+  {
+    "date": "2022-04-21",
+    "symbol": "KLM",
+    "open": "9.6",
+    "high": "9.6",
+    "low": "9.6",
+    "close": "9.6",
+    "volume": "100",
+    "timestamp": "1650499200"
+  },
+  {
+    "date": "2022-06-09",
+    "symbol": "KLM",
+    "open": "5.8",
+    "high": "5.8",
+    "low": "5.8",
+    "close": "5.8",
+    "volume": "100",
+    "timestamp": "1654732800"
+  },
+  {
+    "date": "2022-07-18",
+    "symbol": "KLM",
+    "open": "3.6",
+    "high": "3.6",
+    "low": "3.6",
+    "close": "3.6",
+    "volume": "100",
+    "timestamp": "1658102400"
+  },
+  {
+    "date": "2022-07-29",
+    "symbol": "KLM",
+    "open": "4.1",
+    "high": "4.1",
+    "low": "3.6",
+    "close": "3.6",
+    "volume": "800",
+    "timestamp": "1659052800"
+  },
+  {
+    "date": "2022-09-14",
+    "symbol": "KLM",
+    "open": "4.9",
+    "high": "4.9",
+    "low": "4.9",
+    "close": "4.9",
+    "volume": "800",
+    "timestamp": "1663113600"
+  },
+  {
+    "date": "2022-09-20",
+    "symbol": "KLM",
+    "open": "4.2",
+    "high": "4.2",
+    "low": "4.2",
+    "close": "4.2",
+    "volume": "100",
+    "timestamp": "1663632000"
+  },
+  {
+    "date": "2022-09-21",
+    "symbol": "KLM",
+    "open": "4.2",
+    "high": "4.2",
+    "low": "4.2",
+    "close": "4.2",
+    "volume": "500",
+    "timestamp": "1663718400"
+  }
+]

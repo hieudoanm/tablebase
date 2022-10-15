@@ -1,0 +1,114 @@
+[
+  {
+    "name": "New South Wales",
+    "postal": "NSW",
+    "code": "AU-NSW",
+    "capital": "Sydney",
+    "largest": "Sydney"
+  },
+  {
+    "name": "Victoria",
+    "postal": "VIC",
+    "code": "AU-VIC",
+    "capital": "Melbourne",
+    "largest": "Melbourne"
+  },
+  {
+    "name": "Queensland",
+    "postal": "QLD",
+    "code": "AU-QLD",
+    "capital": "Brisbane",
+    "largest": "Brisbane"
+  },
+  {
+    "name": "Western Australia",
+    "postal": "WA",
+    "code": "AU-WA",
+    "capital": "Perth",
+    "largest": "Perth"
+  },
+  {
+    "name": "South Australia",
+    "postal": "SA",
+    "code": "AU-SA",
+    "capital": "Adelaide",
+    "largest": "Adelaide"
+  },
+  {
+    "name": "Tasmania",
+    "postal": "TAS",
+    "code": "AU-TAS",
+    "capital": "Hobart",
+    "largest": "Hobart"
+  },
+  {
+    "name": "Australian Capital Territory",
+    "postal": "ACT",
+    "code": "AU-ACT",
+    "capital": "Canberra",
+    "largest": "Canberra"
+  },
+  {
+    "name": "Northern Territory",
+    "postal": "NT",
+    "code": "AU-NT",
+    "capital": "Darwin",
+    "largest": "Darwin"
+  },
+  {
+    "name": "Jervis Bay Territory",
+    "postal": "JBT",
+    "code": "AU-JBT",
+    "capital": "",
+    "largest": "Jervis Bay Village"
+  },
+  {
+    "name": "Christmas Island",
+    "postal": "WA",
+    "code": "CX",
+    "capital": "Flying Fish Cove",
+    "largest": "Flying Fish Cove"
+  },
+  {
+    "name": "Norfolk Island",
+    "postal": "NSW",
+    "code": "NF",
+    "capital": "Kingston",
+    "largest": "Kingston"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "postal": "WA",
+    "code": "CC",
+    "capital": "West Island",
+    "largest": "West Island"
+  },
+  {
+    "name": "Australian Antarctic Territory",
+    "postal": "TAS",
+    "code": "AQ",
+    "capital": "",
+    "largest": "Davis Station"
+  },
+  {
+    "name": "Coral Sea Islands",
+    "postal": "",
+    "code": "",
+    "capital": "",
+    "largest": "Willis Island"
+  },
+  {
+    "name": "Ashmore and Cartier Islands",
+    "postal": "",
+    "code": "",
+    "capital": "",
+    "largest": ""
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "postal": "TAS",
+    "code": "HM",
+    "capital": "",
+    "largest": "Atlas Cove"
+  }
+]

@@ -1,0 +1,1432 @@
+[
+  {
+    "date": "2010-07-05",
+    "symbol": "VHF",
+    "open": "114.41",
+    "high": "114.41",
+    "low": "114.41",
+    "close": "114.41",
+    "volume": "10",
+    "timestamp": "1278288000"
+  },
+  {
+    "date": "2010-07-15",
+    "symbol": "VHF",
+    "open": "115.33",
+    "high": "115.33",
+    "low": "115.33",
+    "close": "115.33",
+    "volume": "10",
+    "timestamp": "1279152000"
+  },
+  {
+    "date": "2011-03-14",
+    "symbol": "VHF",
+    "open": "29.29",
+    "high": "29.29",
+    "low": "29.29",
+    "close": "29.29",
+    "volume": "37300",
+    "timestamp": "1300060800"
+  },
+  {
+    "date": "2011-03-18",
+    "symbol": "VHF",
+    "open": "32.22",
+    "high": "32.22",
+    "low": "32.22",
+    "close": "32.22",
+    "volume": "300",
+    "timestamp": "1300406400"
+  },
+  {
+    "date": "2011-03-22",
+    "symbol": "VHF",
+    "open": "29.29",
+    "high": "29.29",
+    "low": "29.29",
+    "close": "29.29",
+    "volume": "1600",
+    "timestamp": "1300752000"
+  },
+  {
+    "date": "2011-03-23",
+    "symbol": "VHF",
+    "open": "30.2",
+    "high": "30.2",
+    "low": "30.2",
+    "close": "30.2",
+    "volume": "200",
+    "timestamp": "1300838400"
+  },
+  {
+    "date": "2011-03-28",
+    "symbol": "VHF",
+    "open": "32.95",
+    "high": "32.95",
+    "low": "32.95",
+    "close": "32.95",
+    "volume": "2000",
+    "timestamp": "1301270400"
+  },
+  {
+    "date": "2011-04-07",
+    "symbol": "VHF",
+    "open": "29.66",
+    "high": "29.66",
+    "low": "29.66",
+    "close": "29.66",
+    "volume": "13600",
+    "timestamp": "1302134400"
+  },
+  {
+    "date": "2011-04-19",
+    "symbol": "VHF",
+    "open": "29.66",
+    "high": "29.66",
+    "low": "29.66",
+    "close": "29.66",
+    "volume": "1100",
+    "timestamp": "1303171200"
+  },
+  {
+    "date": "2011-05-26",
+    "symbol": "VHF",
+    "open": "26.73",
+    "high": "26.73",
+    "low": "26.73",
+    "close": "26.73",
+    "volume": "1000",
+    "timestamp": "1306368000"
+  },
+  {
+    "date": "2011-07-05",
+    "symbol": "VHF",
+    "open": "16.11",
+    "high": "16.11",
+    "low": "16.11",
+    "close": "16.11",
+    "volume": "1000",
+    "timestamp": "1309824000"
+  },
+  {
+    "date": "2011-07-07",
+    "symbol": "VHF",
+    "open": "15.56",
+    "high": "15.56",
+    "low": "15.56",
+    "close": "15.56",
+    "volume": "500",
+    "timestamp": "1309996800"
+  },
+  {
+    "date": "2011-07-08",
+    "symbol": "VHF",
+    "open": "17.12",
+    "high": "17.12",
+    "low": "17.12",
+    "close": "17.12",
+    "volume": "100",
+    "timestamp": "1310083200"
+  },
+  {
+    "date": "2011-07-11",
+    "symbol": "VHF",
+    "open": "18.76",
+    "high": "18.76",
+    "low": "18.76",
+    "close": "18.76",
+    "volume": "1500",
+    "timestamp": "1310342400"
+  },
+  {
+    "date": "2011-07-12",
+    "symbol": "VHF",
+    "open": "16.93",
+    "high": "16.93",
+    "low": "16.93",
+    "close": "16.93",
+    "volume": "1800",
+    "timestamp": "1310428800"
+  },
+  {
+    "date": "2011-07-25",
+    "symbol": "VHF",
+    "open": "18.58",
+    "high": "18.58",
+    "low": "18.58",
+    "close": "18.58",
+    "volume": "10000",
+    "timestamp": "1311552000"
+  },
+  {
+    "date": "2011-08-03",
+    "symbol": "VHF",
+    "open": "16.75",
+    "high": "16.75",
+    "low": "16.75",
+    "close": "16.75",
+    "volume": "100",
+    "timestamp": "1312329600"
+  },
+  {
+    "date": "2011-08-05",
+    "symbol": "VHF",
+    "open": "15.1",
+    "high": "15.1",
+    "low": "15.1",
+    "close": "15.1",
+    "volume": "100",
+    "timestamp": "1312502400"
+  },
+  {
+    "date": "2011-08-17",
+    "symbol": "VHF",
+    "open": "13.64",
+    "high": "13.64",
+    "low": "13.64",
+    "close": "13.64",
+    "volume": "100",
+    "timestamp": "1313539200"
+  },
+  {
+    "date": "2011-08-18",
+    "symbol": "VHF",
+    "open": "12.36",
+    "high": "12.36",
+    "low": "12.36",
+    "close": "12.36",
+    "volume": "100",
+    "timestamp": "1313625600"
+  },
+  {
+    "date": "2011-08-19",
+    "symbol": "VHF",
+    "open": "13.55",
+    "high": "13.55",
+    "low": "13.55",
+    "close": "13.55",
+    "volume": "800",
+    "timestamp": "1313712000"
+  },
+  {
+    "date": "2011-08-25",
+    "symbol": "VHF",
+    "open": "14.83",
+    "high": "14.83",
+    "low": "12.36",
+    "close": "12.36",
+    "volume": "2800",
+    "timestamp": "1314230400"
+  },
+  {
+    "date": "2011-08-26",
+    "symbol": "VHF",
+    "open": "13.64",
+    "high": "13.64",
+    "low": "13.64",
+    "close": "13.64",
+    "volume": "100",
+    "timestamp": "1314316800"
+  },
+  {
+    "date": "2011-08-31",
+    "symbol": "VHF",
+    "open": "10.89",
+    "high": "10.89",
+    "low": "10.89",
+    "close": "10.89",
+    "volume": "100",
+    "timestamp": "1314748800"
+  },
+  {
+    "date": "2011-09-16",
+    "symbol": "VHF",
+    "open": "10.07",
+    "high": "10.07",
+    "low": "10.07",
+    "close": "10.07",
+    "volume": "6400",
+    "timestamp": "1316131200"
+  },
+  {
+    "date": "2011-10-20",
+    "symbol": "VHF",
+    "open": "11.07",
+    "high": "11.07",
+    "low": "11.07",
+    "close": "11.07",
+    "volume": "100",
+    "timestamp": "1319068800"
+  },
+  {
+    "date": "2011-10-27",
+    "symbol": "VHF",
+    "open": "12.17",
+    "high": "12.17",
+    "low": "12.17",
+    "close": "12.17",
+    "volume": "300",
+    "timestamp": "1319673600"
+  },
+  {
+    "date": "2012-05-21",
+    "symbol": "VHF",
+    "open": "7.32",
+    "high": "7.32",
+    "low": "7.32",
+    "close": "7.32",
+    "volume": "4000",
+    "timestamp": "1337558400"
+  },
+  {
+    "date": "2012-06-06",
+    "symbol": "VHF",
+    "open": "8.05",
+    "high": "8.05",
+    "low": "8.05",
+    "close": "8.05",
+    "volume": "100",
+    "timestamp": "1338940800"
+  },
+  {
+    "date": "2012-06-12",
+    "symbol": "VHF",
+    "open": "8.79",
+    "high": "8.79",
+    "low": "8.79",
+    "close": "8.79",
+    "volume": "100",
+    "timestamp": "1339459200"
+  },
+  {
+    "date": "2012-06-18",
+    "symbol": "VHF",
+    "open": "9.61",
+    "high": "9.61",
+    "low": "9.61",
+    "close": "9.61",
+    "volume": "100",
+    "timestamp": "1339977600"
+  },
+  {
+    "date": "2012-07-26",
+    "symbol": "VHF",
+    "open": "10.34",
+    "high": "10.34",
+    "low": "10.34",
+    "close": "10.34",
+    "volume": "100",
+    "timestamp": "1343260800"
+  },
+  {
+    "date": "2012-08-01",
+    "symbol": "VHF",
+    "open": "10.25",
+    "high": "10.25",
+    "low": "10.25",
+    "close": "10.25",
+    "volume": "100",
+    "timestamp": "1343779200"
+  },
+  {
+    "date": "2012-08-09",
+    "symbol": "VHF",
+    "open": "11.26",
+    "high": "11.26",
+    "low": "11.26",
+    "close": "11.26",
+    "volume": "100",
+    "timestamp": "1344470400"
+  },
+  {
+    "date": "2012-09-14",
+    "symbol": "VHF",
+    "open": "10.16",
+    "high": "10.16",
+    "low": "10.16",
+    "close": "10.16",
+    "volume": "1600",
+    "timestamp": "1347580800"
+  },
+  {
+    "date": "2012-12-13",
+    "symbol": "VHF",
+    "open": "12.81",
+    "high": "12.81",
+    "low": "12.81",
+    "close": "12.81",
+    "volume": "100",
+    "timestamp": "1355356800"
+  },
+  {
+    "date": "2013-01-07",
+    "symbol": "VHF",
+    "open": "12.81",
+    "high": "12.81",
+    "low": "12.81",
+    "close": "12.81",
+    "volume": "200",
+    "timestamp": "1357516800"
+  },
+  {
+    "date": "2013-02-20",
+    "symbol": "VHF",
+    "open": "7.69",
+    "high": "7.69",
+    "low": "7.69",
+    "close": "7.69",
+    "volume": "1400",
+    "timestamp": "1361318400"
+  },
+  {
+    "date": "2013-02-27",
+    "symbol": "VHF",
+    "open": "6.96",
+    "high": "6.96",
+    "low": "6.96",
+    "close": "6.96",
+    "volume": "1600",
+    "timestamp": "1361923200"
+  },
+  {
+    "date": "2013-03-04",
+    "symbol": "VHF",
+    "open": "7.6",
+    "high": "7.6",
+    "low": "7.6",
+    "close": "7.6",
+    "volume": "100",
+    "timestamp": "1362355200"
+  },
+  {
+    "date": "2013-03-07",
+    "symbol": "VHF",
+    "open": "7.32",
+    "high": "7.32",
+    "low": "7.32",
+    "close": "7.32",
+    "volume": "1500",
+    "timestamp": "1362614400"
+  },
+  {
+    "date": "2013-03-11",
+    "symbol": "VHF",
+    "open": "8.05",
+    "high": "8.05",
+    "low": "8.05",
+    "close": "8.05",
+    "volume": "100",
+    "timestamp": "1362960000"
+  },
+  {
+    "date": "2013-03-15",
+    "symbol": "VHF",
+    "open": "8.79",
+    "high": "8.79",
+    "low": "8.79",
+    "close": "8.79",
+    "volume": "100",
+    "timestamp": "1363305600"
+  },
+  {
+    "date": "2013-03-18",
+    "symbol": "VHF",
+    "open": "7.96",
+    "high": "7.96",
+    "low": "7.96",
+    "close": "7.96",
+    "volume": "1200",
+    "timestamp": "1363564800"
+  },
+  {
+    "date": "2013-03-19",
+    "symbol": "VHF",
+    "open": "7.32",
+    "high": "7.96",
+    "low": "7.32",
+    "close": "7.96",
+    "volume": "1300",
+    "timestamp": "1363651200"
+  },
+  {
+    "date": "2013-03-20",
+    "symbol": "VHF",
+    "open": "8.05",
+    "high": "8.05",
+    "low": "8.05",
+    "close": "8.05",
+    "volume": "100",
+    "timestamp": "1363737600"
+  },
+  {
+    "date": "2013-03-26",
+    "symbol": "VHF",
+    "open": "8.7",
+    "high": "8.7",
+    "low": "8.7",
+    "close": "8.7",
+    "volume": "100",
+    "timestamp": "1364256000"
+  },
+  {
+    "date": "2013-03-27",
+    "symbol": "VHF",
+    "open": "7.87",
+    "high": "7.87",
+    "low": "7.87",
+    "close": "7.87",
+    "volume": "1100",
+    "timestamp": "1364342400"
+  },
+  {
+    "date": "2013-03-28",
+    "symbol": "VHF",
+    "open": "8.6",
+    "high": "8.6",
+    "low": "8.6",
+    "close": "8.6",
+    "volume": "100",
+    "timestamp": "1364428800"
+  },
+  {
+    "date": "2013-03-29",
+    "symbol": "VHF",
+    "open": "9.34",
+    "high": "9.34",
+    "low": "9.34",
+    "close": "9.34",
+    "volume": "100",
+    "timestamp": "1364515200"
+  },
+  {
+    "date": "2013-04-02",
+    "symbol": "VHF",
+    "open": "8.7",
+    "high": "10.25",
+    "low": "8.7",
+    "close": "10.25",
+    "volume": "1200",
+    "timestamp": "1364860800"
+  },
+  {
+    "date": "2013-04-08",
+    "symbol": "VHF",
+    "open": "8.05",
+    "high": "8.05",
+    "low": "8.05",
+    "close": "8.05",
+    "volume": "1300",
+    "timestamp": "1365379200"
+  },
+  {
+    "date": "2013-04-18",
+    "symbol": "VHF",
+    "open": "7.41",
+    "high": "7.41",
+    "low": "7.41",
+    "close": "7.41",
+    "volume": "1000",
+    "timestamp": "1366243200"
+  },
+  {
+    "date": "2013-04-22",
+    "symbol": "VHF",
+    "open": "8.05",
+    "high": "8.05",
+    "low": "8.05",
+    "close": "8.05",
+    "volume": "100",
+    "timestamp": "1366588800"
+  },
+  {
+    "date": "2013-04-23",
+    "symbol": "VHF",
+    "open": "8.79",
+    "high": "8.79",
+    "low": "8.79",
+    "close": "8.79",
+    "volume": "100",
+    "timestamp": "1366675200"
+  },
+  {
+    "date": "2013-04-25",
+    "symbol": "VHF",
+    "open": "9.61",
+    "high": "9.61",
+    "low": "9.61",
+    "close": "9.61",
+    "volume": "100",
+    "timestamp": "1366848000"
+  },
+  {
+    "date": "2013-09-17",
+    "symbol": "VHF",
+    "open": "12.81",
+    "high": "12.81",
+    "low": "12.81",
+    "close": "12.81",
+    "volume": "100",
+    "timestamp": "1379376000"
+  },
+  {
+    "date": "2013-12-06",
+    "symbol": "VHF",
+    "open": "7.6",
+    "high": "7.6",
+    "low": "7.6",
+    "close": "7.6",
+    "volume": "100",
+    "timestamp": "1386288000"
+  },
+  {
+    "date": "2013-12-11",
+    "symbol": "VHF",
+    "open": "8.24",
+    "high": "8.24",
+    "low": "8.24",
+    "close": "8.24",
+    "volume": "100",
+    "timestamp": "1386720000"
+  },
+  {
+    "date": "2013-12-18",
+    "symbol": "VHF",
+    "open": "8.79",
+    "high": "8.79",
+    "low": "8.79",
+    "close": "8.79",
+    "volume": "100",
+    "timestamp": "1387324800"
+  },
+  {
+    "date": "2013-12-26",
+    "symbol": "VHF",
+    "open": "9.34",
+    "high": "9.34",
+    "low": "9.34",
+    "close": "9.34",
+    "volume": "100",
+    "timestamp": "1388016000"
+  },
+  {
+    "date": "2014-02-11",
+    "symbol": "VHF",
+    "open": "9.34",
+    "high": "10.07",
+    "low": "9.34",
+    "close": "10.07",
+    "volume": "1100",
+    "timestamp": "1392076800"
+  },
+  {
+    "date": "2014-03-06",
+    "symbol": "VHF",
+    "open": "10.07",
+    "high": "10.07",
+    "low": "10.07",
+    "close": "10.07",
+    "volume": "100",
+    "timestamp": "1394064000"
+  },
+  {
+    "date": "2014-04-16",
+    "symbol": "VHF",
+    "open": "10.53",
+    "high": "10.53",
+    "low": "10.53",
+    "close": "10.53",
+    "volume": "100",
+    "timestamp": "1397606400"
+  },
+  {
+    "date": "2014-06-12",
+    "symbol": "VHF",
+    "open": "11.44",
+    "high": "11.44",
+    "low": "11.44",
+    "close": "11.44",
+    "volume": "100",
+    "timestamp": "1402531200"
+  },
+  {
+    "date": "2014-07-28",
+    "symbol": "VHF",
+    "open": "11.35",
+    "high": "11.35",
+    "low": "11.35",
+    "close": "11.35",
+    "volume": "100",
+    "timestamp": "1406505600"
+  },
+  {
+    "date": "2014-09-10",
+    "symbol": "VHF",
+    "open": "11.26",
+    "high": "11.26",
+    "low": "11.26",
+    "close": "11.26",
+    "volume": "100",
+    "timestamp": "1410307200"
+  },
+  {
+    "date": "2014-11-04",
+    "symbol": "VHF",
+    "open": "6.87",
+    "high": "11.17",
+    "low": "6.77",
+    "close": "11.17",
+    "volume": "7800",
+    "timestamp": "1415059200"
+  },
+  {
+    "date": "2014-11-07",
+    "symbol": "VHF",
+    "open": "7.6",
+    "high": "7.6",
+    "low": "7.6",
+    "close": "7.6",
+    "volume": "100",
+    "timestamp": "1415318400"
+  },
+  {
+    "date": "2014-11-11",
+    "symbol": "VHF",
+    "open": "8.33",
+    "high": "8.33",
+    "low": "8.33",
+    "close": "8.33",
+    "volume": "100",
+    "timestamp": "1415664000"
+  },
+  {
+    "date": "2014-11-14",
+    "symbol": "VHF",
+    "open": "9.06",
+    "high": "9.06",
+    "low": "9.06",
+    "close": "9.06",
+    "volume": "100",
+    "timestamp": "1415923200"
+  },
+  {
+    "date": "2014-11-19",
+    "symbol": "VHF",
+    "open": "9.7",
+    "high": "9.7",
+    "low": "9.7",
+    "close": "9.7",
+    "volume": "100",
+    "timestamp": "1416355200"
+  },
+  {
+    "date": "2014-11-28",
+    "symbol": "VHF",
+    "open": "10.53",
+    "high": "10.53",
+    "low": "10.53",
+    "close": "10.53",
+    "volume": "100",
+    "timestamp": "1417132800"
+  },
+  {
+    "date": "2014-12-10",
+    "symbol": "VHF",
+    "open": "10.71",
+    "high": "10.71",
+    "low": "10.71",
+    "close": "10.71",
+    "volume": "100",
+    "timestamp": "1418169600"
+  },
+  {
+    "date": "2015-01-07",
+    "symbol": "VHF",
+    "open": "10.62",
+    "high": "10.62",
+    "low": "10.62",
+    "close": "10.62",
+    "volume": "200",
+    "timestamp": "1420588800"
+  },
+  {
+    "date": "2015-01-26",
+    "symbol": "VHF",
+    "open": "9.61",
+    "high": "9.61",
+    "low": "9.61",
+    "close": "9.61",
+    "volume": "26000",
+    "timestamp": "1422230400"
+  },
+  {
+    "date": "2015-03-03",
+    "symbol": "VHF",
+    "open": "9.61",
+    "high": "9.61",
+    "low": "9.61",
+    "close": "9.61",
+    "volume": "100",
+    "timestamp": "1425340800"
+  },
+  {
+    "date": "2015-03-12",
+    "symbol": "VHF",
+    "open": "8.7",
+    "high": "8.7",
+    "low": "8.7",
+    "close": "8.7",
+    "volume": "100",
+    "timestamp": "1426118400"
+  },
+  {
+    "date": "2015-03-13",
+    "symbol": "VHF",
+    "open": "7.87",
+    "high": "9.52",
+    "low": "7.87",
+    "close": "9.52",
+    "volume": "200",
+    "timestamp": "1426204800"
+  },
+  {
+    "date": "2015-03-17",
+    "symbol": "VHF",
+    "open": "9.52",
+    "high": "9.52",
+    "low": "9.52",
+    "close": "9.52",
+    "volume": "300",
+    "timestamp": "1426550400"
+  },
+  {
+    "date": "2015-03-18",
+    "symbol": "VHF",
+    "open": "8.6",
+    "high": "8.6",
+    "low": "8.6",
+    "close": "8.6",
+    "volume": "200",
+    "timestamp": "1426636800"
+  },
+  {
+    "date": "2015-03-19",
+    "symbol": "VHF",
+    "open": "9.43",
+    "high": "9.43",
+    "low": "9.43",
+    "close": "9.43",
+    "volume": "100",
+    "timestamp": "1426723200"
+  },
+  {
+    "date": "2015-03-24",
+    "symbol": "VHF",
+    "open": "10.25",
+    "high": "10.25",
+    "low": "10.25",
+    "close": "10.25",
+    "volume": "200",
+    "timestamp": "1427155200"
+  },
+  {
+    "date": "2015-03-25",
+    "symbol": "VHF",
+    "open": "9.24",
+    "high": "11.17",
+    "low": "9.24",
+    "close": "11.17",
+    "volume": "200",
+    "timestamp": "1427241600"
+  },
+  {
+    "date": "2015-03-26",
+    "symbol": "VHF",
+    "open": "11.26",
+    "high": "11.26",
+    "low": "11.26",
+    "close": "11.26",
+    "volume": "100",
+    "timestamp": "1427328000"
+  },
+  {
+    "date": "2015-03-27",
+    "symbol": "VHF",
+    "open": "11.9",
+    "high": "11.9",
+    "low": "11.9",
+    "close": "11.9",
+    "volume": "100",
+    "timestamp": "1427414400"
+  },
+  {
+    "date": "2015-04-24",
+    "symbol": "VHF",
+    "open": "10.71",
+    "high": "10.71",
+    "low": "10.71",
+    "close": "10.71",
+    "volume": "100",
+    "timestamp": "1429833600"
+  },
+  {
+    "date": "2015-05-06",
+    "symbol": "VHF",
+    "open": "9.7",
+    "high": "11.62",
+    "low": "9.7",
+    "close": "11.62",
+    "volume": "200",
+    "timestamp": "1430870400"
+  },
+  {
+    "date": "2015-05-07",
+    "symbol": "VHF",
+    "open": "11.62",
+    "high": "11.62",
+    "low": "11.62",
+    "close": "11.62",
+    "volume": "200",
+    "timestamp": "1430956800"
+  },
+  {
+    "date": "2015-05-28",
+    "symbol": "VHF",
+    "open": "11.9",
+    "high": "11.9",
+    "low": "11.9",
+    "close": "11.9",
+    "volume": "1100",
+    "timestamp": "1432771200"
+  },
+  {
+    "date": "2015-07-01",
+    "symbol": "VHF",
+    "open": "11.9",
+    "high": "11.9",
+    "low": "11.9",
+    "close": "11.9",
+    "volume": "100",
+    "timestamp": "1435708800"
+  },
+  {
+    "date": "2015-11-04",
+    "symbol": "VHF",
+    "open": "9.15",
+    "high": "9.15",
+    "low": "9.15",
+    "close": "9.15",
+    "volume": "200",
+    "timestamp": "1446595200"
+  },
+  {
+    "date": "2016-02-03",
+    "symbol": "VHF",
+    "open": "5.49",
+    "high": "5.49",
+    "low": "5.49",
+    "close": "5.49",
+    "volume": "10000",
+    "timestamp": "1454457600"
+  },
+  {
+    "date": "2016-04-05",
+    "symbol": "VHF",
+    "open": "3.29",
+    "high": "5.49",
+    "low": "3.29",
+    "close": "5.49",
+    "volume": "16100",
+    "timestamp": "1459814400"
+  },
+  {
+    "date": "2016-04-06",
+    "symbol": "VHF",
+    "open": "5.49",
+    "high": "5.49",
+    "low": "5.49",
+    "close": "5.49",
+    "volume": "10000",
+    "timestamp": "1459900800"
+  },
+  {
+    "date": "2016-04-11",
+    "symbol": "VHF",
+    "open": "6.32",
+    "high": "6.32",
+    "low": "6.32",
+    "close": "6.32",
+    "volume": "4000",
+    "timestamp": "1460332800"
+  },
+  {
+    "date": "2016-05-05",
+    "symbol": "VHF",
+    "open": "5.4",
+    "high": "5.4",
+    "low": "5.4",
+    "close": "5.4",
+    "volume": "1500",
+    "timestamp": "1462406400"
+  },
+  {
+    "date": "2016-05-06",
+    "symbol": "VHF",
+    "open": "6.13",
+    "high": "6.13",
+    "low": "6.13",
+    "close": "6.13",
+    "volume": "100",
+    "timestamp": "1462492800"
+  },
+  {
+    "date": "2016-09-06",
+    "symbol": "VHF",
+    "open": "8.51",
+    "high": "8.51",
+    "low": "8.51",
+    "close": "8.51",
+    "volume": "100",
+    "timestamp": "1473120000"
+  },
+  {
+    "date": "2016-09-07",
+    "symbol": "VHF",
+    "open": "9.7",
+    "high": "9.7",
+    "low": "9.7",
+    "close": "9.7",
+    "volume": "100",
+    "timestamp": "1473206400"
+  },
+  {
+    "date": "2016-09-08",
+    "symbol": "VHF",
+    "open": "10.98",
+    "high": "10.98",
+    "low": "10.98",
+    "close": "10.98",
+    "volume": "100",
+    "timestamp": "1473292800"
+  },
+  {
+    "date": "2016-09-09",
+    "symbol": "VHF",
+    "open": "12.54",
+    "high": "12.54",
+    "low": "12.54",
+    "close": "12.54",
+    "volume": "100",
+    "timestamp": "1473379200"
+  },
+  {
+    "date": "2016-09-12",
+    "symbol": "VHF",
+    "open": "14.28",
+    "high": "14.28",
+    "low": "14.28",
+    "close": "14.28",
+    "volume": "100",
+    "timestamp": "1473638400"
+  },
+  {
+    "date": "2016-09-20",
+    "symbol": "VHF",
+    "open": "16.38",
+    "high": "16.38",
+    "low": "16.38",
+    "close": "16.38",
+    "volume": "100",
+    "timestamp": "1474329600"
+  },
+  {
+    "date": "2016-10-03",
+    "symbol": "VHF",
+    "open": "15.83",
+    "high": "16.57",
+    "low": "15.83",
+    "close": "16.57",
+    "volume": "20000",
+    "timestamp": "1475452800"
+  },
+  {
+    "date": "2016-10-21",
+    "symbol": "VHF",
+    "open": "13.96",
+    "high": "16.2",
+    "low": "13.78",
+    "close": "13.78",
+    "volume": "1700",
+    "timestamp": "1477008000"
+  },
+  {
+    "date": "2016-12-13",
+    "symbol": "VHF",
+    "open": "15.64",
+    "high": "15.64",
+    "low": "15.64",
+    "close": "15.64",
+    "volume": "3000",
+    "timestamp": "1481587200"
+  },
+  {
+    "date": "2017-01-06",
+    "symbol": "VHF",
+    "open": "13.31",
+    "high": "15.64",
+    "low": "13.31",
+    "close": "15.64",
+    "volume": "2800",
+    "timestamp": "1483660800"
+  },
+  {
+    "date": "2017-03-03",
+    "symbol": "VHF",
+    "open": "8.1",
+    "high": "8.1",
+    "low": "8.1",
+    "close": "8.1",
+    "volume": "2000",
+    "timestamp": "1488499200"
+  },
+  {
+    "date": "2017-03-06",
+    "symbol": "VHF",
+    "open": "9.31",
+    "high": "9.31",
+    "low": "9.31",
+    "close": "9.31",
+    "volume": "100",
+    "timestamp": "1488758400"
+  },
+  {
+    "date": "2017-03-07",
+    "symbol": "VHF",
+    "open": "10.71",
+    "high": "10.71",
+    "low": "10.71",
+    "close": "10.71",
+    "volume": "100",
+    "timestamp": "1488844800"
+  },
+  {
+    "date": "2017-03-09",
+    "symbol": "VHF",
+    "open": "12.29",
+    "high": "12.29",
+    "low": "12.29",
+    "close": "12.29",
+    "volume": "100",
+    "timestamp": "1489017600"
+  },
+  {
+    "date": "2017-03-14",
+    "symbol": "VHF",
+    "open": "14.06",
+    "high": "14.06",
+    "low": "14.06",
+    "close": "14.06",
+    "volume": "100",
+    "timestamp": "1489449600"
+  },
+  {
+    "date": "2017-03-16",
+    "symbol": "VHF",
+    "open": "16.11",
+    "high": "16.11",
+    "low": "16.11",
+    "close": "16.11",
+    "volume": "100",
+    "timestamp": "1489622400"
+  },
+  {
+    "date": "2017-07-25",
+    "symbol": "VHF",
+    "open": "16.11",
+    "high": "16.11",
+    "low": "16.11",
+    "close": "16.11",
+    "volume": "20000",
+    "timestamp": "1500940800"
+  },
+  {
+    "date": "2017-10-13",
+    "symbol": "VHF",
+    "open": "16.11",
+    "high": "16.11",
+    "low": "16.11",
+    "close": "16.11",
+    "volume": "6000",
+    "timestamp": "1507852800"
+  },
+  {
+    "date": "2017-10-18",
+    "symbol": "VHF",
+    "open": "16.66",
+    "high": "16.66",
+    "low": "16.66",
+    "close": "16.66",
+    "volume": "6000",
+    "timestamp": "1508284800"
+  },
+  {
+    "date": "2017-12-18",
+    "symbol": "VHF",
+    "open": "10.05",
+    "high": "11.08",
+    "low": "10.05",
+    "close": "11.08",
+    "volume": "9100",
+    "timestamp": "1513555200"
+  },
+  {
+    "date": "2017-12-19",
+    "symbol": "VHF",
+    "open": "12.66",
+    "high": "12.66",
+    "low": "12.66",
+    "close": "12.66",
+    "volume": "100",
+    "timestamp": "1513641600"
+  },
+  {
+    "date": "2017-12-20",
+    "symbol": "VHF",
+    "open": "14.52",
+    "high": "14.52",
+    "low": "14.52",
+    "close": "14.52",
+    "volume": "100",
+    "timestamp": "1513728000"
+  },
+  {
+    "date": "2017-12-21",
+    "symbol": "VHF",
+    "open": "16.66",
+    "high": "16.66",
+    "low": "16.66",
+    "close": "16.66",
+    "volume": "100",
+    "timestamp": "1513814400"
+  },
+  {
+    "date": "2017-12-27",
+    "symbol": "VHF",
+    "open": "19.08",
+    "high": "19.08",
+    "low": "19.08",
+    "close": "19.08",
+    "volume": "100",
+    "timestamp": "1514332800"
+  },
+  {
+    "date": "2017-12-28",
+    "symbol": "VHF",
+    "open": "21.88",
+    "high": "21.88",
+    "low": "21.88",
+    "close": "21.88",
+    "volume": "100",
+    "timestamp": "1514419200"
+  },
+  {
+    "date": "2018-01-02",
+    "symbol": "VHF",
+    "open": "24.95",
+    "high": "24.95",
+    "low": "24.86",
+    "close": "24.86",
+    "volume": "200",
+    "timestamp": "1514851200"
+  },
+  {
+    "date": "2018-01-03",
+    "symbol": "VHF",
+    "open": "26.25",
+    "high": "26.53",
+    "low": "26.25",
+    "close": "26.53",
+    "volume": "200",
+    "timestamp": "1514937600"
+  },
+  {
+    "date": "2018-03-14",
+    "symbol": "VHF",
+    "open": "15.92",
+    "high": "15.92",
+    "low": "15.92",
+    "close": "15.92",
+    "volume": "3100",
+    "timestamp": "1520985600"
+  },
+  {
+    "date": "2018-03-20",
+    "symbol": "VHF",
+    "open": "17.69",
+    "high": "17.69",
+    "low": "17.69",
+    "close": "17.69",
+    "volume": "10000",
+    "timestamp": "1521504000"
+  },
+  {
+    "date": "2018-03-21",
+    "symbol": "VHF",
+    "open": "19.55",
+    "high": "19.55",
+    "low": "19.55",
+    "close": "19.55",
+    "volume": "100",
+    "timestamp": "1521590400"
+  },
+  {
+    "date": "2018-05-17",
+    "symbol": "VHF",
+    "open": "11.73",
+    "high": "27.37",
+    "low": "11.73",
+    "close": "27.37",
+    "volume": "8600",
+    "timestamp": "1526515200"
+  },
+  {
+    "date": "2018-05-18",
+    "symbol": "VHF",
+    "open": "23.27",
+    "high": "23.27",
+    "low": "23.27",
+    "close": "23.27",
+    "volume": "20000",
+    "timestamp": "1526601600"
+  },
+  {
+    "date": "2018-05-30",
+    "symbol": "VHF",
+    "open": "20.57",
+    "high": "20.57",
+    "low": "20.57",
+    "close": "20.57",
+    "volume": "4500",
+    "timestamp": "1527638400"
+  },
+  {
+    "date": "2018-07-27",
+    "symbol": "VHF",
+    "open": "20.57",
+    "high": "20.57",
+    "low": "20.57",
+    "close": "20.57",
+    "volume": "6000",
+    "timestamp": "1532649600"
+  },
+  {
+    "date": "2018-08-24",
+    "symbol": "VHF",
+    "open": "20.85",
+    "high": "20.85",
+    "low": "20.85",
+    "close": "20.85",
+    "volume": "6000",
+    "timestamp": "1535068800"
+  },
+  {
+    "date": "2018-10-29",
+    "symbol": "VHF",
+    "open": "20.85",
+    "high": "20.85",
+    "low": "20.85",
+    "close": "20.85",
+    "volume": "9000",
+    "timestamp": "1540771200"
+  },
+  {
+    "date": "2019-03-29",
+    "symbol": "VHF",
+    "open": "20.85",
+    "high": "20.85",
+    "low": "20.85",
+    "close": "20.85",
+    "volume": "100",
+    "timestamp": "1553817600"
+  },
+  {
+    "date": "2019-11-04",
+    "symbol": "VHF",
+    "open": "20.9",
+    "high": "20.9",
+    "low": "20.9",
+    "close": "20.9",
+    "volume": "20000",
+    "timestamp": "1572825600"
+  },
+  {
+    "date": "2020-03-03",
+    "symbol": "VHF",
+    "open": "12.56",
+    "high": "12.56",
+    "low": "12.56",
+    "close": "12.56",
+    "volume": "2500",
+    "timestamp": "1583193600"
+  },
+  {
+    "date": "2020-07-03",
+    "symbol": "VHF",
+    "open": "17.52",
+    "high": "17.52",
+    "low": "17.52",
+    "close": "17.52",
+    "volume": "100",
+    "timestamp": "1593734400"
+  },
+  {
+    "date": "2020-07-06",
+    "symbol": "VHF",
+    "open": "20.15",
+    "high": "20.15",
+    "low": "20.15",
+    "close": "20.15",
+    "volume": "100",
+    "timestamp": "1593993600"
+  },
+  {
+    "date": "2020-10-05",
+    "symbol": "VHF",
+    "open": "12.18",
+    "high": "12.18",
+    "low": "12.18",
+    "close": "12.18",
+    "volume": "2000",
+    "timestamp": "1601856000"
+  },
+  {
+    "date": "2022-04-01",
+    "symbol": "VHF",
+    "open": "7.29",
+    "high": "7.29",
+    "low": "7.29",
+    "close": "7.29",
+    "volume": "200",
+    "timestamp": "1648771200"
+  },
+  {
+    "date": "2022-04-20",
+    "symbol": "VHF",
+    "open": "8.36",
+    "high": "8.36",
+    "low": "8.36",
+    "close": "8.36",
+    "volume": "71900",
+    "timestamp": "1650412800"
+  },
+  {
+    "date": "2022-04-28",
+    "symbol": "VHF",
+    "open": "9.53",
+    "high": "9.53",
+    "low": "9.53",
+    "close": "9.53",
+    "volume": "200",
+    "timestamp": "1651104000"
+  }
+]

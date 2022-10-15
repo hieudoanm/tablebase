@@ -1,0 +1,952 @@
+[
+  {
+    "date": "2017-03-15",
+    "symbol": "TAW",
+    "open": "14.17",
+    "high": "14.17",
+    "low": "14.17",
+    "close": "14.17",
+    "volume": "100",
+    "timestamp": "1489536000"
+  },
+  {
+    "date": "2017-07-05",
+    "symbol": "TAW",
+    "open": "8.52",
+    "high": "8.52",
+    "low": "8.52",
+    "close": "8.52",
+    "volume": "2000",
+    "timestamp": "1499212800"
+  },
+  {
+    "date": "2017-08-16",
+    "symbol": "TAW",
+    "open": "11.92",
+    "high": "11.92",
+    "low": "11.92",
+    "close": "11.92",
+    "volume": "100",
+    "timestamp": "1502841600"
+  },
+  {
+    "date": "2017-08-17",
+    "symbol": "TAW",
+    "open": "13.7",
+    "high": "13.7",
+    "low": "13.7",
+    "close": "13.7",
+    "volume": "100",
+    "timestamp": "1502928000"
+  },
+  {
+    "date": "2017-08-18",
+    "symbol": "TAW",
+    "open": "15.72",
+    "high": "15.72",
+    "low": "15.48",
+    "close": "15.48",
+    "volume": "33914",
+    "timestamp": "1503014400"
+  },
+  {
+    "date": "2017-08-21",
+    "symbol": "TAW",
+    "open": "15.72",
+    "high": "15.48",
+    "low": "15.48",
+    "close": "15.48",
+    "volume": "2452486",
+    "timestamp": "1503273600"
+  },
+  {
+    "date": "2017-08-22",
+    "symbol": "TAW",
+    "open": "15.48",
+    "high": "15.48",
+    "low": "15.48",
+    "close": "15.48",
+    "volume": "200",
+    "timestamp": "1503360000"
+  },
+  {
+    "date": "2017-08-24",
+    "symbol": "TAW",
+    "open": "15.48",
+    "high": "15.48",
+    "low": "15.48",
+    "close": "15.48",
+    "volume": "1200",
+    "timestamp": "1503532800"
+  },
+  {
+    "date": "2017-08-29",
+    "symbol": "TAW",
+    "open": "15.48",
+    "high": "15.48",
+    "low": "15.48",
+    "close": "15.48",
+    "volume": "1200",
+    "timestamp": "1503964800"
+  },
+  {
+    "date": "2017-08-30",
+    "symbol": "TAW",
+    "open": "15.48",
+    "high": "15.48",
+    "low": "15.48",
+    "close": "15.48",
+    "volume": "2300",
+    "timestamp": "1504051200"
+  },
+  {
+    "date": "2017-11-06",
+    "symbol": "TAW",
+    "open": "21.68",
+    "high": "21.68",
+    "low": "21.68",
+    "close": "21.68",
+    "volume": "100",
+    "timestamp": "1509926400"
+  },
+  {
+    "date": "2017-12-22",
+    "symbol": "TAW",
+    "open": "30.35",
+    "high": "30.35",
+    "low": "30.35",
+    "close": "30.35",
+    "volume": "100",
+    "timestamp": "1513900800"
+  },
+  {
+    "date": "2018-08-06",
+    "symbol": "TAW",
+    "open": "42.46",
+    "high": "42.46",
+    "low": "42.46",
+    "close": "42.46",
+    "volume": "100",
+    "timestamp": "1533513600"
+  },
+  {
+    "date": "2018-09-19",
+    "symbol": "TAW",
+    "open": "25.47",
+    "high": "25.47",
+    "low": "25.47",
+    "close": "25.47",
+    "volume": "500",
+    "timestamp": "1537315200"
+  },
+  {
+    "date": "2018-09-21",
+    "symbol": "TAW",
+    "open": "21.7",
+    "high": "21.7",
+    "low": "21.7",
+    "close": "21.7",
+    "volume": "100",
+    "timestamp": "1537488000"
+  },
+  {
+    "date": "2018-09-24",
+    "symbol": "TAW",
+    "open": "18.48",
+    "high": "24.92",
+    "low": "18.48",
+    "close": "18.48",
+    "volume": "316",
+    "timestamp": "1537747200"
+  },
+  {
+    "date": "2018-09-25",
+    "symbol": "TAW",
+    "open": "17.53",
+    "high": "17.53",
+    "low": "17.53",
+    "close": "17.53",
+    "volume": "102",
+    "timestamp": "1537833600"
+  },
+  {
+    "date": "2018-09-26",
+    "symbol": "TAW",
+    "open": "15.02",
+    "high": "15.02",
+    "low": "14.94",
+    "close": "14.94",
+    "volume": "200",
+    "timestamp": "1537920000"
+  },
+  {
+    "date": "2018-09-27",
+    "symbol": "TAW",
+    "open": "17.22",
+    "high": "17.22",
+    "low": "17.22",
+    "close": "17.22",
+    "volume": "200",
+    "timestamp": "1538006400"
+  },
+  {
+    "date": "2018-09-28",
+    "symbol": "TAW",
+    "open": "14.78",
+    "high": "14.78",
+    "low": "14.78",
+    "close": "14.78",
+    "volume": "150",
+    "timestamp": "1538092800"
+  },
+  {
+    "date": "2018-10-01",
+    "symbol": "TAW",
+    "open": "12.74",
+    "high": "12.74",
+    "low": "12.74",
+    "close": "12.74",
+    "volume": "100",
+    "timestamp": "1538352000"
+  },
+  {
+    "date": "2018-10-03",
+    "symbol": "TAW",
+    "open": "11.16",
+    "high": "11.16",
+    "low": "11.16",
+    "close": "11.16",
+    "volume": "100",
+    "timestamp": "1538524800"
+  },
+  {
+    "date": "2018-10-08",
+    "symbol": "TAW",
+    "open": "11.16",
+    "high": "11.16",
+    "low": "9.51",
+    "close": "9.51",
+    "volume": "200",
+    "timestamp": "1538956800"
+  },
+  {
+    "date": "2018-10-11",
+    "symbol": "TAW",
+    "open": "11.87",
+    "high": "11.87",
+    "low": "11.87",
+    "close": "11.87",
+    "volume": "200",
+    "timestamp": "1539216000"
+  },
+  {
+    "date": "2018-10-17",
+    "symbol": "TAW",
+    "open": "13.6",
+    "high": "13.6",
+    "low": "13.6",
+    "close": "13.6",
+    "volume": "100",
+    "timestamp": "1539734400"
+  },
+  {
+    "date": "2018-11-19",
+    "symbol": "TAW",
+    "open": "15.57",
+    "high": "15.57",
+    "low": "15.57",
+    "close": "15.57",
+    "volume": "100",
+    "timestamp": "1542585600"
+  },
+  {
+    "date": "2018-11-21",
+    "symbol": "TAW",
+    "open": "17.85",
+    "high": "17.85",
+    "low": "17.85",
+    "close": "17.85",
+    "volume": "100",
+    "timestamp": "1542758400"
+  },
+  {
+    "date": "2018-11-27",
+    "symbol": "TAW",
+    "open": "17.85",
+    "high": "17.85",
+    "low": "17.85",
+    "close": "17.85",
+    "volume": "11",
+    "timestamp": "1543276800"
+  },
+  {
+    "date": "2019-04-01",
+    "symbol": "TAW",
+    "open": "10.77",
+    "high": "10.77",
+    "low": "10.77",
+    "close": "10.77",
+    "volume": "100",
+    "timestamp": "1554076800"
+  },
+  {
+    "date": "2019-04-03",
+    "symbol": "TAW",
+    "open": "9.28",
+    "high": "9.28",
+    "low": "9.28",
+    "close": "9.28",
+    "volume": "100",
+    "timestamp": "1554249600"
+  },
+  {
+    "date": "2019-04-04",
+    "symbol": "TAW",
+    "open": "8.18",
+    "high": "8.18",
+    "low": "8.18",
+    "close": "8.18",
+    "volume": "500",
+    "timestamp": "1554336000"
+  },
+  {
+    "date": "2019-04-05",
+    "symbol": "TAW",
+    "open": "7.94",
+    "high": "7.94",
+    "low": "7.94",
+    "close": "7.94",
+    "volume": "100",
+    "timestamp": "1554422400"
+  },
+  {
+    "date": "2019-05-02",
+    "symbol": "TAW",
+    "open": "7.94",
+    "high": "7.94",
+    "low": "7.94",
+    "close": "7.94",
+    "volume": "13",
+    "timestamp": "1556755200"
+  },
+  {
+    "date": "2019-05-06",
+    "symbol": "TAW",
+    "open": "6.92",
+    "high": "9.12",
+    "low": "6.92",
+    "close": "7.08",
+    "volume": "1500",
+    "timestamp": "1557100800"
+  },
+  {
+    "date": "2019-05-27",
+    "symbol": "TAW",
+    "open": "6.29",
+    "high": "6.29",
+    "low": "6.29",
+    "close": "6.29",
+    "volume": "100",
+    "timestamp": "1558915200"
+  },
+  {
+    "date": "2019-07-12",
+    "symbol": "TAW",
+    "open": "8.74",
+    "high": "8.74",
+    "low": "8.74",
+    "close": "8.74",
+    "volume": "100",
+    "timestamp": "1562889600"
+  },
+  {
+    "date": "2019-07-22",
+    "symbol": "TAW",
+    "open": "10.05",
+    "high": "10.05",
+    "low": "10.05",
+    "close": "10.05",
+    "volume": "100",
+    "timestamp": "1563753600"
+  },
+  {
+    "date": "2019-07-26",
+    "symbol": "TAW",
+    "open": "11.53",
+    "high": "11.53",
+    "low": "11.53",
+    "close": "11.53",
+    "volume": "100",
+    "timestamp": "1564099200"
+  },
+  {
+    "date": "2019-07-31",
+    "symbol": "TAW",
+    "open": "13.19",
+    "high": "13.19",
+    "low": "13.19",
+    "close": "13.19",
+    "volume": "100",
+    "timestamp": "1564531200"
+  },
+  {
+    "date": "2019-08-06",
+    "symbol": "TAW",
+    "open": "14.85",
+    "high": "14.85",
+    "low": "14.85",
+    "close": "14.85",
+    "volume": "100",
+    "timestamp": "1565049600"
+  },
+  {
+    "date": "2019-12-27",
+    "symbol": "TAW",
+    "open": "20.79",
+    "high": "20.79",
+    "low": "20.79",
+    "close": "20.79",
+    "volume": "100",
+    "timestamp": "1577404800"
+  },
+  {
+    "date": "2020-02-13",
+    "symbol": "TAW",
+    "open": "12.49",
+    "high": "12.49",
+    "low": "12.49",
+    "close": "12.49",
+    "volume": "100",
+    "timestamp": "1581552000"
+  },
+  {
+    "date": "2020-02-14",
+    "symbol": "TAW",
+    "open": "14.24",
+    "high": "14.24",
+    "low": "14.24",
+    "close": "14.24",
+    "volume": "100",
+    "timestamp": "1581638400"
+  },
+  {
+    "date": "2020-02-19",
+    "symbol": "TAW",
+    "open": "12.14",
+    "high": "12.14",
+    "low": "12.14",
+    "close": "12.14",
+    "volume": "100",
+    "timestamp": "1582070400"
+  },
+  {
+    "date": "2020-03-04",
+    "symbol": "TAW",
+    "open": "10.4",
+    "high": "13.89",
+    "low": "10.4",
+    "close": "13.89",
+    "volume": "200",
+    "timestamp": "1583280000"
+  },
+  {
+    "date": "2020-03-09",
+    "symbol": "TAW",
+    "open": "13.8",
+    "high": "13.8",
+    "low": "13.8",
+    "close": "13.8",
+    "volume": "300",
+    "timestamp": "1583712000"
+  },
+  {
+    "date": "2020-03-13",
+    "symbol": "TAW",
+    "open": "11.79",
+    "high": "11.79",
+    "low": "11.79",
+    "close": "11.79",
+    "volume": "100",
+    "timestamp": "1584057600"
+  },
+  {
+    "date": "2020-03-16",
+    "symbol": "TAW",
+    "open": "10.05",
+    "high": "10.05",
+    "low": "10.05",
+    "close": "10.05",
+    "volume": "300",
+    "timestamp": "1584316800"
+  },
+  {
+    "date": "2020-04-13",
+    "symbol": "TAW",
+    "open": "8.56",
+    "high": "8.56",
+    "low": "8.56",
+    "close": "8.56",
+    "volume": "100",
+    "timestamp": "1586736000"
+  },
+  {
+    "date": "2020-04-21",
+    "symbol": "TAW",
+    "open": "9.78",
+    "high": "9.78",
+    "low": "9.78",
+    "close": "9.78",
+    "volume": "100",
+    "timestamp": "1587427200"
+  },
+  {
+    "date": "2020-05-07",
+    "symbol": "TAW",
+    "open": "11.18",
+    "high": "11.18",
+    "low": "11.18",
+    "close": "11.18",
+    "volume": "100",
+    "timestamp": "1588809600"
+  },
+  {
+    "date": "2020-05-08",
+    "symbol": "TAW",
+    "open": "12.84",
+    "high": "12.84",
+    "low": "12.84",
+    "close": "12.84",
+    "volume": "100",
+    "timestamp": "1588896000"
+  },
+  {
+    "date": "2020-05-14",
+    "symbol": "TAW",
+    "open": "14.76",
+    "high": "14.76",
+    "low": "14.76",
+    "close": "14.76",
+    "volume": "100",
+    "timestamp": "1589414400"
+  },
+  {
+    "date": "2020-05-21",
+    "symbol": "TAW",
+    "open": "12.58",
+    "high": "12.58",
+    "low": "12.58",
+    "close": "12.58",
+    "volume": "100",
+    "timestamp": "1590019200"
+  },
+  {
+    "date": "2020-05-22",
+    "symbol": "TAW",
+    "open": "14.41",
+    "high": "14.41",
+    "low": "14.41",
+    "close": "14.41",
+    "volume": "100",
+    "timestamp": "1590105600"
+  },
+  {
+    "date": "2020-05-26",
+    "symbol": "TAW",
+    "open": "16.51",
+    "high": "16.51",
+    "low": "12.32",
+    "close": "12.32",
+    "volume": "200",
+    "timestamp": "1590451200"
+  },
+  {
+    "date": "2020-05-27",
+    "symbol": "TAW",
+    "open": "12.32",
+    "high": "16.51",
+    "low": "12.32",
+    "close": "16.51",
+    "volume": "300",
+    "timestamp": "1590537600"
+  },
+  {
+    "date": "2020-06-08",
+    "symbol": "TAW",
+    "open": "17.3",
+    "high": "17.3",
+    "low": "17.3",
+    "close": "17.3",
+    "volume": "100",
+    "timestamp": "1591574400"
+  },
+  {
+    "date": "2020-06-09",
+    "symbol": "TAW",
+    "open": "19.22",
+    "high": "19.22",
+    "low": "19.22",
+    "close": "19.22",
+    "volume": "100",
+    "timestamp": "1591660800"
+  },
+  {
+    "date": "2020-06-15",
+    "symbol": "TAW",
+    "open": "21.84",
+    "high": "21.84",
+    "low": "21.84",
+    "close": "21.84",
+    "volume": "100",
+    "timestamp": "1592179200"
+  },
+  {
+    "date": "2020-06-16",
+    "symbol": "TAW",
+    "open": "25.07",
+    "high": "25.07",
+    "low": "25.07",
+    "close": "25.07",
+    "volume": "100",
+    "timestamp": "1592265600"
+  },
+  {
+    "date": "2020-06-22",
+    "symbol": "TAW",
+    "open": "28.83",
+    "high": "28.83",
+    "low": "28.83",
+    "close": "28.83",
+    "volume": "100",
+    "timestamp": "1592784000"
+  },
+  {
+    "date": "2020-08-05",
+    "symbol": "TAW",
+    "open": "40.36",
+    "high": "40.36",
+    "low": "40.36",
+    "close": "40.36",
+    "volume": "2000",
+    "timestamp": "1596585600"
+  },
+  {
+    "date": "2021-01-14",
+    "symbol": "TAW",
+    "open": "24.23",
+    "high": "24.23",
+    "low": "24.23",
+    "close": "24.23",
+    "volume": "100",
+    "timestamp": "1610582400"
+  },
+  {
+    "date": "2021-01-19",
+    "symbol": "TAW",
+    "open": "20.63",
+    "high": "20.63",
+    "low": "20.63",
+    "close": "20.63",
+    "volume": "500",
+    "timestamp": "1611014400"
+  },
+  {
+    "date": "2021-01-20",
+    "symbol": "TAW",
+    "open": "23.69",
+    "high": "23.69",
+    "low": "23.69",
+    "close": "23.69",
+    "volume": "100",
+    "timestamp": "1611100800"
+  },
+  {
+    "date": "2021-01-22",
+    "symbol": "TAW",
+    "open": "20.18",
+    "high": "20.18",
+    "low": "20.18",
+    "close": "20.18",
+    "volume": "100",
+    "timestamp": "1611273600"
+  },
+  {
+    "date": "2021-03-12",
+    "symbol": "TAW",
+    "open": "12.25",
+    "high": "12.25",
+    "low": "12.25",
+    "close": "12.25",
+    "volume": "100",
+    "timestamp": "1615507200"
+  },
+  {
+    "date": "2021-03-22",
+    "symbol": "TAW",
+    "open": "13.06",
+    "high": "13.06",
+    "low": "13.06",
+    "close": "13.06",
+    "volume": "100",
+    "timestamp": "1616371200"
+  },
+  {
+    "date": "2021-03-24",
+    "symbol": "TAW",
+    "open": "14.96",
+    "high": "14.96",
+    "low": "14.96",
+    "close": "14.96",
+    "volume": "100",
+    "timestamp": "1616544000"
+  },
+  {
+    "date": "2021-03-25",
+    "symbol": "TAW",
+    "open": "17.12",
+    "high": "17.12",
+    "low": "17.12",
+    "close": "17.12",
+    "volume": "100",
+    "timestamp": "1616630400"
+  },
+  {
+    "date": "2021-03-26",
+    "symbol": "TAW",
+    "open": "19.37",
+    "high": "19.37",
+    "low": "19.37",
+    "close": "19.37",
+    "volume": "100",
+    "timestamp": "1616716800"
+  },
+  {
+    "date": "2021-03-29",
+    "symbol": "TAW",
+    "open": "22.07",
+    "high": "22.07",
+    "low": "22.07",
+    "close": "22.07",
+    "volume": "100",
+    "timestamp": "1616976000"
+  },
+  {
+    "date": "2021-03-31",
+    "symbol": "TAW",
+    "open": "25.23",
+    "high": "25.23",
+    "low": "25.23",
+    "close": "25.23",
+    "volume": "100",
+    "timestamp": "1617148800"
+  },
+  {
+    "date": "2021-04-22",
+    "symbol": "TAW",
+    "open": "21.44",
+    "high": "21.44",
+    "low": "21.44",
+    "close": "21.44",
+    "volume": "100",
+    "timestamp": "1619049600"
+  },
+  {
+    "date": "2021-07-23",
+    "symbol": "TAW",
+    "open": "12.98",
+    "high": "12.98",
+    "low": "12.98",
+    "close": "12.98",
+    "volume": "100",
+    "timestamp": "1626998400"
+  },
+  {
+    "date": "2021-08-26",
+    "symbol": "TAW",
+    "open": "14.86",
+    "high": "14.86",
+    "low": "14.86",
+    "close": "14.86",
+    "volume": "100",
+    "timestamp": "1629936000"
+  },
+  {
+    "date": "2021-08-27",
+    "symbol": "TAW",
+    "open": "17.02",
+    "high": "17.02",
+    "low": "17.02",
+    "close": "17.02",
+    "volume": "100",
+    "timestamp": "1630022400"
+  },
+  {
+    "date": "2021-09-06",
+    "symbol": "TAW",
+    "open": "14.58",
+    "high": "14.58",
+    "low": "14.58",
+    "close": "14.58",
+    "volume": "100",
+    "timestamp": "1630886400"
+  },
+  {
+    "date": "2021-09-10",
+    "symbol": "TAW",
+    "open": "12.7",
+    "high": "12.7",
+    "low": "12.7",
+    "close": "12.7",
+    "volume": "100",
+    "timestamp": "1631232000"
+  },
+  {
+    "date": "2021-09-16",
+    "symbol": "TAW",
+    "open": "14.58",
+    "high": "14.58",
+    "low": "14.58",
+    "close": "14.58",
+    "volume": "100",
+    "timestamp": "1631750400"
+  },
+  {
+    "date": "2021-09-17",
+    "symbol": "TAW",
+    "open": "16.74",
+    "high": "16.74",
+    "low": "16.74",
+    "close": "16.74",
+    "volume": "100",
+    "timestamp": "1631836800"
+  },
+  {
+    "date": "2021-09-20",
+    "symbol": "TAW",
+    "open": "18.81",
+    "high": "18.81",
+    "low": "18.81",
+    "close": "18.81",
+    "volume": "100",
+    "timestamp": "1632096000"
+  },
+  {
+    "date": "2021-09-21",
+    "symbol": "TAW",
+    "open": "20.69",
+    "high": "20.69",
+    "low": "20.69",
+    "close": "20.69",
+    "volume": "100",
+    "timestamp": "1632182400"
+  },
+  {
+    "date": "2021-09-22",
+    "symbol": "TAW",
+    "open": "23.51",
+    "high": "23.51",
+    "low": "23.51",
+    "close": "23.51",
+    "volume": "100",
+    "timestamp": "1632268800"
+  },
+  {
+    "date": "2022-04-28",
+    "symbol": "TAW",
+    "open": "14.2",
+    "high": "14.2",
+    "low": "14.2",
+    "close": "14.2",
+    "volume": "1000",
+    "timestamp": "1651104000"
+  },
+  {
+    "date": "2022-07-11",
+    "symbol": "TAW",
+    "open": "8.6",
+    "high": "8.6",
+    "low": "8.6",
+    "close": "8.6",
+    "volume": "400",
+    "timestamp": "1657497600"
+  },
+  {
+    "date": "2022-07-14",
+    "symbol": "TAW",
+    "open": "7.5",
+    "high": "7.5",
+    "low": "7.5",
+    "close": "7.5",
+    "volume": "100",
+    "timestamp": "1657756800"
+  },
+  {
+    "date": "2022-08-01",
+    "symbol": "TAW",
+    "open": "8.6",
+    "high": "8.6",
+    "low": "8.6",
+    "close": "8.6",
+    "volume": "100",
+    "timestamp": "1659312000"
+  },
+  {
+    "date": "2022-08-02",
+    "symbol": "TAW",
+    "open": "9.8",
+    "high": "9.8",
+    "low": "9.8",
+    "close": "9.8",
+    "volume": "100",
+    "timestamp": "1659398400"
+  },
+  {
+    "date": "2022-08-03",
+    "symbol": "TAW",
+    "open": "11.2",
+    "high": "11.2",
+    "low": "11.2",
+    "close": "11.2",
+    "volume": "100",
+    "timestamp": "1659484800"
+  },
+  {
+    "date": "2022-08-05",
+    "symbol": "TAW",
+    "open": "12.8",
+    "high": "12.8",
+    "low": "12.8",
+    "close": "12.8",
+    "volume": "100",
+    "timestamp": "1659657600"
+  },
+  {
+    "date": "2022-08-08",
+    "symbol": "TAW",
+    "open": "14.7",
+    "high": "14.7",
+    "low": "14.7",
+    "close": "14.7",
+    "volume": "100",
+    "timestamp": "1659916800"
+  },
+  {
+    "date": "2022-08-09",
+    "symbol": "TAW",
+    "open": "16.9",
+    "high": "16.9",
+    "low": "16.9",
+    "close": "16.9",
+    "volume": "100",
+    "timestamp": "1660003200"
+  },
+  {
+    "date": "2022-08-10",
+    "symbol": "TAW",
+    "open": "19.4",
+    "high": "19.4",
+    "low": "19.4",
+    "close": "19.4",
+    "volume": "100",
+    "timestamp": "1660089600"
+  }
+]

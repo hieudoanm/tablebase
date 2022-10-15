@@ -1,0 +1,242 @@
+[
+  {
+    "position": "Central Forward",
+    "abbreviation": "CF",
+    "country": "Argentina",
+    "name": "Messi",
+    "number": "10",
+    "role": "10"
+  },
+  {
+    "position": "Goalkeeper",
+    "abbreviation": "GK",
+    "country": "Brazil",
+    "name": "Alisson",
+    "number": "1",
+    "role": "1"
+  },
+  {
+    "position": "Right Back",
+    "abbreviation": "RB",
+    "country": "Brazil",
+    "name": "Dani Alves",
+    "number": "2",
+    "role": "2"
+  },
+  {
+    "position": "Left Back",
+    "abbreviation": "LB",
+    "country": "Brazil",
+    "name": "Marcelo",
+    "number": "12",
+    "role": "3"
+  },
+  {
+    "position": "Striker",
+    "abbreviation": "ST",
+    "country": "Brazil",
+    "name": "Ronaldo",
+    "number": "9",
+    "role": "9"
+  },
+  {
+    "position": "Attacking Midfielder",
+    "abbreviation": "AM",
+    "country": "Brazil",
+    "name": "Kaká",
+    "number": "22",
+    "role": "10"
+  },
+  {
+    "position": "Left Winger",
+    "abbreviation": "LW",
+    "country": "Brazil",
+    "name": "Ronaldinho",
+    "number": "10",
+    "role": "11"
+  },
+  {
+    "position": "Left Winger",
+    "abbreviation": "LW",
+    "country": "Brazil",
+    "name": "Neymar",
+    "number": "11",
+    "role": "11"
+  },
+  {
+    "position": "Right Winger",
+    "abbreviation": "RW",
+    "country": "Egypt",
+    "name": "Mo Salah",
+    "number": "11",
+    "role": "7"
+  },
+  {
+    "position": "Left Back",
+    "abbreviation": "LB",
+    "country": "England",
+    "name": "Ashley Cole",
+    "number": "3",
+    "role": "3"
+  },
+  {
+    "position": "Centre Back",
+    "abbreviation": "CB",
+    "country": "England",
+    "name": "Rio Ferdinand",
+    "number": "5",
+    "role": "4"
+  },
+  {
+    "position": "Centre Back",
+    "abbreviation": "CB",
+    "country": "England",
+    "name": "John Terry",
+    "number": "26",
+    "role": "5"
+  },
+  {
+    "position": "Central Midfielder",
+    "abbreviation": "CM",
+    "country": "England",
+    "name": "Steven Gerrard",
+    "number": "8",
+    "role": "8"
+  },
+  {
+    "position": "Defensive Midfielder",
+    "abbreviation": "DM",
+    "country": "Spain",
+    "name": "Sergio Busquets",
+    "number": "5",
+    "role": "6"
+  },
+  {
+    "position": "Striker",
+    "abbreviation": "ST",
+    "country": "France",
+    "name": "Karim Benzema",
+    "number": "9",
+    "role": "9"
+  },
+  {
+    "position": "Attacking Midfielder",
+    "abbreviation": "AM",
+    "country": "France",
+    "name": "Zinedine Zidane",
+    "number": "5",
+    "role": "10"
+  },
+  {
+    "position": "Left Winger",
+    "abbreviation": "LW",
+    "country": "France",
+    "name": "Thierry Henry",
+    "number": "14",
+    "role": "11"
+  },
+  {
+    "position": "Goalkeeper",
+    "abbreviation": "GK",
+    "country": "Germany",
+    "name": "Manuel Neuer",
+    "number": "1",
+    "role": "1"
+  },
+  {
+    "position": "Right Back",
+    "abbreviation": "RB",
+    "country": "Germany",
+    "name": "Philipp Lahm",
+    "number": "21",
+    "role": "2"
+  },
+  {
+    "position": "Left Back",
+    "abbreviation": "LB",
+    "country": "Italy",
+    "name": "Paolo Maldini",
+    "number": "3",
+    "role": "3"
+  },
+  {
+    "position": "Centre Back",
+    "abbreviation": "CB",
+    "country": "Italy",
+    "name": "Fabio Cannavaro",
+    "number": "5",
+    "role": "4"
+  },
+  {
+    "position": "Centre Back",
+    "abbreviation": "CB",
+    "country": "Italy",
+    "name": "Alessandro Nesta",
+    "number": "13",
+    "role": "4"
+  },
+  {
+    "position": "Centre Back",
+    "abbreviation": "CB",
+    "country": "Italy",
+    "name": "Franco Baresi",
+    "number": "6",
+    "role": "5"
+  },
+  {
+    "position": "Right Winger",
+    "abbreviation": "RW",
+    "country": "Netherlands",
+    "name": "Arjen Robben",
+    "number": "10",
+    "role": "7"
+  },
+  {
+    "position": "Striker",
+    "abbreviation": "ST",
+    "country": "Poland",
+    "name": "Robert Lewandowski",
+    "number": "9",
+    "role": "9"
+  },
+  {
+    "position": "Left Winger",
+    "abbreviation": "LW",
+    "country": "Portugal",
+    "name": "Cristiano Ronaldo",
+    "number": "7",
+    "role": "11"
+  },
+  {
+    "position": "Defensive Midfielder",
+    "abbreviation": "DM",
+    "country": "Spain",
+    "name": "Xabi Alonso",
+    "number": "14",
+    "role": "6"
+  },
+  {
+    "position": "Central Midfielder",
+    "abbreviation": "CM",
+    "country": "Spain",
+    "name": "Xavi",
+    "number": "6",
+    "role": "8"
+  },
+  {
+    "position": "Attacking Midfielder",
+    "abbreviation": "AM",
+    "country": "Spain",
+    "name": "Andrés Iniesta",
+    "number": "8",
+    "role": "10"
+  },
+  {
+    "position": "Striker",
+    "abbreviation": "ST",
+    "country": "Uruguay",
+    "name": "Luis Suárez",
+    "number": "9",
+    "role": "9"
+  }
+]

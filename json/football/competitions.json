@@ -1,0 +1,1487 @@
+[
+  {
+    "id": "2006",
+    "area": "Africa",
+    "name": "WC Qualification CAF",
+    "code": "QCAF",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2023",
+    "area": "Argentina",
+    "name": "Primera B Nacional",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2024",
+    "area": "Argentina",
+    "name": "Liga Profesional",
+    "code": "ASL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/LPDF.svg",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2025",
+    "area": "Argentina",
+    "name": "Supercopa Argentina",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2149",
+    "area": "Argentina",
+    "name": "Copa Liga Profesional",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2147",
+    "area": "Asia",
+    "name": "WC Qualification AFC",
+    "code": "QAFC",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2008",
+    "area": "Australia",
+    "name": "A League",
+    "code": "AAL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2026",
+    "area": "Australia",
+    "name": "FFA Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2020",
+    "area": "Austria",
+    "name": "Erste Liga",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2012",
+    "area": "Austria",
+    "name": "Bundesliga",
+    "code": "ABL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2022",
+    "area": "Austria",
+    "name": "Playoffs 1/2",
+    "code": "APL",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2027",
+    "area": "Austria",
+    "name": "ÖFB Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2028",
+    "area": "Belgium",
+    "name": "Coupe de Belgique",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2033",
+    "area": "Belgium",
+    "name": "Division 1B",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2009",
+    "area": "Belgium",
+    "name": "Jupiler Pro League",
+    "code": "BJL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2032",
+    "area": "Belgium",
+    "name": "Playoffs",
+    "code": "BJPP",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2010",
+    "area": "Belgium",
+    "name": "Supercoupe de Belgique",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2034",
+    "area": "Bolivia",
+    "name": "LFPB",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2035",
+    "area": "Bosnia and Herzegovina",
+    "name": "Premier Liga",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2037",
+    "area": "Brazil",
+    "name": "Copa do Brasil",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2038",
+    "area": "Brazil",
+    "name": "Série D",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2036",
+    "area": "Brazil",
+    "name": "Série C",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2029",
+    "area": "Brazil",
+    "name": "Campeonato Brasileiro Série B",
+    "code": "BSB",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2013",
+    "area": "Brazil",
+    "name": "Campeonato Brasileiro Série A",
+    "code": "BSA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/764.svg",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2039",
+    "area": "Bulgaria",
+    "name": "Kupa na Bulgarija",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2040",
+    "area": "Bulgaria",
+    "name": "A PFG",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2041",
+    "area": "Canada",
+    "name": "Canadian Championship",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2042",
+    "area": "Chile",
+    "name": "Playoffs 1/2",
+    "code": "null",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2043",
+    "area": "Chile",
+    "name": "Supercopa de Chile",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2048",
+    "area": "Chile",
+    "name": "Primera División",
+    "code": "CPD",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2044",
+    "area": "China PR",
+    "name": "Chinese Super League",
+    "code": "CSL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2045",
+    "area": "Colombia",
+    "name": "Liga Postobón",
+    "code": "CLP",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2046",
+    "area": "Colombia",
+    "name": "Superliga de Colombia",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2047",
+    "area": "Croatia",
+    "name": "Prva Liga",
+    "code": "PRVA",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2049",
+    "area": "Czech Republic",
+    "name": "Synot Liga",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2051",
+    "area": "Denmark",
+    "name": "DBU Pokalen",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2050",
+    "area": "Denmark",
+    "name": "Superliga",
+    "code": "DSU",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2141",
+    "area": "Denmark",
+    "name": "Euro League - Playoff",
+    "code": "DELP",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2052",
+    "area": "Ecuador",
+    "name": "Copa Pilsener Serie A",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2139",
+    "area": "England",
+    "name": "Football League Cup",
+    "code": "FLC",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/FLC.png",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2056",
+    "area": "England",
+    "name": "FA Community Shield",
+    "code": "COM",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2055",
+    "area": "England",
+    "name": "FA Cup",
+    "code": "FAC",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/FA_CUP.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2053",
+    "area": "England",
+    "name": "National League",
+    "code": "ENL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2054",
+    "area": "England",
+    "name": "League Two",
+    "code": "EL2",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2030",
+    "area": "England",
+    "name": "League One",
+    "code": "EL1",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2016",
+    "area": "England",
+    "name": "Championship",
+    "code": "ELC",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/ELC.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2021",
+    "area": "England",
+    "name": "Premier League",
+    "code": "PL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PL.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2057",
+    "area": "Estonia",
+    "name": "Meistriliiga",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2146",
+    "area": "Europe",
+    "name": "UEFA Europa League",
+    "code": "EL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/EL.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2001",
+    "area": "Europe",
+    "name": "UEFA Champions League",
+    "code": "CL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CL.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2018",
+    "area": "Europe",
+    "name": "European Championship",
+    "code": "EC",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/EUR.svg",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2154",
+    "area": "Europe",
+    "name": "UEFA Conference League",
+    "code": "UCL",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/UCL.png",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2157",
+    "area": "Europe",
+    "name": "Supercup",
+    "code": "ESC",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2058",
+    "area": "Europe",
+    "name": "UEFA Women's EURO",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2007",
+    "area": "Europe",
+    "name": "WC Qualification UEFA",
+    "code": "QUFA",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2059",
+    "area": "Finland",
+    "name": "Suomen Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2031",
+    "area": "Finland",
+    "name": "Veikkausliiga",
+    "code": "VEI",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2135",
+    "area": "France",
+    "name": "Coupe de la Ligue",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2142",
+    "area": "France",
+    "name": "Ligue 2",
+    "code": "FL2",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL2.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2015",
+    "area": "France",
+    "name": "Ligue 1",
+    "code": "FL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/FL1.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2144",
+    "area": "France",
+    "name": "Playoffs 2/3",
+    "code": "null",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2136",
+    "area": "France",
+    "name": "Trophée des Champions",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2138",
+    "area": "France",
+    "name": "Coupe de France",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2143",
+    "area": "France",
+    "name": "Playoffs 1/2",
+    "code": "FPL",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2011",
+    "area": "Germany",
+    "name": "DFB-Pokal",
+    "code": "DFB",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/DFB_CUP.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2129",
+    "area": "Germany",
+    "name": "Regionalliga",
+    "code": "REG",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2140",
+    "area": "Germany",
+    "name": "3. Bundesliga",
+    "code": "BL3",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/BL3.png",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2004",
+    "area": "Germany",
+    "name": "2. Bundesliga",
+    "code": "BL2",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/BL2.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2002",
+    "area": "Germany",
+    "name": "Bundesliga",
+    "code": "BL1",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/BL1.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2160",
+    "area": "Germany",
+    "name": "Regionalliga Südwest",
+    "code": "RSW",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2156",
+    "area": "Germany",
+    "name": "Relegation",
+    "code": "BLREL",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2133",
+    "area": "Germany",
+    "name": "Frauen Bundesliga",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2134",
+    "area": "Germany",
+    "name": "DFL Super Cup",
+    "code": "GSC",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2159",
+    "area": "Germany",
+    "name": "Regionalliga Bayern",
+    "code": "RBY",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2131",
+    "area": "Greece",
+    "name": "Greek Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2132",
+    "area": "Greece",
+    "name": "Super League",
+    "code": "GSL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2150",
+    "area": "Greece",
+    "name": "Souper Kap Ellados",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2130",
+    "area": "Hungary",
+    "name": "Magyar Kupa",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2128",
+    "area": "Hungary",
+    "name": "NB I",
+    "code": "HNB",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2127",
+    "area": "Iceland",
+    "name": "Úrvalsdeild",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2126",
+    "area": "India",
+    "name": "I-League",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2161",
+    "area": "India",
+    "name": "Indian Super League",
+    "code": "ISL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2125",
+    "area": "Israel",
+    "name": "Ligat ha'Al",
+    "code": "ILH",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2124",
+    "area": "Italy",
+    "name": "Supercoppa",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2122",
+    "area": "Italy",
+    "name": "Coppa Italia",
+    "code": "CIT",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CIT.png",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2123",
+    "area": "Italy",
+    "name": "Serie C",
+    "code": "ISC",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2121",
+    "area": "Italy",
+    "name": "Serie B",
+    "code": "SB",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/SB.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2019",
+    "area": "Italy",
+    "name": "Serie A",
+    "code": "SA",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/SA.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2162",
+    "area": "Italy",
+    "name": "Serie C - Girone A",
+    "code": "ISCA",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2158",
+    "area": "Italy",
+    "name": "Playoffs 1/2",
+    "code": "IPL",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2163",
+    "area": "Italy",
+    "name": "Serie C - Girone B",
+    "code": "ISCB",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2164",
+    "area": "Italy",
+    "name": "Serie C - Girone C",
+    "code": "ISCC",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2118",
+    "area": "Japan",
+    "name": "J.League Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2117",
+    "area": "Japan",
+    "name": "J. League Division 2",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2119",
+    "area": "Japan",
+    "name": "J. League",
+    "code": "JJL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2120",
+    "area": "Japan",
+    "name": "Super Cup",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2116",
+    "area": "Latvia",
+    "name": "Virslīga",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2115",
+    "area": "Lithuania",
+    "name": "A Lyga",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2114",
+    "area": "Malta",
+    "name": "Premier League",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2112",
+    "area": "Mexico",
+    "name": "SuperCopa MX",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2111",
+    "area": "Mexico",
+    "name": "Copa MX",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2113",
+    "area": "Mexico",
+    "name": "Liga MX",
+    "code": "LMX",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2109",
+    "area": "Netherlands",
+    "name": "KNVB Beker",
+    "code": "KNV",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2005",
+    "area": "Netherlands",
+    "name": "Eerste Divisie",
+    "code": "DJL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2003",
+    "area": "Netherlands",
+    "name": "Eredivisie",
+    "code": "DED",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/ED.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2110",
+    "area": "Netherlands",
+    "name": "Johan Cruijff Schaal",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2108",
+    "area": "Northern Ireland",
+    "name": "League Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2107",
+    "area": "Northern Ireland",
+    "name": "Premiership",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2106",
+    "area": "Norway",
+    "name": "Tippeligaen",
+    "code": "TIP",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2105",
+    "area": "Norway",
+    "name": "1. divisjon",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2104",
+    "area": "Norway",
+    "name": "Playoffs 1/2",
+    "code": "null",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2103",
+    "area": "Oceania",
+    "name": "WC Qualification OFC",
+    "code": "QOFC",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2102",
+    "area": "Panama",
+    "name": "Liga Panameña de Fútbol",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2101",
+    "area": "Peru",
+    "name": "Primera División",
+    "code": "PPD",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2099",
+    "area": "Poland",
+    "name": "Superpuchar Polski",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2100",
+    "area": "Poland",
+    "name": "Puchar Polski",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2098",
+    "area": "Portugal",
+    "name": "Taça de Portugal",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2096",
+    "area": "Portugal",
+    "name": "Liga2 Cabovisão",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2017",
+    "area": "Portugal",
+    "name": "Primeira Liga",
+    "code": "PPL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PPL.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2097",
+    "area": "Portugal",
+    "name": "Supertaça Cândido de Oliveira",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2095",
+    "area": "Republic of Ireland",
+    "name": "Premier Division",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2092",
+    "area": "Romania",
+    "name": "Liga II",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2094",
+    "area": "Romania",
+    "name": "Liga I",
+    "code": "RL1",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2093",
+    "area": "Romania",
+    "name": "Supercupa României",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2089",
+    "area": "Russia",
+    "name": "Russian Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2088",
+    "area": "Russia",
+    "name": "FNL",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2137",
+    "area": "Russia",
+    "name": "RFPL",
+    "code": "RFPL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2091",
+    "area": "Russia",
+    "name": "Russian Super Cup",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2090",
+    "area": "Russia",
+    "name": "Playoffs 1/2",
+    "code": "null",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2087",
+    "area": "Scotland",
+    "name": "Scottish Cup",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2085",
+    "area": "Scotland",
+    "name": "Championship",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2084",
+    "area": "Scotland",
+    "name": "Premier League",
+    "code": "SPL",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/SPL.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2086",
+    "area": "Scotland",
+    "name": "Playoffs 2/3",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2083",
+    "area": "South Africa",
+    "name": "ABSA Premiership",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2080",
+    "area": "South America",
+    "name": "Copa America",
+    "code": "CA",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2152",
+    "area": "South America",
+    "name": "Copa Libertadores",
+    "code": "CLI",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/CLI.svg",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2081",
+    "area": "South America",
+    "name": "Copa Sudamericana",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2082",
+    "area": "South America",
+    "name": "WC Qualification CONMEBOL",
+    "code": "QCBL",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2079",
+    "area": "Spain",
+    "name": "Copa del Rey",
+    "code": "CDR",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2077",
+    "area": "Spain",
+    "name": "Segunda División",
+    "code": "SD",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/SD.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2014",
+    "area": "Spain",
+    "name": "Primera Division",
+    "code": "PD",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/PD.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2078",
+    "area": "Spain",
+    "name": "Supercopa de España",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2074",
+    "area": "Sweden",
+    "name": "Superettan",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2073",
+    "area": "Sweden",
+    "name": "Allsvenskan",
+    "code": "ALL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2075",
+    "area": "Sweden",
+    "name": "Playoffs 2/3",
+    "code": "null",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2076",
+    "area": "Sweden",
+    "name": "Playoffs 1/2",
+    "code": "null",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2151",
+    "area": "Sweden",
+    "name": "Svenska Supercupen",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2071",
+    "area": "Switzerland",
+    "name": "Schweizer Pokal",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2072",
+    "area": "Switzerland",
+    "name": "Super League",
+    "code": "SSL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2068",
+    "area": "Turkey",
+    "name": "1. Lig",
+    "code": "T1L",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2070",
+    "area": "Turkey",
+    "name": "Süper Lig",
+    "code": "TSL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2069",
+    "area": "Turkey",
+    "name": "TFF Süper Kupa",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2065",
+    "area": "Ukraine",
+    "name": "Kubok Ukrainy",
+    "code": "null",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2064",
+    "area": "Ukraine",
+    "name": "Premier Liha",
+    "code": "UPL",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_THREE"
+  },
+  {
+    "id": "2066",
+    "area": "Ukraine",
+    "name": "Playoffs 1/2",
+    "code": "null",
+    "type": "PLAYOFFS",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2067",
+    "area": "Ukraine",
+    "name": "Superkubok Ukrainy",
+    "code": "null",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2145",
+    "area": "United States",
+    "name": "MLS",
+    "code": "MLS",
+    "type": "LEAGUE",
+    "emblem": "https://crests.football-data.org/MLS.png",
+    "plan": "TIER_TWO"
+  },
+  {
+    "id": "2063",
+    "area": "Uruguay",
+    "name": "Primera División",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2148",
+    "area": "Uruguay",
+    "name": "Supercopa Uruguaya",
+    "code": "SUCU",
+    "type": "SUPER_CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2062",
+    "area": "Venezuela",
+    "name": "Primera División",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2061",
+    "area": "Vietnam",
+    "name": "V-League",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2060",
+    "area": "Wales",
+    "name": "Welsh Premier League",
+    "code": "null",
+    "type": "LEAGUE",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2000",
+    "area": "World",
+    "name": "FIFA World Cup",
+    "code": "WC",
+    "type": "CUP",
+    "emblem": "https://crests.football-data.org/qatar.png",
+    "plan": "TIER_ONE"
+  },
+  {
+    "id": "2155",
+    "area": "World",
+    "name": "WC Qualification CONCACAF",
+    "code": "QCCF",
+    "type": "CUP",
+    "emblem": "null",
+    "plan": "TIER_FOUR"
+  },
+  {
+    "id": "2153",
+    "area": "World",
+    "name": "Summer Olympics",
+    "code": "OLY",
+    "type": "CUP",
+    "emblem": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Olympic_flag.svg",
+    "plan": "TIER_FOUR"
+  }
+]

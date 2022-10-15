@@ -1,0 +1,552 @@
+[
+  {
+    "date": "2019-06-21",
+    "symbol": "APT",
+    "open": "2.8",
+    "high": "2.8",
+    "low": "2.8",
+    "close": "2.8",
+    "volume": "500",
+    "timestamp": "1561075200"
+  },
+  {
+    "date": "2019-07-05",
+    "symbol": "APT",
+    "open": "2.8",
+    "high": "2.8",
+    "low": "2.8",
+    "close": "2.8",
+    "volume": "600",
+    "timestamp": "1562284800"
+  },
+  {
+    "date": "2019-07-12",
+    "symbol": "APT",
+    "open": "2.7",
+    "high": "2.8",
+    "low": "2.7",
+    "close": "2.7",
+    "volume": "2100",
+    "timestamp": "1562889600"
+  },
+  {
+    "date": "2019-07-19",
+    "symbol": "APT",
+    "open": "2.7",
+    "high": "2.7",
+    "low": "2.7",
+    "close": "2.7",
+    "volume": "100",
+    "timestamp": "1563494400"
+  },
+  {
+    "date": "2019-07-26",
+    "symbol": "APT",
+    "open": "2.8",
+    "high": "2.8",
+    "low": "2.8",
+    "close": "2.8",
+    "volume": "100",
+    "timestamp": "1564099200"
+  },
+  {
+    "date": "2019-08-09",
+    "symbol": "APT",
+    "open": "2.8",
+    "high": "2.8",
+    "low": "2.8",
+    "close": "2.8",
+    "volume": "5500",
+    "timestamp": "1565308800"
+  },
+  {
+    "date": "2019-08-16",
+    "symbol": "APT",
+    "open": "2.9",
+    "high": "2.9",
+    "low": "2.9",
+    "close": "2.9",
+    "volume": "100",
+    "timestamp": "1565913600"
+  },
+  {
+    "date": "2019-08-23",
+    "symbol": "APT",
+    "open": "3",
+    "high": "3",
+    "low": "2.5",
+    "close": "2.5",
+    "volume": "1200",
+    "timestamp": "1566518400"
+  },
+  {
+    "date": "2019-08-30",
+    "symbol": "APT",
+    "open": "2.5",
+    "high": "2.5",
+    "low": "2.5",
+    "close": "2.5",
+    "volume": "200",
+    "timestamp": "1567123200"
+  },
+  {
+    "date": "2019-09-27",
+    "symbol": "APT",
+    "open": "2.8",
+    "high": "2.8",
+    "low": "2.8",
+    "close": "2.8",
+    "volume": "100",
+    "timestamp": "1569542400"
+  },
+  {
+    "date": "2019-10-11",
+    "symbol": "APT",
+    "open": "3.2",
+    "high": "3.2",
+    "low": "3.2",
+    "close": "3.2",
+    "volume": "100",
+    "timestamp": "1570752000"
+  },
+  {
+    "date": "2019-11-22",
+    "symbol": "APT",
+    "open": "3.6",
+    "high": "3.6",
+    "low": "3.6",
+    "close": "3.6",
+    "volume": "100",
+    "timestamp": "1574380800"
+  },
+  {
+    "date": "2019-12-27",
+    "symbol": "APT",
+    "open": "4",
+    "high": "4",
+    "low": "4",
+    "close": "4",
+    "volume": "200",
+    "timestamp": "1577404800"
+  },
+  {
+    "date": "2020-03-06",
+    "symbol": "APT",
+    "open": "4",
+    "high": "4",
+    "low": "4",
+    "close": "4",
+    "volume": "100",
+    "timestamp": "1583452800"
+  },
+  {
+    "date": "2020-04-17",
+    "symbol": "APT",
+    "open": "4.6",
+    "high": "4.6",
+    "low": "4.6",
+    "close": "4.6",
+    "volume": "100",
+    "timestamp": "1587081600"
+  },
+  {
+    "date": "2020-05-22",
+    "symbol": "APT",
+    "open": "4",
+    "high": "4",
+    "low": "4",
+    "close": "4",
+    "volume": "10000",
+    "timestamp": "1590105600"
+  },
+  {
+    "date": "2020-05-29",
+    "symbol": "APT",
+    "open": "4.3",
+    "high": "4.3",
+    "low": "3.4",
+    "close": "3.4",
+    "volume": "7100",
+    "timestamp": "1590710400"
+  },
+  {
+    "date": "2020-06-05",
+    "symbol": "APT",
+    "open": "3.9",
+    "high": "3.9",
+    "low": "3.8",
+    "close": "3.9",
+    "volume": "20100",
+    "timestamp": "1591315200"
+  },
+  {
+    "date": "2020-06-12",
+    "symbol": "APT",
+    "open": "4.4",
+    "high": "4.4",
+    "low": "4",
+    "close": "4.4",
+    "volume": "7400",
+    "timestamp": "1591920000"
+  },
+  {
+    "date": "2020-06-26",
+    "symbol": "APT",
+    "open": "3.7",
+    "high": "3.7",
+    "low": "3.7",
+    "close": "3.7",
+    "volume": "3400",
+    "timestamp": "1593129600"
+  },
+  {
+    "date": "2020-07-03",
+    "symbol": "APT",
+    "open": "3.2",
+    "high": "3.3",
+    "low": "3.2",
+    "close": "3.3",
+    "volume": "26500",
+    "timestamp": "1593734400"
+  },
+  {
+    "date": "2020-07-10",
+    "symbol": "APT",
+    "open": "2.9",
+    "high": "3.3",
+    "low": "2.9",
+    "close": "3.3",
+    "volume": "15600",
+    "timestamp": "1594339200"
+  },
+  {
+    "date": "2020-07-17",
+    "symbol": "APT",
+    "open": "3.7",
+    "high": "3.7",
+    "low": "3.7",
+    "close": "3.7",
+    "volume": "100",
+    "timestamp": "1594944000"
+  },
+  {
+    "date": "2020-07-24",
+    "symbol": "APT",
+    "open": "3.5",
+    "high": "3.5",
+    "low": "3.3",
+    "close": "3.3",
+    "volume": "8100",
+    "timestamp": "1595548800"
+  },
+  {
+    "date": "2020-07-31",
+    "symbol": "APT",
+    "open": "3.5",
+    "high": "3.5",
+    "low": "3.5",
+    "close": "3.5",
+    "volume": "100",
+    "timestamp": "1596153600"
+  },
+  {
+    "date": "2020-08-14",
+    "symbol": "APT",
+    "open": "3",
+    "high": "3",
+    "low": "3",
+    "close": "3",
+    "volume": "8000",
+    "timestamp": "1597363200"
+  },
+  {
+    "date": "2020-08-28",
+    "symbol": "APT",
+    "open": "2.9",
+    "high": "3.2",
+    "low": "2.9",
+    "close": "3.2",
+    "volume": "6900",
+    "timestamp": "1598572800"
+  },
+  {
+    "date": "2020-10-16",
+    "symbol": "APT",
+    "open": "3.2",
+    "high": "3.5",
+    "low": "3.2",
+    "close": "3.5",
+    "volume": "60100",
+    "timestamp": "1602806400"
+  },
+  {
+    "date": "2020-11-13",
+    "symbol": "APT",
+    "open": "3.2",
+    "high": "3.2",
+    "low": "3.2",
+    "close": "3.2",
+    "volume": "10000",
+    "timestamp": "1605225600"
+  },
+  {
+    "date": "2020-11-27",
+    "symbol": "APT",
+    "open": "3.2",
+    "high": "3.2",
+    "low": "3.2",
+    "close": "3.2",
+    "volume": "10500",
+    "timestamp": "1606435200"
+  },
+  {
+    "date": "2020-12-25",
+    "symbol": "APT",
+    "open": "3.6",
+    "high": "3.6",
+    "low": "3.6",
+    "close": "3.6",
+    "volume": "100",
+    "timestamp": "1608854400"
+  },
+  {
+    "date": "2021-04-16",
+    "symbol": "APT",
+    "open": "3.6",
+    "high": "3.6",
+    "low": "3.6",
+    "close": "3.6",
+    "volume": "300",
+    "timestamp": "1618531200"
+  },
+  {
+    "date": "2021-05-07",
+    "symbol": "APT",
+    "open": "3.6",
+    "high": "3.6",
+    "low": "3.6",
+    "close": "3.6",
+    "volume": "200",
+    "timestamp": "1620345600"
+  },
+  {
+    "date": "2021-08-13",
+    "symbol": "APT",
+    "open": "3.6",
+    "high": "3.6",
+    "low": "3.6",
+    "close": "3.6",
+    "volume": "11900",
+    "timestamp": "1628812800"
+  },
+  {
+    "date": "2021-10-22",
+    "symbol": "APT",
+    "open": "4.1",
+    "high": "4.1",
+    "low": "4.1",
+    "close": "4.1",
+    "volume": "800",
+    "timestamp": "1634860800"
+  },
+  {
+    "date": "2021-11-05",
+    "symbol": "APT",
+    "open": "4.7",
+    "high": "4.7",
+    "low": "4.7",
+    "close": "4.7",
+    "volume": "1200",
+    "timestamp": "1636070400"
+  },
+  {
+    "date": "2021-11-12",
+    "symbol": "APT",
+    "open": "4.7",
+    "high": "4.7",
+    "low": "4.7",
+    "close": "4.7",
+    "volume": "100",
+    "timestamp": "1636675200"
+  },
+  {
+    "date": "2021-11-19",
+    "symbol": "APT",
+    "open": "4",
+    "high": "5.4",
+    "low": "4",
+    "close": "5.4",
+    "volume": "3500",
+    "timestamp": "1637280000"
+  },
+  {
+    "date": "2021-11-26",
+    "symbol": "APT",
+    "open": "4.3",
+    "high": "5",
+    "low": "4.3",
+    "close": "5",
+    "volume": "400",
+    "timestamp": "1637884800"
+  },
+  {
+    "date": "2021-12-03",
+    "symbol": "APT",
+    "open": "4.5",
+    "high": "4.5",
+    "low": "4.5",
+    "close": "4.5",
+    "volume": "500",
+    "timestamp": "1638489600"
+  },
+  {
+    "date": "2021-12-10",
+    "symbol": "APT",
+    "open": "3.9",
+    "high": "3.9",
+    "low": "3.9",
+    "close": "3.9",
+    "volume": "200",
+    "timestamp": "1639094400"
+  },
+  {
+    "date": "2021-12-17",
+    "symbol": "APT",
+    "open": "3.6",
+    "high": "3.7",
+    "low": "3.6",
+    "close": "3.7",
+    "volume": "9400",
+    "timestamp": "1639699200"
+  },
+  {
+    "date": "2021-12-24",
+    "symbol": "APT",
+    "open": "3.8",
+    "high": "4.1",
+    "low": "3.8",
+    "close": "4.1",
+    "volume": "300",
+    "timestamp": "1640304000"
+  },
+  {
+    "date": "2021-12-31",
+    "symbol": "APT",
+    "open": "3.5",
+    "high": "4.4",
+    "low": "3.5",
+    "close": "4.4",
+    "volume": "2600",
+    "timestamp": "1640908800"
+  },
+  {
+    "date": "2022-01-07",
+    "symbol": "APT",
+    "open": "3.9",
+    "high": "5",
+    "low": "3.9",
+    "close": "5",
+    "volume": "400",
+    "timestamp": "1641513600"
+  },
+  {
+    "date": "2022-01-14",
+    "symbol": "APT",
+    "open": "4.5",
+    "high": "4.8",
+    "low": "4.5",
+    "close": "4.8",
+    "volume": "2800",
+    "timestamp": "1642118400"
+  },
+  {
+    "date": "2022-01-21",
+    "symbol": "APT",
+    "open": "5.1",
+    "high": "5.1",
+    "low": "5.1",
+    "close": "5.1",
+    "volume": "700",
+    "timestamp": "1642723200"
+  },
+  {
+    "date": "2022-02-18",
+    "symbol": "APT",
+    "open": "5.1",
+    "high": "5.1",
+    "low": "5.1",
+    "close": "5.1",
+    "volume": "100",
+    "timestamp": "1645142400"
+  },
+  {
+    "date": "2022-02-25",
+    "symbol": "APT",
+    "open": "4.5",
+    "high": "4.5",
+    "low": "4.5",
+    "close": "4.5",
+    "volume": "200",
+    "timestamp": "1645747200"
+  },
+  {
+    "date": "2022-03-11",
+    "symbol": "APT",
+    "open": "3.9",
+    "high": "3.9",
+    "low": "3.9",
+    "close": "3.9",
+    "volume": "1400",
+    "timestamp": "1646956800"
+  },
+  {
+    "date": "2022-04-01",
+    "symbol": "APT",
+    "open": "3.4",
+    "high": "3.9",
+    "low": "3.4",
+    "close": "3.4",
+    "volume": "10400",
+    "timestamp": "1648771200"
+  },
+  {
+    "date": "2022-05-06",
+    "symbol": "APT",
+    "open": "3",
+    "high": "3",
+    "low": "3",
+    "close": "3",
+    "volume": "200",
+    "timestamp": "1651795200"
+  },
+  {
+    "date": "2022-08-05",
+    "symbol": "APT",
+    "open": "3.4",
+    "high": "3.4",
+    "low": "3.4",
+    "close": "3.4",
+    "volume": "400",
+    "timestamp": "1659657600"
+  },
+  {
+    "date": "2022-09-09",
+    "symbol": "APT",
+    "open": "2.9",
+    "high": "2.9",
+    "low": "2.9",
+    "close": "2.9",
+    "volume": "100",
+    "timestamp": "1662681600"
+  },
+  {
+    "date": "2022-09-16",
+    "symbol": "APT",
+    "open": "2.7",
+    "high": "2.7",
+    "low": "2.7",
+    "close": "2.7",
+    "volume": "100",
+    "timestamp": "1663286400"
+  }
+]

@@ -14,6 +14,7 @@
     "congress:members": "ts-node ./src/scripts/congress/members",
     "dragon-capital:portfolio": "ts-node ./src/scripts/dragon-capital/portfolio",
     "github:languages": "ts-node ./src/scripts/github/languages",
+    "csv-to-json": "ts-node ./src/scripts/csv-to-json",
     "nasdaq:symbols": "ts-node ./src/scripts/nasdaq/symbols",
     "quotes": "ts-node ./src/scripts/quotes",
     "stock-watch:clean": "yarn stock-watch:clean:house && yarn stock-watch:clean:senate",
