@@ -68,7 +68,7 @@ const saveCommitteesByChamber = async (congress: number, chamber: string) => {
 
   if (committeeMembers.length > 0) {
     const committeeMembersCSV = convertJSONtoCSV(committeeMembers);
-    const filePath = `./data/usa/congress/${congress}/${chamber}/committees.csv`;
+    const filePath = `./data/usa/congress/${chamber}/${congress}/committees.csv`;
     writeFileSync(filePath, committeeMembersCSV);
   }
 
@@ -113,7 +113,7 @@ const saveCommitteesByChamber = async (congress: number, chamber: string) => {
 
   if (subcommitteeMembers.length > 0) {
     const csv = convertJSONtoCSV(subcommitteeMembers);
-    const filePath = `./data/usa/congress/${congress}/${chamber}/subcommittees.csv`;
+    const filePath = `./data/usa/congress/${chamber}/${congress}/subcommittees.csv`;
     writeFileSync(filePath, csv);
   }
 };

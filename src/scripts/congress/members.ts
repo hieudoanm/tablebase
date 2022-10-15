@@ -40,7 +40,7 @@ const saveMembersByChamber = async (congress: number, chamber: string) => {
 
   if (members.length === 0) return;
   const csv = convertJSONtoCSV(members);
-  const filePath = `./data/usa/congress/${congress}/${chamber}/members.csv`;
+  const filePath = `./data/usa/congress/${chamber}/${congress}/members.csv`;
   writeFileSync(filePath, csv);
 };
 

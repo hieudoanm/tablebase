@@ -54,7 +54,7 @@ export const getSubcommittee = async ({
   const status = response.status || '';
   if (status !== 'OK') return { subcommittee: {} };
   const subcommittee = response.results[0] || {};
-  return { subcommittee };
+  return { subcommittee } as any;
 };
 
 export const getMembers = async ({
@@ -80,5 +80,5 @@ export const getMember = async (
   const status = response.status || '';
   if (status !== 'OK') return { member: {} };
   const member = response.results[0];
-  return { member };
+  return { member } as any;
 };

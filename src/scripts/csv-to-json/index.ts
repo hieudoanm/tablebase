@@ -39,7 +39,8 @@ const main = async () => {
       if (!exist) mkdirSync(jsonFolder);
       const json = convertCSVtoJSON(`data/${csvPath}`);
       const jsonPath = `${jsonFolder}/${fileName}`.replace('csv', 'json');
-      writeFileSync(jsonPath, JSON.stringify(json));
+      const jsonContent: string = JSON.stringify(json, null, 2);
+      writeFileSync(jsonPath, jsonContent);
       console.log(exist, jsonFolder, fileName);
     } catch (error) {
       console.error(error);
