@@ -31,8 +31,8 @@
 
 "@hieudoanm/axios@0.0.1":
   version "0.0.1"
-  resolved "https://npm.pkg.github.com/download/@hieudoanm/axios/0.0.1/13045d8c179e0d9f4b5abf15893f3b4d5fcdf7d9#13045d8c179e0d9f4b5abf15893f3b4d5fcdf7d9"
-  integrity sha512-uyO0WEz5s7fhPW175LsAGtbvfD+OY1lDwUCNDY14V7Wr6YAnlKWDN8RlY8QJ4jAGuqHhk71BIptyuVtuO82hyQ==
+  resolved "https://npm.pkg.github.com/download/@hieudoanm/axios/0.0.1/72d778ab7467f391a73532081567a977745277c0#72d778ab7467f391a73532081567a977745277c0"
+  integrity sha512-XyaYF2Gf8H2r5ZcTvFKFEf3JYZYn1XEkFp+ywyyerTO9OOPGasJoNKattP/3mdbX8Ig1B+TzqxnmPbMQKJm+RQ==
   dependencies:
     axios "1.1.2"
 
@@ -53,8 +53,8 @@
 
 "@hieudoanm/utils@0.0.1":
   version "0.0.1"
-  resolved "https://npm.pkg.github.com/download/@hieudoanm/utils/0.0.1/6b54378c08d280319a13539fcfebf67db563ac4b#6b54378c08d280319a13539fcfebf67db563ac4b"
-  integrity sha512-OoUVuOU6L7u3g+D+EZOd305SXUqM/oGYr0zCxGf+DkeJfa2DIxEw8cIWIx6TuhTS4SlhTOuDPSNMAANqGj7LNg==
+  resolved "https://npm.pkg.github.com/download/@hieudoanm/utils/0.0.1/ab4e7a3c0ab7ccbc5a89aed923cbfdeb8ec34844#ab4e7a3c0ab7ccbc5a89aed923cbfdeb8ec34844"
+  integrity sha512-MbnHoUqPme3JuN/Q7yECsEsnj3/S5bX6dn+tTBn4q4hEOvkAwgcgRVpfrl7vtjW+ENh2MgbzF6khfJlRWRpcXg==
 
 "@humanwhocodes/config-array@^0.10.5":
   version "0.10.7"
