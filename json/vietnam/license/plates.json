@@ -1,86 +1,414 @@
 [
-  { "plate": "11", "type": "province", "name": "Cao Bằng" },
-  { "plate": "12", "type": "province", "name": "Lạng Sơn" },
-  { "plate": "13", "type": "province", "name": "Bắc Giang" },
-  { "plate": "14", "type": "province", "name": "Quảng Ninh" },
-  { "plate": "15", "type": "province", "name": "Hải Phòng" },
-  { "plate": "16", "type": "province", "name": "Hải Phòng" },
-  { "plate": "17", "type": "province", "name": "Thái Bình" },
-  { "plate": "18", "type": "province", "name": "Nam Định" },
-  { "plate": "19", "type": "province", "name": "Phú Thọ" },
-  { "plate": "20", "type": "province", "name": "Thái Nguyên" },
-  { "plate": "21", "type": "province", "name": "Yên Bái" },
-  { "plate": "22", "type": "province", "name": "Tuyên Quang" },
-  { "plate": "23", "type": "province", "name": "Hà Giang" },
-  { "plate": "24", "type": "province", "name": "Lào Cai" },
-  { "plate": "25", "type": "province", "name": "Lai Châu" },
-  { "plate": "26", "type": "province", "name": "Sơn La" },
-  { "plate": "27", "type": "province", "name": "Điện Biên" },
-  { "plate": "28", "type": "province", "name": "Hòa Bình" },
-  { "plate": "29", "type": "province", "name": "Hà Nội" },
-  { "plate": "30", "type": "province", "name": "Hà Nội" },
-  { "plate": "31", "type": "province", "name": "Hà Nội" },
-  { "plate": "32", "type": "province", "name": "Hà Nội" },
-  { "plate": "33", "type": "province", "name": "Hà Nội" },
-  { "plate": "34", "type": "province", "name": "Hải Dương" },
-  { "plate": "35", "type": "province", "name": "Ninh Bình" },
-  { "plate": "36", "type": "province", "name": "Thanh Hóa" },
-  { "plate": "37", "type": "province", "name": "Nghệ An" },
-  { "plate": "38", "type": "province", "name": "Hà Tĩnh" },
-  { "plate": "39", "type": "province", "name": "Đồng Nai" },
-  { "plate": "40", "type": "province", "name": "Hà Nội" },
-  { "plate": "41", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "43", "type": "province", "name": "Đà Nẵng" },
-  { "plate": "47", "type": "province", "name": "Đắk Lắk" },
-  { "plate": "48", "type": "province", "name": "Đắk Nông" },
-  { "plate": "49", "type": "province", "name": "Lâm Đồng" },
-  { "plate": "50", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "51", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "52", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "53", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "54", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "55", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "56", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "57", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "58", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "59", "type": "province", "name": "Hồ Chí Minh" },
-  { "plate": "60", "type": "province", "name": "Đồng Nai" },
-  { "plate": "61", "type": "province", "name": "Bình Dương" },
-  { "plate": "62", "type": "province", "name": "Long An" },
-  { "plate": "63", "type": "province", "name": "Tiền Giang" },
-  { "plate": "64", "type": "province", "name": "Vĩnh Long" },
-  { "plate": "65", "type": "province", "name": "Cần Thơ" },
-  { "plate": "66", "type": "province", "name": "Đồng Tháp" },
-  { "plate": "67", "type": "province", "name": "An Giang" },
-  { "plate": "68", "type": "province", "name": "Kiên Giang" },
-  { "plate": "69", "type": "province", "name": "Cà Mau" },
-  { "plate": "70", "type": "province", "name": "Tây Ninh" },
-  { "plate": "71", "type": "province", "name": "Bến Tre" },
-  { "plate": "72", "type": "province", "name": "Bà Rịa - Vũng Tàu" },
-  { "plate": "73", "type": "province", "name": "Quảng Bình" },
-  { "plate": "74", "type": "province", "name": "Quảng Trị" },
-  { "plate": "75", "type": "province", "name": "Thừa Thiên - Huế" },
-  { "plate": "76", "type": "province", "name": "Quảng Ngãi" },
-  { "plate": "77", "type": "province", "name": "Bình Định" },
-  { "plate": "78", "type": "province", "name": "Phú Yên" },
-  { "plate": "79", "type": "province", "name": "Khánh Hòa" },
-  { "plate": "80", "type": "Đặc Biệt", "name": "Chính Phủ" },
-  { "plate": "81", "type": "province", "name": "Gia Lai" },
-  { "plate": "82", "type": "province", "name": "Kon Tum" },
-  { "plate": "83", "type": "province", "name": "Sóc Trăng" },
-  { "plate": "84", "type": "province", "name": "Trà Vinh" },
-  { "plate": "85", "type": "province", "name": "Ninh Thuận" },
-  { "plate": "86", "type": "province", "name": "Bình Thuận" },
-  { "plate": "88", "type": "province", "name": "Vĩnh Phúc" },
-  { "plate": "89", "type": "province", "name": "Hưng Yên" },
-  { "plate": "90", "type": "province", "name": "Hà Nam" },
-  { "plate": "92", "type": "province", "name": "Quảng Nam" },
-  { "plate": "93", "type": "province", "name": "Bình Phước" },
-  { "plate": "94", "type": "province", "name": "Bạc Liêu" },
-  { "plate": "95", "type": "province", "name": "Hậu Giang" },
-  { "plate": "97", "type": "province", "name": "Bắc Kạn" },
-  { "plate": "98", "type": "province", "name": "Bắc Giang" },
-  { "plate": "99", "type": "province", "name": "Bắc Ninh" },
+  {
+    "plate": "11",
+    "type": "province",
+    "name": "Cao Bằng"
+  },
+  {
+    "plate": "12",
+    "type": "province",
+    "name": "Lạng Sơn"
+  },
+  {
+    "plate": "13",
+    "type": "province",
+    "name": "Bắc Giang"
+  },
+  {
+    "plate": "14",
+    "type": "province",
+    "name": "Quảng Ninh"
+  },
+  {
+    "plate": "15",
+    "type": "province",
+    "name": "Hải Phòng"
+  },
+  {
+    "plate": "16",
+    "type": "province",
+    "name": "Hải Phòng"
+  },
+  {
+    "plate": "17",
+    "type": "province",
+    "name": "Thái Bình"
+  },
+  {
+    "plate": "18",
+    "type": "province",
+    "name": "Nam Định"
+  },
+  {
+    "plate": "19",
+    "type": "province",
+    "name": "Phú Thọ"
+  },
+  {
+    "plate": "20",
+    "type": "province",
+    "name": "Thái Nguyên"
+  },
+  {
+    "plate": "21",
+    "type": "province",
+    "name": "Yên Bái"
+  },
+  {
+    "plate": "22",
+    "type": "province",
+    "name": "Tuyên Quang"
+  },
+  {
+    "plate": "23",
+    "type": "province",
+    "name": "Hà Giang"
+  },
+  {
+    "plate": "24",
+    "type": "province",
+    "name": "Lào Cai"
+  },
+  {
+    "plate": "25",
+    "type": "province",
+    "name": "Lai Châu"
+  },
+  {
+    "plate": "26",
+    "type": "province",
+    "name": "Sơn La"
+  },
+  {
+    "plate": "27",
+    "type": "province",
+    "name": "Điện Biên"
+  },
+  {
+    "plate": "28",
+    "type": "province",
+    "name": "Hòa Bình"
+  },
+  {
+    "plate": "29",
+    "type": "province",
+    "name": "Hà Nội"
+  },
+  {
+    "plate": "30",
+    "type": "province",
+    "name": "Hà Nội"
+  },
+  {
+    "plate": "31",
+    "type": "province",
+    "name": "Hà Nội"
+  },
+  {
+    "plate": "32",
+    "type": "province",
+    "name": "Hà Nội"
+  },
+  {
+    "plate": "33",
+    "type": "province",
+    "name": "Hà Nội"
+  },
+  {
+    "plate": "34",
+    "type": "province",
+    "name": "Hải Dương"
+  },
+  {
+    "plate": "35",
+    "type": "province",
+    "name": "Ninh Bình"
+  },
+  {
+    "plate": "36",
+    "type": "province",
+    "name": "Thanh Hóa"
+  },
+  {
+    "plate": "37",
+    "type": "province",
+    "name": "Nghệ An"
+  },
+  {
+    "plate": "38",
+    "type": "province",
+    "name": "Hà Tĩnh"
+  },
+  {
+    "plate": "39",
+    "type": "province",
+    "name": "Đồng Nai"
+  },
+  {
+    "plate": "40",
+    "type": "province",
+    "name": "Hà Nội"
+  },
+  {
+    "plate": "41",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "43",
+    "type": "province",
+    "name": "Đà Nẵng"
+  },
+  {
+    "plate": "47",
+    "type": "province",
+    "name": "Đắk Lắk"
+  },
+  {
+    "plate": "48",
+    "type": "province",
+    "name": "Đắk Nông"
+  },
+  {
+    "plate": "49",
+    "type": "province",
+    "name": "Lâm Đồng"
+  },
+  {
+    "plate": "50",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "51",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "52",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "53",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "54",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "55",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "56",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "57",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "58",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "59",
+    "type": "province",
+    "name": "Hồ Chí Minh"
+  },
+  {
+    "plate": "60",
+    "type": "province",
+    "name": "Đồng Nai"
+  },
+  {
+    "plate": "61",
+    "type": "province",
+    "name": "Bình Dương"
+  },
+  {
+    "plate": "62",
+    "type": "province",
+    "name": "Long An"
+  },
+  {
+    "plate": "63",
+    "type": "province",
+    "name": "Tiền Giang"
+  },
+  {
+    "plate": "64",
+    "type": "province",
+    "name": "Vĩnh Long"
+  },
+  {
+    "plate": "65",
+    "type": "province",
+    "name": "Cần Thơ"
+  },
+  {
+    "plate": "66",
+    "type": "province",
+    "name": "Đồng Tháp"
+  },
+  {
+    "plate": "67",
+    "type": "province",
+    "name": "An Giang"
+  },
+  {
+    "plate": "68",
+    "type": "province",
+    "name": "Kiên Giang"
+  },
+  {
+    "plate": "69",
+    "type": "province",
+    "name": "Cà Mau"
+  },
+  {
+    "plate": "70",
+    "type": "province",
+    "name": "Tây Ninh"
+  },
+  {
+    "plate": "71",
+    "type": "province",
+    "name": "Bến Tre"
+  },
+  {
+    "plate": "72",
+    "type": "province",
+    "name": "Bà Rịa - Vũng Tàu"
+  },
+  {
+    "plate": "73",
+    "type": "province",
+    "name": "Quảng Bình"
+  },
+  {
+    "plate": "74",
+    "type": "province",
+    "name": "Quảng Trị"
+  },
+  {
+    "plate": "75",
+    "type": "province",
+    "name": "Thừa Thiên - Huế"
+  },
+  {
+    "plate": "76",
+    "type": "province",
+    "name": "Quảng Ngãi"
+  },
+  {
+    "plate": "77",
+    "type": "province",
+    "name": "Bình Định"
+  },
+  {
+    "plate": "78",
+    "type": "province",
+    "name": "Phú Yên"
+  },
+  {
+    "plate": "79",
+    "type": "province",
+    "name": "Khánh Hòa"
+  },
+  {
+    "plate": "80",
+    "type": "Đặc Biệt",
+    "name": "Chính Phủ"
+  },
+  {
+    "plate": "81",
+    "type": "province",
+    "name": "Gia Lai"
+  },
+  {
+    "plate": "82",
+    "type": "province",
+    "name": "Kon Tum"
+  },
+  {
+    "plate": "83",
+    "type": "province",
+    "name": "Sóc Trăng"
+  },
+  {
+    "plate": "84",
+    "type": "province",
+    "name": "Trà Vinh"
+  },
+  {
+    "plate": "85",
+    "type": "province",
+    "name": "Ninh Thuận"
+  },
+  {
+    "plate": "86",
+    "type": "province",
+    "name": "Bình Thuận"
+  },
+  {
+    "plate": "88",
+    "type": "province",
+    "name": "Vĩnh Phúc"
+  },
+  {
+    "plate": "89",
+    "type": "province",
+    "name": "Hưng Yên"
+  },
+  {
+    "plate": "90",
+    "type": "province",
+    "name": "Hà Nam"
+  },
+  {
+    "plate": "92",
+    "type": "province",
+    "name": "Quảng Nam"
+  },
+  {
+    "plate": "93",
+    "type": "province",
+    "name": "Bình Phước"
+  },
+  {
+    "plate": "94",
+    "type": "province",
+    "name": "Bạc Liêu"
+  },
+  {
+    "plate": "95",
+    "type": "province",
+    "name": "Hậu Giang"
+  },
+  {
+    "plate": "97",
+    "type": "province",
+    "name": "Bắc Kạn"
+  },
+  {
+    "plate": "98",
+    "type": "province",
+    "name": "Bắc Giang"
+  },
+  {
+    "plate": "99",
+    "type": "province",
+    "name": "Bắc Ninh"
+  },
   {
     "plate": "AA",
     "type": "Quân Đoàn",
@@ -101,8 +429,16 @@
     "type": "Quân Đoàn",
     "name": "Quân Đoàn 4 - Binh đoàn Cửu Long"
   },
-  { "plate": "AN", "type": "Quân Đoàn", "name": "Binh đoàn 15" },
-  { "plate": "AP", "type": "Quân Đoàn", "name": "Lữ đoàn M44" },
+  {
+    "plate": "AN",
+    "type": "Quân Đoàn",
+    "name": "Binh đoàn 15"
+  },
+  {
+    "plate": "AP",
+    "type": "Quân Đoàn",
+    "name": "Lữ đoàn M44"
+  },
   {
     "plate": "AT",
     "type": "Quân Đoàn",
@@ -113,15 +449,51 @@
     "type": "Quân Đoàn",
     "name": "Binh đoàn 11 - Tổng Công Ty Xây Dựng Thành An"
   },
-  { "plate": "BBB", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BC", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BH", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BK", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BL", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BP", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BS", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BT", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
-  { "plate": "BV", "type": "Bộ Tư Lệnh", "name": " Binh Chủng" },
+  {
+    "plate": "BBB",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BC",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BH",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BK",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BL",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BP",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BS",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BT",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
+  {
+    "plate": "BV",
+    "type": "Bộ Tư Lệnh",
+    "name": " Binh Chủng"
+  },
   {
     "plate": "CA",
     "type": "Tổng Cục",
@@ -162,37 +534,121 @@
     "type": "Tổng Cục",
     "name": "Tổng công ty Đông Bắc - Bộ Quốc Phòng"
   },
-  { "plate": "HA", "type": "Học Viện", "name": "Học viện Quốc phòng" },
-  { "plate": "HB", "type": "Học Viện", "name": "Học viện Lục quân" },
-  { "plate": "HC", "type": "Học Viện", "name": "Học viện Chính trị quân sự" },
-  { "plate": "HD", "type": "Học Viện", "name": "Học viện Kỹ thuật Quân sự" },
-  { "plate": "HE", "type": "Học Viện", "name": "Học viện Hậu cần" },
-  { "plate": "HH", "type": "Học Viện", "name": "Học viện quân y" },
+  {
+    "plate": "HA",
+    "type": "Học Viện",
+    "name": "Học viện Quốc phòng"
+  },
+  {
+    "plate": "HB",
+    "type": "Học Viện",
+    "name": "Học viện Lục quân"
+  },
+  {
+    "plate": "HC",
+    "type": "Học Viện",
+    "name": "Học viện Chính trị quân sự"
+  },
+  {
+    "plate": "HD",
+    "type": "Học Viện",
+    "name": "Học viện Kỹ thuật Quân sự"
+  },
+  {
+    "plate": "HE",
+    "type": "Học Viện",
+    "name": "Học viện Hậu cần"
+  },
+  {
+    "plate": "HH",
+    "type": "Học Viện",
+    "name": "Học viện quân y"
+  },
   {
     "plate": "HN",
     "type": "Học Viện",
     "name": "Học viện chính trị Quân sự Bắc Ninh"
   },
-  { "plate": "HQ", "type": "Học Viện", "name": "Trường Sỹ quan lục quân II" },
-  { "plate": "HT", "type": "Học Viện", "name": "Trường Sỹ quan lục quân I" },
-  { "plate": "KA", "type": "Quân Khu", "name": "Quân khu 1" },
-  { "plate": "KB", "type": "Quân Khu", "name": "Quân khu 2" },
-  { "plate": "KC", "type": "Quân Khu", "name": "Quân khu 3" },
-  { "plate": "KD", "type": "Quân Khu", "name": "Quân khu 4" },
-  { "plate": "KK", "type": "Quân Khu", "name": "Quân khu 9" },
-  { "plate": "KN", "type": "Quân Khu", "name": "Đặc khu Quảng Ninh" },
-  { "plate": "KP", "type": "Quân Khu", "name": "Quân khu 7" },
-  { "plate": "KT", "type": "Quân Khu", "name": "Quân khu Thủ đô" },
-  { "plate": "KV", "type": "Quân Khu", "name": "Quân khu 5" },
+  {
+    "plate": "HQ",
+    "type": "Học Viện",
+    "name": "Trường Sỹ quan lục quân II"
+  },
+  {
+    "plate": "HT",
+    "type": "Học Viện",
+    "name": "Trường Sỹ quan lục quân I"
+  },
+  {
+    "plate": "KA",
+    "type": "Quân Khu",
+    "name": "Quân khu 1"
+  },
+  {
+    "plate": "KB",
+    "type": "Quân Khu",
+    "name": "Quân khu 2"
+  },
+  {
+    "plate": "KC",
+    "type": "Quân Khu",
+    "name": "Quân khu 3"
+  },
+  {
+    "plate": "KD",
+    "type": "Quân Khu",
+    "name": "Quân khu 4"
+  },
+  {
+    "plate": "KK",
+    "type": "Quân Khu",
+    "name": "Quân khu 9"
+  },
+  {
+    "plate": "KN",
+    "type": "Quân Khu",
+    "name": "Đặc khu Quảng Ninh"
+  },
+  {
+    "plate": "KP",
+    "type": "Quân Khu",
+    "name": "Quân khu 7"
+  },
+  {
+    "plate": "KT",
+    "type": "Quân Khu",
+    "name": "Quân khu Thủ đô"
+  },
+  {
+    "plate": "KV",
+    "type": "Quân Khu",
+    "name": "Quân khu 5"
+  },
   {
     "plate": "ND",
     "type": "Tổng Cục",
     "name": "Tổng công ty Đầu tư Phát triển nhà - Bộ Quốc Phòng"
   },
-  { "plate": "NG", "type": "Đặc Biệt", "name": "Ngoại giao" },
-  { "plate": "NN", "type": "Đặc Biệt", "name": "Nước ngoài" },
-  { "plate": "PA", "type": "Cơ Quan Đặc Biệt", "name": "Cục đối ngoại BQP" },
-  { "plate": "PC", "type": "Cơ Quan Đặc Biệt", "name": "Tổng cục tình báo" },
+  {
+    "plate": "NG",
+    "type": "Đặc Biệt",
+    "name": "Ngoại giao"
+  },
+  {
+    "plate": "NN",
+    "type": "Đặc Biệt",
+    "name": "Nước ngoài"
+  },
+  {
+    "plate": "PA",
+    "type": "Cơ Quan Đặc Biệt",
+    "name": "Cục đối ngoại BQP"
+  },
+  {
+    "plate": "PC",
+    "type": "Cơ Quan Đặc Biệt",
+    "name": "Tổng cục tình báo"
+  },
   {
     "plate": "PK",
     "type": "Cơ Quan Đặc Biệt",
@@ -238,17 +694,41 @@
     "type": "Quân Chủng",
     "name": "Bộ tư lệnh Bộ đội biên phòng"
   },
-  { "plate": "QH", "type": "Quân Chủng", "name": "Quân chủng Hải quân" },
-  { "plate": "TC", "type": "Tổng Cục", "name": "Tổng cục Chính trị" },
-  { "plate": "TH", "type": "Tổng Cục", "name": "Tổng cục Hậu cần" },
+  {
+    "plate": "QH",
+    "type": "Quân Chủng",
+    "name": "Quân chủng Hải quân"
+  },
+  {
+    "plate": "TC",
+    "type": "Tổng Cục",
+    "name": "Tổng cục Chính trị"
+  },
+  {
+    "plate": "TH",
+    "type": "Tổng Cục",
+    "name": "Tổng cục Hậu cần"
+  },
   {
     "plate": "TK",
     "type": "Tổng Cục",
     "name": "Tổng cục Công nghiệp quốc phòng"
   },
-  { "plate": "TM", "type": "Tổng Cục", "name": "Bộ Tổng tham mưu" },
-  { "plate": "TN", "type": "Tổng Cục", "name": "Tổng cục tình báo quân đội" },
-  { "plate": "TT", "type": "Tổng Cục", "name": "Tổng cục kỹ thuật" },
+  {
+    "plate": "TM",
+    "type": "Tổng Cục",
+    "name": "Bộ Tổng tham mưu"
+  },
+  {
+    "plate": "TN",
+    "type": "Tổng Cục",
+    "name": "Tổng cục tình báo quân đội"
+  },
+  {
+    "plate": "TT",
+    "type": "Tổng Cục",
+    "name": "Tổng cục kỹ thuật"
+  },
   {
     "plate": "VB",
     "type": "Tổng Cục",
