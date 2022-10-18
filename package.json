@@ -21,6 +21,7 @@
     "stock-watch:clean:house": "ts-node ./src/scripts/stock-watch/clean-house",
     "stock-watch:clean:senate": "ts-node ./src/scripts/stock-watch/clean-senate",
     "stock-watch:download": "ts-node ./src/scripts/stock-watch/download",
+    "swagger": "ts-node ./src/scripts/swagger",
     "vnindex:companies": "ts-node ./src/scripts/vnindex/companies",
     "vnindex:history": "ts-node ./src/scripts/vnindex/history",
     "vnindex:subcompanies": "ts-node ./src/scripts/vnindex/subcompanies",

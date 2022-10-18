@@ -1,0 +1,41 @@
+name: Docs
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  github-actions:
+    strategy:
+      matrix:
+        node:
+          - name: Node.js 16
+            version: 16.x
+        os:
+          - name: Ubuntu
+            version: ubuntu-latest
+    name: ${{ matrix.os.name }} - ${{ matrix.node.name }}
+    runs-on: ${{ matrix.os.version }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Install Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: ${{ matrix.node.version }}
+      - name: Install Redoc CLI
+        run: yarn global add redoc-cli
+        env:
+          NODE_TOKEN: ${{ secrets.NODE_TOKEN }}
+      - name: Build Docs
+        run: redoc-cli build ./docs/swagger.json --output ./docs/index.html --title "TableBase API"
+        env:
+          NODE_TOKEN: ${{ secrets.NODE_TOKEN }}
+      - name: Deploy GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4.4.1
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          branch: gh-pages
+          folder: docs
+          clean: true
