@@ -9,6 +9,7 @@
   "private": true,
   "scripts": {
     "lint": "eslint . --fix --ext .ts",
+    "clean": "find . -name '.DS_Store' -type f -delete",
     "asx": "ts-node ./src/scrip  ts/asx",
     "congress:committees": "ts-node ./src/scripts/congress/committees",
     "congress:members": "ts-node ./src/scripts/congress/members",

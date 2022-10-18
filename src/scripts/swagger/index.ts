@@ -7,16 +7,16 @@ const BASE_URL =
 const walk = (dir: string, rootDir: string): string[] => {
   let files: string[] = [];
   const list = readdirSync(dir);
-  for (let file of list) {
-    file = dir + '/' + file;
-    const stat = statSync(file);
+  for (const file of list) {
+    const filePath = dir + '/' + file;
+    const stat = statSync(filePath);
     if (stat && stat.isDirectory()) {
       /* Recurse into a subdirectory */
-      const list = walk(file, rootDir);
+      const list = walk(filePath, rootDir);
       files = files.concat(list);
     } else {
       /* Is a file */
-      files.push(file);
+      files.push(filePath);
     }
   }
   return files.map((file: string) => file.replace(rootDir, ''));
@@ -58,7 +58,41 @@ const main = async () => {
       .map((item) => capitalize(item))
       .join(' ');
     const tag = capitalize(cleanPath.split('/')[0]);
-    const endpointPath = `/${cleanPath}`;
+    let endpointPath = `/${cleanPath}`;
+    if (
+      endpointPath.includes('/usa/congress/house') ||
+      endpointPath.includes('/usa/congress/senate')
+    ) {
+      endpointPath = '/usa/congress/${chamber}/${congress}/members';
+    } else if (endpointPath.includes('/usa/stock/history')) {
+      endpointPath = '/usa/stock/history/${symbol}';
+    } else if (endpointPath.includes('/vietnam/stock/history')) {
+      endpointPath = '/vietnam/stock/history/${symbol}';
+    } else if (endpointPath.includes('/vietnam/stock/subcompanies')) {
+      endpointPath = '/vietnam/stock/subcompanies/${symbol}';
+    } else if (endpointPath.includes('/vietnam/stock/subsectors')) {
+      endpointPath = '/vietnam/stock/subsectors/${symbol}';
+    } else if (
+      endpointPath.includes('/vietnam/vleague/cup/events') ||
+      endpointPath.includes('/vietnam/vleague/v.league-1/events') ||
+      endpointPath.includes('/vietnam/vleague/v.league-2/events')
+    ) {
+      endpointPath = '/vietnam/vleague/${competition}/events/${season}';
+    } else if (
+      endpointPath.includes('/vietnam/vleague/cup/fixtures') ||
+      endpointPath.includes('/vietnam/vleague/v.league-1/fixtures') ||
+      endpointPath.includes('/vietnam/vleague/v.league-2/fixtures')
+    ) {
+      endpointPath = '/vietnam/vleague/${competition}/fixtures/${season}';
+    } else if (
+      endpointPath.includes('/vietnam/vleague/cup/standings') ||
+      endpointPath.includes('/vietnam/vleague/v.league-1/standings') ||
+      endpointPath.includes('/vietnam/vleague/v.league-2/standings')
+    ) {
+      endpointPath = '/vietnam/vleague/${competition}/standings/${season}';
+    } else if (endpointPath.includes('/world/visas')) {
+      endpointPath = '/world/visas/${country}';
+    }
     paths[endpointPath] = {
       get: {
         operationId,
