@@ -59,38 +59,169 @@ const main = async () => {
       .join(' ');
     const tag = capitalize(cleanPath.split('/')[0]);
     let endpointPath = `/${cleanPath}`;
+
+    let parameters: {
+      in: string;
+      name: string;
+      required: boolean;
+      schema: {
+        type: string;
+      };
+    }[] = [];
     if (
       endpointPath.includes('/usa/congress/house') ||
       endpointPath.includes('/usa/congress/senate')
     ) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'chamber',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+        {
+          in: 'query',
+          name: 'congress',
+          required: true,
+          schema: {
+            type: 'number',
+          },
+        },
+      ];
       endpointPath = '/usa/congress/${chamber}/${congress}/members';
     } else if (endpointPath.includes('/usa/stock/history')) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'symbol',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+      ];
       endpointPath = '/usa/stock/history/${symbol}';
     } else if (endpointPath.includes('/vietnam/stock/history')) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'symbol',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+      ];
       endpointPath = '/vietnam/stock/history/${symbol}';
     } else if (endpointPath.includes('/vietnam/stock/subcompanies')) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'symbol',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+      ];
       endpointPath = '/vietnam/stock/subcompanies/${symbol}';
     } else if (endpointPath.includes('/vietnam/stock/subsectors')) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'symbol',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+      ];
       endpointPath = '/vietnam/stock/subsectors/${symbol}';
     } else if (
       endpointPath.includes('/vietnam/vleague/cup/events') ||
       endpointPath.includes('/vietnam/vleague/v.league-1/events') ||
       endpointPath.includes('/vietnam/vleague/v.league-2/events')
     ) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'competition',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+        {
+          in: 'query',
+          name: 'season',
+          required: true,
+          schema: {
+            type: 'number',
+          },
+        },
+      ];
       endpointPath = '/vietnam/vleague/${competition}/events/${season}';
     } else if (
       endpointPath.includes('/vietnam/vleague/cup/fixtures') ||
       endpointPath.includes('/vietnam/vleague/v.league-1/fixtures') ||
       endpointPath.includes('/vietnam/vleague/v.league-2/fixtures')
     ) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'competition',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+        {
+          in: 'query',
+          name: 'season',
+          required: true,
+          schema: {
+            type: 'number',
+          },
+        },
+      ];
       endpointPath = '/vietnam/vleague/${competition}/fixtures/${season}';
     } else if (
       endpointPath.includes('/vietnam/vleague/cup/standings') ||
       endpointPath.includes('/vietnam/vleague/v.league-1/standings') ||
       endpointPath.includes('/vietnam/vleague/v.league-2/standings')
     ) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'competition',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+        {
+          in: 'query',
+          name: 'season',
+          required: true,
+          schema: {
+            type: 'number',
+          },
+        },
+      ];
       endpointPath = '/vietnam/vleague/${competition}/standings/${season}';
     } else if (endpointPath.includes('/world/visas')) {
+      parameters = [
+        {
+          in: 'query',
+          name: 'country',
+          required: true,
+          schema: {
+            type: 'string',
+          },
+        },
+      ];
       endpointPath = '/world/visas/${country}';
     }
     paths[endpointPath] = {
@@ -110,7 +241,7 @@ const main = async () => {
         },
         tags: [tag],
         security: [],
-        parameters: [],
+        parameters,
       },
     };
   }
