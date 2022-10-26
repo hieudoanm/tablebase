@@ -20,7 +20,11 @@ for timeZone in timeZones:
     except: # pylint: disable=bare-except
         print("TimeZone Error")
 
-keys = listOfTimeZones[0].keys()
+allKeys = []
+for item in listOfTimeZones:
+    allKeys += list(item.keys())
+keys = list(set(allKeys))
+keys.sort()
 
 with open('./data/world/timezones.csv', 'w', newline='', encoding='utf-8') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)

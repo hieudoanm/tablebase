@@ -24,7 +24,11 @@ for i in range(totalPages + 1):
 
 print(len(quotes))
 
-keys = quotes[0].keys()
+allKeys = []
+for item in quotes:
+    allKeys += list(item.keys())
+keys = list(set(allKeys))
+keys.sort()
 
 with open('./data/quotes/quotes.csv', 'w', newline='', encoding='utf-8') as output_file:
     dict_writer = csv.DictWriter(output_file, keys)
