@@ -1,5 +1,4 @@
 import { writeFileSync } from 'fs';
-import { convertCSVtoJSON } from '../../libs/csv-to-json';
 import { convertJSONtoCSV } from '../../libs/json-to-csv';
 import {
   getAvailableDates,
