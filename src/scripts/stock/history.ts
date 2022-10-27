@@ -18,7 +18,7 @@ const main = async () => {
       .map((transaction) => transaction.symbol)
   ).sort();
 
-  const fileNames: string[] = await readdirSync('./data/stock/history');
+  const fileNames: string[] = readdirSync('./data/stock/history');
   const existingSymbols: string[] = fileNames.map((fileName: string) =>
     fileName.replace(/.csv/g, '')
   );
@@ -28,7 +28,7 @@ const main = async () => {
     console.log('symbol', symbol);
     const csv: string = await getDailyHistory(symbol);
     if (typeof csv === 'string') {
-      await writeFileSync(`./data/stock/history/${symbol}.csv`, csv);
+      writeFileSync(`./data/stock/history/${symbol}.csv`, csv);
     } else {
       console.log(csv);
     }
