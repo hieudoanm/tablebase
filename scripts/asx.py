@@ -17,12 +17,15 @@ for item in items:
     symbol = item["symbol"]
     KEY_URL = "{0}/{1}/key-statistics".format(BASE_URL, symbol)
     print(KEY_URL)
-    response = requests.get(KEY_URL)
-    responseJSON = response.json()
-    statistics = responseJSON.get("data", {})
-    print(symbol)
-    company = {**item, **statistics}
-    companies.append(company)
+    try:
+        response = requests.get(KEY_URL)
+        responseJSON = response.json()
+        statistics = responseJSON.get("data", {})
+        print(symbol)
+        company = {**item, **statistics}
+        companies.append(company)
+    except:
+        print("Error")
 
 print(len(companies))
 
