@@ -21,6 +21,11 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,11/02/2021,2021-10-25,joint,SCU,Sculptor Capital Management Inc Class A,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019717.pdf,False
 2021,11/02/2021,2021-10-26,joint,SCU,Sculptor Capital Management Inc Class A,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019717.pdf,False
 2021,11/02/2021,2021-10-08,joint,VIASP,Via Renewables Inc - 8.75% Series A Fixed-to-Floating Rate Cumulative Redeemable Perpetual Preferred Stock,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019717.pdf,False
+2022,10/18/2022,2022-09-30,,COIN,Coinbase Global Inc,purchase,"$1,001 - $15,000",Hon. Garret Graves,LA06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021868.pdf,False
+2022,10/18/2022,2022-09-08,,--,Harris County TX 5%,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021857.pdf,False
+2022,10/18/2022,2022-09-08,,--,Main Mun Bd BK 5% 09/01/27,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021857.pdf,False
+2022,10/18/2022,2022-09-14,,--,New York St 5% 06/15/27,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021857.pdf,False
+2022,10/18/2022,2022-09-09,,--,Utility Debt NY 5% 12/15/29,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021857.pdf,False
 2022,07/28/2022,2022-06-16,,ACAD,ACADIA Pharmaceuticals Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021398.pdf,False
 2022,07/28/2022,2022-06-21,,AGNC,AGNC Investment Corp,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021398.pdf,False
 2022,07/28/2022,2022-06-16,,ALLK,Allakos Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021398.pdf,False
@@ -300,7 +305,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,07/20/2021,2021-06-10,,ADBE,Adobe Inc,purchase,"$1,001 - $15,000",Hon. William R. Keating,MA09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019116.pdf,False
 2021,07/20/2021,2021-06-29,,--,LOWEs COS INC NOTE CALL MAKE WHOLE 3.10% 5/03/27,purchase,"$15,001 - $50,000",Hon. William R. Keating,MA09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019116.pdf,False
 2021,07/20/2021,2021-06-10,,VRSN,VeriSign Inc,sale_full,"$1,001 - $15,000",Hon. William R. Keating,MA09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019116.pdf,False
-2021,12/15/2021,2021-11-24,self,CBOE,Cboe Global Markets Inc,purchase,"$1,001 - $15,000",Hon. Raúl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020029.pdf,False
+2021,12/15/2021,2021-11-24,self,CBOE,Cboe Global Markets Inc,purchase,"$1,001 - $15,000",Hon. RaÃºl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020029.pdf,False
 2021,05/25/2021,2021-04-23,,CARG,CarGurus Inc - Class A,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018768.pdf,False
 2021,05/25/2021,2021-04-21,,CARG,CarGurus Inc - Class A,sale_full,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018768.pdf,False
 2021,05/25/2021,2021-05-07,,HAE,Haemonetics Corporation,sale_full,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018768.pdf,False
@@ -639,7 +644,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2022,08/12/2022,2021-02-18,,APHA,Aphria Inc - Common Shares,purchase,"$15,001 - $50,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf,False
 2022,08/12/2022,2021-08-05,,ESGC,Eros STC Global Corporation Ordinary Shares,sale_full,"$1,001 - $15,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf,False
 2022,08/12/2022,2021-02-12,,ESGC,Eros STC Global Corporation Ordinary Shares,purchase,"$15,001 - $50,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf,False
-2022,08/12/2022,2021-02-10,,TLRV,Tilray Inc -  Class 2,sale_full,"$50,001 - $100,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf,False
+2022,08/12/2022,2021-02-10,,TLRY,Tilray Inc -  Class 2,sale_full,"$50,001 - $100,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf,False
 2022,08/12/2022,2021-02-09,,TLRY,Tilray Inc -  Class 2,sale_partial,"$15,001 - $50,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf,False
 2022,08/12/2022,2021-02-09,,TLRY,Tilray Inc -  Class 2,sale_partial,"$15,001 - $50,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021542.pdf,False
 2022,08/12/2022,2021-02-16,,IPWR,Ideal Power Inc,sale_full,"$15,001 - $50,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021543.pdf,False
@@ -657,8 +662,8 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2022,08/12/2022,2022-07-21,joint,SPDW,SPRD Index SHB FDS SPDR Port,sale_full,"$15,001 - $50,000","Hon. Charles J. ""Chuck"" Fleischmann",TN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219165.pdf,False
 2022,08/12/2022,2022-07-21,joint,SLYG,SPDR SER TR S&P 600 Small Cap,sale_full,"$1,001 - $15,000","Hon. Charles J. ""Chuck"" Fleischmann",TN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219165.pdf,False
 2022,08/12/2022,2022-07-21,joint,SLYV,SPDR SER TR S&P 600 Small Cap,sale_full,"$1,001 - $15,000","Hon. Charles J. ""Chuck"" Fleischmann",TN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219165.pdf,False
-2021,12/20/2021,2021-12-17,self,CBOE,Cboe Global Markets Inc,sale_full,"$1,001 - $15,000",Hon. Raúl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020062.pdf,False
-2021,12/20/2021,2021-11-01,joint,--,Jersey NJ‌ Transp. AUTH,sale_full,"$50,001 - $100,000",Hon. Mike Kelly,PA16,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218506.pdf,False
+2021,12/20/2021,2021-12-17,self,CBOE,Cboe Global Markets Inc,sale_full,"$1,001 - $15,000",Hon. RaÃºl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020062.pdf,False
+2021,12/20/2021,2021-11-01,joint,--,Jersey NJâ Transp. AUTH,sale_full,"$50,001 - $100,000",Hon. Mike Kelly,PA16,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218506.pdf,False
 2021,09/08/2021,2021-08-06,self,ATVI,Activision Blizzard Inc,purchase,"$1,001 - $15,000",Hon. Marie Newman,IL03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019443.pdf,False
 2021,09/08/2021,2021-08-13,self,AAPl,Apple Inc,purchase,"$15,001 - $50,000",Hon. Marie Newman,IL03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019443.pdf,False
 2021,09/08/2021,2021-08-13,self,CHWY,Chewy Inc Class A,sale_full,"$1,001 - $15,000",Hon. Marie Newman,IL03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019443.pdf,False
@@ -759,6 +764,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2020,03/09/2020,2020-03-04,joint,VSAT,"ViaSat, Inc.",purchase,"$1,001 - $15,000",Hon. Greg Gianforte,MT00,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016104.pdf,False
 2020,03/09/2020,2020-03-02,joint,WW,"WW International, Inc.",purchase,"$15,001 - $50,000",Hon. Greg Gianforte,MT00,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016104.pdf,False
 2020,03/09/2020,2020-02-27,--,ABBV,AbbVie Inc.,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016184.pdf,False
+2022,09/14/2022,2022-08-23,self,--,Mississippi ST GO BDS 2021 A B/E CPN 3% Due 06/01/40 CALL 06/01/30 @ 100.00,purchase,"$50,001 - $100,000",Hon. Michael Patrick Guest,MS03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021691.pdf,False
 2022,07/09/2022,2022-07-08,self,DBRG,DigitalBridge Group Inc,purchase,"$1,001 - $15,000",Hon. Pete Sessions,TX17,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021355.pdf,False
 2022,07/09/2022,2022-07-08,self,NVDA,NVIDIA Corporation,purchase,"$1,001 - $15,000",Hon. Pete Sessions,TX17,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021355.pdf,False
 2021,06/13/2021,2021-06-03,joint,FIS,Fidelity National Information Services Inc,sale_full,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018911.pdf,False
@@ -1376,6 +1382,10 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,09/30/2021,2021-09-14,,AMJ,JPMorgan Chase Capital XVI JP Morgan Alerian MLP ETN,sale_full,"$1,001 - $15,000",Hon. David P. Joyce,OH14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019546.pdf,False
 2021,09/30/2021,2021-09-14,,MDY,SPDR MidCap Trust Series I,purchase,"$1,001 - $15,000",Hon. David P. Joyce,OH14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019546.pdf,False
 2021,12/18/2021,2021-11-08,,--,Ithaca NY Pub Impt G/O Ltd B/E OID,purchase,"$15,001 - $50,000",Hon. Carolyn B. Maloney,NY12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20020032.pdf,False
+2022,10/01/2022,2022-09-26,self,SCI,Service Corporation International,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021786.pdf,False
+2022,10/01/2022,2022-09-22,joint,CRM,Salesforce Inc,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021787.pdf,False
+2022,10/01/2022,2022-09-23,joint,SCI,Service Corporation International,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021787.pdf,False
+2022,10/01/2022,2022-09-22,joint,SCI,Service Corporation International,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021787.pdf,False
 2022,03/13/2022,2022-02-22,self,MPW,Medical Properties Trust Inc Common Stock,purchase,"$1,001 - $15,000",Hon. Pete Sessions,TX17,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020617.pdf,False
 2021,02/09/2021,2020-12-30,,HII,"Huntington Ingalls Industries, Inc.",sale_full,"$1,001 - $15,000",Hon. Dwight Evans,PA03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018181.pdf,True
 2021,02/09/2021,2020-12-30,,OKE,"ONEOK, Inc.",sale_full,"$15,001 - $50,000",Hon. Dwight Evans,PA03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018181.pdf,True
@@ -2011,6 +2021,9 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2022,03/07/2022,2022-02-07,joint,TXN,Texas Instruments Incorprated,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020571.pdf,False
 2021,06/01/2021,2021-04-27,,BRP,BRP Group Inc - Class A,sale_full,"$1,000,001 - $5,000,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018831.pdf,False
 2021,06/01/2021,2021-04-15,,VAR,Varian Medical Systems Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018738.pdf,False
+2022,09/06/2022,2022-08-16,,PG,Procter & Gamble Company,purchase,"$1,001 - $15,000",Hon. Lloyd Doggett,TX35,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021654.pdf,False
+2022,09/06/2022,2022-09-06,,AAPL,Apple Inc,purchase,"$1,001 - $15,000",Hon. Bob Gibbs,OH07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021661.pdf,False
+2022,09/06/2022,2022-09-06,,AAPL,Apple Inc,purchase,"$1,001 - $15,000",Hon. Bob Gibbs,OH07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021661.pdf,False
 2021,04/04/2021,2021-03-24,self,NFLX,Netflix,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018513.pdf,False
 2021,04/04/2021,2021-03-25,self,TOL,Toll Brothers Finance,purchase,"$15,001 - $50,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018513.pdf,False
 2021,04/04/2021,2021-03-23,joint,NVDA,NVIDIA Corporation,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018514.pdf,False
@@ -2623,6 +2636,15 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,06/15/2021,2021-04-29,,--,ORACLE CORP NOTE CALL,purchase,"$15,001 - $50,000",Hon. William R. Keating,MA09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018875.pdf,False
 2021,06/15/2021,2021-05-03,,--,VALERO ENERGY CORP NOTE CALL,purchase,"$15,001 - $50,000",Hon. William R. Keating,MA09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018875.pdf,False
 2021,06/15/2021,2021-06-10,,--,VALERO ENERGY CORP NOTE CALL,purchase,"$15,001 - $50,000",Hon. William R. Keating,MA09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018875.pdf,False
+2022,09/12/2022,2022-08-03,,GOLD,Barrick Gold Corporation Common Stock,purchase,"$15,001 - $50,000",Hon. Steve Cohen,TN09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021694.pdf,False
+2022,09/12/2022,2022-08-03,,VRAI,Virtus Real Asset Income ETF,purchase,"$15,001 - $50,000",Hon. Steve Cohen,TN09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021694.pdf,False
+2022,09/12/2022,2022-09-01,joint,--,ID ST Bldg Auth 5/23 5% Due 09/01/23,sale_partial,"$50,001 - $100,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021660.pdf,False
+2022,09/12/2022,2022-08-23,joint,--,Wolcott CT 1.25% GO Utx Due 08/23/22,sale_full,"$500,001 - $1,000,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021660.pdf,False
+2022,09/12/2022,2022-08-12,self,--,Folsom Cordova CA Impt Sch,purchase,"$250,001 - $500,000",Hon. Scott H. Peters,CA52,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021674.pdf,False
+2022,09/12/2022,2022-08-12,self,--,Los Angeles County Excise Tax,purchase,"$250,001 - $500,000",Hon. Scott H. Peters,CA52,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021674.pdf,False
+2022,09/12/2022,2022-08-01,self,--,Ohlone Community College District,sale_full,"$250,001 - $500,000",Hon. Scott H. Peters,CA52,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021674.pdf,False
+2022,09/12/2022,2022-08-01,self,--,Rowland CA USD,sale_full,"$250,001 - $500,000",Hon. Scott H. Peters,CA52,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021674.pdf,False
+2022,09/12/2022,2022-09-01,,SPG,Simon Property Group,purchase,"$15,001 - $50,000",Hon. Victoria Spartz,IN05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021689.pdf,False
 2022,01/28/2022,2021-12-16,,TWTR,Twitter Inc,sale_full,"$15,001 - $50,000",Hon. Patrick Fallon,TX04,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020143.pdf,False
 2022,01/28/2022,2021-12-16,,TWTR,Twitter Inc,purchase,"$15,001 - $50,000",Hon. Patrick Fallon,TX04,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020143.pdf,False
 2020,05/28/2020,2020-05-14,,DOX,Amdocs Limited - Ordinary Shares,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016661.pdf,False
@@ -2700,6 +2722,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,11/10/2021,2021-09-10,self,VMW,VMWare Inc Note - 1.4% maturity at 08/15/2026,purchase,"$15,001 - $50,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019796.pdf,False
 2021,11/10/2021,2021-10-29,,MMP,Magellan Midstream Parters,purchase,"$100,001 - $250,000",Hon. Trey Hollingsworth,IN09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218433.pdf,False
 2021,11/10/2021,2021-10-29,,MMP,Magellan Midstream Parters,purchase,"$100,001 - $250,000",Hon. Trey Hollingsworth,IN09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218433.pdf,False
+2022,09/27/2022,2022-08-25,self,SNV,Synovus Financial Corp,sale_full,"$1,001 - $15,000",Hon. Greg Steube,FL17,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021743.pdf,False
 2021,06/20/2021,2021-05-17,,ALK,"Alaska Air Group, Inc",sale_full,"$250,001 - $500,000",Hon. Victoria Spartz,IN05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018952.pdf,False
 2021,06/20/2021,2021-05-12,,SPG,Simon Property Group Inc,purchase,"$100,001 - $250,000",Hon. Victoria Spartz,IN05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018952.pdf,False
 2021,06/20/2021,2021-06-10,,SPG,Simon Property Group Inc,purchase,"$500,001 - $1,000,000",Hon. Victoria Spartz,IN05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018952.pdf,False
@@ -4176,6 +4199,18 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2020,08/25/2020,2020-08-13,joint,C,"Citigroup, Inc.",purchase,"$1,001 - $15,000",Hon. John Curtis,UT03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017225.pdf,False
 2020,08/25/2020,2020-08-13,joint,CSX,CSX Corporation,purchase,"$1,001 - $15,000",Hon. John Curtis,UT03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017225.pdf,False
 2020,08/25/2020,2020-08-21,--,JNJ,Johnson & Johnson,purchase,"$1,001 - $15,000",Hon. Bob Gibbs,OH07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017247.pdf,False
+2022,09/20/2022,2022-08-31,self,SYK,Stryker Corporation,sale_partial,"$1,001 - $15,000",Hon. Michael C. Burgess,TX26,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021716.pdf,False
+2022,09/20/2022,2022-09-14,joint,--,Mcklenberg County NC Pub Impt BDS 2018,purchase,"$1,001 - $15,000",Hon. John Curtis,UT03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021733.pdf,False
+2022,09/20/2022,2022-09-14,,ACN,Accenture plc Class A Ordinary Shares,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-07,,ACN,Accenture plc Class A Ordinary Shares,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-12,,ADI,Analog Devices Inc,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-07,,CL,Colgate-Palmolive Company,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-14,,DHR,Danaher Corporation,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-07,,ETN,Eaton Corporation PLC Ordinary Shares,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-07,,KLAC,KLA Corporation,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-14,,KLAC,KLA Corporation,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-07,,LOW,Lowes Companies Inc,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
+2022,09/20/2022,2022-09-07,,TGT,Target Corporation,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021732.pdf,False
 2021,11/17/2021,2021-10-14,,SYK,Stryker Corporation,sale_partial,"$1,001 - $15,000",Hon. Michael C. Burgess,TX26,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019844.pdf,False
 2021,11/17/2021,2021-10-19,self,SYK,Stryker Corporation,sale_partial,"$1,001 - $15,000",Hon. Michael C. Burgess,TX26,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019844.pdf,False
 2022,08/26/2022,2022-08-02,joint,--,New York NY City Transitional Fin 5% Due Feb 1 2032,purchase,"$500,001 - $1,000,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021579.pdf,False
@@ -4270,6 +4305,8 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,11/03/2021,2021-10-13,self,PFE,Pfizer Inc,sale_full,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019744.pdf,False
 2021,11/03/2021,2021-10-13,self,WMT,Walmart Inc,sale_full,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019744.pdf,False
 2021,11/03/2021,2021-10-05,self,WFC,Wells Fargo & Company Med Term Note,purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019744.pdf,False
+2022,10/19/2022,2022-10-04,,HLEIX,JPMorgan Chase & Co Linked S&P 500 Index,purchase,"$500,001 - $1,000,000",Hon. Trey Hollingsworth,IN09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219258.pdf,False
+2022,10/19/2022,2022-10-10,,AMD,Advanced Micro Devices,sale_full,"$15,001 - $50,000",Hon. David Kustoff,TN08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219259.pdf,False
 2022,07/29/2022,2022-07-28,joint,--,Union-Endicott NY Central School District,purchase,"$15,001 - $50,000",Hon. Donald Sternoff Beyer,VA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021447.pdf,False
 2022,07/29/2022,2022-07-18,self,NTAP,NetApp Inc Stock,sale_full,"$15,001 - $50,000",Hon. Doug Lamborn,CO05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219130.pdf,False
 2022,07/29/2022,2022-07-19,self,NTAP,NetApp Inc Stock,purchase,"$15,001 - $50,000",Hon. Doug Lamborn,CO05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219130.pdf,False
@@ -4307,8 +4344,8 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2020,04/29/2020,2020-04-09,,--,Morgan Stanley- BCS 17.00% WORSTOF CONTINGENT DAILY CALABLE INDU RTY SPX RATE: N/A/N/A 17.00% DUE:2022-04-14,purchase,"$1,001 - $15,000",Hon. Francis Rooney,FL19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217188.pdf,False
 2020,04/29/2020,2020-03-30,,--,"Morgan Stanley- Alkeon Growth SER 2, 2.00",purchase,"$1,001 - $15,000",Hon. Francis Rooney,FL19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217188.pdf,False
 2020,04/29/2020,2020-04-07,,--,Note Receivable- Energy Holdings LLC,sale_partial,"$1,001 - $15,000",Hon. Francis Rooney,FL19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217188.pdf,False
-2021,07/14/2021,2020-05-14,self,GLD,SPDR Gold Trust - Purchase amount was $1630.59,purchase,"$1,001 - $15,000",Hon. Raúl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019091.pdf,False
-2021,07/14/2021,2020-08-25,self,GLD,SPDR Gold Trust - Sale amount was $1801.31,sale_full,"$1,001 - $15,000",Hon. Raúl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019091.pdf,False
+2021,07/14/2021,2020-05-14,self,GLD,SPDR Gold Trust - Purchase amount was $1630.59,purchase,"$1,001 - $15,000",Hon. RaÃºl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019091.pdf,False
+2021,07/14/2021,2020-08-25,self,GLD,SPDR Gold Trust - Sale amount was $1801.31,sale_full,"$1,001 - $15,000",Hon. RaÃºl M. Grijalva,AZ03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019091.pdf,False
 2021,07/14/2021,2021-06-25,joint,ACN,Accenture plc Class A ordinary shares,purchase,"$100,001 - $250,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019089.pdf,False
 2021,07/14/2021,2021-06-25,joint,ASXC,Asensus Surgical Inc,purchase,"$100,001 - $250,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019089.pdf,False
 2021,07/14/2021,2021-06-30,joint,DVN,Devon Energy Corporation,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019089.pdf,False
@@ -4414,6 +4451,17 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,06/12/2021,2021-04-21,,PTON,Peleton Interactive Inc,purchase,"$15,001 - $50,000",Hon. Tom Malinowski,NJ07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018792.pdf,False
 2021,06/12/2021,2021-04-27,,QDEL,Quidel Corporation,sale_partial,"$1,001 - $15,000",Hon. Tom Malinowski,NJ07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018792.pdf,False
 2021,06/12/2021,2021-04-26,,TDC,Teradata Corporation,purchase,"$50,001 - $100,000",Hon. Tom Malinowski,NJ07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018792.pdf,False
+2022,09/15/2022,2022-08-15,joint,ACN,Accenture plc Class A Ordinary Shares,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-25,joint,ASML,ASML Holding NV New York Registry Shares,purchase,"$50,001 - $100,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-18,joint,CDNS,Cadence Design Systems Inc,purchase,"$15,001 - $50,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-17,joint,CTRA,Coterra Energy Inc,purchase,"$15,001 - $50,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-12,joint,MMP,Megellan Midstream Partners LP Limited Partnership,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-15,joint,OKE,ONEOK Inc,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-25,joint,PTC,PTC INc,purchase,"$15,001 - $50,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-16,joint,TXN,Texas Instruments Inc,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021704.pdf,False
+2022,09/15/2022,2022-08-03,,APA,APA Corp Common Stock,purchase,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219219.pdf,False
+2022,09/15/2022,2022-08-03,,DINO,HF Sinclair Corp Common Stock,purchase,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219219.pdf,False
+2022,09/15/2022,2022-08-03,,V,Visa Inc Class A,sale_full,"$50,001 - $100,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219219.pdf,False
 2021,11/22/2021,2021-11-15,self,NWN,Northwest Natural Holding Company,purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019869.pdf,False
 2021,11/22/2021,2021-11-15,joint,LMT,Lockheed Martin Corporation,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019872.pdf,False
 2021,11/22/2021,2021-11-15,joint,PYPL,PayPal Holdings Inc,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019872.pdf,False
@@ -4920,6 +4968,27 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2022,05/21/2022,2022-05-02,self,STZ,Constellation Brands Inc,purchase,"$15,001 - $50,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021090.pdf,False
 2022,05/21/2022,2022-05-05,self,ICE,Intercontental Exchange Inc,sale_partial,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021090.pdf,False
 2022,05/21/2022,2022-05-06,self,ICE,Intercontental Exchange Inc,sale_full,"$15,001 - $50,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021090.pdf,False
+2022,10/14/2022,2022-09-27,self,SCI,Service Corporation International,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021854.pdf,False
+2022,10/14/2022,2022-09-16,self,GOOG,Alphabet Inc - Class C capital stock. Excercised 200 call options purchased 12/17/21 (20k shares) at $100 strike with expiry of 9/16/22,purchase,"$1,000,001 - $5,000,000",Hon. Nancy Pelosi,CA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021837.pdf,False
+2022,10/14/2022,2022-09-16,self,MU,"Miron Technology Inc - Sold 100 call options purchased 12/21/21 (10K shares) at strike of $1.84 for a total loss of $392,575",sale_full,"$15,001 - $50,000",Hon. Nancy Pelosi,CA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021837.pdf,False
+2022,10/14/2022,2022-09-16,self,NVDA,"NVIDIA Corporation - Sold 50 Call options purchased 7/23/21 (5K shares) at strike of $26.86 for loss of $361,476",sale_full,"$1,001 - $15,000",Hon. Nancy Pelosi,CA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021837.pdf,False
+2022,10/14/2022,2022-09-16,self,DIS,Walt Disney Company - 50 Call options bought 12/17/21 with strike of $130 an expiration of 9/16/22 expired with no value,sale_full,"$1,001 - $15,000",Hon. Nancy Pelosi,CA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021837.pdf,False
+2022,10/14/2022,2022-09-22,,--,US Treasury Bill ZERO% with yeild to maturity of 2.54% on 10/27/22,purchase,"$50,001 - $100,000",Hon. Maria Elvira Salazar,FL27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021820.pdf,False
+2022,10/14/2022,2022-09-16,,MFH,M Financial Holding,sale_full,"$50,001 - $100,000",Hon. Bradley S. Schneider,IL10,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021833.pdf,False
+2022,10/14/2022,2022-09-20,,--,MZ Capital Mundelein LLC,purchase,"$100,001 - $250,000",Hon. Bradley S. Schneider,IL10,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021833.pdf,False
+2022,10/14/2022,2022-09-20,self,--,MZ Capital Mundelein LLC,purchase,"$1,001 - $15,000",Hon. Bradley S. Schneider,IL10,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021833.pdf,False
+2022,10/14/2022,2022-09-12,,VLO,Valero Energy Corp Common Stock,purchase,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-13,,IP,International Paper Co. Common Stock,sale_full,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,AMD,Advanced Micro Devices,purchase,"$1,001 - $15,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,GNRC,Generac Holdings Inc,purchase,"$1,001 - $15,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,NVDA,NVIDIA,purchase,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,DPZ,Dominos Pizza Inc,sale_full,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,JAZZ,Jazz Pharmaceuticals PLC,sale_full,"$1,001 - $15,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,AMD,Advanced Micro Devices,purchase,"$1,001 - $15,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,BA,Boeing Company,sale_full,"$1,001 - $15,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,AMD,Advanced Micro Devices,purchase,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,GNRC,Generac Holdings Inc,purchase,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
+2022,10/14/2022,2022-09-26,,NVDA,NVIDIA Corporation,purchase,"$15,001 - $50,000",Hon. Thomas Suozzi,NY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219250.pdf,False
 2022,06/22/2022,2022-05-11,self,--,Mississippi St Univ Edl Bldg Corp Rev Campus Impts PJ B/E OID @98.767 CPN 3.5% Due 11/01/37,purchase,"$50,001 - $100,000",Hon. Michael Patrick Guest,MS03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021172.pdf,False
 2022,04/27/2022,2022-04-19,,EPD,Enterprise Products Partners LTD,sale_full,"$500,001 - $1,000,000",Hon. Trey Hollingsworth,IN09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8218661.pdf,False
 2021,10/08/2021,2019-11-22,,MMM,3M Company,sale_full,"$1,001 - $15,000",Hon. Cindy Axne,IA03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019530.pdf,False
@@ -6082,6 +6151,9 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,11/24/2021,2021-11-24,joint,NXPI,NXP Semiconductor NV,purchase,"$1,001 - $15,000",Hon. Aston Donald McEachin,VA04,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019879.pdf,False
 2021,11/24/2021,2021-11-24,joint,TXN,Texas Instruments Incorporated,purchase,"$1,001 - $15,000",Hon. Aston Donald McEachin,VA04,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019880.pdf,False
 2021,11/24/2021,2021-11-24,,KPLTW,Katapult Holdings Inc -  Warrant,purchase,"$1,001 - $15,000",Hon. Austin Scott,GA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019877.pdf,False
+2022,09/13/2022,2022-08-25,self,AMAT,Applied Materials Inc,sale_full,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021699.pdf,False
+2022,09/13/2022,2022-08-25,self,CRL,Charles River Laboratories,sale_full,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021699.pdf,False
+2022,09/13/2022,2022-08-25,self,DIS,Walt Disney Company,purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021699.pdf,False
 2021,08/09/2021,2021-07-31,,--,Dist Columbia Income Tax R 5% 12/01/23,sale_full,"$50,001 - $100,000",Hon. Vern Buchanan,FL16,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019269.pdf,False
 2021,08/09/2021,2021-07-28,joint,AAPL,Apple Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019257.pdf,False
 2021,08/09/2021,2021-07-27,joint,SAM,Boston Beer Company Inc,sale_full,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019257.pdf,False
@@ -6118,6 +6190,13 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,08/09/2021,2021-02-26,self,--,"Spencer Stuart SSMC NV Class B Restricted Stock - 2,056 shares of former employer",sale_full,"$100,001 - $250,000",Hon. Seth Moulton,MA06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019142.pdf,False
 2021,06/14/2021,2021-05-21,joint,BRK.B,Berkshire Hathaway Inc.,purchase,"$1,001 - $15,000",Hon. Kathy Castor,FL14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018921.pdf,False
 2021,06/14/2021,2021-06-14,joint,BRK.B,Berkshire Hathaway Inc.,purchase,"$1,001 - $15,000",Hon. Kathy Castor,FL14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018921.pdf,False
+2022,09/07/2022,2022-08-01,,MSI,Motorola Solutions Inc,purchase,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219205.pdf,False
+2022,09/07/2022,2022-08-09,,MSI,Motorola Solutions Inc,purchase,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219205.pdf,False
+2022,09/07/2022,2022-08-11,,TTWO,Take-2 Interactive,purchase,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219205.pdf,False
+2022,09/07/2022,2022-08-24,,ANPDF,Anta Sports Products LTD,purchase,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219205.pdf,False
+2022,09/07/2022,2022-08-01,,CHTR,Charter Communications Inc,sale_full,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219205.pdf,False
+2022,09/07/2022,2022-06-09,,CTAS,Cintas Corporation,sale_full,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219205.pdf,False
+2022,09/07/2022,2022-08-23,,FXI,IShares China Large-Cap ETF,sale_full,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219205.pdf,False
 2021,04/05/2021,2021-03-31,self,BABA,Alibaba Group Holding Limited ADR Shares ech representing 8 ord shares,sale_full,"$1,001 - $15,000",None Ashley Hinson Arenholz,IA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018521.pdf,True
 2021,04/05/2021,2021-03-08,self,AMZN,Amazon.com Inc,purchase,"$1,001 - $15,000",None Ashley Hinson Arenholz,IA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018521.pdf,False
 2021,04/05/2021,2021-03-31,,AMZN,Amazon.com Inc,sale_full,"$15,001 - $50,000",None Ashley Hinson Arenholz,IA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018521.pdf,True
@@ -6382,6 +6461,10 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,06/21/2021,2021-06-03,dependent,SQ,Square Inc Class A,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018953.pdf,False
 2021,06/21/2021,2021-06-16,joint,TSM,Taiwan Semiconductor Manufacturing Company Ltd,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018953.pdf,False
 2021,06/21/2021,2021-06-16,joint,WBA,Walgreens Boots Alliance,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018953.pdf,False
+2022,09/26/2022,2022-08-26,,--,El Paso Tex Wtr & SW 5% 03/01/33,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021696.pdf,False
+2022,09/26/2022,2022-08-24,,--,New York ST Urban 5% 3/15/2027,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021696.pdf,False
+2022,09/26/2022,2022-09-02,self,CHPT,ChargePoint Holdings Inc,purchase,"$1,001 - $15,000",Hon. Ed Perlmutter,CO07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021752.pdf,False
+2022,09/26/2022,2022-07-19,self,KR,Kroger Company,purchase,"$1,001 - $15,000",Hon. Ed Perlmutter,CO07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021752.pdf,False
 2021,10/17/2021,2021-09-28,,F,Ford Motor Company,sale_full,"$1,001 - $15,000",Hon. James E Hon Banks,IN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019642.pdf,False
 2021,10/17/2021,2021-09-02,joint,KR,Kroger Company,sale_full,"$1,001 - $15,000",Hon. James E Hon Banks,IN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019642.pdf,False
 2021,10/17/2021,2021-09-09,joint,RBLX,Roblox Corporation Class A,sale_full,"$1,001 - $15,000",Hon. James E Hon Banks,IN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019642.pdf,False
@@ -6983,6 +7066,16 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2022,06/30/2022,2022-06-21,,IGT,International Game Tech,sale_full,"$1,001 - $15,000",Hon. Sharice Davids,KS03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219054.pdf,False
 2022,06/30/2022,2022-06-21,,MAXN,Maxeon Solar Technologies,sale_full,"$1,001 - $15,000",Hon. Sharice Davids,KS03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219054.pdf,False
 2022,06/30/2022,2022-06-07,,--,Beechwood KY Indp Sch District @ 99.122 due 08/01/2038 4.125%,purchase,"$1,001 - $15,000",Hon. Harold Dallas Rogers,KY05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219057.pdf,False
+2022,10/06/2022,2022-09-07,,ABNB,Airbnb Inc - Class A - CALL Option @ $120 expiry 09/16/2022,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-20,,ABNB,Airbnb Inc - Class A - CALL Option @ $126 expiry 09/30/2022,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-08,,SQ,Block Inc Class A Common Stock - CALL Option @ $63 expiry 10/07/2022,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-08,,SQ,Block Inc Class A Common Stock - CALL Option @ $75 expiry 09/16/2022,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-28,,DASH,DoorDash Inc - Class A - CALL Option @ $57 expiry 10/07/2022,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-28,,GNRC,Generac Holdings Inc,sale_partial,"$15,001 - $50,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-20,,GNRC,Generac Holdings Inc,purchase,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-15,,PYPL,PayPal Holdings Inc,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021812.pdf,False
+2022,10/06/2022,2022-09-16,,CPRT,COPART Inc,purchase,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219241.pdf,False
+2022,10/06/2022,2022-09-16,,UNP,Union Pacific Corp,sale_full,"$1,001 - $15,000",Hon. Kurt Schrader,OR05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219241.pdf,False
 2020,11/03/2020,2020-10-16,self,--,Duke Energy Progr 3.7%28 Due 09/01/28,purchase,"$15,001 - $50,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017631.pdf,False
 2020,11/03/2020,2020-10-28,self,BX,The Blackstone Group Inc. Class A,purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017631.pdf,False
 2020,11/03/2020,2020-09-01,,--,NEW ORLEANS LA GO LTD TAX REF BDS SER,sale_full,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017628.pdf,False
@@ -7125,6 +7218,41 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2020,02/24/2020,2020-02-10,--,PPL,PPL Corporation,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016100.pdf,False
 2020,02/24/2020,2020-01-27,--,SEDG,"SolarEdge Technologies, Inc.",purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016100.pdf,False
 2020,02/24/2020,2020-01-22,--,TXN,Texas Instruments Incorporated,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016100.pdf,False
+2022,10/12/2022,2022-09-01,joint,AA,Alcoa Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-28,joint,AA,Alcoa Corporation,sale_full,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-16,joint,AAM$A,Apollo Asset Management Inc 6.375% Series A Preferred Stock,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-23,joint,AAM$A,Apollo Asset Management Inc 6.375% Series A Preferred Stock,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-01,joint,CF,CF Industries Holdings Inc,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-07,joint,CF,CF Industries Holdings Inc,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-12,joint,CF,CF Industries Holdings Inc,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-16,joint,CF,CF Industries Holdings Inc,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-19,joint,DUK$A,Duke Energy Corporation Depositary Shares each representing 1/1Kth interest in a share of 5.75% Series A Cumulative Redeemable Perpetual Preferred Stock,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-29,joint,GOGL,Golden Ocean Group Limited,sale_full,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-15,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-01,joint,GPP,Green Plains Partners LP - Common Units,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-29,joint,GPP,Green Plains Partners LP - Common Units,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-23,joint,GPP,Green Plains Partners LP - Common Units,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-30,joint,IMKTA,Ingles Markets Incorporated Class A,sale_full,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-07,joint,NFG,National Fuel Gas Company,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-30,joint,NFG,National Fuel Gas Company,sale_full,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-01,joint,NHI,National Health Investors Inc,sale_full,"$50,001 - $100,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-27,joint,NEWT,Newtek Business Services Corp,sale_full,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-01,joint,NEWT,Newtek Business Services Corp,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-06,joint,NEWT,Newtek Business Services Corp,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-19,joint,NEWT,Newtek Business Services Corp,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-20,joint,NEWT,Newtek Business Services Corp,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-14,joint,NUE,Nucor Corproation,purchase,"$50,001 - $100,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-01,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-26,joint,SJT,San Juan Basin Royalty Trust,sale_full,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-16,joint,USDP,USD Partners LP Common Units representing limited partner interest.,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021790.pdf,False
+2022,10/12/2022,2022-09-21,,ABT,Abbot Laboratories,sale_full,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
+2022,10/12/2022,2022-09-21,,AJG,Arthur J Gallaher & Co,purchase,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
+2022,10/12/2022,2022-09-21,,KMX,CarMax Inc,sale_full,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
+2022,10/12/2022,2022-09-21,,CNC,Centene Corporation,purchase,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
+2022,10/12/2022,2022-09-21,,SPGI,S&P Global Inc,sale_full,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
+2022,10/12/2022,2022-09-21,,SWK,Stanley Black & Decker Inc,sale_full,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
+2022,10/12/2022,2022-09-21,,TSLA,Tesla Inc,purchase,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
+2022,10/12/2022,2022-09-21,,GWW,WW Grainget Inc,purchase,"$1,001 - $15,000",Hon. David B. McKinley,WV01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021800.pdf,False
 2021,11/08/2021,2020-05-14,self,MMM,3M Company,sale_full,"$1,001 - $15,000",Hon. Richard W. Allen,GA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019653.pdf,False
 2021,11/08/2021,2020-05-14,self,HD,Home Depot Inc,purchase,"$1,001 - $15,000",Hon. Richard W. Allen,GA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019653.pdf,False
 2021,11/08/2021,2020-04-15,self,TFC,Truist Financial Corporation,sale_full,"$15,001 - $50,000",Hon. Richard W. Allen,GA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019653.pdf,False
@@ -7486,6 +7614,39 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,11/21/2021,2021-11-15,,MRVL,Marvell Technology Inc,sale_full,"$15,001 - $50,000",Hon. Bob Gibbs,OH07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019863.pdf,False
 2021,11/21/2021,2021-11-15,,QS,QuantumScape Corporation Class A,purchase,"$1,001 - $15,000",Hon. Bob Gibbs,OH07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019863.pdf,False
 2021,11/21/2021,2021-11-16,,STM,STMicroelectronics NV,purchase,"$1,001 - $15,000",Hon. Bob Gibbs,OH07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019863.pdf,False
+2022,09/16/2022,2022-09-08,,LBDRA,Liberty BroadBand Corporation Class A,sale_full,"$1,001 - $15,000",Hon. Cindy Axne,IA03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021705.pdf,False
+2022,09/16/2022,2022-09-08,self,LBDRA,Liberty BroadBand Corporation Class A,sale_full,"$1,001 - $15,000",Hon. Cindy Axne,IA03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021705.pdf,False
+2022,09/16/2022,2022-09-08,self,LBDRA,Liberty BroadBand Corporation Class A,sale_full,"$1,001 - $15,000",Hon. Cindy Axne,IA03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021705.pdf,False
+2022,09/16/2022,2022-09-06,joint,AAPL,Apple Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-12,joint,ADP,Automatic Data Processing Inc,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,BCRX,BioCryst Pharmaceuticals Inc,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,BX,Blackstone Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-15,joint,CRNC,Cerence Inc,sale_full,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,CCXI,ChemoCentryx Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-05,joint,KO,Coca-Cola Company,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-05,joint,HALO,Halozyme Therapeutics Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-16,joint,LOW,Lowe's Companies Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $145 expiry 1/20/23,purchase,"$250,001 - $500,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $150 expiry 1/20/23,purchase,"$1,000,001 - $5,000,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $150 expiry 1/20/23,purchase,"$1,000,001 - $5,000,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $150 expiry 1/20/23,purchase,"$1,000,001 - $5,000,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $155 expiry 1/20/23,purchase,"$250,001 - $500,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $160 expiry 1/20/23,purchase,"$250,001 - $500,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $160 expiry 3/17/23,sale_full,"$250,001 - $500,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $160 expiry 3/17/23,sale_full,"$250,001 - $500,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $150 expiry 6/16/23,purchase,"$1,000,001 - $5,000,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $160 expiry 6/16/23,sale_full,"$1,000,001 - $5,000,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $155 expiry 6/16/23,sale_full,"$250,001 - $500,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,MSFT,Microsoft Corporation - CALL @ $155 expiry 6/16/23,purchase,"$1,000,001 - $5,000,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-17,joint,MSFT,Microsoft Corporation,sale_partial,"$100,001 - $250,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-17,joint,MSFT,Microsoft Corporation - CALL @ $150 expiry 6/16/23,sale_full,"$100,001 - $250,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-17,joint,MSFT,Microsoft Corporation,purchase,"$100,001 - $250,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-10,joint,RPD,Rapid7 Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-05,joint,ROK,Rockwell Automation Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-02,joint,SGSOY,SGS SA ADR,sale_full,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-17,joint,SHW,Sherwin-Williams Company,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-05,joint,TT,Trane Technologies plc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
+2022,09/16/2022,2022-08-11,joint,UNH,UnitedHealth Group Incorporated Common Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021676.pdf,False
 2021,06/11/2021,2021-05-20,joint,KR,Kroger Company,purchase,"$1,001 - $15,000",Hon. James E Hon Banks,IN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018903.pdf,False
 2021,06/11/2021,2021-05-12,joint,AAPL,Apple Inc,purchase,"$15,001 - $50,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018905.pdf,False
 2021,06/11/2021,2021-05-12,joint,BDX,"Becton, Dickinson & Company",purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018905.pdf,False
@@ -8316,6 +8477,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,04/21/2021,2021-03-05,,VOX,Vanguard Communications Services,sale_partial,"$1,001 - $15,000",Hon. John A. Yarmuth,KY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018609.pdf,False
 2021,04/21/2021,2021-03-05,,VZ,Verizon Communications Inc,sale_partial,"$1,001 - $15,000",Hon. John A. Yarmuth,KY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018609.pdf,False
 2021,04/21/2021,2021-03-05,,DIS,Walt Disney Company,sale_partial,"$1,001 - $15,000",Hon. John A. Yarmuth,KY03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018609.pdf,False
+2022,09/23/2022,2022-08-26,,AAPL,Apple Inc,purchase,"$1,001 - $15,000",Hon. Robert B. Aderholt,AL04,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021740.pdf,False
 2020,07/11/2020,2020-06-01,joint,D,"Dominion Energy, Inc",purchase,"$15,001 - $50,000",Hon. Mo Brooks,AL05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016939.pdf,False
 2020,07/11/2020,2020-06-08,joint,D,"Dominion Energy, Inc.",purchase,"$15,001 - $50,000",Hon. Mo Brooks,AL05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016939.pdf,False
 2020,07/11/2020,2020-06-23,self,LEE,"Lee Enterprises, Incorporated",sale_partial,"$1,001 - $15,000",Hon. Mo Brooks,AL05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016939.pdf,False
@@ -9756,6 +9918,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,06/29/2021,2021-06-18,,ABBV,AbbVie Inc,sale_full,"$50,001 - $100,000",Hon. Debbie Dingell,MI12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018962.pdf,False
 2021,06/29/2021,2021-06-18,,OTIS,Otis Worldwide Corporation,sale_full,"$15,001 - $50,000",Hon. Debbie Dingell,MI12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018962.pdf,False
 2021,06/29/2021,2021-06-18,,VTRS,Viatris Inc,sale_full,"$1,001 - $15,000",Hon. Debbie Dingell,MI12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018962.pdf,False
+2022,10/03/2022,2022-09-28,,ET,Energy Transfer LP Common Units,sale_full,"$15,001 - $50,000",Hon. Mark Dr Green,TN07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021778.pdf,False
 2021,11/19/2021,2021-11-12,joint,--,Illinois HSG Dev Auth Rev BDS Ser 1.70% 4/1/2032,purchase,"$1,001 - $15,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019816.pdf,False
 2021,11/19/2021,2021-11-10,joint,--,Kentucky Economic Dev Fin Auth Rev Rev 2.7% 5/1/2039,sale_full,"$250,001 - $500,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019816.pdf,False
 2021,11/19/2021,2021-02-23,,CMCAS,Comcast Corporation Class A,sale_full,"$1,001 - $15,000",Hon. John Rutherford,FL04,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019858.pdf,False
@@ -9895,6 +10058,8 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,11/12/2021,2021-10-25,joint,EMXC,IShares Inc MSCI Emerging MK,sale_full,"$1,001 - $15,000","Hon. Charles J. ""Chuck"" Fleischmann",TN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218436.pdf,False
 2021,11/12/2021,2021-10-25,joint,MDYG,SPDR SER TR S&P 400 MID Cap G,purchase,"$1,001 - $15,000","Hon. Charles J. ""Chuck"" Fleischmann",TN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218436.pdf,False
 2021,11/12/2021,2021-10-25,joint,MFYV,SPDR SER TR S&P 400 MID Cap G,purchase,"$1,001 - $15,000","Hon. Charles J. ""Chuck"" Fleischmann",TN03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218436.pdf,False
+2022,10/08/2022,2022-09-01,joint,C,Citigroup Inc,sale_full,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021824.pdf,False
+2022,10/08/2022,2022-09-23,self,SCI,Service Corporation International,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021825.pdf,False
 2021,02/21/2021,2021-02-08,self,KTOS,Kratos Defense & Security Solutions Inc,sale_partial,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018256.pdf,True
 2021,02/21/2021,2021-02-04,self,SPCE,Virgin Galactic Holdings Inc,sale_full,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018256.pdf,True
 2020,08/20/2020,2020-07-24,dependent,F,Ford,sale_full,"$1,001 - $15,000",Hon. Gus M. Bilirakis,FL12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/8217571.pdf,False
@@ -10248,6 +10413,15 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,06/17/2021,2021-05-19,joint,CO,Southern Company,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018935.pdf,False
 2021,06/17/2021,2021-05-18,joint,VMC,Vulcan Materials Company,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018935.pdf,False
 2021,06/17/2021,2021-05-19,joint,WMT,Walmart Inc,purchase,"$1,001 - $15,000",Hon. Marjorie Taylor Greene,GA14,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018935.pdf,False
+2022,09/10/2022,2022-08-15,,DIS,Walt Disney Company,sale_full,"$15,001 - $50,000",Hon. Richard W. Allen,GA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021681.pdf,False
+2022,09/10/2022,2022-08-10,,GOOG,Alphabet Inc -  Class C Capital Stock,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
+2022,09/10/2022,2022-08-10,,AMZN,Amazon.com Inc,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
+2022,09/10/2022,2022-08-16,,GSLC,Goldman Activebeta US LC ETF,sale_partial,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
+2022,09/10/2022,2022-08-16,,IYW,iShares US Technology ETF,sale_partial,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
+2022,09/10/2022,2022-08-10,,IYW,iShares US Technology ETF,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
+2022,09/10/2022,2022-08-10,,MSFT,Microsoft Corporation,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
+2022,09/10/2022,2022-08-10,,SRLN,SPDR Blackstone Senior Loan,sale_full,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
+2022,09/10/2022,2022-08-30,,NWWOX,Virtus Vontobel Opp,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021679.pdf,False
 2022,05/08/2022,2022-04-26,joint,--,New York ST Dorm Auth ST pers 5% due 03/15/2027,purchase,"$15,001 - $50,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020937.pdf,False
 2022,05/08/2022,2022-05-04,joint,--,Sales Tax Securitization Corp 5% Due 1/1/2027,sale_full,"$250,001 - $500,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020937.pdf,False
 2022,05/08/2022,2022-04-18,joint,--,Seattle WA MN LT PW .69% due 5/1/2045,purchase,"$1,001 - $15,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020937.pdf,False
@@ -10477,6 +10651,76 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,08/26/2021,2020-01-27,,ZUO,"Zuora Inc, Class A",purchase,"$1,001 - $15,000",Hon. Tom Malinowski,NJ07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019374.pdf,False
 2022,07/21/2022,2022-07-12,self,FMAO,Farmers & merchants Bancorp Inc,purchase,"$1,001 - $15,000",Hon. Robert E. Latta,OH05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021415.pdf,False
 2022,07/21/2022,2022-06-27,,DE,Deere & Company,sale_full,"$1,001 - $15,000",Hon. Peter Meijer,MI03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021332.pdf,False
+2022,10/11/2022,2022-09-28,,--,Tennessee Farmers Life Insurance Company,purchase,"$50,001 - $100,000",Hon. John W. Rose,TN06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021831.pdf,False
+2022,10/11/2022,2022-09-13,,CSCO,Cisco Systems Inc,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,,CSCO,Cisco Systems Inc,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-08,,FBKWX,Fidelity Advisor Total Bond CL Z,sale_full,"$100,001 - $250,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-08,,FBKWX,Fidelity Advisor Total Bond CL Z,sale_full,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,self,FBKWX,Fidelity Advisor Total Bond CL Z,sale_full,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,self,FCNTX,Fidelity Contrafund,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,self,ONEQ,Fidelity Nasdaq Composite Index ETF,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,,HD,Home Depot Inc,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,,HD,Home Depot Inc,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,self,IVW,iShares S&P 500 Growth ETF,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-12,,LMT,Lockheed Martin Corporation,purchase,"$50,001 - $100,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-12,,LMT,Lockheed Martin Corporation,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,,LUBYX,Lord Abbett Ultra Short Bond CL I,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,,LUBYX,Lord Abbett Ultra Short Bond CL I,purchase,"$100,001 - $250,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,self,LUBYX,Lord Abbett Ultra Short Bond CL I,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,,MDT,Medtronic plc Ordinary Shares,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,,MDT,Medtronic plc Ordinary Shares,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,,MSFT,Microsoft Corporation,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,,SBUX,Starbucks Corporation,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,,SBUX,Starbucks Corporation,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,,WMT,Walmart Inc,purchase,"$1,001 - $15,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-13,,WMT,Walmart Inc,purchase,"$15,001 - $50,000",Hon. Scott Franklin,FL15,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021836.pdf,False
+2022,10/11/2022,2022-09-09,self,AEP,AEP Texas Inc Corporate Bonds,purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021838.pdf,False
+2022,10/11/2022,2022-09-09,self,BUD,Anheuser-Busch Inbev SA Sponsored ADR,purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021838.pdf,False
+2022,10/11/2022,2022-09-09,self,BAC,Bank of America Corporation,purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021838.pdf,False
+2022,10/11/2022,2022-09-09,self,BDX,"Becton,Dickinson and Company",purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021838.pdf,False
+2022,10/11/2022,2022-09-09,self,GILD,Gilead Sciences Inc,purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021838.pdf,False
+2022,10/11/2022,2022-09-09,self,PWR,Quanta Services Inc,purchase,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021838.pdf,False
+2022,10/11/2022,2022-09-12,self,AABV,AbbiVie Inc,purchase,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,AMZN,Amazon.com Inc,sale_partial,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,T,AT&T Inc,purchase,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,AVGO,Broadcom Inc,sale_partial,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,CHTR,Charter Communications Inc - Class A,purchase,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,CMCSA,Comcast Corporation Class A,sale_full,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,ISRG,Intuitive Surgical Inc,purchase,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,JNJ,Johnson & Johnson,sale_partial,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,MRK,Merck & Company Inc,purchase,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,MSFT,Microsoft Corporation,sale_partial,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,PFE,Pfizer Inc,sale_partial,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-10-01,self,--,Seven Bridges Multi-Strategy Fund LP,purchase,"$100,001 - $250,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-10-01,self,--,Seven Bridges Multi-Strategy Fund Series,purchase,"$15,001 - $50,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-10-01,,--,Seven Bridges Multi-Strategy Fund Series,purchase,"$100,001 - $250,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-10-01,,--,Seven Bridges Multi-Strategy Fund Series,purchase,"$15,001 - $50,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-12,self,TSLA,Tesla Inc,sale_partial,"$1,001 - $15,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021754.pdf,False
+2022,10/11/2022,2022-09-19,,--,Real Estate Rental 50% Interest,purchase,"$1,000,001 - $5,000,000",Hon. Adrian Smith,NE03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021759.pdf,False
+2022,10/05/2022,2022-09-15,,CMCSA,Comcast Corporation - Class A,sale_full,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,XLE,Energy Sel Selct SPDR FD,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,FLGB,Franklin FTSE UK ETF,sale_full,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,PAVE,Global X US INF DEV ETF,sale_full,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-15,,IFF,International Flavors & Fragrances Inc,sale_partial,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,SHYG,IShares 0-5 HY Corp,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,IEFA,iShares Core MSCI EAFE ETF,sale_partial,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,IYW,iShares US Technology ETF,sale_partial,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,JEPQ,JPM Nasdaq Equity Premium,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-15,,MA,Mastercard Incorporated,exchange,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-15,,SSGA,SPDR S&P 500 ETF Trust,purchase,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-27,,WRK,Westrock Company,sale_full,"$1,001 - $15,000",Hon. Robert J. Wittman,VA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021807.pdf,False
+2022,10/05/2022,2022-09-30,self,ALK,Alaska Air Group,purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021808.pdf,False
+2022,10/05/2022,2022-09-26,self,AMGN,Amgen Inc,purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021808.pdf,False
+2022,10/05/2022,2022-09-26,self,CNC,Centene Corporation,purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021808.pdf,False
+2022,10/05/2022,2022-09-26,self,EMR,Emerson Electric Company,purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021808.pdf,False
+2022,10/05/2022,2022-09-23,self,JPM,JPMorgan Chase 3.25% Due 9/23/22,sale_full,"$15,001 - $50,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021808.pdf,False
+2022,10/05/2022,2022-09-15,self,MRK,Merck & Co Inc 2.4% Due 9/15/22,sale_full,"$15,001 - $50,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021808.pdf,False
+2022,10/05/2022,2022-09-28,self,NEM,Newmont Corporation,purchase,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021808.pdf,False
+2022,10/05/2022,2022-09-15,,NTAP,NetApp Inc SR NT 3.25% 12/15/22,sale_full,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021793.pdf,False
+2022,10/05/2022,2021-05-03,,TLRY,Tilray Brands Inc,exchange,"$1,001 - $15,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021782.pdf,False
+2022,09/28/2022,2022-09-19,,--,US Treasury Bill,purchase,"$100,001 - $250,000",Hon. Tom Rice,SC07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021762.pdf,False
+2022,09/28/2022,2022-08-03,joint,--,TX State Univ Sys Fing Rev Rev and Ref,purchase,"$100,001 - $250,000",Hon. Ann Wagner,MO02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219232.pdf,False
+2022,09/28/2022,2022-08-03,joint,--,Carmel IN 2002 Sch Bldg Corp,purchase,"$100,001 - $250,000",Hon. Ann Wagner,MO02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219232.pdf,False
 2020,01/30/2020,2019-12-30,--,BXS,BancorpSouth bank,purchase,"$1,001 - $15,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014974.pdf,False
 2020,01/30/2020,2019-12-30,--,BXS,BancorpSouth bank,purchase,"$1,001 - $15,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014974.pdf,False
 2020,01/30/2020,2019-12-30,--,BXS,BancorpSouth bank,purchase,"$1,001 - $15,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20014974.pdf,False
@@ -10644,6 +10888,86 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,08/13/2021,2021-07-16,,PLUG,Plug Power Inc,sale_partial,"$1,001 - $15,000",Hon. Austin Scott,GA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019328.pdf,False
 2021,08/13/2021,2021-07-01,,CLNE,Clean Energy Fuels Corp,purchase,"$1,001 - $15,000",Hon. Austin Scott,GA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019330.pdf,False
 2021,08/13/2021,2021-07-02,,FCEL,FuelCell Energy Inc,purchase,"$1,001 - $15,000",Hon. Austin Scott,GA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019330.pdf,False
+2022,09/09/2022,2022-08-15,,T$A,AT&T Inc Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,CADE$A,Cadence Bank 5.50% Series A,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,CADE$A,Cadence Bank 5.50% Series A,purchase,"$1,001 - $15,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,COF$I,Capital One Financial Corporation Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,COF$I,Capital One Financial Corporation Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,JPM,JP Morgan Chase & Co Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,JPM$J,JP Morgan Chase & Co Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,KEY$J,KeyCorp Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,KEY$J,KeyCorp Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,KEY$J,KeyCorp Depository Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,KEY$J,KeyCorp Depository Shares,purchase,"$1,001 - $15,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,RF$E,Regions Financial Corporation Depositary Shares,purchase,"$1,001 - $15,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,RF$E,Regions Financial Corporation Depositary Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,RF$E,Regions Financial Corporation Depositary Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,TFC$R,Truist Financial Corporation Depositary Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,USB,US Bancorp Depositary Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-15,,WFC$Y,Wells Fargo & Company Depositary Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-10,,WFC$Y,Wells Fargo & Company Depositary Shares,purchase,"$15,001 - $50,000","Hon. Neal Patrick MD, Facs Dunn",FL02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021600.pdf,False
+2022,09/09/2022,2022-08-24,self,--,"REOF XX, LLC - additional investment in LLC with acq 5 courtyard Marriott hotels",purchase,"$15,001 - $50,000",Hon. Nancy Pelosi,CA12,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021675.pdf,False
+2022,09/09/2022,2022-07-18,,AR,Antero Resources Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,ASBC,Associated Banc-Corp,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,ATHA,Athira Pharma Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,SAVA,Cassava Sciences Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,CDEV,Centennial Resource Development Inc - Class A,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-11,,--,Central Puget WA 5% 11/01/31,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,CVX,Chevron Corporation,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,CIVI,Civitas Resources Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,CRGY,Cresent Energy Company Class A,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-13,,--,Dallas Ft Worth Tx 5% 11/01/39,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,ESTE,Earthstone Energy Inc Class A,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,ENOB,Enochian Biosciences Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,XOM,Exxon Mobil Corporation,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,FHN,First Horizon Corporation,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,GNKOQ,Genco Shipping & Trading Limited,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,GEVO,Gevo Inc,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,HD,Home Depot Inc,sale_partial,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,IIPR,Innovative Industrial Properties Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,NOTV,Inotiv Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,ISEE,IVERIC bio Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,KRG,Kite Realty Group Trust,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,KOD,Kodiak Sciences inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-15,,--,Massachusetts ST 5% 10/01/38,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-05,,--,Minnesota ST 5% 08/01/31,sale_full,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-14,,--,New York NY 5% 07/15/33,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-22,,--,New York NY City 5% 06/15/30,purchase,"$15,001 - $50,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-01,,--,New York ST Dorm 5% 02/15/38,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-06,,--,North Carolina ST 5% 05/01/28,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,PFE,Pfizer Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,DOC,Physicians Realty Trust Common Shares of Beneficial Interest,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,PLUG,Plug Power Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-13,,--,San Antonio TX 0.00001% 8/15/28,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,STNG,Scorpio Tankers Inc Common Shares,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,SI,Silvergate Capital Corporation,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,SM,SM Energy Company,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,TELL,Tellurian Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,TSLA,Tesla Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-08,,--,Triborough Brdg NY 5% 05/15/37,purchase,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-08-17,,USBI,United Bankshares Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-05,,--,Utah ST 5% 07/01/30,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,VTNR,Vertex Energy Inc,purchase,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-18,,VTRSV,Viatris Inc. - Common Stock When Issued,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-07-14,,--,Virginia College 5% 02/01/29,sale_full,"$50,001 - $100,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021667.pdf,False
+2022,09/09/2022,2022-09-01,,--,National Bank of Canada New York Linked S&P 500 index,purchase,"$500,001 - $1,000,000",Hon. Trey Hollingsworth,IN09,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/8219209.pdf,False
+2022,10/24/2022,2022-09-28,,BSK,Boston Scientific Corporation,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-10-13,,BR,Broadbridge Financial Solutions Inc,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-20,,CARG,CarGurus Inc - Class A,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-10-12,,CMCSA,Comcast Corporation - Class A,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-28,,DHR,Danaher Corporation,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-10-12,,DHR,Danaher Corporation,sale_full,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-10-07,,FANG,Diamondback Energy Inc,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-19,,EPAM,EPAM Systems Inc,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-10-07,,EXPE,Expedia Group Inc,sale_full,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-10-07,,HAL,Haliburton Company,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-28,,PGR,Progressive Corporation,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-19,,SEDG,SolarEdge Technologies Inc,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-28,,TGT,Target Corporation,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-21,,UI,Ubiquiti Inc,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-20,,UI,Ubiquiti Inc,sale_partial,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-09-23,,VNT,Vontier Corporation,purchase,"$1,001 - $15,000",Hon. Lois Frankel,FL21,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021881.pdf,False
+2022,10/24/2022,2022-10-14,,ET,Energy Transfer LP Common Units,sale_full,"$100,001 - $250,000",Hon. Mark Dr Green,TN07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021887.pdf,False
 2021,07/08/2021,2021-05-26,,FFG,FBL Financial Group Inc,sale_full,"$1,001 - $15,000",Hon. Christopher L. Jacobs,NY27,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20018954.pdf,False
 2021,07/08/2021,2021-06-30,,PG,Procter & Gamble Company,purchase,"$1,001 - $15,000",Hon. Katherine M. Clark,MA05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019054.pdf,False
 2022,06/12/2022,2022-06-03,joint,DUK,Duke Energy Corp Fxd to 09/24/2024,purchase,"$1,001 - $15,000",Hon. Mo Brooks,AL05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021197.pdf,False
@@ -13440,6 +13764,34 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2022,05/23/2022,2022-05-06,joint,--,New York NY City Transitional Fin 5% due 11/01/2027,purchase,"$500,001 - $1,000,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021082.pdf,False
 2022,05/23/2022,2022-05-10,joint,--,New York NY Go BDS Ser Fiscal 2008J 5% Due 08/01/2026,purchase,"$1,001 - $15,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021082.pdf,False
 2022,05/23/2022,2022-05-23,joint,UBS,UBS Group AG Registered Ordinary Shares,sale_full,"$100,001 - $250,000",Hon. Mikie Sherrill,NJ11,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021099.pdf,False
+2022,10/16/2022,2022-09-14,joint,ABMD,ABIOMED Inc,sale_full,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,ALIZY,Allianz SE ADR,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-28,joint,ALNY,Alnylam Pharmaceuticals Inc,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-26,joint,ADP,Automatic Data Processing INC,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,BHP,BHP Group Limited ADR Shares,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-14,joint,BX,Blackstone Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,CTSH,Cognizant Technology Solutions Corp.,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,CVET,Covetrus Inc,sale_full,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-12,joint,DE,Deere & Company,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-28,joint,DXCM,DexCom Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,FIS,Fidelity National Information Services Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-27,joint,FLYW,Flywire Corporation - Voting,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-28,joint,HCA,HCA Healthcare Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-27,joint,MGY,Magnolia Oil & Gas Corporation Class A,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,MDB,MongoDb Inc - Class A,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,NVDA,NVIDIA Corporation,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-28,joint,ORCL,Oracle Corporation,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-21,joint,PCTY,Paylocity Holding Corporation,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-12,joint,REGN,Regeneron Pharmaceuticals Inc,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,CRM,Salesforce Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-01,joint,SAP,SAP SE ADS,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-26,joint,SMNNY,Shimano inc ADR,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-27,joint,SMNNY,Shimano inc ADR,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,STAG,Stag Industrial Inc,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,TCEHY,Tencent Holdings ADR,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,TWKS,Thoughtworks Holding Inc,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-28,joint,UNH,UnitedHealth Group Incorporated Common Stock,purchase,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
+2022,10/16/2022,2022-09-15,joint,VZ,Verizon Communications,sale_partial,"$1,001 - $15,000",Hon. Josh Gottheimer,NJ05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021821.pdf,False
 2022,07/26/2022,2022-06-27,,--,"Starkville, Mississippi Water and Sewage Systems",purchase,"$50,001 - $100,000",Hon. Michael Patrick Guest,MS03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021434.pdf,False
 2022,07/26/2022,2022-07-01,self,--,"Abdiel Qualified Onshore Partners - Hedge Fund, Fund manager letter on File with Ethics Committee",sale_full,"$500,001 - $1,000,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021437.pdf,False
 2022,07/26/2022,2022-07-25,self,--,"Echo Street GoodCo Select LP - Hedge Fund, Fund manager letter on File with Ethics Committee",purchase,"$250,001 - $500,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021437.pdf,False
@@ -13613,6 +13965,9 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,11/07/2021,2021-10-15,self,BROS,Dutch Bros Inc Class A,sale_partial,"$1,001 - $15,000",Hon. Earl Blumenauer,OR03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019771.pdf,False
 2021,11/07/2021,2021-10-28,self,COIN,Coinbase Global Inc - Class A,sale_full,"$1,001 - $15,000",Hon. Marie Newman,IL03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019749.pdf,False
 2021,11/07/2021,2021-10-14,self,F,Ford Motor Company,sale_full,"$1,001 - $15,000",Hon. Marie Newman,IL03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019749.pdf,False
+2022,09/30/2022,2022-09-27,,MRVL,Marvell Technology Inc,sale_full,"$1,001 - $15,000",Hon. Ron Estes,KS04,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021779.pdf,False
+2022,09/30/2022,2022-09-14,dependent,LGF.B,Lions Gate Entertainment Corporation Class B Non-Voting Shares,purchase,"$1,001 - $15,000",Hon. Debbie Wasserman Schultz,FL23,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021741.pdf,False
+2022,09/30/2022,2022-09-14,dependent,LGF.B,Lions Gate Entertainment Corporation Class B Non-Voting Shares,purchase,"$1,001 - $15,000",Hon. Debbie Wasserman Schultz,FL23,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021741.pdf,False
 2021,10/01/2021,2021-09-27,joint,AAGIY,AIA Group Ltd NPV Common - sale of 295 units,sale_full,"$1,001 - $15,000",Hon. Donald Sternoff Honorable Beyer,VA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019506.pdf,False
 2021,10/01/2021,2021-09-21,joint,TDDXX,BLF FedFund,purchase,"$1,001 - $15,000",Hon. Donald Sternoff Honorable Beyer,VA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019506.pdf,False
 2021,10/01/2021,2021-09-20,joint,TDDXX,BLF FedFund,purchase,"$1,001 - $15,000",Hon. Donald Sternoff Honorable Beyer,VA08,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019506.pdf,False
@@ -13692,6 +14047,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2020,08/14/2020,2020-07-13,,DUSA,Davis Select U.S. Equity ETF,sale_full,"$15,001 - $50,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017194.pdf,True
 2020,08/14/2020,2020-07-02,,NIO,"NIO Inc. American depositary shares, each representing one Class A ordinary share",sale_partial,"$15,001 - $50,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017194.pdf,False
 2020,08/14/2020,2020-07-06,,NIO,"NIO Inc. American depositary shares, each representing one Class A ordinary share",sale_full,"$50,001 - $100,000",Hon. Brian Mast,FL18,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20017194.pdf,True
+2022,09/11/2022,2022-09-01,self,--,"Whale Rock Long Opportunities - Hedge Fund, fund manager letter on file with CoE",purchase,"$250,001 - $500,000",Hon. Kathy Manning,NC06,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021556.pdf,False
 2021,06/16/2021,2021-06-09,,DIS,Walt Disney Co,sale_full,"$15,001 - $50,000",Hon. Billy Long,MO07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218114.pdf,False
 2021,06/16/2021,2021-06-09,,SO,Southern Co,sale_full,"$50,001 - $100,000",Hon. Billy Long,MO07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/8218114.pdf,False
 2022,05/09/2022,2022-04-01,,KO,Coca-Cola Company,purchase,"$1,001 - $15,000",Hon. Lloyd Doggett,TX35,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020959.pdf,False
@@ -14303,6 +14659,26 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,12/09/2021,2021-11-10,self,RIVN,Rivian Automotive Inc - Class A,purchase,"$15,001 - $50,000",Hon. Marie Newman,IL03,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019988.pdf,False
 2020,03/20/2020,2020-02-28,self,--,L3Harris Special Stock Grant,purchase,"$1,001 - $15,000",Hon. Abigail Spanberger,VA07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016276.pdf,False
 2020,02/26/2020,2020-02-12,,DENN,Denny's Corporation,sale_full,"$1,001 - $15,000",Hon. Tim Burchett,TN02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2020/20016116.pdf,True
+2022,10/10/2022,2022-09-22,joint,--,"Illinois ST Sales Tax Rev JR Oblig 4% Due Jan 15,2030",purchase,"$1,001 - $15,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021795.pdf,False
+2022,10/10/2022,2022-09-26,joint,--,King County WA LTF Tax Go Ref BDS 5% Due Jul 1 2024,purchase,"$500,001 - $1,000,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021795.pdf,False
+2022,10/10/2022,2022-09-22,joint,--,"New York ST Dorm Auth Sales Tax Rev 5% Due Mar 15, 2025",purchase,"$1,001 - $15,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021795.pdf,False
+2022,10/10/2022,2022-09-28,joint,--,US Treasury Bills,purchase,"$1,000,001 - $5,000,000",Hon. Suzan K. DelBene,WA01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021795.pdf,False
+2022,10/10/2022,2022-09-30,joint,DVN,Devon Energy Corporation,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-30,joint,DVN,Devon Energy Corporation,purchase,"$15,001 - $50,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-09,joint,EMR,Emerson Electric Company,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-09,joint,XOM,Exxon Mobil Corporation,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-15,joint,HD,Home Depot Inc,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-30,joint,DGRO,iShares Core Dividend Growth ETF,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-30,joint,DGRO,iShares Core Dividend Growth ETF,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-07,joint,JEPI,JPMorgan Equity Premium Income ETF,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-15,joint,NEE,NextEra Energy Inc,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-16,joint,PXD,Pioneer Natural Resources Company,purchase,"$15,001 - $50,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-16,joint,PXD,Pioneer Natural Resources Company,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-12,joint,ROK,Rockwell Automation Inc,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-20,joint,UNH,UnitedHealth Group Incorporated Common Stock,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-26,joint,WMB,Williams Companies INc,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021828.pdf,False
+2022,10/10/2022,2022-09-21,self,MCD,McDonalds Corporation,purchase,"$1,001 - $15,000",Hon. Pete Sessions,TX17,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021424.pdf,False
+2022,10/10/2022,2022-09-27,self,VZ,Verizon Communications Inc,purchase,"$1,001 - $15,000",Hon. Pete Sessions,TX17,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021424.pdf,False
 2022,05/25/2022,2022-04-12,,LSXMK,Liberty Media Corporation - Series C Liberty Sirius XM,purchase,"$1,001 - $15,000",Hon. August Lee Pfluger,TX11,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021108.pdf,False
 2022,05/25/2022,2022-04-12,,MSFT,Microsoft Corporation,sale_full,"$15,001 - $50,000",Hon. August Lee Pfluger,TX11,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021108.pdf,False
 2022,05/25/2022,2022-04-11,,WBD,Warner Bros Discovery Inc - Series A,exchange,"$1,001 - $15,000",Hon. August Lee Pfluger,TX11,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021108.pdf,False
@@ -14762,6 +15138,71 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2021,08/12/2021,2021-08-02,self,DECK,Deckers Outdoor Corporation,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019309.pdf,False
 2021,08/12/2021,2021-08-05,self,DECK,Deckers Outdoor Corporation,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019309.pdf,False
 2021,08/12/2021,2021-07-20,,NVDA,NVIDIA Corporation,purchase,"$1,001 - $15,000",Hon. David Cheston Rouzer,NC07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019312.pdf,False
+2022,09/08/2022,2022-08-02,joint,AA,Aloca Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-04,joint,AA,Aloca Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-19,joint,AA,Aloca Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-22,joint,AA,Aloca Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-30,joint,AA,Aloca Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-31,joint,AA,Aloca Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-19,joint,T$A,AT&T Inc Depositary Shares,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-23,joint,BTI,British American Tobacco Industries plc Common Stock ADR,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-01,joint,FLNG,GLEX LNG Ltf Ordinary Shares,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-04,joint,FLNG,Flex LNG Ltd Ordinary Shares,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-23,joint,FLNG,Flex LNG Ltd Ordinary Shares,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-26,joint,FLNG,Flex LNG Ltd Ordinary Shares,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-17,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-18,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-19,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-22,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-24,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-26,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-29,joint,GOGL,Golden Ocean Group Limited,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-30,joint,GOGL,Golden Ocean Group Limited,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-09,joint,GPP,Green Plains Partners LP - Common Units,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-26,joint,GPP,Green Plains Partners LP - Common Units,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-10,joint,GSK,GSK plc American Depositary Shares,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-16,joint,GSK,GSK plc American Depositary Shares,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-05,joint,GSK,GSK plc American Depositary Shares,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-09,joint,GSK,GSK plc American Depositary Shares,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-03,joint,HES,Hess Corporation,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-04,joint,HES,Hess Corporation,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-30,joint,IMKTA,Ingles Markets Incorporated - Class A,purchase,"$50,001 - $100,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-22,joint,K,Kellog Company,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-01,joint,KMI,Kinder Morgan Inc,sale_full,"$50,001 - $100,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-02,joint,KNOP,KNOT Offshore Partners LP Units,sale_full,"$50,001 - $100,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-01,joint,MOS,Mosaic Company,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-04,joint,MOS,Mosaic Company,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-05,joint,MOS,Mosaic Company,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-02,joint,NFG,National Fuel Gas Company,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-03,joint,NGF,National Fuel Gas Company,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-08,joint,NFG,National Fuel Gas Company,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2021-08-30,joint,NEWT,Newtek Business Services Corp,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-25,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-11,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-19,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-23,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-24,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-26,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-29,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-31,joint,SJT,San Juan Basin Royalty Trust,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-24,joint,SIRE,Sisecam Resources LP Common Units,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-30,joint,USDP,USD Partners LP Common Units,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-04,joint,VGR,Vector Group Ltd,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-05,joint,VGR,Vector Group Ltd,purchase,"$15,001 - $50,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-17,joint,VGR,Vector Group Ltd,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-22,joint,VGR,Vector Group Ltd,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-24,joint,VGR,Vector Group Ltd,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-26,joint,VGR,Vector Group Ltd,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-30,joint,VGR,Vector Group Ltd,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-31,joint,VGR,Vector Group Ltd,purchase,"$1,001 - $15,000",Hon. Virginia Foxx,NC05,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021630.pdf,False
+2022,09/08/2022,2022-08-10,,ABNB,Airbnb Inc Class A,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
+2022,09/08/2022,2022-08-10,,SQ,Block Inc Class A Common Stock,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
+2022,09/08/2022,2022-08-01,,SQ,Block Inc Class A Common Stock,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
+2022,09/08/2022,2022-08-05,,SQ,Block Inc Class A Common Stock,sale_full,"$100,001 - $250,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
+2022,09/08/2022,2022-08-09,,SQ,Block Inc Class A Common Stock,purchase,"$50,001 - $100,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
+2022,09/08/2022,2022-08-10,,DASH,DoorDash Inc Class A,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
+2022,09/08/2022,2022-08-03,,DASH,DoorDash Inc Class A,sale_full,"$1,001 - $15,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
+2022,09/08/2022,2022-08-17,,DASH,DoorDash Inc Class A,purchase,"$15,001 - $50,000",Hon. James R. Langevin,RI02,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021669.pdf,False
 2022,07/15/2022,2022-06-21,joint,AGCO,AGCO Corporation,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021388.pdf,False
 2022,07/15/2022,2022-06-10,,CERN,Cerner Corporation,sale_full,"$15,001 - $50,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021388.pdf,False
 2022,07/15/2022,2022-06-30,joint,DVN,Devon Energy Corporation,purchase,"$1,001 - $15,000",Hon. Kevin Hern,OK01,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021388.pdf,False
@@ -14785,6 +15226,7 @@ disclosure_year,disclosure_date,transaction_date,owner,ticker,asset_description,
 2022,05/10/2022,2022-04-28,self,SYF,Synchrony Financial,sale_full,"$1,001 - $15,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020989.pdf,False
 2022,05/10/2022,2022-04-04,self,UNP,Union Pacific Corporation,purchase,"$15,001 - $50,000",Hon. Zoe Lofgren,CA19,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020989.pdf,False
 2022,05/10/2022,2022-04-22,self,COST,Costco Wholesale Corporation,sale_partial,"$1,001 - $15,000",Hon. Ed Perlmutter,CO07,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20020987.pdf,False
+2022,10/25/2022,2022-09-29,,TSLA,Tesla Inc,purchase,"$50,001 - $100,000",Hon. Michael Garcia,CA25,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2022/20021895.pdf,False
 2021,09/14/2021,2021-08-23,joint,BKNG,Booking Holdings Inc,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019481.pdf,False
 2021,09/14/2021,2021-08-23,joint,GM,General Motors Company,sale_full,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019481.pdf,False
 2021,09/14/2021,2021-08-23,self,BKNG,Booking Holdings Inc,purchase,"$1,001 - $15,000",Hon. Alan S. Lowenthal,CA47,https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2021/20019482.pdf,False

@@ -17,6 +17,6 @@ for symbol in symbols:
     response = requests.get(URL)
     history_csv = response.text
     file_path = "./data/usa/stock/history/{0}.csv".format(symbol)
-    wordsFile = open(file_path, "w", encoding='utf-8')
-    wordsFile.write(history_csv)
-    wordsFile.close()
+    history_file = open(file_path, "w", encoding='utf-8')
+    history_file.write(history_csv)
+    history_file.close()
