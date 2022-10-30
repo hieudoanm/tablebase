@@ -26,7 +26,7 @@ const main = async () => {
           company.subsector.toLowerCase().split(' ').join('-') === subsector
       );
 
-      const csv = convertJSONtoCSV<Company>(filteredCompanies);
+      const csv = convertJSONtoCSV(filteredCompanies);
       writeFileSync(`./data/vietnam/stock/subsectors/${subsector}.csv`, csv);
     } catch (error) {
       console.error(error);

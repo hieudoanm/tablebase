@@ -54,7 +54,7 @@ const main = async () => {
       return a.fullName > b.fullName ? 1 : -1;
     });
 
-  const transactionsCSV = await convertJSONtoCSV(transactions, [
+  const fields: string[] = [
     'symbol',
     'action',
     'fullName',
@@ -67,11 +67,10 @@ const main = async () => {
     'disclosureDate',
     'transactionDate',
     'url',
-  ]);
-  await writeFileSync(
-    `./data/usa/stock-watch/senate/transactions.csv`,
-    transactionsCSV
-  );
+  ];
+  const transactionsCSV = convertJSONtoCSV(transactions, fields);
+  const filePathCSV = `./data/usa/stock-watch/senate/transactions.csv`;
+  writeFileSync(filePathCSV, transactionsCSV);
 };
 
 main().catch((error) => console.error(error));

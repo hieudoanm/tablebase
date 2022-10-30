@@ -28,7 +28,7 @@ const main = async () => {
         childSymbols.includes(company.symbol)
       );
 
-      const csv = convertJSONtoCSV<Company>(filteredCompanies);
+      const csv = convertJSONtoCSV(filteredCompanies);
       writeFileSync(
         `./data/vietnam/stock/subcompanies/${parentSymbol}.csv`,
         csv

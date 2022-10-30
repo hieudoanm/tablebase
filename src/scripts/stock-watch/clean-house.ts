@@ -48,11 +48,9 @@ const main = async () => {
       return a.fullName > b.fullName ? 1 : -1;
     });
 
-  const transactionsCSV = await convertJSONtoCSV(transactions);
-  await writeFileSync(
-    `./data/usa/stock-watch/house/transactions.csv`,
-    transactionsCSV
-  );
+  const transactionsCSV = convertJSONtoCSV(transactions);
+  const filePathCSV = `./data/usa/stock-watch/house/transactions.csv`;
+  writeFileSync(filePathCSV, transactionsCSV);
 };
 
 main().catch((error) => console.error(error));
