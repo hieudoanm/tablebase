@@ -1,102 +1,102 @@
-"id","title","firstName","lastName","name","stateAbbreviation","partyShort","leadershipRole"
-"A000031","Senator, 3rd Class","Brockman","Adams","Brockman Adams","WA","D",""
-"A000069","Senator, 1st Class","Daniel","Akaka","Daniel Akaka","HI","D",""
-"A000219","Senator, 2nd Class","William","Armstrong","William Armstrong","CO","R",""
-"B000243","Senator, 2nd Class","Max","Baucus","Max Baucus","MT","D",""
-"B000401","Senator, 1st Class","Lloyd","Bentsen","Lloyd Bentsen","TX","D",""
-"B000444","Senator, 2nd Class","Joseph","Biden","Joseph Biden","DE","D",""
-"B000468","Senator, 1st Class","Jeff","Bingaman","Jeff Bingaman","NM","D",""
-"B000611","Senator, 3rd Class","Christopher","Bond","Christopher Bond","MO","R",""
-"B000639","Senator, 2nd Class","David","Boren","David Boren","OK","D",""
-"B000647","Senator, 2nd Class","Rudolph","Boschwitz","Rudolph Boschwitz","MN","R",""
-"B000780","Senator, 3rd Class","John","Breaux","John Breaux","LA","D",""
-"B000993","Senator, 1st Class","Richard","Bryan","Richard Bryan","NV","D",""
-"B001057","Senator, 3rd Class","Dale","Bumpers","Dale Bumpers","AR","D",""
-"B001077","Senator, 1st Class","Quentin","Burdick","Quentin Burdick","ND","D",""
-"B001126","Senator, 1st Class","Conrad","Burns","Conrad Burns","MT","R",""
-"B001210","Senator, 1st Class","Robert","Byrd","Robert Byrd","WV","D",""
-"B001225","Senator, 2nd Class","William","Bradley","William Bradley","NJ","D",""
-"C000269","Senator, 1st Class","John","Chafee","John Chafee","RI","R",""
-"C000542","Senator, 3rd Class","Daniel","Coats","Daniel Coats","IN","R",""
-"C000567","Senator, 2nd Class","Thad","Cochran","Thad Cochran","MS","R",""
-"C000598","Senator, 2nd Class","William","Cohen","William Cohen","ME","R",""
-"C000705","Senator, 3rd Class","Kent","Conrad","Kent Conrad","ND","D",""
-"C000877","Senator, 3rd Class","Alan","Cranston","Alan Cranston","CA","D",""
-"D000018","Senator, 3rd Class","Alfonse","D'Amato","Alfonse D'Amato","NY","R",""
-"D000030","Senator, 1st Class","John","Danforth","John Danforth","MO","R",""
-"D000064","Senator, 3rd Class","Thomas","Daschle","Thomas Daschle","SD","D",""
-"D000185","Senator, 1st Class","Dennis","DeConcini","Dennis DeConcini","AZ","D",""
-"D000366","Senator, 3rd Class","Alan","Dixon","Alan Dixon","IL","D",""
-"D000388","Senator, 3rd Class","Christopher","Dodd","Christopher Dodd","CT","D",""
-"D000401","Senator, 3rd Class","Robert","Dole","Robert Dole","KS","R",""
-"D000407","Senator, 2nd Class","Pete","Domenici","Pete Domenici","NM","R",""
-"D000566","Senator, 1st Class","David","Durenberger","David Durenberger","MN","R",""
-"E000284","Senator, 2nd Class","J. James","Exon","J. James Exon","NE","D",""
-"F000268","Senator, 3rd Class","Wendell","Ford","Wendell Ford","KY","D",""
-"F000329","Senator, 3rd Class","Wyche","Fowler","Wyche Fowler","GA","D",""
-"G000072","Senator, 3rd Class","Edwin","Garn","Edwin Garn","UT","R",""
-"G000236","Senator, 3rd Class","John","Glenn","John Glenn","OH","D",""
-"G000321","Senator, 2nd Class","Albert","Gore","Albert Gore","TN","D",""
-"G000333","Senator, 1st Class","Slade","Gorton","Slade Gorton","WA","R",""
-"G000352","Senator, 3rd Class","Bob","Graham","Bob Graham","FL","D",""
-"G000365","Senator, 2nd Class","Phil","Gramm","Phil Gramm","TX","R",""
-"G000386","Senator, 3rd Class","Charles","Grassley","Charles Grassley","IA","R",""
-"H000206","Senator, 2nd Class","Tom","Harkin","Tom Harkin","IA","D",""
-"H000338","Senator, 1st Class","Orrin","Hatch","Orrin Hatch","UT","R",""
-"H000343","Senator, 2nd Class","Mark","Hatfield","Mark Hatfield","OR","R",""
-"H000445","Senator, 2nd Class","Howell","Heflin","Howell Heflin","AL","D",""
-"H000456","Senator, 1st Class","Henry","Heinz","Henry Heinz","PA","R",""
-"H000463","Senator, 2nd Class","Jesse","Helms","Jesse Helms","NC","R",""
-"H000725","Senator, 3rd Class","Ernest","Hollings","Ernest Hollings","SC","D",""
-"H000951","Senator, 2nd Class","Gordon","Humphrey","Gordon Humphrey","NH","R",""
-"I000025","Senator, 3rd Class","Daniel","Inouye","Daniel Inouye","HI","D",""
-"J000072","Senator, 1st Class","James","Jeffords","James Jeffords","VT","R",""
-"J000189","Senator, 2nd Class","John","Johnston","John Johnston","LA","D",""
-"K000017","Senator, 2nd Class","Nancy","Kassebaum","Nancy Kassebaum","KS","R",""
-"K000019","Senator, 3rd Class","Robert","Kasten","Robert Kasten","WI","R",""
-"K000105","Senator, 1st Class","Edward","Kennedy","Edward Kennedy","MA","D",""
-"K000146","Senator, 1st Class","J. Robert","Kerrey","J. Robert Kerrey","NE","D",""
-"K000148","Senator, 2nd Class","John","Kerry","John Kerry","MA","D",""
-"K000305","Senator, 1st Class","Herb","Kohl","Herb Kohl","WI","D",""
-"L000123","Senator, 1st Class","Frank","Lautenberg","Frank Lautenberg","NJ","D",""
-"L000174","Senator, 3rd Class","Patrick","Leahy","Patrick Leahy","VT","D",""
-"L000261","Senator, 2nd Class","Carl","Levin","Carl Levin","MI","D",""
-"L000304","Senator, 1st Class","Joseph","Lieberman","Joseph Lieberman","CT","D",""
-"L000447","Senator, 1st Class","Trent","Lott","Trent Lott","MS","R",""
-"L000504","Senator, 1st Class","Richard","Lugar","Richard Lugar","IN","R",""
-"M000019","Senator, 1st Class","Connie","Mack","Connie Mack","FL","R",""
-"M000250","Senator, 1st Class","Spark","Matsunaga","Spark Matsunaga","HI","D",""
-"M000303","Senator, 3rd Class","John","McCain","John McCain","AZ","R",""
-"M000346","Senator, 2nd Class","James","McClure","James McClure","ID","R",""
-"M000355","Senator, 2nd Class","Mitch","McConnell","Mitch McConnell","KY","R",""
-"M000678","Senator, 1st Class","Howard","Metzenbaum","Howard Metzenbaum","OH","D",""
-"M000702","Senator, 3rd Class","Barbara","Mikulski","Barbara Mikulski","MD","D",""
-"M000811","Senator, 1st Class","George","Mitchell","George Mitchell","ME","D",""
-"M001054","Senator, 1st Class","Daniel","Moynihan","Daniel Moynihan","NY","D",""
-"M001085","Senator, 3rd Class","Frank","Murkowski","Frank Murkowski","AK","R",""
-"N000102","Senator, 3rd Class","Don","Nickles","Don Nickles","OK","R",""
-"N000171","Senator, 2nd Class","Samuel","Nunn","Samuel Nunn","GA","D",""
-"P000009","Senator, 3rd Class","Robert","Packwood","Robert Packwood","OR","R",""
-"P000193","Senator, 2nd Class","Claiborne","Pell","Claiborne Pell","RI","D",""
-"P000513","Senator, 2nd Class","Larry","Pressler","Larry Pressler","SD","R",""
-"P000556","Senator, 2nd Class","David","Pryor","David Pryor","AR","D",""
-"R000146","Senator, 3rd Class","Harry","Reid","Harry Reid","NV","D",""
-"R000249","Senator, 1st Class","Donald","Riegle","Donald Riegle","MI","D",""
-"R000295","Senator, 1st Class","Charles","Robb","Charles Robb","VA","D",""
-"R000361","Senator, 2nd Class","John","Rockefeller","John Rockefeller","WV","D",""
-"R000460","Senator, 1st Class","William","Roth","William Roth","DE","R",""
-"R000497","Senator, 3rd Class","Warren","Rudman","Warren Rudman","NH","R",""
-"S000055","Senator, 3rd Class","James","Sanford","James Sanford","NC","D",""
-"S000064","Senator, 1st Class","Paul","Sarbanes","Paul Sarbanes","MD","D",""
-"S000068","Senator, 1st Class","James","Sasser","James Sasser","TN","D",""
-"S000320","Senator, 3rd Class","Richard","Shelby","Richard Shelby","AL","D",""
-"S000423","Senator, 2nd Class","Paul","Simon","Paul Simon","IL","D",""
-"S000429","Senator, 2nd Class","Alan","Simpson","Alan Simpson","WY","R",""
-"S000709","Senator, 3rd Class","Arlen","Specter","Arlen Specter","PA","R",""
-"S000888","Senator, 2nd Class","Ted","Stevens","Ted Stevens","AK","R",""
-"S001138","Senator, 3rd Class","Steven","Symms","Steven Symms","ID","R",""
-"T000254","Senator, 2nd Class","Strom","Thurmond","Strom Thurmond","SC","R",""
-"W000092","Senator, 1st Class","Malcolm","Wallop","Malcolm Wallop","WY","R",""
-"W000154","Senator, 2nd Class","John","Warner","John Warner","VA","R",""
-"W000607","Senator, 1st Class","Pete","Wilson","Pete Wilson","CA","R",""
-"W000647","Senator, 3rd Class","Timothy","Wirth","Timothy Wirth","CO","D",""
+api_uri,contact_form,cook_pvi,crp_id,cspan_id,date_of_birth,dw_nominate,facebook_account,fax,fec_candidate_id,first_name,gender,google_entity_id,govtrack_id,icpsr_id,id,ideal_point,in_office,last_name,last_updated,leadership_role,lis_id,middle_name,missed_votes,missed_votes_pct,next_election,ocd_id,office,party,phone,rss_url,senate_class,seniority,short_title,state,state_rank,suffix,title,total_present,total_votes,twitter_account,url,votes_against_party_pct,votes_with_party_pct,votesmart_id,youtube_account
+https://api.propublica.org/congress/v1/members/A000031.json,,,,,1927-01-13,,,,,Brockman,,,400692,10700,A000031,,False,Adams,2019-10-07 09:49:42 -0400,,S180,,7,1.1,,ocd-division/country:us/state:wa,,D,,,3,3,Sen.,WA,,,"Senator, 3rd Class",0,638,,,10.06,89.94,,
+https://api.propublica.org/congress/v1/members/A000069.json,,,,8704,1924-09-11,,,,,Daniel,M,/m/01rbrq,300001,14400,A000069,,False,Akaka,2019-10-07 09:49:42 -0400,,S213,K.,3,1.28,,ocd-division/country:us/state:hi,,D,,,1,1,Sen.,HI,,,"Senator, 1st Class",0,234,SenatorAkaka,,11.69,88.31,,senatorakaka
+https://api.propublica.org/congress/v1/members/A000219.json,,,,,1937-03-16,,,,,William,M,,400927,14002,A000219,,False,Armstrong,2019-10-07 09:49:42 -0400,,S134,Lester,86,13.48,,ocd-division/country:us/state:co,,R,,,2,11,Sen.,CO,,,"Senator, 2nd Class",0,638,,,15.34,84.66,,
+https://api.propublica.org/congress/v1/members/B000243.json,,,,1727,1941-12-11,,,,,Max,M,/m/01rcm2,300005,14203,B000243,,False,Baucus,2019-10-07 09:49:42 -0400,,S127,,15,2.35,,ocd-division/country:us/state:mt,,D,,,2,11,Sen.,MT,,,"Senator, 2nd Class",0,638,,http://www.baucus.senate.gov,18.77,81.23,,SenatorBaucus
+https://api.propublica.org/congress/v1/members/B000401.json,,,,,1921-02-11,,,,,Lloyd,,,401391,660,B000401,,False,Bentsen,2019-10-07 09:49:42 -0400,,S009,Millard,14,2.19,,ocd-division/country:us/state:tx,,D,,,1,19,Sen.,TX,,,"Senator, 1st Class",0,638,,,13.09,86.91,,
+https://api.propublica.org/congress/v1/members/B000444.json,,,,34,1942-11-20,,,,,Joseph,M,,300008,14101,B000444,,False,Biden,2019-10-07 09:49:42 -0400,,S010,R.,12,1.88,,ocd-division/country:us/state:de,,D,,,2,17,Sen.,DE,,Jr.,"Senator, 2nd Class",0,638,,,17.04,82.96,,
+https://api.propublica.org/congress/v1/members/B000468.json,,,,590,1943-10-03,,,,,Jeff,M,/m/01xck2,300009,15101,B000468,,False,Bingaman,2019-10-07 09:49:42 -0400,,S167,,20,3.13,,ocd-division/country:us/state:nm,,D,,,1,7,Sen.,NM,,,"Senator, 1st Class",0,638,jeffbingaman,,15.5,84.5,,SenJeffBingaman
+https://api.propublica.org/congress/v1/members/B000611.json,,,,2360,1939-03-06,,,,,Christopher,M,/m/01_6h2,300010,15500,B000611,,False,Bond,2019-10-07 09:49:42 -0400,,S200,S.,11,1.72,,ocd-division/country:us/state:mo,,R,,,3,3,Sen.,MO,,,"Senator, 3rd Class",0,638,,,10.6,89.4,,CSBondMO
+https://api.propublica.org/congress/v1/members/B000639.json,,,,,1941-04-21,,,,,David,M,,401604,14700,B000639,,False,Boren,2019-10-07 09:49:42 -0400,,S128,Lyle,35,5.49,,ocd-division/country:us/state:ok,,D,,,2,11,Sen.,OK,,,"Senator, 2nd Class",1,638,,,23.54,76.46,,
+https://api.propublica.org/congress/v1/members/B000647.json,,,,,1930-11-07,,,,,Rudolph,,,401611,14701,B000647,,False,Boschwitz,2019-10-07 09:49:42 -0400,,S135,Eli,31,4.86,,ocd-division/country:us/state:mn,,R,,,2,11,Sen.,MN,,,"Senator, 2nd Class",1,638,,,11.8,88.2,,
+https://api.propublica.org/congress/v1/members/B001225.json,,,,,1943-07-28,,,,,William,M,,401709,14702,B001225,,False,Bradley,2019-10-07 09:49:42 -0400,,S132,Warren,20,3.13,,ocd-division/country:us/state:nj,,D,,,2,11,Sen.,NJ,,,"Senator, 2nd Class",0,638,,,19.19,80.81,,
+https://api.propublica.org/congress/v1/members/B000780.json,,,,,1944-03-01,,,,,John,M,,300012,13056,B000780,,False,Breaux,2019-10-07 09:49:42 -0400,,S179,B.,7,1.1,,ocd-division/country:us/state:la,,D,,,3,4,Sen.,LA,,,"Senator, 3rd Class",0,638,,,19.33,80.67,,
+https://api.propublica.org/congress/v1/members/B000993.json,,,,,1937-07-16,,,,,Richard,M,,400557,15701,B000993,,False,Bryan,2019-10-07 09:49:42 -0400,,S206,H.,2,0.31,,ocd-division/country:us/state:nv,,D,,,1,1,Sen.,NV,,,"Senator, 1st Class",0,638,,,14.26,85.74,,
+https://api.propublica.org/congress/v1/members/B001057.json,,,,,1925-08-12,,,,,Dale,M,,402004,14300,B001057,,False,Bumpers,2019-10-07 09:49:42 -0400,,S014,,10,1.57,,ocd-division/country:us/state:ar,,D,,,3,15,Sen.,AR,,,"Senator, 3rd Class",0,638,,,10.75,89.25,,
+https://api.propublica.org/congress/v1/members/B001077.json,,,,,1908-06-19,,,,,Quentin,,,402023,1252,B001077,,False,Burdick,2019-10-07 09:49:42 -0400,,S015,Northrup,3,0.47,,ocd-division/country:us/state:nd,,D,,,1,29,Sen.,ND,,,"Senator, 1st Class",0,638,,,12.22,87.78,,
+https://api.propublica.org/congress/v1/members/B001126.json,,,,,1935-01-25,,,,,Conrad,M,,300015,15702,B001126,,False,Burns,2019-10-07 09:49:42 -0400,,S211,,8,1.25,1994,ocd-division/country:us/state:mt,,R,,,1,1,Sen.,MT,,,"Senator, 1st Class",0,638,,,7.15,92.85,,
+https://api.propublica.org/congress/v1/members/B001210.json,,,,,1917-11-20,,,,,Robert,M,/m/06bss,300016,1366,B001210,,False,Byrd,2019-10-07 09:49:42 -0400,,S017,C.,0,0.0,,ocd-division/country:us/state:wv,,D,,,1,31,Sen.,WV,,,"Senator, 1st Class",0,638,,,18.17,81.83,,
+https://api.propublica.org/congress/v1/members/C000269.json,,,,,1922-10-22,,,,,John,M,,402412,14500,C000269,,False,Chafee,2019-10-07 09:49:42 -0400,,S116,H.,12,1.88,,ocd-division/country:us/state:ri,,R,,,1,13,Sen.,RI,,,"Senator, 1st Class",0,638,,,22.91,77.09,,
+https://api.propublica.org/congress/v1/members/C000542.json,,,,6080,1943-05-16,,180671148633644,,,Daniel,M,/m/0jl26,402675,14806,C000542,,False,Coats,2019-10-07 09:49:42 -0400,,S212,,21,3.29,,ocd-division/country:us/state:in,,R,,,3,1,Sen.,IN,,,"Senator, 3rd Class",0,638,SenDanCoats,http://www.coats.senate.gov,9.45,90.55,,SenatorCoats
+https://api.propublica.org/congress/v1/members/C000567.json,,,N00003328,1200,1937-12-07,,,,,Thad,M,/m/01fmcd,300023,14009,C000567,,False,Cochran,2019-10-07 09:49:42 -0400,,S136,,6,0.94,,ocd-division/country:us/state:ms,,R,,,2,11,Sen.,MS,,,"Senator, 2nd Class",0,638,SenThadCochran,https://www.cochran.senate.gov,9.87,90.13,53312,sencochran
+https://api.propublica.org/congress/v1/members/C000598.json,,,,,1940-08-28,,,,,William,M,,402727,14010,C000598,,False,Cohen,2019-10-07 09:49:42 -0400,,S137,Sebastian,0,0.0,,ocd-division/country:us/state:me,,R,,,2,11,Sen.,ME,,,"Senator, 2nd Class",0,638,,,27.93,72.07,,
+https://api.propublica.org/congress/v1/members/C000705.json,,,,2517,1948-03-12,,,,,Kent,M,/m/021fx2,300026,15501,C000705,,False,Conrad,2019-10-07 09:49:42 -0400,,S201,,1,0.16,,ocd-division/country:us/state:nd,,D,,,3,3,Sen.,ND,,,"Senator, 3rd Class",0,638,,,20.41,79.59,,SenatorConrad
+https://api.propublica.org/congress/v1/members/C000877.json,,,,,1914-06-19,,,,,Alan,,,402990,12103,C000877,,False,Cranston,2019-10-07 09:49:42 -0400,,S023,,8,1.25,,ocd-division/country:us/state:ca,,D,,,3,21,Sen.,CA,,,"Senator, 3rd Class",0,638,,,10.56,89.44,,
+https://api.propublica.org/congress/v1/members/D000018.json,,,,,1937-08-01,,,,,Alfonse,M,,403142,14900,D000018,,False,D'Amato,2019-10-07 09:49:42 -0400,,S147,M.,5,0.78,,ocd-division/country:us/state:ny,,R,,,3,9,Sen.,NY,,,"Senator, 3rd Class",0,638,,,21.84,78.16,,
+https://api.propublica.org/congress/v1/members/D000030.json,,,,103,1936-09-05,,,,,John,M,,403171,14501,D000030,,False,Danforth,2019-10-07 09:49:42 -0400,,S108,Claggett,7,1.1,,ocd-division/country:us/state:mo,,R,,,1,13,Sen.,MO,,,"Senator, 1st Class",0,638,,,16.5,83.5,,
+https://api.propublica.org/congress/v1/members/D000064.json,,,,,1947-12-09,,,,,Thomas,M,,300031,14617,D000064,,False,Daschle,2019-10-07 09:49:42 -0400,,S185,A.,6,0.94,,ocd-division/country:us/state:sd,,D,,,3,3,Sen.,SD,,,"Senator, 3rd Class",0,638,,,8.61,91.39,,
+https://api.propublica.org/congress/v1/members/D000185.json,,,,,1937-05-08,,,,,Dennis,M,,403346,14502,D000185,,False,DeConcini,2019-10-07 09:49:42 -0400,,S102,Webster,11,1.72,,ocd-division/country:us/state:az,,D,,,1,13,Sen.,AZ,,,"Senator, 1st Class",2,638,,,17.68,82.32,,
+https://api.propublica.org/congress/v1/members/D000366.json,,,,,1927-07-07,,,,,Alan,,,403483,14902,D000366,,False,Dixon,2019-10-07 09:49:42 -0400,,S149,John,0,0.0,,ocd-division/country:us/state:il,,D,,,3,9,Sen.,IL,,,"Senator, 3rd Class",0,638,,,18.96,81.04,,
+https://api.propublica.org/congress/v1/members/D000388.json,,,,,1944-05-27,,,,,Christopher,M,/m/01xcly,300034,14213,D000388,,False,Dodd,2019-10-07 09:49:42 -0400,,S150,J.,13,2.04,,ocd-division/country:us/state:ct,,D,,,3,9,Sen.,CT,,,"Senator, 3rd Class",0,638,SenChrisDodd,,10.0,90.0,,SenChrisDodd
+https://api.propublica.org/congress/v1/members/D000401.json,,,,,1923-07-22,,,,,Robert,M,,403515,10513,D000401,,False,Dole,2019-10-07 09:49:42 -0400,,S026,Joseph,2,0.31,,ocd-division/country:us/state:ks,,R,,,3,21,Sen.,KS,,,"Senator, 3rd Class",0,638,,,9.81,90.19,,
+https://api.propublica.org/congress/v1/members/D000407.json,,,,,1932-05-07,,,,,Pete,M,,300036,14103,D000407,,False,Domenici,2019-10-07 09:49:42 -0400,,S027,V.,27,4.23,,ocd-division/country:us/state:nm,,R,,,2,17,Sen.,NM,,,"Senator, 2nd Class",0,638,,,15.36,84.64,,
+https://api.propublica.org/congress/v1/members/D000566.json,,,,,1934-08-19,,,,,David,M,,403669,14703,D000566,,False,Durenberger,2019-10-07 09:49:42 -0400,,S133,Ferdinand,24,3.76,,ocd-division/country:us/state:mn,,R,,,1,11,Sen.,MN,,,"Senator, 1st Class",1,638,,,24.58,75.42,,
+https://api.propublica.org/congress/v1/members/E000284.json,,,,,1921-08-09,,,,,J. James,M,,403962,14704,E000284,,False,Exon,2019-10-07 09:49:42 -0400,,S129,,13,2.04,,ocd-division/country:us/state:ne,,D,,,2,11,Sen.,NE,,,"Senator, 2nd Class",0,638,,,23.39,76.61,,
+https://api.propublica.org/congress/v1/members/F000268.json,,,,,1924-09-08,,,,,Wendell,M,,404219,14302,F000268,,False,Ford,2019-10-07 09:49:42 -0400,,S033,H.,5,0.78,,ocd-division/country:us/state:ky,,D,,,3,16,Sen.,KY,,,"Senator, 3rd Class",0,638,,,18.79,81.21,,
+https://api.propublica.org/congress/v1/members/F000329.json,,,,,1940-10-06,,,,,Wyche,,,404277,14467,F000329,,False,Fowler,2019-10-07 09:49:42 -0400,,S183,,10,1.57,,ocd-division/country:us/state:ga,,D,,,3,3,Sen.,GA,,,"Senator, 3rd Class",0,638,,,13.64,86.36,,
+https://api.propublica.org/congress/v1/members/G000072.json,,,,,1932-10-12,,,,,Edwin,M,,404444,14303,G000072,,False,Garn,2019-10-07 09:49:42 -0400,,S034,Jacob,30,4.7,,ocd-division/country:us/state:ut,,R,,,3,15,Sen.,UT,,,"Senator, 3rd Class",0,638,,,9.76,90.24,,
+https://api.propublica.org/congress/v1/members/G000236.json,,,,,1921-07-18,,,,,John,M,,404598,14304,G000236,,False,Glenn,2019-10-07 09:49:42 -0400,,S035,H.,6,0.94,,ocd-division/country:us/state:oh,,D,,,3,15,Sen.,OH,,Jr.,"Senator, 3rd Class",0,638,,,12.92,87.08,,
+https://api.propublica.org/congress/v1/members/G000321.json,,,,,1948-03-31,,,,,Albert,M,,404679,14423,G000321,,False,Gore,2019-10-07 09:49:42 -0400,,S170,Arnold,34,5.33,,ocd-division/country:us/state:tn,,D,,,2,5,Sen.,TN,,,"Senator, 2nd Class",0,638,,,7.85,92.15,,
+https://api.propublica.org/congress/v1/members/G000333.json,,,,,1928-01-08,,,,,Slade,M,,400559,14905,G000333,,False,Gorton,2019-10-07 09:49:42 -0400,,S152,,0,0.0,,ocd-division/country:us/state:wa,,R,,,1,7,Sen.,WA,,,"Senator, 1st Class",0,638,,,11.72,88.28,,
+https://api.propublica.org/congress/v1/members/G000352.json,,,,,1936-11-09,,,,,Bob,M,,300046,15502,G000352,,False,Graham,2019-10-07 09:49:42 -0400,,S199,,3,0.47,,ocd-division/country:us/state:fl,,D,,,3,3,Sen.,FL,,,"Senator, 3rd Class",0,638,,,16.35,83.65,,
+https://api.propublica.org/congress/v1/members/G000365.json,,,,,1942-07-08,,,,,Phil,M,,300159,14628,G000365,,False,Gramm,2019-10-07 09:49:42 -0400,,S171,,23,3.61,,ocd-division/country:us/state:tx,,R,,,2,5,Sen.,TX,,,"Senator, 2nd Class",0,638,,,10.15,89.85,,
+https://api.propublica.org/congress/v1/members/G000386.json,,,N00001758,1167,1933-09-17,,grassley,,,Charles,M,/m/020ymy,300048,14226,G000386,,False,Grassley,2019-10-07 09:49:42 -0400,,S153,E.,1,0.16,,ocd-division/country:us/state:ia,,R,,https://www.grassley.senate.gov/?q=rss.xml,3,9,Sen.,IA,,,"Senator, 3rd Class",0,638,ChuckGrassley,https://www.grassley.senate.gov,13.5,86.5,53293,senchuckgrassley
+https://api.propublica.org/congress/v1/members/H000206.json,,,,2005,1939-11-19,,tomharkin,,,Tom,M,/m/020ynq,300051,14230,H000206,,False,Harkin,2019-10-07 09:49:42 -0400,,S172,,7,1.1,,ocd-division/country:us/state:ia,,D,,,2,5,Sen.,IA,,,"Senator, 2nd Class",0,638,SenatorHarkin,http://www.harkin.senate.gov,18.5,81.5,,SenatorTomHarkin
+https://api.propublica.org/congress/v1/members/H000338.json,,,N00009869,189,1934-03-22,,senatororrinhatch,,,Orrin,M,/m/016mj4,300052,14503,H000338,,False,Hatch,2019-10-07 09:49:42 -0400,,S118,G.,7,1.1,,ocd-division/country:us/state:ut,,R,,https://www.hatch.senate.gov/public/index.cfm/rss/feed,1,13,Sen.,UT,,,"Senator, 1st Class",0,638,SenOrrinHatch,https://www.hatch.senate.gov,11.85,88.15,53352,SenatorOrrinHatch
+https://api.propublica.org/congress/v1/members/H000343.json,,,,,1922-07-12,,,,,Mark,M,,405212,11203,H000343,,False,Hatfield,2019-10-07 09:49:42 -0400,,S044,Odom,44,6.9,,ocd-division/country:us/state:or,,R,,,2,23,Sen.,OR,,,"Senator, 2nd Class",0,638,,,37.63,62.37,,
+https://api.propublica.org/congress/v1/members/H000445.json,,,,,1921-06-19,,,,,Howell,M,,405310,14705,H000445,,False,Heflin,2019-10-07 09:49:42 -0400,,S130,Thomas,2,0.31,,ocd-division/country:us/state:al,,D,,,2,11,Sen.,AL,,,"Senator, 2nd Class",0,638,,,31.7,68.3,,
+https://api.propublica.org/congress/v1/members/H000456.json,,,,,1938-10-23,,,,,Henry,M,,405321,13050,H000456,,False,Heinz,2019-10-07 09:49:42 -0400,,S115,John,8,1.25,,ocd-division/country:us/state:pa,,R,,,1,13,Sen.,PA,,,"Senator, 1st Class",0,638,,,25.04,74.96,,
+https://api.propublica.org/congress/v1/members/H000463.json,,,,,1921-10-18,,,,,Jesse,M,,300154,14105,H000463,,False,Helms,2019-10-07 09:49:42 -0400,,S046,,7,1.1,,ocd-division/country:us/state:nc,,R,,,2,17,Sen.,NC,,,"Senator, 2nd Class",1,638,,,20.78,79.22,,
+https://api.propublica.org/congress/v1/members/H000725.json,,,,,1922-01-01,,,,,Ernest,M,,300053,11204,H000725,,False,Hollings,2019-10-07 09:49:42 -0400,,S047,F.,0,0.0,,ocd-division/country:us/state:sc,,D,,,3,23,Sen.,SC,,,"Senator, 3rd Class",0,638,,,20.22,79.78,,
+https://api.propublica.org/congress/v1/members/H000951.json,,,,,1940-10-09,,,,,Gordon,,,405795,14706,H000951,,False,Humphrey,2019-10-07 09:49:42 -0400,,S138,John,24,3.76,,ocd-division/country:us/state:nh,,R,,,2,11,Sen.,NH,,,"Senator, 2nd Class",1,638,,,20.0,80.0,,
+https://api.propublica.org/congress/v1/members/I000025.json,,,,2568,1924-09-07,,,,,Daniel,M,/m/021sv1,300056,4812,I000025,,False,Inouye,2019-10-07 09:49:42 -0400,,S051,K.,17,2.66,,ocd-division/country:us/state:hi,,D,,,3,27,Sen.,HI,,,"Senator, 3rd Class",0,638,daniel_inouye,,11.85,88.15,,
+https://api.propublica.org/congress/v1/members/J000072.json,,,,,1934-05-11,,,,,James,M,,300057,14240,J000072,,False,Jeffords,2019-10-07 09:49:42 -0400,,S204,M.,45,7.05,,ocd-division/country:us/state:vt,,R,,,1,1,Sen.,VT,,,"Senator, 1st Class",2,638,,,33.28,66.72,,
+https://api.propublica.org/congress/v1/members/J000189.json,,,,,1932-06-10,,,,,John,M,,406084,14107,J000189,,False,Johnston,2019-10-07 09:49:42 -0400,,S054,Bennett,20,3.13,,ocd-division/country:us/state:la,,D,,,2,17,Sen.,LA,,,"Senator, 2nd Class",1,638,,,19.09,80.91,,
+https://api.propublica.org/congress/v1/members/K000017.json,,,,,1932-07-29,,,,,Nancy,F,,406188,14708,K000017,,False,Kassebaum,2019-10-07 09:49:42 -0400,,S140,Landon,10,1.57,,ocd-division/country:us/state:ks,,R,,,2,11,Sen.,KS,,,"Senator, 2nd Class",0,638,,,17.26,82.74,,
+https://api.propublica.org/congress/v1/members/K000019.json,,,,,1942-06-19,,,,,Robert,M,,406190,14242,K000019,,False,Kasten,2019-10-07 09:49:42 -0400,,S155,Walter,1,0.16,,ocd-division/country:us/state:wi,,R,,,3,9,Sen.,WI,,,"Senator, 3rd Class",0,638,,,12.06,87.94,,
+https://api.propublica.org/congress/v1/members/K000105.json,,,,,1932-02-22,,,,,Edward,M,,300059,10808,K000105,,False,Kennedy,2019-10-07 09:49:42 -0400,,S055,M.,20,3.13,,ocd-division/country:us/state:ma,,D,,,1,27,Sen.,MA,,,"Senator, 1st Class",0,638,,,10.93,89.07,,
+https://api.propublica.org/congress/v1/members/K000146.json,,,,,1943-08-27,,,,,J. Robert,M,,400561,15703,K000146,,False,Kerrey,2019-10-07 09:49:42 -0400,,S208,,2,0.31,,ocd-division/country:us/state:ne,,D,,,1,1,Sen.,NE,,,"Senator, 1st Class",0,638,,,12.2,87.8,,
+https://api.propublica.org/congress/v1/members/K000148.json,,,,1485,1943-12-11,,,,,John,M,/m/0d3qd0,300060,15300,K000148,,False,Kerry,2019-10-07 09:49:42 -0400,,S173,,13,2.04,,ocd-division/country:us/state:ma,,D,,,2,5,Sen.,MA,,,"Senator, 2nd Class",0,638,,,14.84,85.16,,senatorkerry
+https://api.propublica.org/congress/v1/members/K000305.json,,,,4030,1935-02-07,,,,,Herb,M,/m/04fy4q,300061,15704,K000305,,False,Kohl,2019-10-07 09:49:42 -0400,,S209,,4,0.63,,ocd-division/country:us/state:wi,,D,,,1,1,Sen.,WI,,,"Senator, 1st Class",0,638,,,12.56,87.44,,SenatorKohl
+https://api.propublica.org/congress/v1/members/L000123.json,,,,2515,1924-01-23,,franklautenberg,,,Frank,M,/m/01wsvs,300064,14914,L000123,,False,Lautenberg,2019-10-07 09:49:42 -0400,,S166,R.,5,0.78,,ocd-division/country:us/state:nj,,D,,,1,7,Sen.,NJ,,,"Senator, 1st Class",0,638,franklautenberg,http://www.lautenberg.senate.gov/,13.22,86.78,,
+https://api.propublica.org/congress/v1/members/L000174.json,,,N00009918,1552,1940-03-31,,SenatorPatrickLeahy,,,Patrick,M,/m/0202kf,300065,14307,L000174,,False,Leahy,2019-10-07 09:49:42 -0400,,S057,J.,1,0.16,,ocd-division/country:us/state:vt,,D,,,3,15,Sen.,VT,,,"Senator, 3rd Class",0,638,SenatorLeahy,https://www.leahy.senate.gov,9.65,90.35,53353,SenatorPatrickLeahy
+https://api.propublica.org/congress/v1/members/L000261.json,,,,2592,1934-06-28,,carllevin,,,Carl,M,/m/01xh6j,300066,14709,L000261,,False,Levin,2019-10-07 09:49:42 -0400,,S131,,6,0.94,,ocd-division/country:us/state:mi,,D,,,2,11,Sen.,MI,,,"Senator, 2nd Class",0,638,SenCarlLevin,http://www.levin.senate.gov,15.15,84.85,,SenCarlLevin
+https://api.propublica.org/congress/v1/members/L000304.json,,,,4363,1942-02-24,,,,,Joseph,M,/m/0jw5r,300067,15705,L000304,,False,Lieberman,2019-10-07 09:49:42 -0400,,S210,I.,4,0.63,,ocd-division/country:us/state:ct,,D,,,1,1,Sen.,CT,,,"Senator, 1st Class",0,638,JoeLieberman,,14.47,85.53,,SenatorJoeLieberman
+https://api.propublica.org/congress/v1/members/L000447.json,,,,1886,1941-10-09,,,,,Trent,M,,300069,14031,L000447,,False,Lott,2019-10-07 09:49:42 -0400,,S203,,28,4.39,,ocd-division/country:us/state:ms,,R,,,1,1,Sen.,MS,,,"Senator, 1st Class",0,638,,,12.25,87.75,,
+https://api.propublica.org/congress/v1/members/L000504.json,,,,255,1932-04-04,,,,,Richard,M,/m/01d_bx,300070,14506,L000504,,False,Lugar,2019-10-07 09:49:42 -0400,,S105,G.,14,2.19,,ocd-division/country:us/state:in,,R,,,1,13,Sen.,IN,,,"Senator, 1st Class",0,638,senatorlugar,,9.66,90.34,,senatorlugar
+https://api.propublica.org/congress/v1/members/M000019.json,,,,,1940-10-29,,,,,Connie,M,,400562,15037,M000019,,False,Mack,2019-10-07 09:49:42 -0400,,S205,,15,2.35,,ocd-division/country:us/state:fl,,R,,,1,1,Sen.,FL,,,"Senator, 1st Class",0,638,,,12.99,87.01,,
+https://api.propublica.org/congress/v1/members/M000250.json,,,,,1916-10-08,,,,,Spark,,,407268,10605,M000250,,False,Matsunaga,2019-10-07 09:49:42 -0400,,S104,Masayuki,124,33.6,,ocd-division/country:us/state:hi,,D,,,1,13,Sen.,HI,,,"Senator, 1st Class",0,369,,,11.16,88.84,,
+https://api.propublica.org/congress/v1/members/M000303.json,,,N00006424,7476,1936-08-29,,johnmccain,,,John,M,/m/0bymv,300071,15039,M000303,,False,McCain,2019-10-07 09:49:42 -0400,,S197,,18,2.82,,ocd-division/country:us/state:az,,R,,https://www.mccain.senate.gov/public/?a=rss.feed,3,3,Sen.,AZ,,,"Senator, 3rd Class",0,638,SenJohnMcCain,https://www.mccain.senate.gov,11.04,88.96,53270,SenatorJohnMcCain
+https://api.propublica.org/congress/v1/members/M000346.json,,,,,1924-12-27,,,,,James,M,,407355,11029,M000346,,False,McClure,2019-10-07 09:49:42 -0400,,S063,Albertus,15,2.35,,ocd-division/country:us/state:id,,R,,,2,17,Sen.,ID,,,"Senator, 2nd Class",2,638,,,15.11,84.89,,
+https://api.propublica.org/congress/v1/members/M000355.json,,,N00003389,2351,1942-02-20,,mitchmcconnell,,,Mitch,M,/m/01z6ls,300072,14921,M000355,,False,McConnell,2019-10-07 09:49:42 -0400,,S174,,4,0.63,,ocd-division/country:us/state:ky,,R,,https://www.mcconnell.senate.gov/public/?a=RSS.Feed,2,5,Sen.,KY,,,"Senator, 2nd Class",0,638,McConnellPress,https://www.mcconnell.senate.gov,9.85,90.15,53298,
+https://api.propublica.org/congress/v1/members/M000678.json,,,,,1917-06-04,,,,,Howard,M,,407663,14073,M000678,,False,Metzenbaum,2019-10-07 09:49:42 -0400,,S114,Morton,13,2.04,,ocd-division/country:us/state:oh,,D,,,1,14,Sen.,OH,,,"Senator, 1st Class",1,638,,,16.94,83.06,,
+https://api.propublica.org/congress/v1/members/M000702.json,,,,1396,1936-07-20,,SenatorMikulski,,,Barbara,F,/m/0206nm,300073,14440,M000702,,False,Mikulski,2019-10-07 09:49:42 -0400,,S182,A.,18,2.82,,ocd-division/country:us/state:md,,D,,,3,3,Sen.,MD,,,"Senator, 3rd Class",0,638,SenatorBarb,https://www.mikulski.senate.gov,9.27,90.73,,senatormikulski
+https://api.propublica.org/congress/v1/members/M000811.json,,,,,1933-08-20,,,,,George,M,,407786,14713,M000811,,False,Mitchell,2019-10-07 09:49:42 -0400,,S144,John,0,0.0,,ocd-division/country:us/state:me,,D,,,1,9,Sen.,ME,,,"Senator, 1st Class",0,638,,,9.95,90.05,,
+https://api.propublica.org/congress/v1/members/M001054.json,,,,,1927-03-16,,,,,Daniel,M,,400563,14508,M001054,,False,Moynihan,2019-10-07 09:49:42 -0400,,S113,Patrick,10,1.57,,ocd-division/country:us/state:ny,,D,,,1,13,Sen.,NY,,,"Senator, 1st Class",0,638,,,12.68,87.32,,
+https://api.propublica.org/congress/v1/members/M001085.json,,,,,1933-03-28,,,,,Frank,M,,300150,14908,M001085,,False,Murkowski,2019-10-07 09:49:42 -0400,,S157,H.,21,3.29,,ocd-division/country:us/state:ak,,R,,,3,9,Sen.,AK,,,"Senator, 3rd Class",0,638,,,9.78,90.22,,
+https://api.propublica.org/congress/v1/members/N000102.json,,,,,1948-12-06,,,,,Don,M,,300079,14909,N000102,,False,Nickles,2019-10-07 09:49:42 -0400,,S158,,9,1.41,,ocd-division/country:us/state:ok,,R,,,3,9,Sen.,OK,,,"Senator, 3rd Class",0,638,,,10.1,89.9,,
+https://api.propublica.org/congress/v1/members/N000171.json,,,,,1938-09-08,,,,,Samuel,M,,408252,14108,N000171,,False,Nunn,2019-10-07 09:49:42 -0400,,S074,Augustus,11,1.72,,ocd-division/country:us/state:ga,,D,,,2,17,Sen.,GA,,,"Senator, 2nd Class",0,638,,,15.76,84.24,,
+https://api.propublica.org/congress/v1/members/P000009.json,,,,,1932-09-11,,,,,Robert,M,,408420,12107,P000009,,False,Packwood,2019-10-07 09:49:42 -0400,,S075,William,20,3.13,,ocd-division/country:us/state:or,,R,,,3,21,Sen.,OR,,,"Senator, 3rd Class",0,638,,,26.16,73.84,,
+https://api.propublica.org/congress/v1/members/P000193.json,,,,,1918-11-22,,,,,Claiborne,M,,408597,10818,P000193,,False,Pell,2019-10-07 09:49:42 -0400,,S078,de Borda,22,3.45,,ocd-division/country:us/state:ri,,D,,,2,29,Sen.,RI,,,"Senator, 2nd Class",2,638,,,12.75,87.25,,
+https://api.propublica.org/congress/v1/members/P000513.json,,,,,1942-03-29,,,,,Larry,,,408898,14268,P000513,,False,Pressler,2019-10-07 09:49:42 -0400,,S141,Lee,12,1.88,,ocd-division/country:us/state:sd,,R,,,2,11,Sen.,SD,,,"Senator, 2nd Class",0,638,,,19.64,80.36,,
+https://api.propublica.org/congress/v1/members/P000556.json,,,,,1934-08-29,,,,,David,M,,408939,10791,P000556,,False,Pryor,2019-10-07 09:49:42 -0400,,S125,Hampton,17,2.66,,ocd-division/country:us/state:ar,,D,,,2,11,Sen.,AR,,,"Senator, 2nd Class",0,638,,,11.67,88.33,,
+https://api.propublica.org/congress/v1/members/R000146.json,,,,1683,1939-12-02,,SenatorReid,,,Harry,M,/m/0204x1,300082,15054,R000146,,False,Reid,2019-10-07 09:49:42 -0400,,S198,,4,0.63,,ocd-division/country:us/state:nv,,D,,,3,3,Sen.,NV,,,"Senator, 3rd Class",0,638,SenatorReid,http://www.reid.senate.gov,14.47,85.53,,SenatorReid
+https://api.propublica.org/congress/v1/members/R000249.json,,,,,1938-02-04,,,,,Donald,M,,409225,11043,R000249,,False,Riegle,2019-10-07 09:49:42 -0400,,S107,Wayne,27,4.23,,ocd-division/country:us/state:mi,,D,,,1,13,Sen.,MI,,,"Senator, 1st Class",0,638,,,8.73,91.27,,
+https://api.propublica.org/congress/v1/members/R000295.json,,,,,1939-06-26,,,,,Charles,M,,400564,15706,R000295,,False,Robb,2019-10-07 09:49:42 -0400,,S207,S.,0,0.0,,ocd-division/country:us/state:va,,D,,,1,1,Sen.,VA,,,"Senator, 1st Class",0,638,,,15.8,84.2,,
+https://api.propublica.org/congress/v1/members/R000361.json,,,,1238,1937-06-18,,SenRockefeller,,,John,M,/m/01xmnh,300084,14922,R000361,,False,Rockefeller,2019-10-07 09:49:42 -0400,,S176,D.,6,0.94,,ocd-division/country:us/state:wv,,D,,,2,5,Sen.,WV,,IV,"Senator, 2nd Class",0,638,SenRockefeller,http://www.rockefeller.senate.gov,12.6,87.4,,SenatorRockefeller
+https://api.propublica.org/congress/v1/members/R000460.json,,,,,1921-07-22,,,,,William,M,,400565,11044,R000460,,False,Roth,2019-10-07 09:49:42 -0400,,S083,V.,10,1.57,,ocd-division/country:us/state:de,,R,,,1,19,Sen.,DE,,Jr.,"Senator, 1st Class",0,638,,,17.78,82.22,,
+https://api.propublica.org/congress/v1/members/R000497.json,,,,,1930-05-18,,,,,Warren,M,,409456,14910,R000497,,False,Rudman,2019-10-07 09:49:42 -0400,,S160,Bruce,19,2.98,,ocd-division/country:us/state:nh,,R,,,3,9,Sen.,NH,,,"Senator, 3rd Class",0,638,,,18.15,81.85,,
+https://api.propublica.org/congress/v1/members/S000055.json,,,,,1917-08-20,,,,,James,M,,409562,15503,S000055,,False,Sanford,2019-10-07 09:49:42 -0400,,S178,Terry,24,3.76,,ocd-division/country:us/state:nc,,D,,,3,3,Sen.,NC,,,"Senator, 3rd Class",2,638,,,13.46,86.54,,
+https://api.propublica.org/congress/v1/members/S000064.json,,,,,1933-02-03,,,,,Paul,M,,300086,13039,S000064,,False,Sarbanes,2019-10-07 09:49:42 -0400,,S106,S.,4,0.63,,ocd-division/country:us/state:md,,D,,,1,13,Sen.,MD,,,"Senator, 1st Class",0,638,,,8.73,91.27,,
+https://api.propublica.org/congress/v1/members/S000068.json,,,,,1936-09-30,,,,,James,M,,409580,14509,S000068,,False,Sasser,2019-10-07 09:49:42 -0400,,S117,Ralph,15,2.35,,ocd-division/country:us/state:tn,,D,,,1,13,Sen.,TN,,,"Senator, 1st Class",0,638,,,10.84,89.16,,
+https://api.propublica.org/congress/v1/members/S000320.json,,,N00009920,1859,1934-05-06,,RichardShelby,,,Richard,M,/m/020yj1,300089,94659,S000320,,False,Shelby,2019-10-07 09:49:42 -0400,,S184,C.,0,0.0,,ocd-division/country:us/state:al,,D,,https://www.shelby.senate.gov/public/?a=rss.feed,3,3,Sen.,AL,,,"Senator, 3rd Class",0,638,SenShelby,https://www.shelby.senate.gov,27.01,72.99,53266,SenatorRichardShelby
+https://api.propublica.org/congress/v1/members/S000423.json,,,,,1928-11-29,,,,,Paul,M,,409917,14275,S000423,,False,Simon,2019-10-07 09:49:42 -0400,,S175,Martin,8,1.25,,ocd-division/country:us/state:il,,D,,,2,5,Sen.,IL,,,"Senator, 2nd Class",0,638,,,14.24,85.76,,
+https://api.propublica.org/congress/v1/members/S000429.json,,,,378,1931-09-02,,,,,Alan,M,,409923,14710,S000429,,False,Simpson,2019-10-07 09:49:42 -0400,,S142,Kooi,28,4.39,,ocd-division/country:us/state:wy,,R,,,2,11,Sen.,WY,,,"Senator, 2nd Class",0,638,,,9.2,90.8,,
+https://api.propublica.org/congress/v1/members/S000709.json,,,,,1930-02-12,,,,,Arlen,M,/m/0204ym,300092,14911,S000709,,False,Specter,2019-10-07 09:49:42 -0400,,S161,,1,0.16,,ocd-division/country:us/state:pa,,R,,,3,9,Sen.,PA,,,"Senator, 3rd Class",0,638,SenArlenSpecter,,26.37,73.63,,SenatorArlenSpecter
+https://api.propublica.org/congress/v1/members/S000888.json,,,,,1923-11-18,,,,,Ted,M,,300094,12109,S000888,,False,Stevens,2019-10-07 09:49:42 -0400,,S090,F.,14,2.19,,ocd-division/country:us/state:ak,,R,,,2,21,Sen.,AK,,,"Senator, 2nd Class",1,638,,,17.02,82.98,,
+https://api.propublica.org/congress/v1/members/S001138.json,,,,,1938-04-23,,,,,Steven,,,410588,14056,S001138,,False,Symms,2019-10-07 09:49:42 -0400,,S162,Douglas,20,3.13,,ocd-division/country:us/state:id,,R,,,3,9,Sen.,ID,,,"Senator, 3rd Class",0,638,,,14.24,85.76,,
+https://api.propublica.org/congress/v1/members/T000254.json,,,,,1902-12-05,,,,,Strom,M,,300157,9369,T000254,,False,Thurmond,2019-10-07 09:49:42 -0400,,S096,,1,0.16,,ocd-division/country:us/state:sc,,R,,,2,34,Sen.,SC,,,"Senator, 2nd Class",0,638,,,7.07,92.93,,
+https://api.propublica.org/congress/v1/members/W000092.json,,,,,1933-02-27,,,,,Malcolm,M,,411271,14511,W000092,,False,Wallop,2019-10-07 09:49:42 -0400,,S119,,49,7.68,,ocd-division/country:us/state:wy,,R,,,1,13,Sen.,WY,,,"Senator, 1st Class",0,638,,,15.03,84.97,,
+https://api.propublica.org/congress/v1/members/W000154.json,,,,,1927-02-18,,,,,John,M,,300099,14712,W000154,,False,Warner,2019-10-07 09:49:42 -0400,,S143,W.,6,0.94,,ocd-division/country:us/state:va,,R,,,2,11,Sen.,VA,,,"Senator, 2nd Class",0,638,,,15.07,84.93,,
+https://api.propublica.org/congress/v1/members/W000607.json,,,,,1933-08-23,,,,,Pete,M,,411762,15104,W000607,,False,Wilson,2019-10-07 09:49:42 -0400,,S165,,98,15.36,,ocd-division/country:us/state:ca,,R,,,1,7,Sen.,CA,,,"Senator, 1st Class",0,638,,,16.89,83.11,,
+https://api.propublica.org/congress/v1/members/W000647.json,,,,,1939-09-22,,,,,Timothy,M,,411801,14282,W000647,,False,Wirth,2019-10-07 09:49:42 -0400,,S181,E.,10,1.57,,ocd-division/country:us/state:co,,D,,,3,3,Sen.,CO,,,"Senator, 3rd Class",0,638,,,10.91,89.09,,
