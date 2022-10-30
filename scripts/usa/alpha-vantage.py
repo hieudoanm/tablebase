@@ -20,4 +20,3 @@ for symbol in symbols:
     wordsFile = open(file_path, "w", encoding='utf-8')
     wordsFile.write(history_csv)
     wordsFile.close()
-    
