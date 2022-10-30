@@ -101,7 +101,7 @@
   {
     "id": "2027",
     "area": "Austria",
-    "name": "ÖFB Cup",
+    "name": "\u00d6FB Cup",
     "code": "null",
     "type": "CUP",
     "emblem": "null",
@@ -182,7 +182,7 @@
   {
     "id": "2038",
     "area": "Brazil",
-    "name": "Série D",
+    "name": "S\u00e9rie D",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",
@@ -191,7 +191,7 @@
   {
     "id": "2036",
     "area": "Brazil",
-    "name": "Série C",
+    "name": "S\u00e9rie C",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",
@@ -200,7 +200,7 @@
   {
     "id": "2029",
     "area": "Brazil",
-    "name": "Campeonato Brasileiro Série B",
+    "name": "Campeonato Brasileiro S\u00e9rie B",
     "code": "BSB",
     "type": "LEAGUE",
     "emblem": "null",
@@ -209,7 +209,7 @@
   {
     "id": "2013",
     "area": "Brazil",
-    "name": "Campeonato Brasileiro Série A",
+    "name": "Campeonato Brasileiro S\u00e9rie A",
     "code": "BSA",
     "type": "LEAGUE",
     "emblem": "https://crests.football-data.org/764.svg",
@@ -263,7 +263,7 @@
   {
     "id": "2048",
     "area": "Chile",
-    "name": "Primera División",
+    "name": "Primera Divisi\u00f3n",
     "code": "CPD",
     "type": "LEAGUE",
     "emblem": "null",
@@ -281,7 +281,7 @@
   {
     "id": "2045",
     "area": "Colombia",
-    "name": "Liga Postobón",
+    "name": "Liga Postob\u00f3n",
     "code": "CLP",
     "type": "LEAGUE",
     "emblem": "null",
@@ -551,7 +551,7 @@
   {
     "id": "2136",
     "area": "France",
-    "name": "Trophée des Champions",
+    "name": "Troph\u00e9e des Champions",
     "code": "null",
     "type": "CUP",
     "emblem": "null",
@@ -623,7 +623,7 @@
   {
     "id": "2160",
     "area": "Germany",
-    "name": "Regionalliga Südwest",
+    "name": "Regionalliga S\u00fcdwest",
     "code": "RSW",
     "type": "LEAGUE",
     "emblem": "null",
@@ -713,7 +713,7 @@
   {
     "id": "2127",
     "area": "Iceland",
-    "name": "Úrvalsdeild",
+    "name": "\u00darvalsdeild",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",
@@ -866,7 +866,7 @@
   {
     "id": "2116",
     "area": "Latvia",
-    "name": "Virslīga",
+    "name": "Virsl\u012bga",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",
@@ -1010,7 +1010,7 @@
   {
     "id": "2102",
     "area": "Panama",
-    "name": "Liga Panameña de Fútbol",
+    "name": "Liga Paname\u00f1a de F\u00fatbol",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",
@@ -1019,7 +1019,7 @@
   {
     "id": "2101",
     "area": "Peru",
-    "name": "Primera División",
+    "name": "Primera Divisi\u00f3n",
     "code": "PPD",
     "type": "LEAGUE",
     "emblem": "null",
@@ -1046,7 +1046,7 @@
   {
     "id": "2098",
     "area": "Portugal",
-    "name": "Taça de Portugal",
+    "name": "Ta\u00e7a de Portugal",
     "code": "null",
     "type": "CUP",
     "emblem": "null",
@@ -1055,7 +1055,7 @@
   {
     "id": "2096",
     "area": "Portugal",
-    "name": "Liga2 Cabovisão",
+    "name": "Liga2 Cabovis\u00e3o",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",
@@ -1073,7 +1073,7 @@
   {
     "id": "2097",
     "area": "Portugal",
-    "name": "Supertaça Cândido de Oliveira",
+    "name": "Superta\u00e7a C\u00e2ndido de Oliveira",
     "code": "null",
     "type": "SUPER_CUP",
     "emblem": "null",
@@ -1109,7 +1109,7 @@
   {
     "id": "2093",
     "area": "Romania",
-    "name": "Supercupa României",
+    "name": "Supercupa Rom\u00e2niei",
     "code": "null",
     "type": "SUPER_CUP",
     "emblem": "null",
@@ -1253,7 +1253,7 @@
   {
     "id": "2077",
     "area": "Spain",
-    "name": "Segunda División",
+    "name": "Segunda Divisi\u00f3n",
     "code": "SD",
     "type": "LEAGUE",
     "emblem": "https://crests.football-data.org/SD.png",
@@ -1271,7 +1271,7 @@
   {
     "id": "2078",
     "area": "Spain",
-    "name": "Supercopa de España",
+    "name": "Supercopa de Espa\u00f1a",
     "code": "null",
     "type": "SUPER_CUP",
     "emblem": "null",
@@ -1352,7 +1352,7 @@
   {
     "id": "2070",
     "area": "Turkey",
-    "name": "Süper Lig",
+    "name": "S\u00fcper Lig",
     "code": "TSL",
     "type": "LEAGUE",
     "emblem": "null",
@@ -1361,7 +1361,7 @@
   {
     "id": "2069",
     "area": "Turkey",
-    "name": "TFF Süper Kupa",
+    "name": "TFF S\u00fcper Kupa",
     "code": "null",
     "type": "SUPER_CUP",
     "emblem": "null",
@@ -1415,7 +1415,7 @@
   {
     "id": "2063",
     "area": "Uruguay",
-    "name": "Primera División",
+    "name": "Primera Divisi\u00f3n",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",
@@ -1433,7 +1433,7 @@
   {
     "id": "2062",
     "area": "Venezuela",
-    "name": "Primera División",
+    "name": "Primera Divisi\u00f3n",
     "code": "null",
     "type": "LEAGUE",
     "emblem": "null",

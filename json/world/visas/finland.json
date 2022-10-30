@@ -5,7 +5,7 @@
   },
   {
     "country": "Albania",
-    "requirement": "eVisa"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Algeria",
@@ -13,7 +13,7 @@
   },
   {
     "country": "Andorra",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Angola",
@@ -21,39 +21,39 @@
   },
   {
     "country": "Antigua and Barbuda",
-    "requirement": "eVisa"
+    "requirement": "visa-free/180 days"
   },
   {
     "country": "Argentina",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Armenia",
-    "requirement": "eVisa/120 days"
+    "requirement": "visa-free/180 days"
   },
   {
     "country": "Australia",
-    "requirement": "eVisa"
+    "requirement": "eTA/90 days"
   },
   {
     "country": "Austria",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Azerbaijan",
-    "requirement": "visa on arrival/30 days"
+    "requirement": "eVisa/30 days"
   },
   {
     "country": "Bahamas",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Bahrain",
-    "requirement": "eVisa"
+    "requirement": "visa on arrival / eVisa/30 days"
   },
   {
     "country": "Bangladesh",
-    "requirement": "visa required"
+    "requirement": "visa on arrival/30 days"
   },
   {
     "country": "Barbados",
@@ -61,15 +61,15 @@
   },
   {
     "country": "Belarus",
-    "requirement": "visa required"
+    "requirement": "visa-free/30 days"
   },
   {
     "country": "Belgium",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Belize",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Benin",
@@ -81,31 +81,31 @@
   },
   {
     "country": "Bolivia",
-    "requirement": "visa on arrival / eVisa/90 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Bosnia and Herzegovina",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Botswana",
-    "requirement": "eVisa"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Brazil",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Brunei",
-    "requirement": "visa-free/14 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Bulgaria",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Burkina Faso",
-    "requirement": "visa required"
+    "requirement": "visa on arrival/30 days"
   },
   {
     "country": "Burundi",
@@ -113,7 +113,7 @@
   },
   {
     "country": "Cambodia",
-    "requirement": "visa-free/30 days"
+    "requirement": "eVisa/30 days"
   },
   {
     "country": "Cameroon",
@@ -121,11 +121,11 @@
   },
   {
     "country": "Canada",
-    "requirement": "visa required"
+    "requirement": "eTA/180 days"
   },
   {
     "country": "Cape Verde",
-    "requirement": "visa on arrival (EASE)"
+    "requirement": "visa-free (EASE)/30 days"
   },
   {
     "country": "Central African Republic",
@@ -145,7 +145,7 @@
   },
   {
     "country": "Colombia",
-    "requirement": "eVisa"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Comoros",
@@ -161,7 +161,7 @@
   },
   {
     "country": "Costa Rica",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Cote d'Ivoire (Ivory Coast)",
@@ -169,7 +169,7 @@
   },
   {
     "country": "Croatia",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Cuba",
@@ -177,15 +177,15 @@
   },
   {
     "country": "Cyprus",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Czech Republic",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Denmark",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Djibouti",
@@ -193,23 +193,23 @@
   },
   {
     "country": "Dominica",
-    "requirement": "visa-free/21 days"
+    "requirement": "visa-free/180 days"
   },
   {
     "country": "Dominican Republic",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Ecuador",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Egypt",
-    "requirement": "visa required"
+    "requirement": "visa on arrival / eVisa/30 days"
   },
   {
     "country": "El Salvador",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Equatorial Guinea",
@@ -221,43 +221,39 @@
   },
   {
     "country": "Estonia",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Eswatini",
-    "requirement": "visa required"
+    "requirement": "visa-free/30 days"
   },
   {
     "country": "Ethiopia",
-    "requirement": "eVisa"
+    "requirement": "visa on arrival / eVisa/90 days"
   },
   {
     "country": "Fiji",
-    "requirement": "visa required"
-  },
-  {
-    "country": "Finland",
-    "requirement": "visa required"
+    "requirement": "visa-free/120 days"
   },
   {
     "country": "France",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Gabon",
-    "requirement": "eVisa"
+    "requirement": "visa on arrival / eVisa/90 days"
   },
   {
     "country": "Gambia",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Georgia",
-    "requirement": "eVisa"
+    "requirement": "visa-free/360 days"
   },
   {
     "country": "Germany",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Ghana",
@@ -265,15 +261,15 @@
   },
   {
     "country": "Greece",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Grenada",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Guatemala",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Guinea",
@@ -285,7 +281,7 @@
   },
   {
     "country": "Guyana",
-    "requirement": "pre-visa on arrival"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Haiti",
@@ -293,19 +289,19 @@
   },
   {
     "country": "Honduras",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Hong Kong",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Hungary",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Iceland",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "India",
@@ -313,7 +309,7 @@
   },
   {
     "country": "Indonesia",
-    "requirement": "visa-free/30 days"
+    "requirement": "visa on arrival/30 days"
   },
   {
     "country": "Iran",
@@ -321,31 +317,31 @@
   },
   {
     "country": "Iraq",
-    "requirement": "visa required"
+    "requirement": "visa on arrival/60 days"
   },
   {
     "country": "Ireland",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Israel",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Italy",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Jamaica",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Japan",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Jordan",
-    "requirement": "visa required"
+    "requirement": "visa on arrival"
   },
   {
     "country": "Kazakhstan",
@@ -357,15 +353,15 @@
   },
   {
     "country": "Kiribati",
-    "requirement": "visa required"
+    "requirement": "visa-free/120 days"
   },
   {
     "country": "Kosovo",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Kuwait",
-    "requirement": "visa required"
+    "requirement": "eVisa/90 days"
   },
   {
     "country": "Kyrgyzstan",
@@ -373,19 +369,19 @@
   },
   {
     "country": "Laos",
-    "requirement": "visa-free/30 days"
+    "requirement": "visa on arrival / eVisa/30 days"
   },
   {
     "country": "Latvia",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Lebanon",
-    "requirement": "visa required"
+    "requirement": "visa on arrival/30 days"
   },
   {
     "country": "Lesotho",
-    "requirement": "eVisa/14 days"
+    "requirement": "visa-free/14 days"
   },
   {
     "country": "Liberia",
@@ -397,15 +393,15 @@
   },
   {
     "country": "Liechtenstein",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Lithuania",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Luxembourg",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Macao",
@@ -413,7 +409,7 @@
   },
   {
     "country": "Madagascar",
-    "requirement": "visa on arrival / eVisa/90 days"
+    "requirement": "visa on arrival/90 days"
   },
   {
     "country": "Malawi",
@@ -421,7 +417,7 @@
   },
   {
     "country": "Malaysia",
-    "requirement": "visa-free/30 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Maldives",
@@ -433,11 +429,11 @@
   },
   {
     "country": "Malta",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Marshall Islands",
-    "requirement": "COVID-19 ban"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Mauritania",
@@ -445,35 +441,35 @@
   },
   {
     "country": "Mauritius",
-    "requirement": "visa on arrival/60 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Mexico",
-    "requirement": "visa required"
+    "requirement": "visa-free/180 days"
   },
   {
     "country": "Micronesia",
-    "requirement": "visa-free/30 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Moldova",
-    "requirement": "eVisa"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Monaco",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Mongolia",
-    "requirement": "visa required"
+    "requirement": "visa on arrival / eVisa/30 days"
   },
   {
     "country": "Montenegro",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Morocco",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Mozambique",
@@ -481,11 +477,11 @@
   },
   {
     "country": "Myanmar [Burma]",
-    "requirement": "visa required"
+    "requirement": "eVisa"
   },
   {
     "country": "Namibia",
-    "requirement": "visa on arrival/90 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Nauru",
@@ -497,15 +493,15 @@
   },
   {
     "country": "Netherlands",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "New Zealand",
-    "requirement": "visa required"
+    "requirement": "eTA/90 days"
   },
   {
     "country": "Nicaragua",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Niger",
@@ -521,23 +517,23 @@
   },
   {
     "country": "North Macedonia",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Norway",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Oman",
-    "requirement": "eVisa"
+    "requirement": "visa on arrival / eVisa/14 days"
   },
   {
     "country": "Pakistan",
-    "requirement": "eVisa"
+    "requirement": "eTA/30 days"
   },
   {
     "country": "Palau",
-    "requirement": "visa on arrival/30 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Palestinian Territories",
@@ -549,15 +545,15 @@
   },
   {
     "country": "Papua New Guinea",
-    "requirement": "eVisa/30 days"
+    "requirement": "visa on arrival / eVisa/60 days"
   },
   {
     "country": "Paraguay",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Peru",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Philippines",
@@ -565,19 +561,19 @@
   },
   {
     "country": "Poland",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Portugal",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Qatar",
-    "requirement": "eVisa"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Romania",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Russian Federation",
@@ -589,35 +585,35 @@
   },
   {
     "country": "Saint Kitts and Nevis",
-    "requirement": "eVisa"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Saint Lucia",
-    "requirement": "visa on arrival/42 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Samoa",
-    "requirement": "visa on arrival/60 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "San Marino",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Sao Tome and Principe",
-    "requirement": "eVisa"
+    "requirement": "visa-free/15 days"
   },
   {
     "country": "Saudi Arabia",
-    "requirement": "visa required"
+    "requirement": "visa on arrival / eVisa/90 days"
   },
   {
     "country": "Senegal",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Serbia",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Seychelles",
@@ -629,19 +625,19 @@
   },
   {
     "country": "Singapore",
-    "requirement": "visa-free/30 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Slovakia",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Slovenia",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Solomon Islands",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Somalia",
@@ -649,11 +645,11 @@
   },
   {
     "country": "South Africa",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "South Korea",
-    "requirement": "visa required"
+    "requirement": "eTA/90 days"
   },
   {
     "country": "South Sudan",
@@ -661,7 +657,7 @@
   },
   {
     "country": "Spain",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Sri Lanka",
@@ -669,7 +665,7 @@
   },
   {
     "country": "St. Vincent and the Grenadines",
-    "requirement": "visa-free/30 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Sudan",
@@ -677,15 +673,15 @@
   },
   {
     "country": "Suriname",
-    "requirement": "eVisa"
+    "requirement": "eTourist card/90 days"
   },
   {
     "country": "Sweden",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Switzerland",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Syria",
@@ -693,11 +689,11 @@
   },
   {
     "country": "Taiwan",
-    "requirement": "COVID-19 ban"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Tajikistan",
-    "requirement": "visa on arrival / eVisa/45 days"
+    "requirement": "visa-free/30 days"
   },
   {
     "country": "Tanzania",
@@ -709,7 +705,7 @@
   },
   {
     "country": "Timor-Leste",
-    "requirement": "visa on arrival/30 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Togo",
@@ -717,19 +713,19 @@
   },
   {
     "country": "Tonga",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Trinidad and Tobago",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Tunisia",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Turkey",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Turkmenistan",
@@ -737,7 +733,7 @@
   },
   {
     "country": "Tuvalu",
-    "requirement": "visa on arrival/30 days"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Uganda",
@@ -745,39 +741,43 @@
   },
   {
     "country": "Ukraine",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "United Arab Emirates",
-    "requirement": "eVisa"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "United Kingdom",
-    "requirement": "visa required"
+    "requirement": "visa-free/180 days"
   },
   {
     "country": "United States of America",
-    "requirement": "visa required"
+    "requirement": "eTA/90 days"
   },
   {
     "country": "Uruguay",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Uzbekistan",
-    "requirement": "eVisa/30 days"
+    "requirement": "visa-free/30 days"
   },
   {
     "country": "Vanuatu",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
   },
   {
     "country": "Vatican City",
-    "requirement": "visa required"
+    "requirement": "visa-free"
   },
   {
     "country": "Venezuela",
-    "requirement": "visa required"
+    "requirement": "visa-free/90 days"
+  },
+  {
+    "country": "Viet Nam",
+    "requirement": "visa-free/15 days"
   },
   {
     "country": "Yemen",
@@ -789,6 +789,6 @@
   },
   {
     "country": "Zimbabwe",
-    "requirement": "eVisa"
+    "requirement": "visa on arrival/90 days"
   }
 ]

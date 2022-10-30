@@ -8,14 +8,14 @@
     "status": "FINISHED",
     "date": "2011-12-18",
     "time": "15:30",
-    "stadium": "Tây Ninh",
+    "stadium": "T\u00e2y Ninh",
     "homeId": "TNI",
-    "homeTeam": "XM Fico - YTL Tây Ninh",
+    "homeTeam": "XM Fico - YTL T\u00e2y Ninh",
     "homeScore": "0",
     "awayScore": "0",
     "awayId": "NIB",
-    "awayTeam": "XM The Vissai Ninh Bình",
-    "note": "XM The Vissai Ninh Bình"
+    "awayTeam": "XM The Vissai Ninh B\u00ecnh",
+    "note": "XM The Vissai Ninh B\u00ecnh"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/16-DON-",
@@ -26,14 +26,14 @@
     "status": "FINISHED",
     "date": "2011-12-18",
     "time": "15:30",
-    "stadium": "Đồng Nai",
+    "stadium": "\u0110\u1ed3ng Nai",
     "homeId": "DON",
-    "homeTeam": "Đồng Nai",
+    "homeTeam": "\u0110\u1ed3ng Nai",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "",
-    "awayTeam": "Khatoco Khánh Hòa",
-    "note": "Khatoco Khánh Hòa"
+    "awayTeam": "Khatoco Kh\u00e1nh H\u00f2a",
+    "note": "Khatoco Kh\u00e1nh H\u00f2a"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/16-ANGI-BIDI",
@@ -44,14 +44,14 @@
     "status": "FINISHED",
     "date": "2011-12-18",
     "time": "15:30",
-    "stadium": "Kiên Giang",
+    "stadium": "Ki\u00ean Giang",
     "homeId": "ANGI",
     "homeTeam": "An Giang",
     "homeScore": "0",
     "awayScore": "2",
     "awayId": "BIDI",
-    "awayTeam": "Topenland Bình Định",
-    "note": "Topenland Bình Định"
+    "awayTeam": "Topenland B\u00ecnh \u0110\u1ecbnh",
+    "note": "Topenland B\u00ecnh \u0110\u1ecbnh"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/16-KLKG-QNA",
@@ -62,14 +62,14 @@
     "status": "FINISHED",
     "date": "2011-12-18",
     "time": "15:30",
-    "stadium": "Kiên Giang",
+    "stadium": "Ki\u00ean Giang",
     "homeId": "KLKG",
-    "homeTeam": "Kienlongbank Kiên Giang",
+    "homeTeam": "Kienlongbank Ki\u00ean Giang",
     "homeScore": "4",
     "awayScore": "0",
     "awayId": "QNA",
-    "awayTeam": "Quảng Nam",
-    "note": "Kienlongbank Kiên Giang"
+    "awayTeam": "Qu\u1ea3ng Nam",
+    "note": "Kienlongbank Ki\u00ean Giang"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/16-CAT-QNI",
@@ -80,14 +80,14 @@
     "status": "FINISHED",
     "date": "2011-12-18",
     "time": "17:00",
-    "stadium": "Cần Thơ",
+    "stadium": "C\u1ea7n Th\u01a1",
     "homeId": "CAT",
-    "homeTeam": "Cần Thơ",
+    "homeTeam": "C\u1ea7n Th\u01a1",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "QNI",
-    "awayTeam": "Than Quảng Ninh",
-    "note": "Cần Thơ"
+    "awayTeam": "Than Qu\u1ea3ng Ninh",
+    "note": "C\u1ea7n Th\u01a1"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/16-HCM-HAP",
@@ -98,14 +98,14 @@
     "status": "FINISHED",
     "date": "2011-12-18",
     "time": "17:00",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "HCM",
-    "homeTeam": "TP Hồ Chí Minh",
+    "homeTeam": "TP H\u1ed3 Ch\u00ed Minh",
     "homeScore": "1",
     "awayScore": "3",
     "awayId": "HAP",
-    "awayTeam": "Hải Phòng",
-    "note": "Hải Phòng"
+    "awayTeam": "H\u1ea3i Ph\u00f2ng",
+    "note": "H\u1ea3i Ph\u00f2ng"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/16-BIDU-LAD",
@@ -116,14 +116,14 @@
     "status": "FINISHED",
     "date": "2011-12-18",
     "time": "17:00",
-    "stadium": "Bình Dương",
+    "stadium": "B\u00ecnh D\u01b0\u01a1ng",
     "homeId": "BIDU",
-    "homeTeam": "Becamex Bình Dương",
+    "homeTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "homeScore": "2",
     "awayScore": "2",
     "awayId": "LAD",
-    "awayTeam": "XSKT Lâm Đồng",
-    "note": "XSKT Lâm Đồng"
+    "awayTeam": "XSKT L\u00e2m \u0110\u1ed3ng",
+    "note": "XSKT L\u00e2m \u0110\u1ed3ng"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/16-LAN-DAN",
@@ -140,8 +140,8 @@
     "homeScore": "1",
     "awayScore": "3",
     "awayId": "DAN",
-    "awayTeam": "SHB Đà Nẵng",
-    "note": "SHB Đà Nẵng"
+    "awayTeam": "SHB \u0110\u00e0 N\u1eb5ng",
+    "note": "SHB \u0110\u00e0 N\u1eb5ng"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-XTSG-",
@@ -152,14 +152,14 @@
     "status": "FINISHED",
     "date": "2011-12-24",
     "time": "16:10",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "XTSG",
-    "homeTeam": "Xuân Thành Sài Gòn",
+    "homeTeam": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n",
     "homeScore": "3",
     "awayScore": "2",
     "awayId": "",
-    "awayTeam": "Khatoco Khánh Hòa",
-    "note": "Xuân Thành Sài Gòn"
+    "awayTeam": "Khatoco Kh\u00e1nh H\u00f2a",
+    "note": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-LAD-DAN",
@@ -172,12 +172,12 @@
     "time": "14:45",
     "stadium": "Lam Vien",
     "homeId": "LAD",
-    "homeTeam": "XSKT Lâm Đồng",
+    "homeTeam": "XSKT L\u00e2m \u0110\u1ed3ng",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "DAN",
-    "awayTeam": "SHB Đà Nẵng",
-    "note": "SHB Đà Nẵng"
+    "awayTeam": "SHB \u0110\u00e0 N\u1eb5ng",
+    "note": "SHB \u0110\u00e0 N\u1eb5ng"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-KLKG-GLA",
@@ -188,14 +188,14 @@
     "status": "FINISHED",
     "date": "2011-12-25",
     "time": "15:30",
-    "stadium": "Kiên Giang",
+    "stadium": "Ki\u00ean Giang",
     "homeId": "KLKG",
-    "homeTeam": "Kienlongbank Kiên Giang",
+    "homeTeam": "Kienlongbank Ki\u00ean Giang",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "GLA",
-    "awayTeam": "Hoàng Anh Gia Lai",
-    "note": "Kienlongbank Kiên Giang"
+    "awayTeam": "Ho\u00e0ng Anh Gia Lai",
+    "note": "Kienlongbank Ki\u00ean Giang"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-NAN-DOT",
@@ -208,12 +208,12 @@
     "time": "16:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "DOT",
-    "awayTeam": "Đồng Tháp",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "\u0110\u1ed3ng Th\u00e1p",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-HAN-HAP",
@@ -224,14 +224,14 @@
     "status": "FINISHED",
     "date": "2011-12-25",
     "time": "16:10",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "HAN",
-    "homeTeam": "Hà Nội",
+    "homeTeam": "H\u00e0 N\u1ed9i",
     "homeScore": "2",
     "awayScore": "0",
     "awayId": "HAP",
-    "awayTeam": "Hải Phòng",
-    "note": "Hà Nội"
+    "awayTeam": "H\u1ea3i Ph\u00f2ng",
+    "note": "H\u00e0 N\u1ed9i"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-NIB-BDHN",
@@ -242,14 +242,14 @@
     "status": "FINISHED",
     "date": "2011-12-25",
     "time": "16:30",
-    "stadium": "Ninh Bình",
+    "stadium": "Ninh B\u00ecnh",
     "homeId": "NIB",
-    "homeTeam": "XM The Vissai Ninh Bình",
+    "homeTeam": "XM The Vissai Ninh B\u00ecnh",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "BDHN",
-    "awayTeam": "Bóng Đá Hà Nội",
-    "note": "XM The Vissai Ninh Bình"
+    "awayTeam": "B\u00f3ng \u0110\u00e1 H\u00e0 N\u1ed9i",
+    "note": "XM The Vissai Ninh B\u00ecnh"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-CAT-THH",
@@ -260,14 +260,14 @@
     "status": "FINISHED",
     "date": "2011-12-25",
     "time": "16:30",
-    "stadium": "Cần Thơ",
+    "stadium": "C\u1ea7n Th\u01a1",
     "homeId": "CAT",
-    "homeTeam": "Cần Thơ",
+    "homeTeam": "C\u1ea7n Th\u01a1",
     "homeScore": "1",
     "awayScore": "3",
     "awayId": "THH",
-    "awayTeam": "Đông Á Thanh Hóa",
-    "note": "Đông Á Thanh Hóa"
+    "awayTeam": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a",
+    "note": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a"
   },
   {
     "fixtureId": "TIER_CUP-2012-1/8-NVSG-BIDI",
@@ -278,14 +278,14 @@
     "status": "FINISHED",
     "date": "2011-12-25",
     "time": "17:00",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "NVSG",
-    "homeTeam": "Navibank Sài Gòn",
+    "homeTeam": "Navibank S\u00e0i G\u00f2n",
     "homeScore": "3",
     "awayScore": "4",
     "awayId": "BIDI",
-    "awayTeam": "Topenland Bình Định",
-    "note": "Topenland Bình Định"
+    "awayTeam": "Topenland B\u00ecnh \u0110\u1ecbnh",
+    "note": "Topenland B\u00ecnh \u0110\u1ecbnh"
   },
   {
     "fixtureId": "TIER_CUP-2012-quarterfinal-NAN-NIB",
@@ -298,12 +298,12 @@
     "time": "16:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "3",
     "awayScore": "3",
     "awayId": "NIB",
-    "awayTeam": "XM The Vissai Ninh Bình",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "XM The Vissai Ninh B\u00ecnh",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   },
   {
     "fixtureId": "TIER_CUP-2012-quarterfinal-BIDI-HAN",
@@ -314,14 +314,14 @@
     "status": "FINISHED",
     "date": "2012-01-29",
     "time": "16:10",
-    "stadium": "Quy Nhơn",
+    "stadium": "Quy Nh\u01a1n",
     "homeId": "BIDI",
-    "homeTeam": "Topenland Bình Định",
+    "homeTeam": "Topenland B\u00ecnh \u0110\u1ecbnh",
     "homeScore": "1",
     "awayScore": "3",
     "awayId": "HAN",
-    "awayTeam": "Hà Nội",
-    "note": "Hà Nội"
+    "awayTeam": "H\u00e0 N\u1ed9i",
+    "note": "H\u00e0 N\u1ed9i"
   },
   {
     "fixtureId": "TIER_CUP-2012-quarterfinal-DAN-KLKG",
@@ -332,14 +332,14 @@
     "status": "FINISHED",
     "date": "2012-01-29",
     "time": "16:10",
-    "stadium": "Hòa Xuân",
+    "stadium": "H\u00f2a Xu\u00e2n",
     "homeId": "DAN",
-    "homeTeam": "SHB Đà Nẵng",
+    "homeTeam": "SHB \u0110\u00e0 N\u1eb5ng",
     "homeScore": "3",
     "awayScore": "0",
     "awayId": "KLKG",
-    "awayTeam": "Kienlongbank Kiên Giang",
-    "note": "SHB Đà Nẵng"
+    "awayTeam": "Kienlongbank Ki\u00ean Giang",
+    "note": "SHB \u0110\u00e0 N\u1eb5ng"
   },
   {
     "fixtureId": "TIER_CUP-2012-quarterfinal-XTSG-THH",
@@ -350,14 +350,14 @@
     "status": "FINISHED",
     "date": "2012-01-29",
     "time": "16:30",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "XTSG",
-    "homeTeam": "Xuân Thành Sài Gòn",
+    "homeTeam": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n",
     "homeScore": "3",
     "awayScore": "1",
     "awayId": "THH",
-    "awayTeam": "Đông Á Thanh Hóa",
-    "note": "Xuân Thành Sài Gòn"
+    "awayTeam": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a",
+    "note": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n"
   },
   {
     "fixtureId": "TIER_CUP-2012-semifinal-HAN-DAN",
@@ -368,14 +368,14 @@
     "status": "FINISHED",
     "date": "2012-08-25",
     "time": "17:00",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "HAN",
-    "homeTeam": "Hà Nội",
+    "homeTeam": "H\u00e0 N\u1ed9i",
     "homeScore": "1",
     "awayScore": "0",
     "awayId": "DAN",
-    "awayTeam": "SHB Đà Nẵng",
-    "note": "Hà Nội"
+    "awayTeam": "SHB \u0110\u00e0 N\u1eb5ng",
+    "note": "H\u00e0 N\u1ed9i"
   },
   {
     "fixtureId": "TIER_CUP-2012-semifinal-NAN-XTSG",
@@ -388,12 +388,12 @@
     "time": "18:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "1",
     "awayScore": "3",
     "awayId": "XTSG",
-    "awayTeam": "Xuân Thành Sài Gòn",
-    "note": "Xuân Thành Sài Gòn"
+    "awayTeam": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n",
+    "note": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n"
   },
   {
     "fixtureId": "TIER_CUP-2012-final-XTSG-HAN",
@@ -404,13 +404,13 @@
     "status": "FINISHED",
     "date": "2012-08-29",
     "time": "17:00",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "XTSG",
-    "homeTeam": "Xuân Thành Sài Gòn",
+    "homeTeam": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n",
     "homeScore": "4",
     "awayScore": "1",
     "awayId": "HAN",
-    "awayTeam": "Hà Nội",
-    "note": "Xuân Thành Sài Gòn"
+    "awayTeam": "H\u00e0 N\u1ed9i",
+    "note": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n"
   }
 ]

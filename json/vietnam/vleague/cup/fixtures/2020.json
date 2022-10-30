@@ -8,14 +8,14 @@
     "status": "FINISHED",
     "date": "2020-05-23",
     "time": "18:00",
-    "stadium": "Thiên Trường",
+    "stadium": "Thi\u00ean Tr\u01b0\u1eddng",
     "homeId": "NAD",
-    "homeTeam": "Nam Định",
+    "homeTeam": "Nam \u0110\u1ecbnh",
     "homeScore": "2",
     "awayScore": "0",
     "awayId": "GLA",
-    "awayTeam": "Hoàng Anh Gia Lai",
-    "note": "Nam Định"
+    "awayTeam": "Ho\u00e0ng Anh Gia Lai",
+    "note": "Nam \u0110\u1ecbnh"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/16-ANGI-LAN",
@@ -26,7 +26,7 @@
     "status": "FINISHED",
     "date": "2020-05-24",
     "time": "15:30",
-    "stadium": "Kiên Giang",
+    "stadium": "Ki\u00ean Giang",
     "homeId": "ANGI",
     "homeTeam": "An Giang",
     "homeScore": "2",
@@ -44,14 +44,14 @@
     "status": "FINISHED",
     "date": "2020-05-24",
     "time": "16:00",
-    "stadium": "Tự Do",
+    "stadium": "T\u1ef1 Do",
     "homeId": "HUE",
-    "homeTeam": "Huế",
+    "homeTeam": "Hu\u1ebf",
     "homeScore": "0",
     "awayScore": "1",
     "awayId": "DAN",
-    "awayTeam": "SHB Đà Nẵng",
-    "note": "SHB Đà Nẵng"
+    "awayTeam": "SHB \u0110\u00e0 N\u1eb5ng",
+    "note": "SHB \u0110\u00e0 N\u1eb5ng"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/16-NAN-BIDI",
@@ -64,12 +64,12 @@
     "time": "17:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "1",
     "awayScore": "0",
     "awayId": "BIDI",
-    "awayTeam": "Topenland Bình Định",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "Topenland B\u00ecnh \u0110\u1ecbnh",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/16-BRVT-SGO",
@@ -80,14 +80,14 @@
     "status": "FINISHED",
     "date": "2020-05-24",
     "time": "17:00",
-    "stadium": "Bà Rịa",
+    "stadium": "B\u00e0 R\u1ecba",
     "homeId": "BRVT",
-    "homeTeam": "Bà Rịa-Vũng Tàu",
+    "homeTeam": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "SGO",
-    "awayTeam": "Sài Gòn",
-    "note": "Bà Rịa-Vũng Tàu"
+    "awayTeam": "S\u00e0i G\u00f2n",
+    "note": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/16-DOT-HAP",
@@ -98,14 +98,14 @@
     "status": "FINISHED",
     "date": "2020-05-25",
     "time": "15:30",
-    "stadium": "Đồng Tháp",
+    "stadium": "\u0110\u1ed3ng Th\u00e1p",
     "homeId": "DOT",
-    "homeTeam": "Đồng Tháp",
+    "homeTeam": "\u0110\u1ed3ng Th\u00e1p",
     "homeScore": "3",
     "awayScore": "1",
     "awayId": "HAP",
-    "awayTeam": "Hải Phòng",
-    "note": "Đồng Tháp"
+    "awayTeam": "H\u1ea3i Ph\u00f2ng",
+    "note": "\u0110\u1ed3ng Th\u00e1p"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/16-PHI-THH",
@@ -116,14 +116,14 @@
     "status": "FINISHED",
     "date": "2020-05-25",
     "time": "17:00",
-    "stadium": "TTĐT trẻ PVF",
+    "stadium": "TT\u0110T tr\u1ebb PVF",
     "homeId": "PHI",
-    "homeTeam": "Phố Hiến",
+    "homeTeam": "Ph\u1ed1 Hi\u1ebfn",
     "homeScore": "1",
     "awayScore": "2",
     "awayId": "THH",
-    "awayTeam": "Đông Á Thanh Hóa",
-    "note": "Đông Á Thanh Hóa"
+    "awayTeam": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a",
+    "note": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/16-KHH-VTL",
@@ -136,7 +136,7 @@
     "time": "17:00",
     "stadium": "19/8 Nha Trang",
     "homeId": "KHH",
-    "homeTeam": "Khánh Hòa",
+    "homeTeam": "Kh\u00e1nh H\u00f2a",
     "homeScore": "0",
     "awayScore": "1",
     "awayId": "VTL",
@@ -152,14 +152,14 @@
     "status": "FINISHED",
     "date": "2020-05-25",
     "time": "17:00",
-    "stadium": "Bình Phước",
+    "stadium": "B\u00ecnh Ph\u01b0\u1edbc",
     "homeId": "BPH",
-    "homeTeam": "Bình Phước",
+    "homeTeam": "B\u00ecnh Ph\u01b0\u1edbc",
     "homeScore": "2",
     "awayScore": "0",
     "awayId": "DAL",
-    "awayTeam": "Đắk Lắk",
-    "note": "Bình Phước"
+    "awayTeam": "\u0110\u1eafk L\u1eafk",
+    "note": "B\u00ecnh Ph\u01b0\u1edbc"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/16-HAT-TNI",
@@ -170,14 +170,14 @@
     "status": "FINISHED",
     "date": "2020-05-25",
     "time": "18:00",
-    "stadium": "Hà Tĩnh",
+    "stadium": "H\u00e0 T\u0129nh",
     "homeId": "HAT",
-    "homeTeam": "Hồng Lĩnh Hà Tĩnh",
+    "homeTeam": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "TNI",
-    "awayTeam": "XM Fico - YTL Tây Ninh",
-    "note": "Hồng Lĩnh Hà Tĩnh"
+    "awayTeam": "XM Fico - YTL T\u00e2y Ninh",
+    "note": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/8-ANGI-VTL",
@@ -188,7 +188,7 @@
     "status": "FINISHED",
     "date": "2020-05-30",
     "time": "15:30",
-    "stadium": "Kiên Giang",
+    "stadium": "Ki\u00ean Giang",
     "homeId": "ANGI",
     "homeTeam": "An Giang",
     "homeScore": "0",
@@ -208,12 +208,12 @@
     "time": "17:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "BRVT",
-    "awayTeam": "Bà Rịa-Vũng Tàu",
-    "note": "Bà Rịa-Vũng Tàu"
+    "awayTeam": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
+    "note": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/8-QNI-NAD",
@@ -224,14 +224,14 @@
     "status": "FINISHED",
     "date": "2020-05-30",
     "time": "18:00",
-    "stadium": "Cẩm Phả",
+    "stadium": "C\u1ea9m Ph\u1ea3",
     "homeId": "QNI",
-    "homeTeam": "Than Quảng Ninh",
+    "homeTeam": "Than Qu\u1ea3ng Ninh",
     "homeScore": "2",
     "awayScore": "2",
     "awayId": "NAD",
-    "awayTeam": "Nam Định",
-    "note": "Than Quảng Ninh"
+    "awayTeam": "Nam \u0110\u1ecbnh",
+    "note": "Than Qu\u1ea3ng Ninh"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/8-HCM-DAN",
@@ -242,14 +242,14 @@
     "status": "FINISHED",
     "date": "2020-05-30",
     "time": "19:00",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "HCM",
-    "homeTeam": "TP Hồ Chí Minh",
+    "homeTeam": "TP H\u1ed3 Ch\u00ed Minh",
     "homeScore": "0",
     "awayScore": "0",
     "awayId": "DAN",
-    "awayTeam": "SHB Đà Nẵng",
-    "note": "TP Hồ Chí Minh"
+    "awayTeam": "SHB \u0110\u00e0 N\u1eb5ng",
+    "note": "TP H\u1ed3 Ch\u00ed Minh"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/8-BIDU-THH",
@@ -260,14 +260,14 @@
     "status": "FINISHED",
     "date": "2020-05-31",
     "time": "17:00",
-    "stadium": "Bình Dương",
+    "stadium": "B\u00ecnh D\u01b0\u01a1ng",
     "homeId": "BIDU",
-    "homeTeam": "Becamex Bình Dương",
+    "homeTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "homeScore": "1",
     "awayScore": "0",
     "awayId": "THH",
-    "awayTeam": "Đông Á Thanh Hóa",
-    "note": "Becamex Bình Dương"
+    "awayTeam": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a",
+    "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/8-CAT-BPH",
@@ -278,14 +278,14 @@
     "status": "FINISHED",
     "date": "2020-05-31",
     "time": "17:00",
-    "stadium": "Cần Thơ",
+    "stadium": "C\u1ea7n Th\u01a1",
     "homeId": "CAT",
-    "homeTeam": "Cần Thơ",
+    "homeTeam": "C\u1ea7n Th\u01a1",
     "homeScore": "1",
     "awayScore": "0",
     "awayId": "BPH",
-    "awayTeam": "Bình Phước",
-    "note": "Cần Thơ"
+    "awayTeam": "B\u00ecnh Ph\u01b0\u1edbc",
+    "note": "C\u1ea7n Th\u01a1"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/8-QNA-HAT",
@@ -296,14 +296,14 @@
     "status": "FINISHED",
     "date": "2020-05-31",
     "time": "17:00",
-    "stadium": "Quảng Nam",
+    "stadium": "Qu\u1ea3ng Nam",
     "homeId": "QNA",
-    "homeTeam": "Quảng Nam",
+    "homeTeam": "Qu\u1ea3ng Nam",
     "homeScore": "0",
     "awayScore": "1",
     "awayId": "HAT",
-    "awayTeam": "Hồng Lĩnh Hà Tĩnh",
-    "note": "Hồng Lĩnh Hà Tĩnh"
+    "awayTeam": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh",
+    "note": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh"
   },
   {
     "fixtureId": "TIER_CUP-2020-1/8-HAN-DOT",
@@ -314,14 +314,14 @@
     "status": "FINISHED",
     "date": "2020-05-31",
     "time": "19:00",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "HAN",
-    "homeTeam": "Hà Nội",
+    "homeTeam": "H\u00e0 N\u1ed9i",
     "homeScore": "3",
     "awayScore": "0",
     "awayId": "DOT",
-    "awayTeam": "Đồng Tháp",
-    "note": "Hà Nội"
+    "awayTeam": "\u0110\u1ed3ng Th\u00e1p",
+    "note": "H\u00e0 N\u1ed9i"
   },
   {
     "fixtureId": "TIER_CUP-2020-quarterfinal-BRVT-HCM",
@@ -332,14 +332,14 @@
     "status": "FINISHED",
     "date": "2020-09-11",
     "time": "17:00",
-    "stadium": "Bà Rịa",
+    "stadium": "B\u00e0 R\u1ecba",
     "homeId": "BRVT",
-    "homeTeam": "Bà Rịa-Vũng Tàu",
+    "homeTeam": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u",
     "homeScore": "2",
     "awayScore": "3",
     "awayId": "HCM",
-    "awayTeam": "TP Hồ Chí Minh",
-    "note": "TP Hồ Chí Minh"
+    "awayTeam": "TP H\u1ed3 Ch\u00ed Minh",
+    "note": "TP H\u1ed3 Ch\u00ed Minh"
   },
   {
     "fixtureId": "TIER_CUP-2020-quarterfinal-HAN-CAT",
@@ -350,14 +350,14 @@
     "status": "FINISHED",
     "date": "2020-09-11",
     "time": "19:15",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "HAN",
-    "homeTeam": "Hà Nội",
+    "homeTeam": "H\u00e0 N\u1ed9i",
     "homeScore": "7",
     "awayScore": "0",
     "awayId": "CAT",
-    "awayTeam": "Cần Thơ",
-    "note": "Hà Nội"
+    "awayTeam": "C\u1ea7n Th\u01a1",
+    "note": "H\u00e0 N\u1ed9i"
   },
   {
     "fixtureId": "TIER_CUP-2020-quarterfinal-HAT-QNI",
@@ -368,14 +368,14 @@
     "status": "FINISHED",
     "date": "2020-09-12",
     "time": "18:00",
-    "stadium": "Hà Tĩnh",
+    "stadium": "H\u00e0 T\u0129nh",
     "homeId": "HAT",
-    "homeTeam": "Hồng Lĩnh Hà Tĩnh",
+    "homeTeam": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh",
     "homeScore": "2",
     "awayScore": "3",
     "awayId": "QNI",
-    "awayTeam": "Than Quảng Ninh",
-    "note": "Than Quảng Ninh"
+    "awayTeam": "Than Qu\u1ea3ng Ninh",
+    "note": "Than Qu\u1ea3ng Ninh"
   },
   {
     "fixtureId": "TIER_CUP-2020-quarterfinal-VTL-BIDU",
@@ -386,13 +386,13 @@
     "status": "FINISHED",
     "date": "2020-09-12",
     "time": "19:15",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "VTL",
     "homeTeam": "Viettel",
     "homeScore": "4",
     "awayScore": "1",
     "awayId": "BIDU",
-    "awayTeam": "Becamex Bình Dương",
+    "awayTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "note": "Viettel"
   },
   {
@@ -404,9 +404,9 @@
     "status": "FINISHED",
     "date": "2020-09-16",
     "time": "18:00",
-    "stadium": "Cẩm Phả",
+    "stadium": "C\u1ea9m Ph\u1ea3",
     "homeId": "QNI",
-    "homeTeam": "Than Quảng Ninh",
+    "homeTeam": "Than Qu\u1ea3ng Ninh",
     "homeScore": "1",
     "awayScore": "2",
     "awayId": "VTL",
@@ -422,14 +422,14 @@
     "status": "FINISHED",
     "date": "2020-09-16",
     "time": "19:15",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "HAN",
-    "homeTeam": "Hà Nội",
+    "homeTeam": "H\u00e0 N\u1ed9i",
     "homeScore": "5",
     "awayScore": "1",
     "awayId": "HCM",
-    "awayTeam": "TP Hồ Chí Minh",
-    "note": "Hà Nội"
+    "awayTeam": "TP H\u1ed3 Ch\u00ed Minh",
+    "note": "H\u00e0 N\u1ed9i"
   },
   {
     "fixtureId": "TIER_CUP-2020-final-VTL-HAN",
@@ -440,13 +440,13 @@
     "status": "FINISHED",
     "date": "2020-09-20",
     "time": "18:00",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "VTL",
     "homeTeam": "Viettel",
     "homeScore": "1",
     "awayScore": "2",
     "awayId": "HAN",
-    "awayTeam": "Hà Nội",
-    "note": "Hà Nội"
+    "awayTeam": "H\u00e0 N\u1ed9i",
+    "note": "H\u00e0 N\u1ed9i"
   }
 ]

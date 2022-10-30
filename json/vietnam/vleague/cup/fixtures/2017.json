@@ -8,14 +8,14 @@
     "status": "FINISHED",
     "date": "2017-02-04",
     "time": "15:00",
-    "stadium": "Bình Phước",
+    "stadium": "B\u00ecnh Ph\u01b0\u1edbc",
     "homeId": "BPH",
-    "homeTeam": "Bình Phước",
+    "homeTeam": "B\u00ecnh Ph\u01b0\u1edbc",
     "homeScore": "2",
     "awayScore": "0",
     "awayId": "DOT",
-    "awayTeam": "Đồng Tháp",
-    "note": "Bình Phước"
+    "awayTeam": "\u0110\u1ed3ng Th\u00e1p",
+    "note": "B\u00ecnh Ph\u01b0\u1edbc"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/16-NAN-DAL",
@@ -28,12 +28,12 @@
     "time": "16:30",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "3",
     "awayScore": "1",
     "awayId": "DAL",
-    "awayTeam": "Đắk Lắk",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "\u0110\u1eafk L\u1eafk",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/16-DAN-TNI",
@@ -44,14 +44,14 @@
     "status": "FINISHED",
     "date": "2017-02-04",
     "time": "17:00",
-    "stadium": "Hòa Xuân",
+    "stadium": "H\u00f2a Xu\u00e2n",
     "homeId": "DAN",
-    "homeTeam": "SHB Đà Nẵng",
+    "homeTeam": "SHB \u0110\u00e0 N\u1eb5ng",
     "homeScore": "6",
     "awayScore": "1",
     "awayId": "TNI",
-    "awayTeam": "XM Fico - YTL Tây Ninh",
-    "note": "SHB Đà Nẵng"
+    "awayTeam": "XM Fico - YTL T\u00e2y Ninh",
+    "note": "SHB \u0110\u00e0 N\u1eb5ng"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/16-VTL-HUE",
@@ -62,13 +62,13 @@
     "status": "FINISHED",
     "date": "2017-02-05",
     "time": "17:00",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "VTL",
     "homeTeam": "Viettel",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "HUE",
-    "awayTeam": "Huế",
+    "awayTeam": "Hu\u1ebf",
     "note": "Viettel"
   },
   {
@@ -80,14 +80,14 @@
     "status": "FINISHED",
     "date": "2017-02-05",
     "time": "17:00",
-    "stadium": "Lạch Tray",
+    "stadium": "L\u1ea1ch Tray",
     "homeId": "HAP",
-    "homeTeam": "Hải Phòng",
+    "homeTeam": "H\u1ea3i Ph\u00f2ng",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "NAD",
-    "awayTeam": "Nam Định",
-    "note": "Hải Phòng"
+    "awayTeam": "Nam \u0110\u1ecbnh",
+    "note": "H\u1ea3i Ph\u00f2ng"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-DAN-THH",
@@ -98,14 +98,14 @@
     "status": "FINISHED",
     "date": "2017-06-03",
     "time": "17:00",
-    "stadium": "Hòa Xuân",
+    "stadium": "H\u00f2a Xu\u00e2n",
     "homeId": "DAN",
-    "homeTeam": "SHB Đà Nẵng",
+    "homeTeam": "SHB \u0110\u00e0 N\u1eb5ng",
     "homeScore": "5",
     "awayScore": "1",
     "awayId": "THH",
-    "awayTeam": "Đông Á Thanh Hóa",
-    "note": "SHB Đà Nẵng"
+    "awayTeam": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a",
+    "note": "SHB \u0110\u00e0 N\u1eb5ng"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-KHH-HCM",
@@ -118,12 +118,12 @@
     "time": "17:00",
     "stadium": "19/8 Nha Trang",
     "homeId": "KHH",
-    "homeTeam": "Khánh Hòa",
+    "homeTeam": "Kh\u00e1nh H\u00f2a",
     "homeScore": "0",
     "awayScore": "0",
     "awayId": "HCM",
-    "awayTeam": "TP Hồ Chí Minh",
-    "note": "TP Hồ Chí Minh"
+    "awayTeam": "TP H\u1ed3 Ch\u00ed Minh",
+    "note": "TP H\u1ed3 Ch\u00ed Minh"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-LAN-CAT",
@@ -140,8 +140,8 @@
     "homeScore": "0",
     "awayScore": "2",
     "awayId": "CAT",
-    "awayTeam": "Cần Thơ",
-    "note": "Cần Thơ"
+    "awayTeam": "C\u1ea7n Th\u01a1",
+    "note": "C\u1ea7n Th\u01a1"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-SGO-GLA",
@@ -152,14 +152,14 @@
     "status": "FINISHED",
     "date": "2017-06-03",
     "time": "18:00",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "SGO",
-    "homeTeam": "Sài Gòn",
+    "homeTeam": "S\u00e0i G\u00f2n",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "GLA",
-    "awayTeam": "Hoàng Anh Gia Lai",
-    "note": "Sài Gòn"
+    "awayTeam": "Ho\u00e0ng Anh Gia Lai",
+    "note": "S\u00e0i G\u00f2n"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-QNA-HAP",
@@ -170,14 +170,14 @@
     "status": "FINISHED",
     "date": "2017-06-04",
     "time": "17:00",
-    "stadium": "Quảng Nam",
+    "stadium": "Qu\u1ea3ng Nam",
     "homeId": "QNA",
-    "homeTeam": "Quảng Nam",
+    "homeTeam": "Qu\u1ea3ng Nam",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "HAP",
-    "awayTeam": "Hải Phòng",
-    "note": "Quảng Nam"
+    "awayTeam": "H\u1ea3i Ph\u00f2ng",
+    "note": "Qu\u1ea3ng Nam"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-QNI-BPH",
@@ -188,14 +188,14 @@
     "status": "FINISHED",
     "date": "2017-06-04",
     "time": "18:00",
-    "stadium": "Cẩm Phả",
+    "stadium": "C\u1ea9m Ph\u1ea3",
     "homeId": "QNI",
-    "homeTeam": "Than Quảng Ninh",
+    "homeTeam": "Than Qu\u1ea3ng Ninh",
     "homeScore": "2",
     "awayScore": "0",
     "awayId": "BPH",
-    "awayTeam": "Bình Phước",
-    "note": "Than Quảng Ninh"
+    "awayTeam": "B\u00ecnh Ph\u01b0\u1edbc",
+    "note": "Than Qu\u1ea3ng Ninh"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-BIDU-VTL",
@@ -206,14 +206,14 @@
     "status": "FINISHED",
     "date": "2017-06-04",
     "time": "18:00",
-    "stadium": "Bình Dương",
+    "stadium": "B\u00ecnh D\u01b0\u01a1ng",
     "homeId": "BIDU",
-    "homeTeam": "Becamex Bình Dương",
+    "homeTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "homeScore": "3",
     "awayScore": "2",
     "awayId": "VTL",
     "awayTeam": "Viettel",
-    "note": "Becamex Bình Dương"
+    "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
   },
   {
     "fixtureId": "TIER_CUP-2017-1/8-HAN-NAN",
@@ -224,14 +224,14 @@
     "status": "FINISHED",
     "date": "2017-06-04",
     "time": "18:30",
-    "stadium": "Hàng Đẫy",
+    "stadium": "H\u00e0ng \u0110\u1eaby",
     "homeId": "HAN",
-    "homeTeam": "Hà Nội",
+    "homeTeam": "H\u00e0 N\u1ed9i",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "NAN",
-    "awayTeam": "Sông Lam Nghệ An",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   },
   {
     "fixtureId": "TIER_CUP-2017-quarterfinal-leg-1-NAN-HCM",
@@ -244,11 +244,11 @@
     "time": "17:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "3",
     "awayScore": "1",
     "awayId": "HCM",
-    "awayTeam": "TP Hồ Chí Minh",
+    "awayTeam": "TP H\u1ed3 Ch\u00ed Minh",
     "note": ""
   },
   {
@@ -260,13 +260,13 @@
     "status": "FINISHED",
     "date": "2017-06-16",
     "time": "17:00",
-    "stadium": "Cần Thơ",
+    "stadium": "C\u1ea7n Th\u01a1",
     "homeId": "CAT",
-    "homeTeam": "Cần Thơ",
+    "homeTeam": "C\u1ea7n Th\u01a1",
     "homeScore": "1",
     "awayScore": "3",
     "awayId": "QNA",
-    "awayTeam": "Quảng Nam",
+    "awayTeam": "Qu\u1ea3ng Nam",
     "note": ""
   },
   {
@@ -278,13 +278,13 @@
     "status": "FINISHED",
     "date": "2017-06-16",
     "time": "18:00",
-    "stadium": "Cẩm Phả",
+    "stadium": "C\u1ea9m Ph\u1ea3",
     "homeId": "QNI",
-    "homeTeam": "Than Quảng Ninh",
+    "homeTeam": "Than Qu\u1ea3ng Ninh",
     "homeScore": "0",
     "awayScore": "3",
     "awayId": "DAN",
-    "awayTeam": "SHB Đà Nẵng",
+    "awayTeam": "SHB \u0110\u00e0 N\u1eb5ng",
     "note": ""
   },
   {
@@ -296,13 +296,13 @@
     "status": "FINISHED",
     "date": "2017-06-16",
     "time": "18:00",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "SGO",
-    "homeTeam": "Sài Gòn",
+    "homeTeam": "S\u00e0i G\u00f2n",
     "homeScore": "2",
     "awayScore": "3",
     "awayId": "BIDU",
-    "awayTeam": "Becamex Bình Dương",
+    "awayTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "note": ""
   },
   {
@@ -314,14 +314,14 @@
     "status": "FINISHED",
     "date": "2017-06-20",
     "time": "17:00",
-    "stadium": "Hòa Xuân",
+    "stadium": "H\u00f2a Xu\u00e2n",
     "homeId": "DAN",
-    "homeTeam": "SHB Đà Nẵng",
+    "homeTeam": "SHB \u0110\u00e0 N\u1eb5ng",
     "homeScore": "1",
     "awayScore": "1",
     "awayId": "QNI",
-    "awayTeam": "Than Quảng Ninh",
-    "note": "SHB Đà Nẵng"
+    "awayTeam": "Than Qu\u1ea3ng Ninh",
+    "note": "SHB \u0110\u00e0 N\u1eb5ng"
   },
   {
     "fixtureId": "TIER_CUP-2017-quarterfinal-leg-2-QNA-CAT",
@@ -332,14 +332,14 @@
     "status": "FINISHED",
     "date": "2017-06-20",
     "time": "17:00",
-    "stadium": "Quảng Nam",
+    "stadium": "Qu\u1ea3ng Nam",
     "homeId": "QNA",
-    "homeTeam": "Quảng Nam",
+    "homeTeam": "Qu\u1ea3ng Nam",
     "homeScore": "3",
     "awayScore": "0",
     "awayId": "CAT",
-    "awayTeam": "Cần Thơ",
-    "note": "Quảng Nam"
+    "awayTeam": "C\u1ea7n Th\u01a1",
+    "note": "Qu\u1ea3ng Nam"
   },
   {
     "fixtureId": "TIER_CUP-2017-quarterfinal-leg-2-BIDU-SGO",
@@ -350,14 +350,14 @@
     "status": "FINISHED",
     "date": "2017-06-20",
     "time": "18:00",
-    "stadium": "Bình Dương",
+    "stadium": "B\u00ecnh D\u01b0\u01a1ng",
     "homeId": "BIDU",
-    "homeTeam": "Becamex Bình Dương",
+    "homeTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "SGO",
-    "awayTeam": "Sài Gòn",
-    "note": "Becamex Bình Dương"
+    "awayTeam": "S\u00e0i G\u00f2n",
+    "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
   },
   {
     "fixtureId": "TIER_CUP-2017-quarterfinal-leg-2-HCM-NAN",
@@ -368,14 +368,14 @@
     "status": "FINISHED",
     "date": "2017-06-20",
     "time": "18:00",
-    "stadium": "Thống Nhất",
+    "stadium": "Th\u1ed1ng Nh\u1ea5t",
     "homeId": "HCM",
-    "homeTeam": "TP Hồ Chí Minh",
+    "homeTeam": "TP H\u1ed3 Ch\u00ed Minh",
     "homeScore": "0",
     "awayScore": "4",
     "awayId": "NAN",
-    "awayTeam": "Sông Lam Nghệ An",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   },
   {
     "fixtureId": "TIER_CUP-2017-semifinal-leg-1-DAN-BIDU",
@@ -386,13 +386,13 @@
     "status": "FINISHED",
     "date": "2017-09-27",
     "time": "17:00",
-    "stadium": "Hòa Xuân",
+    "stadium": "H\u00f2a Xu\u00e2n",
     "homeId": "DAN",
-    "homeTeam": "SHB Đà Nẵng",
+    "homeTeam": "SHB \u0110\u00e0 N\u1eb5ng",
     "homeScore": "1",
     "awayScore": "3",
     "awayId": "BIDU",
-    "awayTeam": "Becamex Bình Dương",
+    "awayTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "note": ""
   },
   {
@@ -406,11 +406,11 @@
     "time": "17:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "4",
     "awayScore": "1",
     "awayId": "QNA",
-    "awayTeam": "Quảng Nam",
+    "awayTeam": "Qu\u1ea3ng Nam",
     "note": ""
   },
   {
@@ -422,14 +422,14 @@
     "status": "FINISHED",
     "date": "2017-10-06",
     "time": "17:00",
-    "stadium": "Bình Dương",
+    "stadium": "B\u00ecnh D\u01b0\u01a1ng",
     "homeId": "BIDU",
-    "homeTeam": "Becamex Bình Dương",
+    "homeTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "homeScore": "2",
     "awayScore": "1",
     "awayId": "DAN",
-    "awayTeam": "SHB Đà Nẵng",
-    "note": "Becamex Bình Dương"
+    "awayTeam": "SHB \u0110\u00e0 N\u1eb5ng",
+    "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
   },
   {
     "fixtureId": "TIER_CUP-2017-semifinal-leg-2-QNA-NAN",
@@ -440,14 +440,14 @@
     "status": "FINISHED",
     "date": "2017-10-06",
     "time": "17:00",
-    "stadium": "Quảng Nam",
+    "stadium": "Qu\u1ea3ng Nam",
     "homeId": "QNA",
-    "homeTeam": "Quảng Nam",
+    "homeTeam": "Qu\u1ea3ng Nam",
     "homeScore": "3",
     "awayScore": "3",
     "awayId": "NAN",
-    "awayTeam": "Sông Lam Nghệ An",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   },
   {
     "fixtureId": "TIER_CUP-2017-final-leg-1-BIDU-NAN",
@@ -458,13 +458,13 @@
     "status": "FINISHED",
     "date": "2017-11-09",
     "time": "17:00",
-    "stadium": "Bình Dương",
+    "stadium": "B\u00ecnh D\u01b0\u01a1ng",
     "homeId": "BIDU",
-    "homeTeam": "Becamex Bình Dương",
+    "homeTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
     "homeScore": "1",
     "awayScore": "2",
     "awayId": "NAN",
-    "awayTeam": "Sông Lam Nghệ An",
+    "awayTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "note": ""
   },
   {
@@ -478,11 +478,11 @@
     "time": "17:00",
     "stadium": "Vinh",
     "homeId": "NAN",
-    "homeTeam": "Sông Lam Nghệ An",
+    "homeTeam": "S\u00f4ng Lam Ngh\u1ec7 An",
     "homeScore": "5",
     "awayScore": "1",
     "awayId": "BIDU",
-    "awayTeam": "Becamex Bình Dương",
-    "note": "Sông Lam Nghệ An"
+    "awayTeam": "Becamex B\u00ecnh D\u01b0\u01a1ng",
+    "note": "S\u00f4ng Lam Ngh\u1ec7 An"
   }
 ]
