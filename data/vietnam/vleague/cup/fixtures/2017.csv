@@ -1,0 +1,28 @@
+fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+TIER_CUP-2017-1/16-BPH-DOT,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-04,15:00,Bình Phước,BPH,Bình Phước,2,0,DOT,Đồng Tháp,Bình Phước
+TIER_CUP-2017-1/16-NAN-DAL,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-04,16:30,Vinh,NAN,Sông Lam Nghệ An,3,1,DAL,Đắk Lắk,Sông Lam Nghệ An
+TIER_CUP-2017-1/16-DAN-TNI,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-04,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,6,1,TNI,XM Fico - YTL Tây Ninh,SHB Đà Nẵng
+TIER_CUP-2017-1/16-VTL-HUE,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-05,17:00,Hàng Đẫy,VTL,Viettel,1,1,HUE,Huế,Viettel
+TIER_CUP-2017-1/16-HAP-NAD,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-05,17:00,Lạch Tray,HAP,Hải Phòng,1,1,NAD,Nam Định,Hải Phòng
+TIER_CUP-2017-1/8-DAN-THH,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-03,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,5,1,THH,Đông Á Thanh Hóa,SHB Đà Nẵng
+TIER_CUP-2017-1/8-KHH-HCM,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-03,17:00,19/8 Nha Trang,KHH,Khánh Hòa,0,0,HCM,TP Hồ Chí Minh,TP Hồ Chí Minh
+TIER_CUP-2017-1/8-LAN-CAT,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-03,17:30,Long An,LAN,Long An,0,2,CAT,Cần Thơ,Cần Thơ
+TIER_CUP-2017-1/8-SGO-GLA,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-03,18:00,Thống Nhất,SGO,Sài Gòn,1,1,GLA,Hoàng Anh Gia Lai,Sài Gòn
+TIER_CUP-2017-1/8-QNA-HAP,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-04,17:00,Quảng Nam,QNA,Quảng Nam,2,1,HAP,Hải Phòng,Quảng Nam
+TIER_CUP-2017-1/8-QNI-BPH,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-04,18:00,Cẩm Phả,QNI,Than Quảng Ninh,2,0,BPH,Bình Phước,Than Quảng Ninh
+TIER_CUP-2017-1/8-BIDU-VTL,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-04,18:00,Bình Dương,BIDU,Becamex Bình Dương,3,2,VTL,Viettel,Becamex Bình Dương
+TIER_CUP-2017-1/8-HAN-NAN,National Cup,TIER_CUP,2017,1/8,FINISHED,2017-06-04,18:30,Hàng Đẫy,HAN,Hà Nội,1,1,NAN,Sông Lam Nghệ An,Sông Lam Nghệ An
+TIER_CUP-2017-quarterfinal-leg-1-NAN-HCM,National Cup,TIER_CUP,2017,quarterfinal-leg-1,FINISHED,2017-06-16,17:00,Vinh,NAN,Sông Lam Nghệ An,3,1,HCM,TP Hồ Chí Minh,
+TIER_CUP-2017-quarterfinal-leg-1-CAT-QNA,National Cup,TIER_CUP,2017,quarterfinal-leg-1,FINISHED,2017-06-16,17:00,Cần Thơ,CAT,Cần Thơ,1,3,QNA,Quảng Nam,
+TIER_CUP-2017-quarterfinal-leg-1-QNI-DAN,National Cup,TIER_CUP,2017,quarterfinal-leg-1,FINISHED,2017-06-16,18:00,Cẩm Phả,QNI,Than Quảng Ninh,0,3,DAN,SHB Đà Nẵng,
+TIER_CUP-2017-quarterfinal-leg-1-SGO-BIDU,National Cup,TIER_CUP,2017,quarterfinal-leg-1,FINISHED,2017-06-16,18:00,Thống Nhất,SGO,Sài Gòn,2,3,BIDU,Becamex Bình Dương,
+TIER_CUP-2017-quarterfinal-leg-2-DAN-QNI,National Cup,TIER_CUP,2017,quarterfinal-leg-2,FINISHED,2017-06-20,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,1,1,QNI,Than Quảng Ninh,SHB Đà Nẵng
+TIER_CUP-2017-quarterfinal-leg-2-QNA-CAT,National Cup,TIER_CUP,2017,quarterfinal-leg-2,FINISHED,2017-06-20,17:00,Quảng Nam,QNA,Quảng Nam,3,0,CAT,Cần Thơ,Quảng Nam
+TIER_CUP-2017-quarterfinal-leg-2-BIDU-SGO,National Cup,TIER_CUP,2017,quarterfinal-leg-2,FINISHED,2017-06-20,18:00,Bình Dương,BIDU,Becamex Bình Dương,2,1,SGO,Sài Gòn,Becamex Bình Dương
+TIER_CUP-2017-quarterfinal-leg-2-HCM-NAN,National Cup,TIER_CUP,2017,quarterfinal-leg-2,FINISHED,2017-06-20,18:00,Thống Nhất,HCM,TP Hồ Chí Minh,0,4,NAN,Sông Lam Nghệ An,Sông Lam Nghệ An
+TIER_CUP-2017-semifinal-leg-1-DAN-BIDU,National Cup,TIER_CUP,2017,semifinal-leg-1,FINISHED,2017-09-27,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,1,3,BIDU,Becamex Bình Dương,
+TIER_CUP-2017-semifinal-leg-1-NAN-QNA,National Cup,TIER_CUP,2017,semifinal-leg-1,FINISHED,2017-09-27,17:00,Vinh,NAN,Sông Lam Nghệ An,4,1,QNA,Quảng Nam,
+TIER_CUP-2017-semifinal-leg-2-BIDU-DAN,National Cup,TIER_CUP,2017,semifinal-leg-2,FINISHED,2017-10-06,17:00,Bình Dương,BIDU,Becamex Bình Dương,2,1,DAN,SHB Đà Nẵng,Becamex Bình Dương
+TIER_CUP-2017-semifinal-leg-2-QNA-NAN,National Cup,TIER_CUP,2017,semifinal-leg-2,FINISHED,2017-10-06,17:00,Quảng Nam,QNA,Quảng Nam,3,3,NAN,Sông Lam Nghệ An,Sông Lam Nghệ An
+TIER_CUP-2017-final-leg-1-BIDU-NAN,National Cup,TIER_CUP,2017,final-leg-1,FINISHED,2017-11-09,17:00,Bình Dương,BIDU,Becamex Bình Dương,1,2,NAN,Sông Lam Nghệ An,
+TIER_CUP-2017-final-leg-2-NAN-BIDU,National Cup,TIER_CUP,2017,final-leg-2,FINISHED,2017-11-30,17:00,Vinh,NAN,Sông Lam Nghệ An,5,1,BIDU,Becamex Bình Dương,Sông Lam Nghệ An

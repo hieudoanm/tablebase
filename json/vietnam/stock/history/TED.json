@@ -1,0 +1,782 @@
+[
+    {
+        "open": "39.6",
+        "close": "39.6",
+        "volume": "6800",
+        "symbol": "TED",
+        "timestamp": "1652140800",
+        "low": "39.6",
+        "date": "2022-05-10",
+        "high": "39.6"
+    },
+    {
+        "open": "45.54",
+        "close": "45.54",
+        "volume": "1500",
+        "symbol": "TED",
+        "timestamp": "1652227200",
+        "low": "45.54",
+        "date": "2022-05-11",
+        "high": "45.54"
+    },
+    {
+        "open": "52.33",
+        "close": "52.33",
+        "volume": "5400",
+        "symbol": "TED",
+        "timestamp": "1652313600",
+        "low": "52.33",
+        "date": "2022-05-12",
+        "high": "52.33"
+    },
+    {
+        "open": "44.51",
+        "close": "44.51",
+        "volume": "2100",
+        "symbol": "TED",
+        "timestamp": "1652400000",
+        "low": "44.51",
+        "date": "2022-05-13",
+        "high": "44.51"
+    },
+    {
+        "open": "37.91",
+        "close": "37.91",
+        "volume": "1000",
+        "symbol": "TED",
+        "timestamp": "1652659200",
+        "low": "37.91",
+        "date": "2022-05-16",
+        "high": "37.91"
+    },
+    {
+        "open": "32.25",
+        "close": "32.25",
+        "volume": "200",
+        "symbol": "TED",
+        "timestamp": "1652745600",
+        "low": "32.25",
+        "date": "2022-05-17",
+        "high": "32.25"
+    },
+    {
+        "open": "27.82",
+        "close": "28",
+        "volume": "20900",
+        "symbol": "TED",
+        "timestamp": "1652832000",
+        "low": "27.82",
+        "date": "2022-05-18",
+        "high": "32.15"
+    },
+    {
+        "open": "28.66",
+        "close": "25.08",
+        "volume": "3133500",
+        "symbol": "TED",
+        "timestamp": "1652918400",
+        "low": "25.08",
+        "date": "2022-05-19",
+        "high": "28.66"
+    },
+    {
+        "open": "22.72",
+        "close": "24.52",
+        "volume": "29700",
+        "symbol": "TED",
+        "timestamp": "1653004800",
+        "low": "22.16",
+        "date": "2022-05-20",
+        "high": "24.52"
+    },
+    {
+        "open": "21.69",
+        "close": "23.1",
+        "volume": "9200",
+        "symbol": "TED",
+        "timestamp": "1653264000",
+        "low": "20.46",
+        "date": "2022-05-23",
+        "high": "25.74"
+    },
+    {
+        "open": "23.29",
+        "close": "23.1",
+        "volume": "4000",
+        "symbol": "TED",
+        "timestamp": "1653350400",
+        "low": "23.1",
+        "date": "2022-05-24",
+        "high": "23.29"
+    },
+    {
+        "open": "23.1",
+        "close": "23.95",
+        "volume": "7500",
+        "symbol": "TED",
+        "timestamp": "1653436800",
+        "low": "23.1",
+        "date": "2022-05-25",
+        "high": "23.95"
+    },
+    {
+        "open": "23.29",
+        "close": "25.46",
+        "volume": "16500",
+        "symbol": "TED",
+        "timestamp": "1653523200",
+        "low": "23.01",
+        "date": "2022-05-26",
+        "high": "25.46"
+    },
+    {
+        "open": "23.2",
+        "close": "23.48",
+        "volume": "600",
+        "symbol": "TED",
+        "timestamp": "1653609600",
+        "low": "23.2",
+        "date": "2022-05-27",
+        "high": "23.57"
+    },
+    {
+        "open": "23.76",
+        "close": "26.87",
+        "volume": "16200",
+        "symbol": "TED",
+        "timestamp": "1653868800",
+        "low": "23.76",
+        "date": "2022-05-30",
+        "high": "26.87"
+    },
+    {
+        "open": "26.87",
+        "close": "29.7",
+        "volume": "22800",
+        "symbol": "TED",
+        "timestamp": "1653955200",
+        "low": "26.87",
+        "date": "2022-05-31",
+        "high": "29.7"
+    },
+    {
+        "open": "30.64",
+        "close": "29.98",
+        "volume": "800",
+        "symbol": "TED",
+        "timestamp": "1654041600",
+        "low": "29.98",
+        "date": "2022-06-01",
+        "high": "30.64"
+    },
+    {
+        "open": "32.06",
+        "close": "28.29",
+        "volume": "6500",
+        "symbol": "TED",
+        "timestamp": "1654128000",
+        "low": "28.29",
+        "date": "2022-06-02",
+        "high": "34.79"
+    },
+    {
+        "open": "28.38",
+        "close": "28.38",
+        "volume": "5200",
+        "symbol": "TED",
+        "timestamp": "1654214400",
+        "low": "27.44",
+        "date": "2022-06-03",
+        "high": "28.48"
+    },
+    {
+        "open": "27.34",
+        "close": "26.4",
+        "volume": "1500",
+        "symbol": "TED",
+        "timestamp": "1654560000",
+        "low": "26.4",
+        "date": "2022-06-07",
+        "high": "27.34"
+    },
+    {
+        "open": "27.16",
+        "close": "27.34",
+        "volume": "2800",
+        "symbol": "TED",
+        "timestamp": "1654646400",
+        "low": "27.16",
+        "date": "2022-06-08",
+        "high": "27.34"
+    },
+    {
+        "open": "25.46",
+        "close": "25.46",
+        "volume": "2100",
+        "symbol": "TED",
+        "timestamp": "1654732800",
+        "low": "25.46",
+        "date": "2022-06-09",
+        "high": "25.46"
+    },
+    {
+        "open": "25.46",
+        "close": "25.46",
+        "volume": "1900",
+        "symbol": "TED",
+        "timestamp": "1654819200",
+        "low": "25.46",
+        "date": "2022-06-10",
+        "high": "26.4"
+    },
+    {
+        "open": "25.55",
+        "close": "25.55",
+        "volume": "1000",
+        "symbol": "TED",
+        "timestamp": "1655251200",
+        "low": "25.55",
+        "date": "2022-06-15",
+        "high": "25.55"
+    },
+    {
+        "open": "25.55",
+        "close": "25.55",
+        "volume": "2600",
+        "symbol": "TED",
+        "timestamp": "1655337600",
+        "low": "25.55",
+        "date": "2022-06-16",
+        "high": "25.55"
+    },
+    {
+        "open": "25.46",
+        "close": "24.61",
+        "volume": "2300",
+        "symbol": "TED",
+        "timestamp": "1655424000",
+        "low": "24.52",
+        "date": "2022-06-17",
+        "high": "25.46"
+    },
+    {
+        "open": "24.14",
+        "close": "23.76",
+        "volume": "1200",
+        "symbol": "TED",
+        "timestamp": "1655683200",
+        "low": "23.67",
+        "date": "2022-06-20",
+        "high": "24.14"
+    },
+    {
+        "open": "23.76",
+        "close": "26.31",
+        "volume": "3400",
+        "symbol": "TED",
+        "timestamp": "1655769600",
+        "low": "23.76",
+        "date": "2022-06-21",
+        "high": "26.31"
+    },
+    {
+        "open": "27.34",
+        "close": "27.34",
+        "volume": "2000",
+        "symbol": "TED",
+        "timestamp": "1655856000",
+        "low": "27.34",
+        "date": "2022-06-22",
+        "high": "27.34"
+    },
+    {
+        "open": "27.25",
+        "close": "27.34",
+        "volume": "12700",
+        "symbol": "TED",
+        "timestamp": "1656028800",
+        "low": "27.25",
+        "date": "2022-06-24",
+        "high": "27.53"
+    },
+    {
+        "open": "27.82",
+        "close": "31.4",
+        "volume": "41500",
+        "symbol": "TED",
+        "timestamp": "1656288000",
+        "low": "27.82",
+        "date": "2022-06-27",
+        "high": "31.4"
+    },
+    {
+        "open": "34.79",
+        "close": "31.12",
+        "volume": "1100",
+        "symbol": "TED",
+        "timestamp": "1656374400",
+        "low": "31.12",
+        "date": "2022-06-28",
+        "high": "34.79"
+    },
+    {
+        "open": "31.59",
+        "close": "31.59",
+        "volume": "2300",
+        "symbol": "TED",
+        "timestamp": "1656460800",
+        "low": "31.12",
+        "date": "2022-06-29",
+        "high": "34.42"
+    },
+    {
+        "open": "32.53",
+        "close": "35.08",
+        "volume": "10400",
+        "symbol": "TED",
+        "timestamp": "1656547200",
+        "low": "28.48",
+        "date": "2022-06-30",
+        "high": "35.08"
+    },
+    {
+        "open": "32.91",
+        "close": "32.91",
+        "volume": "33300",
+        "symbol": "TED",
+        "timestamp": "1656633600",
+        "low": "32.91",
+        "date": "2022-07-01",
+        "high": "32.91"
+    },
+    {
+        "open": "36.77",
+        "close": "36.77",
+        "volume": "100",
+        "symbol": "TED",
+        "timestamp": "1656892800",
+        "low": "36.77",
+        "date": "2022-07-04",
+        "high": "36.77"
+    },
+    {
+        "open": "31.3",
+        "close": "31.3",
+        "volume": "11300",
+        "symbol": "TED",
+        "timestamp": "1656979200",
+        "low": "31.3",
+        "date": "2022-07-05",
+        "high": "31.3"
+    },
+    {
+        "open": "34.89",
+        "close": "34.89",
+        "volume": "300",
+        "symbol": "TED",
+        "timestamp": "1657065600",
+        "low": "34.89",
+        "date": "2022-07-06",
+        "high": "34.89"
+    },
+    {
+        "open": "30.08",
+        "close": "30.08",
+        "volume": "200",
+        "symbol": "TED",
+        "timestamp": "1657497600",
+        "low": "30.08",
+        "date": "2022-07-11",
+        "high": "30.08"
+    },
+    {
+        "open": "33",
+        "close": "34.51",
+        "volume": "9800",
+        "symbol": "TED",
+        "timestamp": "1657584000",
+        "low": "33",
+        "date": "2022-07-12",
+        "high": "34.51"
+    },
+    {
+        "open": "34.89",
+        "close": "29.51",
+        "volume": "6700",
+        "symbol": "TED",
+        "timestamp": "1657756800",
+        "low": "29.51",
+        "date": "2022-07-14",
+        "high": "34.89"
+    },
+    {
+        "open": "29.7",
+        "close": "34.04",
+        "volume": "50800",
+        "symbol": "TED",
+        "timestamp": "1657843200",
+        "low": "29.7",
+        "date": "2022-07-15",
+        "high": "34.04"
+    },
+    {
+        "open": "36.3",
+        "close": "36.3",
+        "volume": "100",
+        "symbol": "TED",
+        "timestamp": "1658275200",
+        "low": "36.3",
+        "date": "2022-07-20",
+        "high": "36.3"
+    },
+    {
+        "open": "30.93",
+        "close": "33.94",
+        "volume": "40200",
+        "symbol": "TED",
+        "timestamp": "1658361600",
+        "low": "30.93",
+        "date": "2022-07-21",
+        "high": "33.94"
+    },
+    {
+        "open": "33",
+        "close": "33",
+        "volume": "200",
+        "symbol": "TED",
+        "timestamp": "1658793600",
+        "low": "33",
+        "date": "2022-07-26",
+        "high": "33"
+    },
+    {
+        "open": "33.94",
+        "close": "33.94",
+        "volume": "300",
+        "symbol": "TED",
+        "timestamp": "1658966400",
+        "low": "33.94",
+        "date": "2022-07-28",
+        "high": "33.94"
+    },
+    {
+        "open": "33.85",
+        "close": "33.94",
+        "volume": "6400",
+        "symbol": "TED",
+        "timestamp": "1659052800",
+        "low": "33.85",
+        "date": "2022-07-29",
+        "high": "33.94"
+    },
+    {
+        "open": "29.42",
+        "close": "29.42",
+        "volume": "1000",
+        "symbol": "TED",
+        "timestamp": "1659312000",
+        "low": "29.42",
+        "date": "2022-08-01",
+        "high": "29.42"
+    },
+    {
+        "open": "33.66",
+        "close": "33.76",
+        "volume": "12300",
+        "symbol": "TED",
+        "timestamp": "1659398400",
+        "low": "33.66",
+        "date": "2022-08-02",
+        "high": "33.76"
+    },
+    {
+        "open": "38.56",
+        "close": "30.36",
+        "volume": "1700",
+        "symbol": "TED",
+        "timestamp": "1659484800",
+        "low": "30.36",
+        "date": "2022-08-03",
+        "high": "38.56"
+    },
+    {
+        "open": "32.06",
+        "close": "32.06",
+        "volume": "664150",
+        "symbol": "TED",
+        "timestamp": "1659571200",
+        "low": "32.06",
+        "date": "2022-08-04",
+        "high": "32.06"
+    },
+    {
+        "open": "29.32",
+        "close": "30.36",
+        "volume": "1200",
+        "symbol": "TED",
+        "timestamp": "1659657600",
+        "low": "29.32",
+        "date": "2022-08-05",
+        "high": "30.36"
+    },
+    {
+        "open": "33.85",
+        "close": "33.85",
+        "volume": "2100",
+        "symbol": "TED",
+        "timestamp": "1659916800",
+        "low": "33.85",
+        "date": "2022-08-08",
+        "high": "33.85"
+    },
+    {
+        "open": "33.85",
+        "close": "33.85",
+        "volume": "100",
+        "symbol": "TED",
+        "timestamp": "1660521600",
+        "low": "33.85",
+        "date": "2022-08-15",
+        "high": "33.85"
+    },
+    {
+        "open": "33.85",
+        "close": "33.57",
+        "volume": "1800",
+        "symbol": "TED",
+        "timestamp": "1660867200",
+        "low": "33",
+        "date": "2022-08-19",
+        "high": "33.85"
+    },
+    {
+        "open": "33.47",
+        "close": "34.42",
+        "volume": "900",
+        "symbol": "TED",
+        "timestamp": "1661212800",
+        "low": "28.48",
+        "date": "2022-08-23",
+        "high": "34.42"
+    },
+    {
+        "open": "33.47",
+        "close": "33.47",
+        "volume": "100",
+        "symbol": "TED",
+        "timestamp": "1661385600",
+        "low": "33.47",
+        "date": "2022-08-25",
+        "high": "33.47"
+    },
+    {
+        "open": "33",
+        "close": "33",
+        "volume": "900",
+        "symbol": "TED",
+        "timestamp": "1661731200",
+        "low": "33",
+        "date": "2022-08-29",
+        "high": "33"
+    },
+    {
+        "open": "33.6",
+        "close": "33.6",
+        "volume": "100",
+        "symbol": "TED",
+        "timestamp": "1661817600",
+        "low": "33.6",
+        "date": "2022-08-30",
+        "high": "33.6"
+    },
+    {
+        "open": "29",
+        "close": "33.6",
+        "volume": "6700",
+        "symbol": "TED",
+        "timestamp": "1662422400",
+        "low": "29",
+        "date": "2022-09-06",
+        "high": "33.6"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "1100",
+        "symbol": "TED",
+        "timestamp": "1662940800",
+        "low": "32",
+        "date": "2022-09-12",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "600",
+        "symbol": "TED",
+        "timestamp": "1663113600",
+        "low": "32",
+        "date": "2022-09-14",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "500",
+        "symbol": "TED",
+        "timestamp": "1663286400",
+        "low": "32",
+        "date": "2022-09-16",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "200",
+        "symbol": "TED",
+        "timestamp": "1663545600",
+        "low": "32",
+        "date": "2022-09-19",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "27300",
+        "symbol": "TED",
+        "timestamp": "1663891200",
+        "low": "32",
+        "date": "2022-09-23",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "500",
+        "symbol": "TED",
+        "timestamp": "1664150400",
+        "low": "32",
+        "date": "2022-09-26",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "900",
+        "symbol": "TED",
+        "timestamp": "1664323200",
+        "low": "32",
+        "date": "2022-09-28",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "600",
+        "symbol": "TED",
+        "timestamp": "1664496000",
+        "low": "32",
+        "date": "2022-09-30",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "900",
+        "symbol": "TED",
+        "timestamp": "1664755200",
+        "low": "32",
+        "date": "2022-10-03",
+        "high": "32"
+    },
+    {
+        "open": "32",
+        "close": "32",
+        "volume": "500",
+        "symbol": "TED",
+        "timestamp": "1664841600",
+        "low": "32",
+        "date": "2022-10-04",
+        "high": "32"
+    },
+    {
+        "open": "30",
+        "close": "32",
+        "volume": "700",
+        "symbol": "TED",
+        "timestamp": "1665100800",
+        "low": "30",
+        "date": "2022-10-07",
+        "high": "32"
+    },
+    {
+        "open": "30.2",
+        "close": "31.9",
+        "volume": "300",
+        "symbol": "TED",
+        "timestamp": "1665360000",
+        "low": "30.2",
+        "date": "2022-10-10",
+        "high": "31.9"
+    },
+    {
+        "open": "29.6",
+        "close": "29.6",
+        "volume": "3000",
+        "symbol": "TED",
+        "timestamp": "1665446400",
+        "low": "29.6",
+        "date": "2022-10-11",
+        "high": "29.6"
+    },
+    {
+        "open": "29.6",
+        "close": "29.6",
+        "volume": "500",
+        "symbol": "TED",
+        "timestamp": "1665532800",
+        "low": "29.6",
+        "date": "2022-10-12",
+        "high": "29.6"
+    },
+    {
+        "open": "30.2",
+        "close": "30.2",
+        "volume": "100",
+        "symbol": "TED",
+        "timestamp": "1665619200",
+        "low": "30.2",
+        "date": "2022-10-13",
+        "high": "30.2"
+    },
+    {
+        "open": "29.1",
+        "close": "28.0",
+        "volume": "300.0",
+        "symbol": "TED",
+        "timestamp": "1666310400.0",
+        "low": "28.0",
+        "date": "2022-10-21",
+        "high": "29.1"
+    },
+    {
+        "open": "29.0",
+        "close": "32.6",
+        "volume": "600.0",
+        "symbol": "TED",
+        "timestamp": "1666569600.0",
+        "low": "28.1",
+        "date": "2022-10-24",
+        "high": "32.6"
+    },
+    {
+        "open": "32.0",
+        "close": "32.0",
+        "volume": "400.0",
+        "symbol": "TED",
+        "timestamp": "1667347200.0",
+        "low": "32.0",
+        "date": "2022-11-02",
+        "high": "32.0"
+    }
+]

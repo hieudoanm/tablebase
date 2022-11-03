@@ -1,0 +1,8 @@
+GET https://api.football-data.org/v4/competitions HTTP/1.1
+content-type: application/json
+
+###
+
+GET https://api.football-data.org/v4/teams?limit=500&offset=5000 HTTP/1.1
+content-type: application/json
+X-Auth-Token: {{$dotenv API_KEY_FOOTBALL_DATA}}

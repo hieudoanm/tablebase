@@ -1,0 +1,3282 @@
+[
+    {
+        "open": "5.28",
+        "close": "5.28",
+        "date": "2016-08-23",
+        "volume": "10000",
+        "symbol": "BTU",
+        "timestamp": "1471910400",
+        "low": "5.28",
+        "high": "5.28"
+    },
+    {
+        "open": "5.28",
+        "close": "5.28",
+        "date": "2016-08-24",
+        "volume": "10000",
+        "symbol": "BTU",
+        "timestamp": "1471996800",
+        "low": "5.28",
+        "high": "5.28"
+    },
+    {
+        "open": "5.28",
+        "close": "5.28",
+        "date": "2016-09-22",
+        "volume": "15000",
+        "symbol": "BTU",
+        "timestamp": "1474502400",
+        "low": "5.28",
+        "high": "5.28"
+    },
+    {
+        "open": "5.28",
+        "close": "5.28",
+        "date": "2016-09-23",
+        "volume": "3000",
+        "symbol": "BTU",
+        "timestamp": "1474588800",
+        "low": "5.28",
+        "high": "5.28"
+    },
+    {
+        "open": "6.05",
+        "close": "6.05",
+        "date": "2016-09-28",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1475020800",
+        "low": "6.05",
+        "high": "6.05"
+    },
+    {
+        "open": "6.93",
+        "close": "6.93",
+        "date": "2016-09-30",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1475193600",
+        "low": "6.93",
+        "high": "6.93"
+    },
+    {
+        "open": "6.72",
+        "close": "6.72",
+        "date": "2017-04-04",
+        "volume": "7900",
+        "symbol": "BTU",
+        "timestamp": "1491264000",
+        "low": "6.72",
+        "high": "6.72"
+    },
+    {
+        "open": "6.21",
+        "close": "6.21",
+        "date": "2017-04-13",
+        "volume": "700",
+        "symbol": "BTU",
+        "timestamp": "1492041600",
+        "low": "5.97",
+        "high": "6.21"
+    },
+    {
+        "open": "6",
+        "close": "6",
+        "date": "2017-04-19",
+        "volume": "5900",
+        "symbol": "BTU",
+        "timestamp": "1492560000",
+        "low": "6",
+        "high": "6"
+    },
+    {
+        "open": "5.17",
+        "close": "5.17",
+        "date": "2017-05-03",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1493769600",
+        "low": "5.17",
+        "high": "5.17"
+    },
+    {
+        "open": "4.4",
+        "close": "4.4",
+        "date": "2017-05-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1494288000",
+        "low": "4.4",
+        "high": "4.4"
+    },
+    {
+        "open": "5.02",
+        "close": "5.02",
+        "date": "2017-05-10",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1494374400",
+        "low": "5.02",
+        "high": "5.02"
+    },
+    {
+        "open": "4.29",
+        "close": "5.74",
+        "date": "2017-05-12",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1494547200",
+        "low": "4.29",
+        "high": "5.74"
+    },
+    {
+        "open": "4.29",
+        "close": "4.29",
+        "date": "2017-05-15",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1494806400",
+        "low": "4.29",
+        "high": "4.29"
+    },
+    {
+        "open": "3.66",
+        "close": "3.66",
+        "date": "2017-05-18",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1495065600",
+        "low": "3.66",
+        "high": "3.66"
+    },
+    {
+        "open": "3.15",
+        "close": "3.15",
+        "date": "2017-05-22",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1495411200",
+        "low": "3.15",
+        "high": "3.15"
+    },
+    {
+        "open": "2.69",
+        "close": "2.69",
+        "date": "2017-05-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1495584000",
+        "low": "2.69",
+        "high": "2.69"
+    },
+    {
+        "open": "3.09",
+        "close": "3.09",
+        "date": "2017-05-25",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1495670400",
+        "low": "3.09",
+        "high": "3.09"
+    },
+    {
+        "open": "3.55",
+        "close": "3.55",
+        "date": "2017-05-26",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1495756800",
+        "low": "3.55",
+        "high": "3.55"
+    },
+    {
+        "open": "4.07",
+        "close": "4.07",
+        "date": "2017-05-29",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1496016000",
+        "low": "4.07",
+        "high": "4.07"
+    },
+    {
+        "open": "4.64",
+        "close": "4.64",
+        "date": "2017-05-31",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1496188800",
+        "low": "4.64",
+        "high": "4.64"
+    },
+    {
+        "open": "5.32",
+        "close": "5.32",
+        "date": "2017-06-01",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1496275200",
+        "low": "5.32",
+        "high": "5.32"
+    },
+    {
+        "open": "6.07",
+        "close": "6.07",
+        "date": "2017-06-02",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1496361600",
+        "low": "6.07",
+        "high": "6.07"
+    },
+    {
+        "open": "5.21",
+        "close": "5.21",
+        "date": "2017-06-05",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1496620800",
+        "low": "5.21",
+        "high": "5.21"
+    },
+    {
+        "open": "4.47",
+        "close": "4.47",
+        "date": "2017-06-07",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1496793600",
+        "low": "4.47",
+        "high": "4.47"
+    },
+    {
+        "open": "3.84",
+        "close": "5.09",
+        "date": "2017-06-14",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1497398400",
+        "low": "3.84",
+        "high": "5.09"
+    },
+    {
+        "open": "5.09",
+        "close": "5.09",
+        "date": "2017-06-15",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1497484800",
+        "low": "5.09",
+        "high": "5.09"
+    },
+    {
+        "open": "5.84",
+        "close": "5.84",
+        "date": "2017-06-19",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1497830400",
+        "low": "5.84",
+        "high": "5.84"
+    },
+    {
+        "open": "4.98",
+        "close": "4.98",
+        "date": "2017-06-21",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1498003200",
+        "low": "4.98",
+        "high": "4.98"
+    },
+    {
+        "open": "4.24",
+        "close": "4.24",
+        "date": "2017-06-23",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1498176000",
+        "low": "4.24",
+        "high": "4.24"
+    },
+    {
+        "open": "3.61",
+        "close": "4.87",
+        "date": "2017-06-26",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1498435200",
+        "low": "3.61",
+        "high": "4.87"
+    },
+    {
+        "open": "3.78",
+        "close": "3.78",
+        "date": "2017-06-27",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1498521600",
+        "low": "3.78",
+        "high": "3.78"
+    },
+    {
+        "open": "4.29",
+        "close": "4.29",
+        "date": "2017-06-30",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1498780800",
+        "low": "4.29",
+        "high": "4.29"
+    },
+    {
+        "open": "3.66",
+        "close": "4.92",
+        "date": "2017-07-03",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1499040000",
+        "low": "3.66",
+        "high": "4.92"
+    },
+    {
+        "open": "4.29",
+        "close": "4.29",
+        "date": "2017-07-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1499126400",
+        "low": "4.29",
+        "high": "4.29"
+    },
+    {
+        "open": "4.88",
+        "close": "4.24",
+        "date": "2017-07-05",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1499212800",
+        "low": "4.24",
+        "high": "4.88"
+    },
+    {
+        "open": "5.24",
+        "close": "5.24",
+        "date": "2017-07-06",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1499299200",
+        "low": "5.24",
+        "high": "5.24"
+    },
+    {
+        "open": "6",
+        "close": "6",
+        "date": "2017-07-07",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1499385600",
+        "low": "6",
+        "high": "6"
+    },
+    {
+        "open": "5.12",
+        "close": "5.12",
+        "date": "2017-07-10",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1499644800",
+        "low": "5.12",
+        "high": "5.12"
+    },
+    {
+        "open": "4.35",
+        "close": "5.24",
+        "date": "2017-07-11",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1499731200",
+        "low": "4.35",
+        "high": "5.24"
+    },
+    {
+        "open": "4.12",
+        "close": "4.12",
+        "date": "2017-07-12",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1499817600",
+        "low": "4.12",
+        "high": "4.12"
+    },
+    {
+        "open": "4.71",
+        "close": "4.71",
+        "date": "2017-07-18",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1500336000",
+        "low": "4.71",
+        "high": "4.71"
+    },
+    {
+        "open": "4.12",
+        "close": "4.18",
+        "date": "2017-07-25",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1500940800",
+        "low": "4.12",
+        "high": "4.18"
+    },
+    {
+        "open": "4.76",
+        "close": "4.76",
+        "date": "2017-07-27",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1501113600",
+        "low": "4.76",
+        "high": "4.76"
+    },
+    {
+        "open": "4.06",
+        "close": "5.47",
+        "date": "2017-07-28",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1501200000",
+        "low": "4.06",
+        "high": "5.47"
+    },
+    {
+        "open": "5.88",
+        "close": "5.88",
+        "date": "2017-07-31",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1501459200",
+        "low": "5.88",
+        "high": "5.88"
+    },
+    {
+        "open": "5",
+        "close": "5",
+        "date": "2017-08-02",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1501632000",
+        "low": "5",
+        "high": "5"
+    },
+    {
+        "open": "5.71",
+        "close": "5.71",
+        "date": "2017-08-03",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1501718400",
+        "low": "5.71",
+        "high": "5.71"
+    },
+    {
+        "open": "4.88",
+        "close": "4.88",
+        "date": "2017-08-07",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1502064000",
+        "low": "4.88",
+        "high": "4.88"
+    },
+    {
+        "open": "4.18",
+        "close": "5.59",
+        "date": "2017-08-09",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1502236800",
+        "low": "4.18",
+        "high": "5.59"
+    },
+    {
+        "open": "4.35",
+        "close": "5.59",
+        "date": "2017-08-15",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1502755200",
+        "low": "4.35",
+        "high": "5.59"
+    },
+    {
+        "open": "5.94",
+        "close": "5.94",
+        "date": "2017-08-18",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1503014400",
+        "low": "5.94",
+        "high": "5.94"
+    },
+    {
+        "open": "5.94",
+        "close": "5.94",
+        "date": "2017-08-21",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1503273600",
+        "low": "5.94",
+        "high": "5.94"
+    },
+    {
+        "open": "5.06",
+        "close": "5.06",
+        "date": "2017-08-22",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1503360000",
+        "low": "5.06",
+        "high": "5.06"
+    },
+    {
+        "open": "4.35",
+        "close": "4.35",
+        "date": "2017-08-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1503532800",
+        "low": "4.35",
+        "high": "4.35"
+    },
+    {
+        "open": "3.71",
+        "close": "3.71",
+        "date": "2017-08-29",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1503964800",
+        "low": "3.71",
+        "high": "3.71"
+    },
+    {
+        "open": "3.23",
+        "close": "3.23",
+        "date": "2017-08-31",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1504137600",
+        "low": "3.23",
+        "high": "3.23"
+    },
+    {
+        "open": "3.71",
+        "close": "3.71",
+        "date": "2017-09-06",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1504656000",
+        "low": "3.71",
+        "high": "3.71"
+    },
+    {
+        "open": "4.24",
+        "close": "4.24",
+        "date": "2017-09-11",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1505088000",
+        "low": "4.24",
+        "high": "4.24"
+    },
+    {
+        "open": "3.65",
+        "close": "4.82",
+        "date": "2017-09-15",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1505433600",
+        "low": "3.65",
+        "high": "4.82"
+    },
+    {
+        "open": "3.65",
+        "close": "3.65",
+        "date": "2017-09-19",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1505779200",
+        "low": "3.65",
+        "high": "3.65"
+    },
+    {
+        "open": "3.12",
+        "close": "4.18",
+        "date": "2017-10-09",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1507507200",
+        "low": "3.12",
+        "high": "4.18"
+    },
+    {
+        "open": "3.12",
+        "close": "3.12",
+        "date": "2017-10-12",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1507766400",
+        "low": "3.12",
+        "high": "3.12"
+    },
+    {
+        "open": "3.53",
+        "close": "3.53",
+        "date": "2017-10-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1508803200",
+        "low": "3.53",
+        "high": "3.53"
+    },
+    {
+        "open": "3",
+        "close": "4.06",
+        "date": "2017-11-08",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1510099200",
+        "low": "3",
+        "high": "4.06"
+    },
+    {
+        "open": "4.06",
+        "close": "4.06",
+        "date": "2017-11-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1510185600",
+        "low": "4.06",
+        "high": "4.06"
+    },
+    {
+        "open": "4.65",
+        "close": "4.65",
+        "date": "2017-11-10",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1510272000",
+        "low": "4.65",
+        "high": "4.65"
+    },
+    {
+        "open": "5.29",
+        "close": "5.29",
+        "date": "2017-11-13",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1510531200",
+        "low": "5.29",
+        "high": "5.29"
+    },
+    {
+        "open": "6.06",
+        "close": "6.06",
+        "date": "2017-11-14",
+        "volume": "600",
+        "symbol": "BTU",
+        "timestamp": "1510617600",
+        "low": "6.06",
+        "high": "6.06"
+    },
+    {
+        "open": "5.18",
+        "close": "5.18",
+        "date": "2017-11-16",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1510790400",
+        "low": "5.18",
+        "high": "5.18"
+    },
+    {
+        "open": "4.41",
+        "close": "4.41",
+        "date": "2017-11-17",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1510876800",
+        "low": "4.41",
+        "high": "4.41"
+    },
+    {
+        "open": "3.82",
+        "close": "3.82",
+        "date": "2017-11-20",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1511136000",
+        "low": "3.82",
+        "high": "3.82"
+    },
+    {
+        "open": "5.18",
+        "close": "5.35",
+        "date": "2018-01-03",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1514937600",
+        "low": "5.18",
+        "high": "5.35"
+    },
+    {
+        "open": "4.53",
+        "close": "4.53",
+        "date": "2018-01-08",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1515369600",
+        "low": "4.53",
+        "high": "4.53"
+    },
+    {
+        "open": "3.88",
+        "close": "3.88",
+        "date": "2018-01-10",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1515542400",
+        "low": "3.88",
+        "high": "3.88"
+    },
+    {
+        "open": "3.41",
+        "close": "3.41",
+        "date": "2018-01-15",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1515974400",
+        "low": "3.41",
+        "high": "3.41"
+    },
+    {
+        "open": "3.88",
+        "close": "3.88",
+        "date": "2018-02-01",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1517443200",
+        "low": "3.88",
+        "high": "3.88"
+    },
+    {
+        "open": "5.41",
+        "close": "5.41",
+        "date": "2018-03-19",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1521417600",
+        "low": "5.41",
+        "high": "5.41"
+    },
+    {
+        "open": "6.18",
+        "close": "6.18",
+        "date": "2018-03-20",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1521504000",
+        "low": "6.18",
+        "high": "6.18"
+    },
+    {
+        "open": "5.29",
+        "close": "5.29",
+        "date": "2018-03-27",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1522108800",
+        "low": "5.29",
+        "high": "5.29"
+    },
+    {
+        "open": "4.58",
+        "close": "5.54",
+        "date": "2018-03-30",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1522368000",
+        "low": "4.58",
+        "high": "5.54"
+    },
+    {
+        "open": "4.33",
+        "close": "4.33",
+        "date": "2018-04-12",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1523491200",
+        "low": "4.33",
+        "high": "4.33"
+    },
+    {
+        "open": "4.27",
+        "close": "4.27",
+        "date": "2018-05-15",
+        "volume": "1100",
+        "symbol": "BTU",
+        "timestamp": "1526342400",
+        "low": "4.27",
+        "high": "4.27"
+    },
+    {
+        "open": "4.9",
+        "close": "4.9",
+        "date": "2018-06-14",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1528934400",
+        "low": "4.9",
+        "high": "4.9"
+    },
+    {
+        "open": "4.33",
+        "close": "4.33",
+        "date": "2018-06-15",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1529020800",
+        "low": "4.33",
+        "high": "4.33"
+    },
+    {
+        "open": "4.97",
+        "close": "4.97",
+        "date": "2018-06-19",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1529366400",
+        "low": "4.97",
+        "high": "4.97"
+    },
+    {
+        "open": "4.58",
+        "close": "4.58",
+        "date": "2018-06-20",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1529452800",
+        "low": "4.58",
+        "high": "4.58"
+    },
+    {
+        "open": "5.22",
+        "close": "5.22",
+        "date": "2018-06-28",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1530144000",
+        "low": "5.22",
+        "high": "5.22"
+    },
+    {
+        "open": "4.78",
+        "close": "5.99",
+        "date": "2018-07-03",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1530576000",
+        "low": "4.78",
+        "high": "5.99"
+    },
+    {
+        "open": "6.18",
+        "close": "6.18",
+        "date": "2018-07-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1530662400",
+        "low": "6.18",
+        "high": "6.18"
+    },
+    {
+        "open": "5.41",
+        "close": "5.41",
+        "date": "2018-07-05",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1530748800",
+        "low": "5.41",
+        "high": "5.41"
+    },
+    {
+        "open": "5.09",
+        "close": "5.09",
+        "date": "2018-07-06",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1530835200",
+        "low": "5.09",
+        "high": "5.09"
+    },
+    {
+        "open": "5.22",
+        "close": "5.22",
+        "date": "2018-07-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1531094400",
+        "low": "5.22",
+        "high": "5.22"
+    },
+    {
+        "open": "5.35",
+        "close": "5.35",
+        "date": "2018-07-10",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1531180800",
+        "low": "5.35",
+        "high": "5.35"
+    },
+    {
+        "open": "5.29",
+        "close": "5.29",
+        "date": "2018-07-11",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1531267200",
+        "low": "5.29",
+        "high": "5.29"
+    },
+    {
+        "open": "5.65",
+        "close": "5.65",
+        "date": "2018-07-25",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1532476800",
+        "low": "5.65",
+        "high": "5.65"
+    },
+    {
+        "open": "5.45",
+        "close": "5.45",
+        "date": "2018-08-22",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1534896000",
+        "low": "5.45",
+        "high": "5.45"
+    },
+    {
+        "open": "7.62",
+        "close": "7.62",
+        "date": "2018-10-03",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1538524800",
+        "low": "7.62",
+        "high": "7.62"
+    },
+    {
+        "open": "6.5",
+        "close": "6.5",
+        "date": "2018-10-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1538611200",
+        "low": "6.5",
+        "high": "6.5"
+    },
+    {
+        "open": "7.42",
+        "close": "7.42",
+        "date": "2018-10-05",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1538697600",
+        "low": "7.42",
+        "high": "7.42"
+    },
+    {
+        "open": "6.43",
+        "close": "6.43",
+        "date": "2018-10-08",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1538956800",
+        "low": "6.43",
+        "high": "6.43"
+    },
+    {
+        "open": "7.35",
+        "close": "7.35",
+        "date": "2018-10-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1539043200",
+        "low": "7.35",
+        "high": "7.35"
+    },
+    {
+        "open": "6.43",
+        "close": "6.43",
+        "date": "2018-10-10",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1539129600",
+        "low": "6.43",
+        "high": "6.43"
+    },
+    {
+        "open": "6.24",
+        "close": "7.35",
+        "date": "2018-10-11",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1539216000",
+        "low": "6.24",
+        "high": "7.35"
+    },
+    {
+        "open": "6.57",
+        "close": "6.57",
+        "date": "2018-10-12",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1539302400",
+        "low": "6.57",
+        "high": "6.57"
+    },
+    {
+        "open": "7.22",
+        "close": "7.22",
+        "date": "2018-12-07",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1544140800",
+        "low": "7.22",
+        "high": "7.22"
+    },
+    {
+        "open": "6.17",
+        "close": "7.29",
+        "date": "2018-12-10",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1544400000",
+        "low": "6.17",
+        "high": "7.29"
+    },
+    {
+        "open": "7.75",
+        "close": "7.75",
+        "date": "2018-12-12",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1544572800",
+        "low": "7.75",
+        "high": "7.75"
+    },
+    {
+        "open": "6.89",
+        "close": "6.89",
+        "date": "2018-12-13",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1544659200",
+        "low": "6.89",
+        "high": "6.89"
+    },
+    {
+        "open": "5.91",
+        "close": "5.97",
+        "date": "2018-12-14",
+        "volume": "1400",
+        "symbol": "BTU",
+        "timestamp": "1544745600",
+        "low": "5.91",
+        "high": "7.22"
+    },
+    {
+        "open": "5.97",
+        "close": "5.97",
+        "date": "2018-12-18",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1545091200",
+        "low": "5.97",
+        "high": "5.97"
+    },
+    {
+        "open": "6.04",
+        "close": "6.83",
+        "date": "2018-12-19",
+        "volume": "1200",
+        "symbol": "BTU",
+        "timestamp": "1545177600",
+        "low": "6.04",
+        "high": "6.83"
+    },
+    {
+        "open": "6.43",
+        "close": "6.43",
+        "date": "2018-12-20",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1545264000",
+        "low": "6.43",
+        "high": "6.43"
+    },
+    {
+        "open": "6.96",
+        "close": "6.89",
+        "date": "2018-12-21",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1545350400",
+        "low": "6.89",
+        "high": "6.96"
+    },
+    {
+        "open": "6.7",
+        "close": "6.7",
+        "date": "2018-12-27",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1545868800",
+        "low": "6.7",
+        "high": "6.7"
+    },
+    {
+        "open": "6.63",
+        "close": "6.96",
+        "date": "2018-12-28",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1545955200",
+        "low": "6.63",
+        "high": "6.96"
+    },
+    {
+        "open": "6.63",
+        "close": "6.96",
+        "date": "2019-01-02",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1546387200",
+        "low": "6.63",
+        "high": "6.96"
+    },
+    {
+        "open": "6.57",
+        "close": "5.84",
+        "date": "2019-01-04",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1546560000",
+        "low": "5.84",
+        "high": "6.57"
+    },
+    {
+        "open": "6.83",
+        "close": "6.96",
+        "date": "2019-01-07",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1546819200",
+        "low": "6.83",
+        "high": "6.96"
+    },
+    {
+        "open": "6.04",
+        "close": "6.04",
+        "date": "2019-01-08",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1546905600",
+        "low": "6.04",
+        "high": "6.04"
+    },
+    {
+        "open": "6.89",
+        "close": "6.89",
+        "date": "2019-01-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1546992000",
+        "low": "6.89",
+        "high": "6.89"
+    },
+    {
+        "open": "6.54",
+        "close": "6.54",
+        "date": "2019-02-20",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1550620800",
+        "low": "6.54",
+        "high": "6.54"
+    },
+    {
+        "open": "6.89",
+        "close": "6.89",
+        "date": "2019-02-22",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1550793600",
+        "low": "6.89",
+        "high": "6.89"
+    },
+    {
+        "open": "6.47",
+        "close": "6.47",
+        "date": "2019-02-28",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1551312000",
+        "low": "6.47",
+        "high": "6.47"
+    },
+    {
+        "open": "6.89",
+        "close": "6.89",
+        "date": "2019-03-06",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1551830400",
+        "low": "6.89",
+        "high": "6.89"
+    },
+    {
+        "open": "6.54",
+        "close": "6.54",
+        "date": "2019-03-18",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1552867200",
+        "low": "6.54",
+        "high": "6.54"
+    },
+    {
+        "open": "6.47",
+        "close": "6.89",
+        "date": "2019-03-19",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1552953600",
+        "low": "6.47",
+        "high": "6.89"
+    },
+    {
+        "open": "5.7",
+        "close": "5.7",
+        "date": "2019-03-26",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1553558400",
+        "low": "5.7",
+        "high": "5.7"
+    },
+    {
+        "open": "6.54",
+        "close": "6.33",
+        "date": "2019-04-01",
+        "volume": "1200",
+        "symbol": "BTU",
+        "timestamp": "1554076800",
+        "low": "6.33",
+        "high": "6.54"
+    },
+    {
+        "open": "7.39",
+        "close": "7.39",
+        "date": "2019-04-05",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1554422400",
+        "low": "7.39",
+        "high": "7.39"
+    },
+    {
+        "open": "6.33",
+        "close": "6.33",
+        "date": "2019-04-08",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1554681600",
+        "low": "6.33",
+        "high": "6.33"
+    },
+    {
+        "open": "7.25",
+        "close": "7.25",
+        "date": "2019-04-10",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1554854400",
+        "low": "7.25",
+        "high": "7.25"
+    },
+    {
+        "open": "8.23",
+        "close": "8.23",
+        "date": "2019-04-11",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1554940800",
+        "low": "8.23",
+        "high": "8.23"
+    },
+    {
+        "open": "7.03",
+        "close": "7.03",
+        "date": "2019-04-12",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1555027200",
+        "low": "7.03",
+        "high": "7.03"
+    },
+    {
+        "open": "7.88",
+        "close": "7.88",
+        "date": "2019-04-17",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1555459200",
+        "low": "7.88",
+        "high": "7.88"
+    },
+    {
+        "open": "6.89",
+        "close": "7.53",
+        "date": "2019-04-18",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1555545600",
+        "low": "6.89",
+        "high": "7.53"
+    },
+    {
+        "open": "7.6",
+        "close": "7.6",
+        "date": "2019-05-02",
+        "volume": "600",
+        "symbol": "BTU",
+        "timestamp": "1556755200",
+        "low": "7.6",
+        "high": "7.6"
+    },
+    {
+        "open": "6.47",
+        "close": "7.32",
+        "date": "2019-05-10",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1557446400",
+        "low": "6.47",
+        "high": "7.32"
+    },
+    {
+        "open": "7.39",
+        "close": "7.39",
+        "date": "2019-05-13",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1557705600",
+        "low": "7.39",
+        "high": "7.39"
+    },
+    {
+        "open": "8.49",
+        "close": "8.49",
+        "date": "2019-05-27",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1558915200",
+        "low": "8.49",
+        "high": "8.49"
+    },
+    {
+        "open": "7.39",
+        "close": "7.39",
+        "date": "2019-05-28",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1559001600",
+        "low": "7.39",
+        "high": "7.39"
+    },
+    {
+        "open": "7.02",
+        "close": "7.02",
+        "date": "2019-06-06",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1559779200",
+        "low": "7.02",
+        "high": "7.02"
+    },
+    {
+        "open": "8.05",
+        "close": "8.05",
+        "date": "2019-06-07",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1559865600",
+        "low": "8.05",
+        "high": "8.05"
+    },
+    {
+        "open": "6.87",
+        "close": "6.87",
+        "date": "2019-06-10",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1560124800",
+        "low": "6.87",
+        "high": "6.87"
+    },
+    {
+        "open": "7.83",
+        "close": "7.83",
+        "date": "2019-06-12",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1560297600",
+        "low": "7.83",
+        "high": "7.83"
+    },
+    {
+        "open": "6.72",
+        "close": "6.72",
+        "date": "2019-06-13",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1560384000",
+        "low": "6.72",
+        "high": "6.72"
+    },
+    {
+        "open": "7.68",
+        "close": "7.68",
+        "date": "2019-06-14",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1560470400",
+        "low": "7.68",
+        "high": "7.68"
+    },
+    {
+        "open": "7.09",
+        "close": "7.09",
+        "date": "2019-06-17",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1560729600",
+        "low": "7.09",
+        "high": "7.09"
+    },
+    {
+        "open": "7.46",
+        "close": "7.39",
+        "date": "2019-06-18",
+        "volume": "4500",
+        "symbol": "BTU",
+        "timestamp": "1560816000",
+        "low": "7.39",
+        "high": "7.46"
+    },
+    {
+        "open": "8.42",
+        "close": "8.42",
+        "date": "2019-06-21",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1561075200",
+        "low": "8.42",
+        "high": "8.42"
+    },
+    {
+        "open": "7.16",
+        "close": "7.16",
+        "date": "2019-06-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1561334400",
+        "low": "7.16",
+        "high": "7.16"
+    },
+    {
+        "open": "7.83",
+        "close": "7.83",
+        "date": "2019-07-02",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1562025600",
+        "low": "7.83",
+        "high": "7.83"
+    },
+    {
+        "open": "8.79",
+        "close": "8.79",
+        "date": "2019-07-03",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1562112000",
+        "low": "8.79",
+        "high": "8.79"
+    },
+    {
+        "open": "7.53",
+        "close": "8.79",
+        "date": "2019-07-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1562198400",
+        "low": "7.53",
+        "high": "8.79"
+    },
+    {
+        "open": "7.31",
+        "close": "7.31",
+        "date": "2019-07-12",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1562889600",
+        "low": "7.31",
+        "high": "7.31"
+    },
+    {
+        "open": "8.27",
+        "close": "8.27",
+        "date": "2019-07-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1563926400",
+        "low": "8.27",
+        "high": "8.27"
+    },
+    {
+        "open": "7.39",
+        "close": "7.39",
+        "date": "2019-07-25",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1564012800",
+        "low": "7.39",
+        "high": "7.39"
+    },
+    {
+        "open": "6.28",
+        "close": "6.28",
+        "date": "2019-07-30",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1564444800",
+        "low": "6.28",
+        "high": "6.28"
+    },
+    {
+        "open": "8.79",
+        "close": "8.79",
+        "date": "2019-09-06",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1567728000",
+        "low": "8.79",
+        "high": "8.79"
+    },
+    {
+        "open": "9.9",
+        "close": "9.9",
+        "date": "2019-09-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1567987200",
+        "low": "9.9",
+        "high": "9.9"
+    },
+    {
+        "open": "8.42",
+        "close": "11.01",
+        "date": "2019-09-10",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1568073600",
+        "low": "8.42",
+        "high": "11.01"
+    },
+    {
+        "open": "11.52",
+        "close": "11.52",
+        "date": "2019-09-12",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1568246400",
+        "low": "11.52",
+        "high": "11.52"
+    },
+    {
+        "open": "13",
+        "close": "13",
+        "date": "2019-09-13",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1568332800",
+        "low": "13",
+        "high": "13"
+    },
+    {
+        "open": "8.12",
+        "close": "8.12",
+        "date": "2019-10-22",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1571702400",
+        "low": "8.12",
+        "high": "8.12"
+    },
+    {
+        "open": "8.86",
+        "close": "8.86",
+        "date": "2019-11-20",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1574208000",
+        "low": "8.86",
+        "high": "8.86"
+    },
+    {
+        "open": "8.86",
+        "close": "8.86",
+        "date": "2019-11-28",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1574899200",
+        "low": "8.86",
+        "high": "8.86"
+    },
+    {
+        "open": "8.12",
+        "close": "8.12",
+        "date": "2019-12-11",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1576022400",
+        "low": "8.12",
+        "high": "8.12"
+    },
+    {
+        "open": "8.27",
+        "close": "8.27",
+        "date": "2020-03-02",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1583107200",
+        "low": "8.27",
+        "high": "8.27"
+    },
+    {
+        "open": "8.35",
+        "close": "8.35",
+        "date": "2020-03-06",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1583452800",
+        "low": "8.35",
+        "high": "8.35"
+    },
+    {
+        "open": "9.23",
+        "close": "9.23",
+        "date": "2020-06-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1591228800",
+        "low": "9.23",
+        "high": "9.23"
+    },
+    {
+        "open": "8.12",
+        "close": "9.6",
+        "date": "2020-07-07",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1594080000",
+        "low": "8.12",
+        "high": "9.6"
+    },
+    {
+        "open": "9.6",
+        "close": "9.6",
+        "date": "2020-07-08",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1594166400",
+        "low": "9.6",
+        "high": "9.6"
+    },
+    {
+        "open": "10.19",
+        "close": "10.19",
+        "date": "2020-07-09",
+        "volume": "2100",
+        "symbol": "BTU",
+        "timestamp": "1594252800",
+        "low": "10.19",
+        "high": "10.19"
+    },
+    {
+        "open": "10.19",
+        "close": "10.19",
+        "date": "2020-07-10",
+        "volume": "700",
+        "symbol": "BTU",
+        "timestamp": "1594339200",
+        "low": "10.19",
+        "high": "10.19"
+    },
+    {
+        "open": "10.12",
+        "close": "10.12",
+        "date": "2020-07-13",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1594598400",
+        "low": "10.12",
+        "high": "10.12"
+    },
+    {
+        "open": "8.63",
+        "close": "8.63",
+        "date": "2020-08-03",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1596412800",
+        "low": "8.63",
+        "high": "8.63"
+    },
+    {
+        "open": "9.87",
+        "close": "9.87",
+        "date": "2020-08-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1596499200",
+        "low": "9.87",
+        "high": "9.87"
+    },
+    {
+        "open": "8.46",
+        "close": "8.46",
+        "date": "2020-08-19",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1597795200",
+        "low": "8.46",
+        "high": "8.46"
+    },
+    {
+        "open": "9.7",
+        "close": "9.7",
+        "date": "2020-08-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1598227200",
+        "low": "9.7",
+        "high": "9.7"
+    },
+    {
+        "open": "9.7",
+        "close": "9.7",
+        "date": "2020-08-31",
+        "volume": "2000",
+        "symbol": "BTU",
+        "timestamp": "1598832000",
+        "low": "9.7",
+        "high": "9.7"
+    },
+    {
+        "open": "8.29",
+        "close": "8.29",
+        "date": "2020-09-01",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1598918400",
+        "low": "8.29",
+        "high": "8.29"
+    },
+    {
+        "open": "9.54",
+        "close": "9.54",
+        "date": "2020-09-03",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1599091200",
+        "low": "9.54",
+        "high": "9.54"
+    },
+    {
+        "open": "10.78",
+        "close": "10.78",
+        "date": "2020-09-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1599177600",
+        "low": "10.78",
+        "high": "10.78"
+    },
+    {
+        "open": "9.54",
+        "close": "9.54",
+        "date": "2020-09-08",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1599523200",
+        "low": "9.54",
+        "high": "9.54"
+    },
+    {
+        "open": "8.29",
+        "close": "9.95",
+        "date": "2020-09-14",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1600041600",
+        "low": "8.29",
+        "high": "9.95"
+    },
+    {
+        "open": "8.04",
+        "close": "8.04",
+        "date": "2020-09-15",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1600128000",
+        "low": "8.04",
+        "high": "8.04"
+    },
+    {
+        "open": "9.21",
+        "close": "9.21",
+        "date": "2020-09-17",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1600300800",
+        "low": "9.21",
+        "high": "9.21"
+    },
+    {
+        "open": "7.88",
+        "close": "9.54",
+        "date": "2020-09-24",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1600905600",
+        "low": "7.88",
+        "high": "9.54"
+    },
+    {
+        "open": "9.12",
+        "close": "9.12",
+        "date": "2020-10-02",
+        "volume": "800",
+        "symbol": "BTU",
+        "timestamp": "1601596800",
+        "low": "9.12",
+        "high": "9.12"
+    },
+    {
+        "open": "5.56",
+        "close": "5.56",
+        "date": "2020-11-16",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1605484800",
+        "low": "5.56",
+        "high": "5.56"
+    },
+    {
+        "open": "7.71",
+        "close": "7.71",
+        "date": "2020-12-23",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1608681600",
+        "low": "7.71",
+        "high": "7.71"
+    },
+    {
+        "open": "8.79",
+        "close": "8.79",
+        "date": "2020-12-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1608768000",
+        "low": "8.79",
+        "high": "8.79"
+    },
+    {
+        "open": "10.04",
+        "close": "10.04",
+        "date": "2020-12-25",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1608854400",
+        "low": "10.04",
+        "high": "10.04"
+    },
+    {
+        "open": "10.78",
+        "close": "10.78",
+        "date": "2020-12-30",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1609286400",
+        "low": "10.78",
+        "high": "10.78"
+    },
+    {
+        "open": "10.37",
+        "close": "10.37",
+        "date": "2021-01-18",
+        "volume": "2000",
+        "symbol": "BTU",
+        "timestamp": "1610928000",
+        "low": "10.37",
+        "high": "10.37"
+    },
+    {
+        "open": "10.37",
+        "close": "10.37",
+        "date": "2021-01-19",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1611014400",
+        "low": "10.37",
+        "high": "10.37"
+    },
+    {
+        "open": "10.37",
+        "close": "10.37",
+        "date": "2021-02-09",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1612828800",
+        "low": "10.37",
+        "high": "10.37"
+    },
+    {
+        "open": "10.37",
+        "close": "10.37",
+        "date": "2021-02-17",
+        "volume": "1300",
+        "symbol": "BTU",
+        "timestamp": "1613520000",
+        "low": "10.37",
+        "high": "10.37"
+    },
+    {
+        "open": "10.37",
+        "close": "10.37",
+        "date": "2021-02-18",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1613606400",
+        "low": "10.37",
+        "high": "10.37"
+    },
+    {
+        "open": "10.37",
+        "close": "11.86",
+        "date": "2021-02-22",
+        "volume": "1900",
+        "symbol": "BTU",
+        "timestamp": "1613952000",
+        "low": "10.37",
+        "high": "11.86"
+    },
+    {
+        "open": "11.53",
+        "close": "11.53",
+        "date": "2021-02-23",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1614038400",
+        "low": "11.53",
+        "high": "11.53"
+    },
+    {
+        "open": "11.2",
+        "close": "11.2",
+        "date": "2021-02-25",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1614211200",
+        "low": "11.2",
+        "high": "11.2"
+    },
+    {
+        "open": "11.86",
+        "close": "11.86",
+        "date": "2021-02-26",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1614297600",
+        "low": "11.86",
+        "high": "11.86"
+    },
+    {
+        "open": "11.94",
+        "close": "11.94",
+        "date": "2021-03-01",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1614556800",
+        "low": "11.94",
+        "high": "11.94"
+    },
+    {
+        "open": "11.61",
+        "close": "11.61",
+        "date": "2021-03-09",
+        "volume": "1300",
+        "symbol": "BTU",
+        "timestamp": "1615248000",
+        "low": "11.61",
+        "high": "11.61"
+    },
+    {
+        "open": "11.2",
+        "close": "11.2",
+        "date": "2021-03-11",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1615420800",
+        "low": "11.2",
+        "high": "11.2"
+    },
+    {
+        "open": "11.2",
+        "close": "11.2",
+        "date": "2021-03-12",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1615507200",
+        "low": "11.2",
+        "high": "11.2"
+    },
+    {
+        "open": "11.53",
+        "close": "11.53",
+        "date": "2021-03-18",
+        "volume": "800",
+        "symbol": "BTU",
+        "timestamp": "1616025600",
+        "low": "11.45",
+        "high": "11.53"
+    },
+    {
+        "open": "10.78",
+        "close": "10.78",
+        "date": "2021-03-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1616544000",
+        "low": "10.78",
+        "high": "10.78"
+    },
+    {
+        "open": "12.36",
+        "close": "12.36",
+        "date": "2021-04-01",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1617235200",
+        "low": "12.36",
+        "high": "12.36"
+    },
+    {
+        "open": "11.28",
+        "close": "12.36",
+        "date": "2021-04-06",
+        "volume": "1200",
+        "symbol": "BTU",
+        "timestamp": "1617667200",
+        "low": "11.2",
+        "high": "12.36"
+    },
+    {
+        "open": "11.2",
+        "close": "11.28",
+        "date": "2021-04-07",
+        "volume": "3000",
+        "symbol": "BTU",
+        "timestamp": "1617753600",
+        "low": "11.2",
+        "high": "11.28"
+    },
+    {
+        "open": "11.28",
+        "close": "11.28",
+        "date": "2021-04-08",
+        "volume": "2400",
+        "symbol": "BTU",
+        "timestamp": "1617840000",
+        "low": "11.28",
+        "high": "11.28"
+    },
+    {
+        "open": "11.61",
+        "close": "11.61",
+        "date": "2021-04-13",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1618272000",
+        "low": "11.61",
+        "high": "11.61"
+    },
+    {
+        "open": "11.2",
+        "close": "11.2",
+        "date": "2021-04-14",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1618358400",
+        "low": "11.2",
+        "high": "11.2"
+    },
+    {
+        "open": "11.2",
+        "close": "11.2",
+        "date": "2021-04-15",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1618444800",
+        "low": "11.2",
+        "high": "11.2"
+    },
+    {
+        "open": "6.72",
+        "close": "11.2",
+        "date": "2021-05-27",
+        "volume": "1100",
+        "symbol": "BTU",
+        "timestamp": "1622073600",
+        "low": "6.72",
+        "high": "11.2"
+    },
+    {
+        "open": "11.88",
+        "close": "11.88",
+        "date": "2021-06-21",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1624233600",
+        "low": "11.88",
+        "high": "11.88"
+    },
+    {
+        "open": "10.96",
+        "close": "11.88",
+        "date": "2021-06-23",
+        "volume": "1600",
+        "symbol": "BTU",
+        "timestamp": "1624406400",
+        "low": "10.96",
+        "high": "11.88"
+    },
+    {
+        "open": "12.06",
+        "close": "12.06",
+        "date": "2021-06-28",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1624838400",
+        "low": "12.06",
+        "high": "12.06"
+    },
+    {
+        "open": "12.06",
+        "close": "12.06",
+        "date": "2021-07-01",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1625097600",
+        "low": "12.06",
+        "high": "12.06"
+    },
+    {
+        "open": "11.15",
+        "close": "11.7",
+        "date": "2021-07-13",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1626134400",
+        "low": "11.15",
+        "high": "11.7"
+    },
+    {
+        "open": "11.88",
+        "close": "12.43",
+        "date": "2021-08-13",
+        "volume": "1600",
+        "symbol": "BTU",
+        "timestamp": "1628812800",
+        "low": "11.88",
+        "high": "12.43"
+    },
+    {
+        "open": "12.34",
+        "close": "12.34",
+        "date": "2021-08-16",
+        "volume": "1200",
+        "symbol": "BTU",
+        "timestamp": "1629072000",
+        "low": "12.24",
+        "high": "12.34"
+    },
+    {
+        "open": "12.34",
+        "close": "12.34",
+        "date": "2021-09-01",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1630454400",
+        "low": "12.34",
+        "high": "12.34"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2021-10-08",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1633651200",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "13.71",
+        "close": "13.71",
+        "date": "2021-10-13",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1634083200",
+        "low": "13.71",
+        "high": "13.71"
+    },
+    {
+        "open": "14.62",
+        "close": "14.62",
+        "date": "2021-10-22",
+        "volume": "1200",
+        "symbol": "BTU",
+        "timestamp": "1634860800",
+        "low": "14.62",
+        "high": "14.62"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2021-10-28",
+        "volume": "1500",
+        "symbol": "BTU",
+        "timestamp": "1635379200",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2021-10-29",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1635465600",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2021-11-01",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1635724800",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "13.71",
+        "close": "13.71",
+        "date": "2021-11-02",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1635811200",
+        "low": "13.71",
+        "high": "13.71"
+    },
+    {
+        "open": "11.7",
+        "close": "11.7",
+        "date": "2021-11-04",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1635984000",
+        "low": "11.7",
+        "high": "11.7"
+    },
+    {
+        "open": "11.88",
+        "close": "11.88",
+        "date": "2021-11-09",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1636416000",
+        "low": "11.88",
+        "high": "11.88"
+    },
+    {
+        "open": "12.06",
+        "close": "11.88",
+        "date": "2021-11-10",
+        "volume": "4000",
+        "symbol": "BTU",
+        "timestamp": "1636502400",
+        "low": "11.88",
+        "high": "12.06"
+    },
+    {
+        "open": "12.06",
+        "close": "12.06",
+        "date": "2021-11-12",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1636675200",
+        "low": "12.06",
+        "high": "12.06"
+    },
+    {
+        "open": "12.34",
+        "close": "12.61",
+        "date": "2021-11-17",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1637107200",
+        "low": "12.34",
+        "high": "12.61"
+    },
+    {
+        "open": "12.61",
+        "close": "12.7",
+        "date": "2021-11-18",
+        "volume": "1200",
+        "symbol": "BTU",
+        "timestamp": "1637193600",
+        "low": "12.61",
+        "high": "12.7"
+    },
+    {
+        "open": "12.79",
+        "close": "13.71",
+        "date": "2021-11-19",
+        "volume": "6400",
+        "symbol": "BTU",
+        "timestamp": "1637280000",
+        "low": "12.79",
+        "high": "13.71"
+    },
+    {
+        "open": "13.52",
+        "close": "13.34",
+        "date": "2021-11-22",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1637539200",
+        "low": "13.34",
+        "high": "13.52"
+    },
+    {
+        "open": "13.07",
+        "close": "14.16",
+        "date": "2021-11-25",
+        "volume": "2100",
+        "symbol": "BTU",
+        "timestamp": "1637798400",
+        "low": "13.07",
+        "high": "14.16"
+    },
+    {
+        "open": "14.53",
+        "close": "14.44",
+        "date": "2021-11-26",
+        "volume": "2500",
+        "symbol": "BTU",
+        "timestamp": "1637884800",
+        "low": "14.44",
+        "high": "14.62"
+    },
+    {
+        "open": "13.07",
+        "close": "13.71",
+        "date": "2021-11-30",
+        "volume": "3200",
+        "symbol": "BTU",
+        "timestamp": "1638230400",
+        "low": "13.07",
+        "high": "14.62"
+    },
+    {
+        "open": "13.71",
+        "close": "13.71",
+        "date": "2021-12-01",
+        "volume": "1900",
+        "symbol": "BTU",
+        "timestamp": "1638316800",
+        "low": "13.34",
+        "high": "13.71"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2021-12-02",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1638403200",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "13.62",
+        "close": "13.62",
+        "date": "2021-12-03",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1638489600",
+        "low": "13.62",
+        "high": "13.62"
+    },
+    {
+        "open": "12.97",
+        "close": "12.79",
+        "date": "2021-12-07",
+        "volume": "1400",
+        "symbol": "BTU",
+        "timestamp": "1638835200",
+        "low": "12.79",
+        "high": "12.97"
+    },
+    {
+        "open": "12.88",
+        "close": "12.79",
+        "date": "2021-12-08",
+        "volume": "600",
+        "symbol": "BTU",
+        "timestamp": "1638921600",
+        "low": "12.79",
+        "high": "12.88"
+    },
+    {
+        "open": "12.97",
+        "close": "12.97",
+        "date": "2021-12-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1639008000",
+        "low": "12.97",
+        "high": "12.97"
+    },
+    {
+        "open": "12.79",
+        "close": "13.07",
+        "date": "2021-12-10",
+        "volume": "700",
+        "symbol": "BTU",
+        "timestamp": "1639094400",
+        "low": "12.79",
+        "high": "13.07"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2021-12-13",
+        "volume": "1400",
+        "symbol": "BTU",
+        "timestamp": "1639353600",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "13.25",
+        "close": "13.25",
+        "date": "2021-12-14",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1639440000",
+        "low": "13.25",
+        "high": "13.25"
+    },
+    {
+        "open": "12.34",
+        "close": "13.16",
+        "date": "2021-12-17",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1639699200",
+        "low": "12.34",
+        "high": "13.16"
+    },
+    {
+        "open": "13.34",
+        "close": "13.34",
+        "date": "2021-12-20",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1639958400",
+        "low": "13.34",
+        "high": "13.34"
+    },
+    {
+        "open": "12.61",
+        "close": "12.34",
+        "date": "2021-12-21",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1640044800",
+        "low": "12.34",
+        "high": "12.61"
+    },
+    {
+        "open": "12.34",
+        "close": "12.34",
+        "date": "2021-12-22",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1640131200",
+        "low": "12.34",
+        "high": "12.34"
+    },
+    {
+        "open": "12.34",
+        "close": "12.34",
+        "date": "2021-12-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1640304000",
+        "low": "12.34",
+        "high": "12.34"
+    },
+    {
+        "open": "11.97",
+        "close": "11.88",
+        "date": "2021-12-27",
+        "volume": "800",
+        "symbol": "BTU",
+        "timestamp": "1640563200",
+        "low": "11.88",
+        "high": "11.97"
+    },
+    {
+        "open": "11.97",
+        "close": "11.97",
+        "date": "2021-12-28",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1640649600",
+        "low": "11.97",
+        "high": "11.97"
+    },
+    {
+        "open": "11.97",
+        "close": "12.06",
+        "date": "2021-12-29",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1640736000",
+        "low": "11.97",
+        "high": "12.34"
+    },
+    {
+        "open": "12.06",
+        "close": "12.06",
+        "date": "2021-12-30",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1640822400",
+        "low": "12.06",
+        "high": "12.06"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2021-12-31",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1640908800",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "11.97",
+        "close": "12.79",
+        "date": "2022-01-04",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1641254400",
+        "low": "11.97",
+        "high": "12.79"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-01-05",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1641340800",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "12.79",
+        "close": "12.97",
+        "date": "2022-01-13",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1642032000",
+        "low": "12.79",
+        "high": "12.97"
+    },
+    {
+        "open": "10.96",
+        "close": "10.96",
+        "date": "2022-01-14",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1642118400",
+        "low": "10.96",
+        "high": "10.96"
+    },
+    {
+        "open": "12.24",
+        "close": "11.97",
+        "date": "2022-01-17",
+        "volume": "1500",
+        "symbol": "BTU",
+        "timestamp": "1642377600",
+        "low": "11.97",
+        "high": "12.34"
+    },
+    {
+        "open": "12.34",
+        "close": "12.24",
+        "date": "2022-01-18",
+        "volume": "700",
+        "symbol": "BTU",
+        "timestamp": "1642464000",
+        "low": "12.24",
+        "high": "12.34"
+    },
+    {
+        "open": "12.7",
+        "close": "12.7",
+        "date": "2022-01-19",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1642550400",
+        "low": "12.7",
+        "high": "12.7"
+    },
+    {
+        "open": "12.79",
+        "close": "12.7",
+        "date": "2022-01-20",
+        "volume": "2300",
+        "symbol": "BTU",
+        "timestamp": "1642636800",
+        "low": "12.7",
+        "high": "12.79"
+    },
+    {
+        "open": "12.97",
+        "close": "12.97",
+        "date": "2022-01-21",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1642723200",
+        "low": "12.97",
+        "high": "12.97"
+    },
+    {
+        "open": "12.97",
+        "close": "12.97",
+        "date": "2022-01-26",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1643155200",
+        "low": "12.97",
+        "high": "12.97"
+    },
+    {
+        "open": "13.16",
+        "close": "13.16",
+        "date": "2022-01-28",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1643328000",
+        "low": "13.16",
+        "high": "13.16"
+    },
+    {
+        "open": "12.34",
+        "close": "12.43",
+        "date": "2022-02-07",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1644192000",
+        "low": "12.34",
+        "high": "12.43"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-02-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1644364800",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-02-10",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1644451200",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "12.34",
+        "close": "13.07",
+        "date": "2022-02-15",
+        "volume": "1100",
+        "symbol": "BTU",
+        "timestamp": "1644883200",
+        "low": "12.34",
+        "high": "13.07"
+    },
+    {
+        "open": "12.97",
+        "close": "12.97",
+        "date": "2022-02-16",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1644969600",
+        "low": "12.97",
+        "high": "12.97"
+    },
+    {
+        "open": "12.97",
+        "close": "12.97",
+        "date": "2022-02-18",
+        "volume": "8900",
+        "symbol": "BTU",
+        "timestamp": "1645142400",
+        "low": "12.97",
+        "high": "12.97"
+    },
+    {
+        "open": "13.16",
+        "close": "13.16",
+        "date": "2022-03-02",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1646179200",
+        "low": "13.16",
+        "high": "13.16"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-03-10",
+        "volume": "900",
+        "symbol": "BTU",
+        "timestamp": "1646870400",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-03-11",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1646956800",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-03-14",
+        "volume": "1100",
+        "symbol": "BTU",
+        "timestamp": "1647216000",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "11.7",
+        "close": "13.16",
+        "date": "2022-03-16",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1647388800",
+        "low": "11.7",
+        "high": "13.16"
+    },
+    {
+        "open": "13.16",
+        "close": "13.16",
+        "date": "2022-03-17",
+        "volume": "1700",
+        "symbol": "BTU",
+        "timestamp": "1647475200",
+        "low": "13.16",
+        "high": "13.16"
+    },
+    {
+        "open": "13.16",
+        "close": "13.16",
+        "date": "2022-03-21",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1647820800",
+        "low": "13.16",
+        "high": "13.16"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-03-25",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1648166400",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "11.88",
+        "close": "12.15",
+        "date": "2022-03-31",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1648684800",
+        "low": "11.88",
+        "high": "12.15"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2022-04-04",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1649030400",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "12.79",
+        "close": "12.79",
+        "date": "2022-04-05",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1649116800",
+        "low": "12.79",
+        "high": "12.79"
+    },
+    {
+        "open": "12.79",
+        "close": "13.25",
+        "date": "2022-04-06",
+        "volume": "1300",
+        "symbol": "BTU",
+        "timestamp": "1649203200",
+        "low": "12.79",
+        "high": "13.25"
+    },
+    {
+        "open": "13.25",
+        "close": "13.25",
+        "date": "2022-04-07",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1649289600",
+        "low": "13.25",
+        "high": "13.25"
+    },
+    {
+        "open": "13.34",
+        "close": "13.34",
+        "date": "2022-04-08",
+        "volume": "700",
+        "symbol": "BTU",
+        "timestamp": "1649376000",
+        "low": "13.34",
+        "high": "13.34"
+    },
+    {
+        "open": "13.52",
+        "close": "12.97",
+        "date": "2022-04-15",
+        "volume": "1400",
+        "symbol": "BTU",
+        "timestamp": "1649980800",
+        "low": "12.97",
+        "high": "13.52"
+    },
+    {
+        "open": "13.71",
+        "close": "12.97",
+        "date": "2022-04-18",
+        "volume": "2400",
+        "symbol": "BTU",
+        "timestamp": "1650240000",
+        "low": "12.97",
+        "high": "13.71"
+    },
+    {
+        "open": "13.71",
+        "close": "12.97",
+        "date": "2022-04-19",
+        "volume": "5000",
+        "symbol": "BTU",
+        "timestamp": "1650326400",
+        "low": "12.97",
+        "high": "13.71"
+    },
+    {
+        "open": "11.64",
+        "close": "12.4",
+        "date": "2022-04-20",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1650412800",
+        "low": "11.64",
+        "high": "12.4"
+    },
+    {
+        "open": "12.4",
+        "close": "11.54",
+        "date": "2022-04-21",
+        "volume": "600",
+        "symbol": "BTU",
+        "timestamp": "1650499200",
+        "low": "11.54",
+        "high": "12.4"
+    },
+    {
+        "open": "13.73",
+        "close": "13.73",
+        "date": "2022-04-25",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1650844800",
+        "low": "13.73",
+        "high": "13.73"
+    },
+    {
+        "open": "12.59",
+        "close": "13.73",
+        "date": "2022-04-27",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1651017600",
+        "low": "12.59",
+        "high": "13.73"
+    },
+    {
+        "open": "13.16",
+        "close": "13.16",
+        "date": "2022-05-05",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1651708800",
+        "low": "13.16",
+        "high": "13.16"
+    },
+    {
+        "open": "13.16",
+        "close": "13.16",
+        "date": "2022-05-09",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1652054400",
+        "low": "13.16",
+        "high": "13.16"
+    },
+    {
+        "open": "13.07",
+        "close": "13.07",
+        "date": "2022-05-11",
+        "volume": "4000",
+        "symbol": "BTU",
+        "timestamp": "1652227200",
+        "low": "13.07",
+        "high": "13.07"
+    },
+    {
+        "open": "11.73",
+        "close": "11.45",
+        "date": "2022-05-18",
+        "volume": "300",
+        "symbol": "BTU",
+        "timestamp": "1652832000",
+        "low": "11.45",
+        "high": "11.73"
+    },
+    {
+        "open": "11.54",
+        "close": "11.54",
+        "date": "2022-05-23",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1653264000",
+        "low": "11.54",
+        "high": "11.54"
+    },
+    {
+        "open": "12.88",
+        "close": "12.88",
+        "date": "2022-05-24",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1653350400",
+        "low": "12.88",
+        "high": "12.88"
+    },
+    {
+        "open": "10.97",
+        "close": "10.97",
+        "date": "2022-05-26",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1653523200",
+        "low": "10.97",
+        "high": "10.97"
+    },
+    {
+        "open": "12.59",
+        "close": "12.59",
+        "date": "2022-05-27",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1653609600",
+        "low": "12.59",
+        "high": "12.59"
+    },
+    {
+        "open": "12.88",
+        "close": "12.88",
+        "date": "2022-05-31",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1653955200",
+        "low": "12.88",
+        "high": "12.88"
+    },
+    {
+        "open": "11.83",
+        "close": "12.49",
+        "date": "2022-06-07",
+        "volume": "1400",
+        "symbol": "BTU",
+        "timestamp": "1654560000",
+        "low": "11.83",
+        "high": "12.78"
+    },
+    {
+        "open": "12.49",
+        "close": "12.4",
+        "date": "2022-06-08",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1654646400",
+        "low": "12.4",
+        "high": "12.49"
+    },
+    {
+        "open": "12.59",
+        "close": "12.59",
+        "date": "2022-06-09",
+        "volume": "1000",
+        "symbol": "BTU",
+        "timestamp": "1654732800",
+        "low": "12.59",
+        "high": "12.59"
+    },
+    {
+        "open": "12.59",
+        "close": "12.59",
+        "date": "2022-06-10",
+        "volume": "400",
+        "symbol": "BTU",
+        "timestamp": "1654819200",
+        "low": "12.59",
+        "high": "12.59"
+    },
+    {
+        "open": "12.59",
+        "close": "12.4",
+        "date": "2022-06-13",
+        "volume": "600",
+        "symbol": "BTU",
+        "timestamp": "1655078400",
+        "low": "12.4",
+        "high": "12.59"
+    },
+    {
+        "open": "12.49",
+        "close": "12.4",
+        "date": "2022-06-16",
+        "volume": "1300",
+        "symbol": "BTU",
+        "timestamp": "1655337600",
+        "low": "12.4",
+        "high": "12.49"
+    },
+    {
+        "open": "12.4",
+        "close": "12.4",
+        "date": "2022-06-24",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1656028800",
+        "low": "12.4",
+        "high": "12.4"
+    },
+    {
+        "open": "13.5",
+        "close": "13.5",
+        "date": "2022-08-17",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1660694400",
+        "low": "13.5",
+        "high": "13.5"
+    },
+    {
+        "open": "12.4",
+        "close": "12.4",
+        "date": "2022-08-24",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1661299200",
+        "low": "12.4",
+        "high": "12.4"
+    },
+    {
+        "open": "12.2",
+        "close": "12.2",
+        "date": "2022-08-25",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1661385600",
+        "low": "12.2",
+        "high": "12.2"
+    },
+    {
+        "open": "13.5",
+        "close": "13.5",
+        "date": "2022-09-09",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1662681600",
+        "low": "13.5",
+        "high": "13.5"
+    },
+    {
+        "open": "13.3",
+        "close": "13.3",
+        "date": "2022-09-14",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1663113600",
+        "low": "13.3",
+        "high": "13.3"
+    },
+    {
+        "open": "12.2",
+        "close": "12.3",
+        "date": "2022-09-26",
+        "volume": "500",
+        "symbol": "BTU",
+        "timestamp": "1664150400",
+        "low": "12.2",
+        "high": "12.3"
+    },
+    {
+        "open": "13.2",
+        "close": "13.2",
+        "date": "2022-09-30",
+        "volume": "100",
+        "symbol": "BTU",
+        "timestamp": "1664496000",
+        "low": "13.2",
+        "high": "13.2"
+    },
+    {
+        "open": "13.1",
+        "close": "13.1",
+        "date": "2022-10-05",
+        "volume": "200",
+        "symbol": "BTU",
+        "timestamp": "1664928000",
+        "low": "13.1",
+        "high": "13.1"
+    },
+    {
+        "open": "13.1",
+        "close": "13.1",
+        "date": "2022-10-06",
+        "volume": "800",
+        "symbol": "BTU",
+        "timestamp": "1665014400",
+        "low": "13.1",
+        "high": "13.1"
+    },
+    {
+        "open": "11.8",
+        "close": "11.8",
+        "date": "2022-10-21",
+        "volume": "500.0",
+        "symbol": "BTU",
+        "timestamp": "1666310400.0",
+        "low": "11.8",
+        "high": "11.8"
+    },
+    {
+        "open": "13.1",
+        "close": "13.2",
+        "date": "2022-10-31",
+        "volume": "1400.0",
+        "symbol": "BTU",
+        "timestamp": "1667174400.0",
+        "low": "13.1",
+        "high": "13.2"
+    },
+    {
+        "open": "11.2",
+        "close": "11.2",
+        "date": "2022-11-01",
+        "volume": "100.0",
+        "symbol": "BTU",
+        "timestamp": "1667260800.0",
+        "low": "11.2",
+        "high": "11.2"
+    }
+]

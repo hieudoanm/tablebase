@@ -1,0 +1,31 @@
+fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+TIER_CUP-2016-1/16-BPH-QNI,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,15:00,Bình Phước,BPH,Bình Phước,0,2,QNI,Than Quảng Ninh,Than Quảng Ninh
+TIER_CUP-2016-1/16-DAL-CAM,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,15:30,Buôn Ma Thuột,DAL,Đắk Lắk,0,1,CAM,Cà Mau,Cà Mau
+TIER_CUP-2016-1/16-NAN-KHH,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,16:00,Vinh,NAN,Sông Lam Nghệ An,1,0,KHH,Khánh Hòa,Sông Lam Nghệ An
+TIER_CUP-2016-1/16-NAD-PYE,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,16:00,Thiên Trường,NAD,Nam Định,2,0,PYE,Phú Yên,Nam Định
+TIER_CUP-2016-1/16-DON-TNI,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,16:30,Đồng Nai,DON,Đồng Nai,1,2,TNI,XM Fico - YTL Tây Ninh,XM Fico - YTL Tây Ninh
+TIER_CUP-2016-1/16-QNA-HUE,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,16:30,Quảng Nam,QNA,Quảng Nam,4,1,HUE,Huế,Quảng Nam
+TIER_CUP-2016-1/16-GLA-VTL,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,17:00,Pleiku,GLA,Hoàng Anh Gia Lai,2,1,VTL,Viettel,Hoàng Anh Gia Lai
+TIER_CUP-2016-1/16-THH-HCM,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,17:00,Thanh Hóa,THH,Đông Á Thanh Hóa,1,1,HCM,TP Hồ Chí Minh,Đông Á Thanh Hóa
+TIER_CUP-2016-1/8-NAD-CAT,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,16:00,Thiên Trường,NAD,Nam Định,1,0,CAT,Cần Thơ,Nam Định
+TIER_CUP-2016-1/8-GLA-DAN,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,16:30,Pleiku,GLA,Hoàng Anh Gia Lai,1,0,DAN,SHB Đà Nẵng,Hoàng Anh Gia Lai
+TIER_CUP-2016-1/8-QNA-SGO,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,16:30,Quảng Nam,QNA,Quảng Nam,2,1,SGO,Sài Gòn,Quảng Nam
+TIER_CUP-2016-1/8-BIDU-CAM,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,17:00,Bình Dương,BIDU,Becamex Bình Dương,5,1,CAM,Cà Mau,Becamex Bình Dương
+TIER_CUP-2016-1/8-LAN-TNI,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,17:00,Long An,LAN,Long An,4,1,TNI,XM Fico - YTL Tây Ninh,Long An
+TIER_CUP-2016-1/8-HAP-NAN,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,17:00,Lạch Tray,HAP,Hải Phòng,2,1,NAN,Sông Lam Nghệ An,Hải Phòng
+TIER_CUP-2016-1/8-QNI-DOT,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,18:00,Cẩm Phả,QNI,Than Quảng Ninh,2,0,DOT,Đồng Tháp,Than Quảng Ninh
+TIER_CUP-2016-1/8-HAN-THH,National Cup,TIER_CUP,2016,1/8,FINISHED,2016-06-10,18:00,Hàng Đẫy,HAN,Hà Nội,1,0,THH,Đông Á Thanh Hóa,Hà Nội
+TIER_CUP-2016-quarterfinal-leg-1-NAD-HAN,National Cup,TIER_CUP,2016,quarterfinal-leg-1,FINISHED,2016-06-14,16:00,Thiên Trường,NAD,Nam Định,0,0,HAN,Hà Nội,
+TIER_CUP-2016-quarterfinal-leg-1-BIDU-GLA,National Cup,TIER_CUP,2016,quarterfinal-leg-1,FINISHED,2016-06-14,17:00,Bình Dương,BIDU,Becamex Bình Dương,5,3,GLA,Hoàng Anh Gia Lai,
+TIER_CUP-2016-quarterfinal-leg-1-HAP-QNA,National Cup,TIER_CUP,2016,quarterfinal-leg-1,FINISHED,2016-06-14,17:00,Lạch Tray,HAP,Hải Phòng,1,1,QNA,Quảng Nam,
+TIER_CUP-2016-quarterfinal-leg-1-QNI-LAN,National Cup,TIER_CUP,2016,quarterfinal-leg-1,FINISHED,2016-06-14,18:00,Cẩm Phả,QNI,Than Quảng Ninh,1,1,LAN,Long An,
+TIER_CUP-2016-quarterfinal-leg-2-QNA-HAP,National Cup,TIER_CUP,2016,quarterfinal-leg-2,FINISHED,2016-06-29,16:30,Quảng Nam,QNA,Quảng Nam,3,0,HAP,Hải Phòng,Quảng Nam
+TIER_CUP-2016-quarterfinal-leg-2-GLA-BIDU,National Cup,TIER_CUP,2016,quarterfinal-leg-2,FINISHED,2016-06-29,17:00,Pleiku,GLA,Hoàng Anh Gia Lai,1,3,BIDU,Becamex Bình Dương,Becamex Bình Dương
+TIER_CUP-2016-quarterfinal-leg-2-LAN-QNI,National Cup,TIER_CUP,2016,quarterfinal-leg-2,FINISHED,2016-06-29,17:00,Long An,LAN,Long An,2,2,QNI,Than Quảng Ninh,Than Quảng Ninh
+TIER_CUP-2016-quarterfinal-leg-2-HAN-NAD,National Cup,TIER_CUP,2016,quarterfinal-leg-2,FINISHED,2016-06-29,18:00,Hàng Đẫy,HAN,Hà Nội,3,1,NAD,Nam Định,Hà Nội
+TIER_CUP-2016-semifinal-leg-1-BIDU-QNI,National Cup,TIER_CUP,2016,semifinal-leg-1,FINISHED,2016-07-20,18:00,Bình Dương,BIDU,Becamex Bình Dương,1,1,QNI,Than Quảng Ninh,
+TIER_CUP-2016-semifinal-leg-1-QNA-HAN,National Cup,TIER_CUP,2016,semifinal-leg-1,FINISHED,2016-07-20,18:00,Quảng Nam,QNA,Quảng Nam,2,3,HAN,Hà Nội,
+TIER_CUP-2016-semifinal-leg-2-QNI-BIDU,National Cup,TIER_CUP,2016,semifinal-leg-2,FINISHED,2016-08-03,18:00,Cẩm Phả,QNI,Than Quảng Ninh,0,0,BIDU,Becamex Bình Dương,Than Quảng Ninh
+TIER_CUP-2016-semifinal-leg-2-HAN-QNA,National Cup,TIER_CUP,2016,semifinal-leg-2,FINISHED,2016-08-03,18:00,Hàng Đẫy,HAN,Hà Nội,4,3,QNA,Quảng Nam,Hà Nội
+TIER_CUP-2016-final-leg-1-QNI-HAN,National Cup,TIER_CUP,2016,final-leg-1,FINISHED,2016-09-24,18:00,Cẩm Phả,QNI,Than Quảng Ninh,4,4,HAN,Hà Nội,
+TIER_CUP-2016-final-leg-2-HAN-QNI,National Cup,TIER_CUP,2016,final-leg-2,FINISHED,2016-09-29,18:00,Hàng Đẫy,HAN,Hà Nội,1,2,QNI,Than Quảng Ninh,Than Quảng Ninh

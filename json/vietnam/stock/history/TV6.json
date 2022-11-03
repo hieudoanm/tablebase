@@ -1,0 +1,3032 @@
+[
+    {
+        "open": "10",
+        "close": "15.4",
+        "volume": "6400",
+        "symbol": "TV6",
+        "timestamp": "1621555200",
+        "low": "10",
+        "date": "2021-05-21",
+        "high": "15.4"
+    },
+    {
+        "open": "16.7",
+        "close": "16.7",
+        "volume": "6100",
+        "symbol": "TV6",
+        "timestamp": "1621814400",
+        "low": "16.7",
+        "date": "2021-05-24",
+        "high": "16.7"
+    },
+    {
+        "open": "19.2",
+        "close": "19.2",
+        "volume": "7000",
+        "symbol": "TV6",
+        "timestamp": "1621900800",
+        "low": "19.2",
+        "date": "2021-05-25",
+        "high": "19.2"
+    },
+    {
+        "open": "22",
+        "close": "22",
+        "volume": "7800",
+        "symbol": "TV6",
+        "timestamp": "1621987200",
+        "low": "22",
+        "date": "2021-05-26",
+        "high": "22"
+    },
+    {
+        "open": "25.3",
+        "close": "25.3",
+        "volume": "29300",
+        "symbol": "TV6",
+        "timestamp": "1622073600",
+        "low": "25.2",
+        "date": "2021-05-27",
+        "high": "25.3"
+    },
+    {
+        "open": "29",
+        "close": "29",
+        "volume": "5700",
+        "symbol": "TV6",
+        "timestamp": "1622160000",
+        "low": "28.7",
+        "date": "2021-05-28",
+        "high": "29"
+    },
+    {
+        "open": "28",
+        "close": "26",
+        "volume": "2100",
+        "symbol": "TV6",
+        "timestamp": "1622419200",
+        "low": "24.6",
+        "date": "2021-05-31",
+        "high": "30"
+    },
+    {
+        "open": "21.6",
+        "close": "21.6",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1622505600",
+        "low": "21.6",
+        "date": "2021-06-01",
+        "high": "21.6"
+    },
+    {
+        "open": "18.4",
+        "close": "18.4",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1622678400",
+        "low": "18.4",
+        "date": "2021-06-03",
+        "high": "18.4"
+    },
+    {
+        "open": "15.7",
+        "close": "17.5",
+        "volume": "18500",
+        "symbol": "TV6",
+        "timestamp": "1622764800",
+        "low": "15.7",
+        "date": "2021-06-04",
+        "high": "17.5"
+    },
+    {
+        "open": "13.6",
+        "close": "17.5",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1623024000",
+        "low": "13.6",
+        "date": "2021-06-07",
+        "high": "17.5"
+    },
+    {
+        "open": "15.1",
+        "close": "15.1",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1623110400",
+        "low": "15.1",
+        "date": "2021-06-08",
+        "high": "15.1"
+    },
+    {
+        "open": "15",
+        "close": "15",
+        "volume": "300",
+        "symbol": "TV6",
+        "timestamp": "1623196800",
+        "low": "15",
+        "date": "2021-06-09",
+        "high": "15"
+    },
+    {
+        "open": "12.9",
+        "close": "12.8",
+        "volume": "5200",
+        "symbol": "TV6",
+        "timestamp": "1623283200",
+        "low": "12.8",
+        "date": "2021-06-10",
+        "high": "12.9"
+    },
+    {
+        "open": "12.8",
+        "close": "12.9",
+        "volume": "4500",
+        "symbol": "TV6",
+        "timestamp": "1623369600",
+        "low": "12.8",
+        "date": "2021-06-11",
+        "high": "14.4"
+    },
+    {
+        "open": "12.9",
+        "close": "12",
+        "volume": "1900",
+        "symbol": "TV6",
+        "timestamp": "1623628800",
+        "low": "12",
+        "date": "2021-06-14",
+        "high": "12.9"
+    },
+    {
+        "open": "11",
+        "close": "10.8",
+        "volume": "2800",
+        "symbol": "TV6",
+        "timestamp": "1623715200",
+        "low": "10.8",
+        "date": "2021-06-15",
+        "high": "11"
+    },
+    {
+        "open": "12",
+        "close": "12.4",
+        "volume": "5700",
+        "symbol": "TV6",
+        "timestamp": "1623801600",
+        "low": "12",
+        "date": "2021-06-16",
+        "high": "12.4"
+    },
+    {
+        "open": "14",
+        "close": "12.4",
+        "volume": "1700",
+        "symbol": "TV6",
+        "timestamp": "1623888000",
+        "low": "12.4",
+        "date": "2021-06-17",
+        "high": "14"
+    },
+    {
+        "open": "12",
+        "close": "12.5",
+        "volume": "3000",
+        "symbol": "TV6",
+        "timestamp": "1623974400",
+        "low": "11.5",
+        "date": "2021-06-18",
+        "high": "12.5"
+    },
+    {
+        "open": "10.6",
+        "close": "12.2",
+        "volume": "3100",
+        "symbol": "TV6",
+        "timestamp": "1624233600",
+        "low": "10.5",
+        "date": "2021-06-21",
+        "high": "12.2"
+    },
+    {
+        "open": "12.1",
+        "close": "12.1",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1624320000",
+        "low": "12.1",
+        "date": "2021-06-22",
+        "high": "12.1"
+    },
+    {
+        "open": "10.3",
+        "close": "10.3",
+        "volume": "2300",
+        "symbol": "TV6",
+        "timestamp": "1624579200",
+        "low": "10.3",
+        "date": "2021-06-25",
+        "high": "10.3"
+    },
+    {
+        "open": "10.3",
+        "close": "10.3",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1624838400",
+        "low": "10.3",
+        "date": "2021-06-28",
+        "high": "10.3"
+    },
+    {
+        "open": "11.4",
+        "close": "11",
+        "volume": "300",
+        "symbol": "TV6",
+        "timestamp": "1624924800",
+        "low": "11",
+        "date": "2021-06-29",
+        "high": "11.4"
+    },
+    {
+        "open": "10.4",
+        "close": "10.4",
+        "volume": "800",
+        "symbol": "TV6",
+        "timestamp": "1625011200",
+        "low": "10.4",
+        "date": "2021-06-30",
+        "high": "10.4"
+    },
+    {
+        "open": "11.9",
+        "close": "10.8",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1625097600",
+        "low": "10.8",
+        "date": "2021-07-01",
+        "high": "11.9"
+    },
+    {
+        "open": "12",
+        "close": "11.6",
+        "volume": "200",
+        "symbol": "TV6",
+        "timestamp": "1625184000",
+        "low": "11.6",
+        "date": "2021-07-02",
+        "high": "12"
+    },
+    {
+        "open": "12.7",
+        "close": "11.5",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1625443200",
+        "low": "10.1",
+        "date": "2021-07-05",
+        "high": "12.7"
+    },
+    {
+        "open": "11.9",
+        "close": "10.8",
+        "volume": "2100",
+        "symbol": "TV6",
+        "timestamp": "1625529600",
+        "low": "10.8",
+        "date": "2021-07-06",
+        "high": "11.9"
+    },
+    {
+        "open": "9.3",
+        "close": "9.3",
+        "volume": "1300",
+        "symbol": "TV6",
+        "timestamp": "1625616000",
+        "low": "9.3",
+        "date": "2021-07-07",
+        "high": "9.3"
+    },
+    {
+        "open": "10.5",
+        "close": "10.6",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1625702400",
+        "low": "10.5",
+        "date": "2021-07-08",
+        "high": "10.6"
+    },
+    {
+        "open": "11.1",
+        "close": "12",
+        "volume": "300",
+        "symbol": "TV6",
+        "timestamp": "1625788800",
+        "low": "11.1",
+        "date": "2021-07-09",
+        "high": "12"
+    },
+    {
+        "open": "12.9",
+        "close": "12.5",
+        "volume": "1100",
+        "symbol": "TV6",
+        "timestamp": "1626134400",
+        "low": "12.5",
+        "date": "2021-07-13",
+        "high": "12.9"
+    },
+    {
+        "open": "11.8",
+        "close": "11.8",
+        "volume": "1800",
+        "symbol": "TV6",
+        "timestamp": "1626220800",
+        "low": "11.6",
+        "date": "2021-07-14",
+        "high": "11.8"
+    },
+    {
+        "open": "12.9",
+        "close": "12.9",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1626307200",
+        "low": "12.9",
+        "date": "2021-07-15",
+        "high": "12.9"
+    },
+    {
+        "open": "13.2",
+        "close": "14.8",
+        "volume": "200",
+        "symbol": "TV6",
+        "timestamp": "1626393600",
+        "low": "13.2",
+        "date": "2021-07-16",
+        "high": "14.8"
+    },
+    {
+        "open": "14",
+        "close": "14",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1626912000",
+        "low": "14",
+        "date": "2021-07-22",
+        "high": "14"
+    },
+    {
+        "open": "11.9",
+        "close": "11.9",
+        "volume": "2000",
+        "symbol": "TV6",
+        "timestamp": "1626998400",
+        "low": "11.9",
+        "date": "2021-07-23",
+        "high": "11.9"
+    },
+    {
+        "open": "10.2",
+        "close": "11.9",
+        "volume": "3600",
+        "symbol": "TV6",
+        "timestamp": "1627257600",
+        "low": "10.2",
+        "date": "2021-07-26",
+        "high": "11.9"
+    },
+    {
+        "open": "11.8",
+        "close": "11.8",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1627344000",
+        "low": "11.8",
+        "date": "2021-07-27",
+        "high": "11.8"
+    },
+    {
+        "open": "12.9",
+        "close": "12.9",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1627430400",
+        "low": "12.9",
+        "date": "2021-07-28",
+        "high": "12.9"
+    },
+    {
+        "open": "13.4",
+        "close": "13.4",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1627862400",
+        "low": "13.4",
+        "date": "2021-08-02",
+        "high": "13.4"
+    },
+    {
+        "open": "13.8",
+        "close": "13.6",
+        "volume": "200",
+        "symbol": "TV6",
+        "timestamp": "1628035200",
+        "low": "13.6",
+        "date": "2021-08-04",
+        "high": "13.8"
+    },
+    {
+        "open": "13.6",
+        "close": "12",
+        "volume": "200",
+        "symbol": "TV6",
+        "timestamp": "1628208000",
+        "low": "12",
+        "date": "2021-08-06",
+        "high": "13.6"
+    },
+    {
+        "open": "13.6",
+        "close": "13.6",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1628467200",
+        "low": "13.6",
+        "date": "2021-08-09",
+        "high": "13.6"
+    },
+    {
+        "open": "11.8",
+        "close": "11.8",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1628640000",
+        "low": "11.8",
+        "date": "2021-08-11",
+        "high": "11.8"
+    },
+    {
+        "open": "12.8",
+        "close": "12.6",
+        "volume": "300",
+        "symbol": "TV6",
+        "timestamp": "1628726400",
+        "low": "12.6",
+        "date": "2021-08-12",
+        "high": "12.8"
+    },
+    {
+        "open": "11",
+        "close": "11",
+        "volume": "8200",
+        "symbol": "TV6",
+        "timestamp": "1629158400",
+        "low": "10.8",
+        "date": "2021-08-17",
+        "high": "11"
+    },
+    {
+        "open": "9.2",
+        "close": "9.2",
+        "volume": "9900",
+        "symbol": "TV6",
+        "timestamp": "1629849600",
+        "low": "9.2",
+        "date": "2021-08-25",
+        "high": "9.2"
+    },
+    {
+        "open": "9",
+        "close": "9.2",
+        "volume": "900",
+        "symbol": "TV6",
+        "timestamp": "1630022400",
+        "low": "9",
+        "date": "2021-08-27",
+        "high": "9.2"
+    },
+    {
+        "open": "9",
+        "close": "9",
+        "volume": "3200",
+        "symbol": "TV6",
+        "timestamp": "1630281600",
+        "low": "8",
+        "date": "2021-08-30",
+        "high": "9"
+    },
+    {
+        "open": "9.2",
+        "close": "9.2",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1630368000",
+        "low": "9.2",
+        "date": "2021-08-31",
+        "high": "9.2"
+    },
+    {
+        "open": "8.1",
+        "close": "8.1",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1630454400",
+        "low": "8.1",
+        "date": "2021-09-01",
+        "high": "8.1"
+    },
+    {
+        "open": "8.3",
+        "close": "8.1",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1630886400",
+        "low": "8.1",
+        "date": "2021-09-06",
+        "high": "8.3"
+    },
+    {
+        "open": "8.2",
+        "close": "9.1",
+        "volume": "4000",
+        "symbol": "TV6",
+        "timestamp": "1630972800",
+        "low": "8.2",
+        "date": "2021-09-07",
+        "high": "9.1"
+    },
+    {
+        "open": "8.2",
+        "close": "8.2",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1631059200",
+        "low": "8.2",
+        "date": "2021-09-08",
+        "high": "8.2"
+    },
+    {
+        "open": "8.5",
+        "close": "8.8",
+        "volume": "5600",
+        "symbol": "TV6",
+        "timestamp": "1631232000",
+        "low": "8.2",
+        "date": "2021-09-10",
+        "high": "9"
+    },
+    {
+        "open": "7.5",
+        "close": "7.6",
+        "volume": "2300",
+        "symbol": "TV6",
+        "timestamp": "1631491200",
+        "low": "7.5",
+        "date": "2021-09-13",
+        "high": "7.6"
+    },
+    {
+        "open": "7.6",
+        "close": "7.6",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1631664000",
+        "low": "7.6",
+        "date": "2021-09-15",
+        "high": "7.6"
+    },
+    {
+        "open": "7.7",
+        "close": "7.7",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1631750400",
+        "low": "7.7",
+        "date": "2021-09-16",
+        "high": "7.7"
+    },
+    {
+        "open": "7.8",
+        "close": "7.8",
+        "volume": "3800",
+        "symbol": "TV6",
+        "timestamp": "1631836800",
+        "low": "7.8",
+        "date": "2021-09-17",
+        "high": "7.8"
+    },
+    {
+        "open": "8.8",
+        "close": "8.9",
+        "volume": "3200",
+        "symbol": "TV6",
+        "timestamp": "1632096000",
+        "low": "8.8",
+        "date": "2021-09-20",
+        "high": "8.9"
+    },
+    {
+        "open": "10.2",
+        "close": "10.2",
+        "volume": "1200",
+        "symbol": "TV6",
+        "timestamp": "1632182400",
+        "low": "10.2",
+        "date": "2021-09-21",
+        "high": "10.2"
+    },
+    {
+        "open": "11.7",
+        "close": "11.7",
+        "volume": "9300",
+        "symbol": "TV6",
+        "timestamp": "1632268800",
+        "low": "11.7",
+        "date": "2021-09-22",
+        "high": "11.7"
+    },
+    {
+        "open": "13.4",
+        "close": "13.4",
+        "volume": "15200",
+        "symbol": "TV6",
+        "timestamp": "1632355200",
+        "low": "13.4",
+        "date": "2021-09-23",
+        "high": "13.4"
+    },
+    {
+        "open": "15.4",
+        "close": "11.4",
+        "volume": "31700",
+        "symbol": "TV6",
+        "timestamp": "1632441600",
+        "low": "11.4",
+        "date": "2021-09-24",
+        "high": "15.4"
+    },
+    {
+        "open": "9.9",
+        "close": "10",
+        "volume": "4400",
+        "symbol": "TV6",
+        "timestamp": "1632700800",
+        "low": "9.9",
+        "date": "2021-09-27",
+        "high": "10"
+    },
+    {
+        "open": "8.5",
+        "close": "8.5",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1632787200",
+        "low": "8.5",
+        "date": "2021-09-28",
+        "high": "8.5"
+    },
+    {
+        "open": "9.7",
+        "close": "9.7",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1632873600",
+        "low": "9.7",
+        "date": "2021-09-29",
+        "high": "9.7"
+    },
+    {
+        "open": "11",
+        "close": "11.1",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1632960000",
+        "low": "11",
+        "date": "2021-09-30",
+        "high": "11.1"
+    },
+    {
+        "open": "9.5",
+        "close": "10",
+        "volume": "16500",
+        "symbol": "TV6",
+        "timestamp": "1633305600",
+        "low": "9.5",
+        "date": "2021-10-04",
+        "high": "10"
+    },
+    {
+        "open": "10.8",
+        "close": "10.8",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1633392000",
+        "low": "10.8",
+        "date": "2021-10-05",
+        "high": "10.8"
+    },
+    {
+        "open": "11.8",
+        "close": "11.6",
+        "volume": "11500",
+        "symbol": "TV6",
+        "timestamp": "1633478400",
+        "low": "10.8",
+        "date": "2021-10-06",
+        "high": "12"
+    },
+    {
+        "open": "11.4",
+        "close": "12",
+        "volume": "8300",
+        "symbol": "TV6",
+        "timestamp": "1633564800",
+        "low": "11.4",
+        "date": "2021-10-07",
+        "high": "12"
+    },
+    {
+        "open": "11.5",
+        "close": "12",
+        "volume": "9900",
+        "symbol": "TV6",
+        "timestamp": "1633651200",
+        "low": "11.3",
+        "date": "2021-10-08",
+        "high": "12"
+    },
+    {
+        "open": "10.8",
+        "close": "11.9",
+        "volume": "1800",
+        "symbol": "TV6",
+        "timestamp": "1633910400",
+        "low": "9.9",
+        "date": "2021-10-11",
+        "high": "11.9"
+    },
+    {
+        "open": "9.5",
+        "close": "9.2",
+        "volume": "800",
+        "symbol": "TV6",
+        "timestamp": "1633996800",
+        "low": "9.1",
+        "date": "2021-10-12",
+        "high": "11.9"
+    },
+    {
+        "open": "9.4",
+        "close": "11.5",
+        "volume": "16100",
+        "symbol": "TV6",
+        "timestamp": "1634083200",
+        "low": "9.4",
+        "date": "2021-10-13",
+        "high": "11.5"
+    },
+    {
+        "open": "11.5",
+        "close": "11.5",
+        "volume": "5200",
+        "symbol": "TV6",
+        "timestamp": "1634169600",
+        "low": "11.5",
+        "date": "2021-10-14",
+        "high": "11.5"
+    },
+    {
+        "open": "9.9",
+        "close": "9.9",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1634256000",
+        "low": "9.9",
+        "date": "2021-10-15",
+        "high": "9.9"
+    },
+    {
+        "open": "8.8",
+        "close": "9.2",
+        "volume": "800",
+        "symbol": "TV6",
+        "timestamp": "1634515200",
+        "low": "8.8",
+        "date": "2021-10-18",
+        "high": "9.5"
+    },
+    {
+        "open": "8.3",
+        "close": "10.3",
+        "volume": "1200",
+        "symbol": "TV6",
+        "timestamp": "1634601600",
+        "low": "8.3",
+        "date": "2021-10-19",
+        "high": "10.3"
+    },
+    {
+        "open": "9.6",
+        "close": "9.6",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1634688000",
+        "low": "9.6",
+        "date": "2021-10-20",
+        "high": "9.6"
+    },
+    {
+        "open": "9.4",
+        "close": "11",
+        "volume": "5500",
+        "symbol": "TV6",
+        "timestamp": "1634774400",
+        "low": "9.4",
+        "date": "2021-10-21",
+        "high": "11"
+    },
+    {
+        "open": "9.7",
+        "close": "9.7",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1635120000",
+        "low": "9.7",
+        "date": "2021-10-25",
+        "high": "9.7"
+    },
+    {
+        "open": "8.6",
+        "close": "11.1",
+        "volume": "2800",
+        "symbol": "TV6",
+        "timestamp": "1635206400",
+        "low": "8.6",
+        "date": "2021-10-26",
+        "high": "11.1"
+    },
+    {
+        "open": "11.9",
+        "close": "12.1",
+        "volume": "7800",
+        "symbol": "TV6",
+        "timestamp": "1635292800",
+        "low": "11.9",
+        "date": "2021-10-27",
+        "high": "12.1"
+    },
+    {
+        "open": "12.1",
+        "close": "11.6",
+        "volume": "5600",
+        "symbol": "TV6",
+        "timestamp": "1635379200",
+        "low": "11.6",
+        "date": "2021-10-28",
+        "high": "12.1"
+    },
+    {
+        "open": "10",
+        "close": "10",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1635465600",
+        "low": "10",
+        "date": "2021-10-29",
+        "high": "10"
+    },
+    {
+        "open": "11",
+        "close": "11.5",
+        "volume": "7200",
+        "symbol": "TV6",
+        "timestamp": "1635724800",
+        "low": "11",
+        "date": "2021-11-01",
+        "high": "11.5"
+    },
+    {
+        "open": "10",
+        "close": "10",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1635811200",
+        "low": "10",
+        "date": "2021-11-02",
+        "high": "10"
+    },
+    {
+        "open": "10.2",
+        "close": "11.5",
+        "volume": "13600",
+        "symbol": "TV6",
+        "timestamp": "1635897600",
+        "low": "10.2",
+        "date": "2021-11-03",
+        "high": "11.5"
+    },
+    {
+        "open": "10.1",
+        "close": "10.1",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1635984000",
+        "low": "10.1",
+        "date": "2021-11-04",
+        "high": "10.1"
+    },
+    {
+        "open": "11.4",
+        "close": "11.6",
+        "volume": "5000",
+        "symbol": "TV6",
+        "timestamp": "1636070400",
+        "low": "11.4",
+        "date": "2021-11-05",
+        "high": "11.6"
+    },
+    {
+        "open": "10.8",
+        "close": "10.6",
+        "volume": "8500",
+        "symbol": "TV6",
+        "timestamp": "1636329600",
+        "low": "10.5",
+        "date": "2021-11-08",
+        "high": "10.8"
+    },
+    {
+        "open": "10.7",
+        "close": "12.1",
+        "volume": "6400",
+        "symbol": "TV6",
+        "timestamp": "1636502400",
+        "low": "10.6",
+        "date": "2021-11-10",
+        "high": "12.1"
+    },
+    {
+        "open": "10.6",
+        "close": "10.7",
+        "volume": "22300",
+        "symbol": "TV6",
+        "timestamp": "1636588800",
+        "low": "10.6",
+        "date": "2021-11-11",
+        "high": "11.8"
+    },
+    {
+        "open": "10.8",
+        "close": "12.1",
+        "volume": "5200",
+        "symbol": "TV6",
+        "timestamp": "1636675200",
+        "low": "10.7",
+        "date": "2021-11-12",
+        "high": "12.2"
+    },
+    {
+        "open": "12.9",
+        "close": "12.5",
+        "volume": "11300",
+        "symbol": "TV6",
+        "timestamp": "1636934400",
+        "low": "10",
+        "date": "2021-11-15",
+        "high": "12.9"
+    },
+    {
+        "open": "11.7",
+        "close": "11",
+        "volume": "4200",
+        "symbol": "TV6",
+        "timestamp": "1637020800",
+        "low": "11",
+        "date": "2021-11-16",
+        "high": "11.7"
+    },
+    {
+        "open": "10.7",
+        "close": "11.1",
+        "volume": "13400",
+        "symbol": "TV6",
+        "timestamp": "1637107200",
+        "low": "10.7",
+        "date": "2021-11-17",
+        "high": "11.1"
+    },
+    {
+        "open": "10.8",
+        "close": "11",
+        "volume": "4600",
+        "symbol": "TV6",
+        "timestamp": "1637193600",
+        "low": "10.8",
+        "date": "2021-11-18",
+        "high": "11"
+    },
+    {
+        "open": "10.7",
+        "close": "11.4",
+        "volume": "6500",
+        "symbol": "TV6",
+        "timestamp": "1637280000",
+        "low": "10.7",
+        "date": "2021-11-19",
+        "high": "11.4"
+    },
+    {
+        "open": "10.1",
+        "close": "11",
+        "volume": "1300",
+        "symbol": "TV6",
+        "timestamp": "1637539200",
+        "low": "10.1",
+        "date": "2021-11-22",
+        "high": "11"
+    },
+    {
+        "open": "11.2",
+        "close": "12.3",
+        "volume": "9800",
+        "symbol": "TV6",
+        "timestamp": "1637625600",
+        "low": "11.2",
+        "date": "2021-11-23",
+        "high": "12.5"
+    },
+    {
+        "open": "12.3",
+        "close": "12",
+        "volume": "3100",
+        "symbol": "TV6",
+        "timestamp": "1637712000",
+        "low": "12",
+        "date": "2021-11-24",
+        "high": "12.6"
+    },
+    {
+        "open": "12.3",
+        "close": "12.3",
+        "volume": "7000",
+        "symbol": "TV6",
+        "timestamp": "1637798400",
+        "low": "12",
+        "date": "2021-11-25",
+        "high": "12.4"
+    },
+    {
+        "open": "12.3",
+        "close": "12.3",
+        "volume": "4900",
+        "symbol": "TV6",
+        "timestamp": "1637884800",
+        "low": "12.2",
+        "date": "2021-11-26",
+        "high": "12.3"
+    },
+    {
+        "open": "12.3",
+        "close": "13",
+        "volume": "6100",
+        "symbol": "TV6",
+        "timestamp": "1638144000",
+        "low": "12.3",
+        "date": "2021-11-29",
+        "high": "14.1"
+    },
+    {
+        "open": "13.3",
+        "close": "15.2",
+        "volume": "39000",
+        "symbol": "TV6",
+        "timestamp": "1638230400",
+        "low": "13.3",
+        "date": "2021-11-30",
+        "high": "15.2"
+    },
+    {
+        "open": "17.3",
+        "close": "17.3",
+        "volume": "18600",
+        "symbol": "TV6",
+        "timestamp": "1638316800",
+        "low": "17.3",
+        "date": "2021-12-01",
+        "high": "17.3"
+    },
+    {
+        "open": "19.8",
+        "close": "19.8",
+        "volume": "24600",
+        "symbol": "TV6",
+        "timestamp": "1638403200",
+        "low": "19.8",
+        "date": "2021-12-02",
+        "high": "19.8"
+    },
+    {
+        "open": "22.5",
+        "close": "17.3",
+        "volume": "18200",
+        "symbol": "TV6",
+        "timestamp": "1638489600",
+        "low": "17.1",
+        "date": "2021-12-03",
+        "high": "22.7"
+    },
+    {
+        "open": "20.2",
+        "close": "17.4",
+        "volume": "7700",
+        "symbol": "TV6",
+        "timestamp": "1638748800",
+        "low": "17.4",
+        "date": "2021-12-06",
+        "high": "20.3"
+    },
+    {
+        "open": "16",
+        "close": "16",
+        "volume": "14000",
+        "symbol": "TV6",
+        "timestamp": "1638835200",
+        "low": "16",
+        "date": "2021-12-07",
+        "high": "16"
+    },
+    {
+        "open": "13.9",
+        "close": "14.1",
+        "volume": "1700",
+        "symbol": "TV6",
+        "timestamp": "1638921600",
+        "low": "13.8",
+        "date": "2021-12-08",
+        "high": "14.1"
+    },
+    {
+        "open": "16",
+        "close": "16.1",
+        "volume": "4600",
+        "symbol": "TV6",
+        "timestamp": "1639008000",
+        "low": "15.8",
+        "date": "2021-12-09",
+        "high": "16.1"
+    },
+    {
+        "open": "18.3",
+        "close": "17.8",
+        "volume": "1800",
+        "symbol": "TV6",
+        "timestamp": "1639094400",
+        "low": "15.8",
+        "date": "2021-12-10",
+        "high": "18.4"
+    },
+    {
+        "open": "15.5",
+        "close": "16.9",
+        "volume": "4100",
+        "symbol": "TV6",
+        "timestamp": "1639353600",
+        "low": "15.3",
+        "date": "2021-12-13",
+        "high": "16.9"
+    },
+    {
+        "open": "16",
+        "close": "15.5",
+        "volume": "27800",
+        "symbol": "TV6",
+        "timestamp": "1639440000",
+        "low": "15.5",
+        "date": "2021-12-14",
+        "high": "16.5"
+    },
+    {
+        "open": "16",
+        "close": "16.3",
+        "volume": "26400",
+        "symbol": "TV6",
+        "timestamp": "1639526400",
+        "low": "15.7",
+        "date": "2021-12-15",
+        "high": "16.3"
+    },
+    {
+        "open": "14.1",
+        "close": "15.9",
+        "volume": "11100",
+        "symbol": "TV6",
+        "timestamp": "1639612800",
+        "low": "14",
+        "date": "2021-12-16",
+        "high": "15.9"
+    },
+    {
+        "open": "15.9",
+        "close": "14",
+        "volume": "4700",
+        "symbol": "TV6",
+        "timestamp": "1639699200",
+        "low": "14",
+        "date": "2021-12-17",
+        "high": "15.9"
+    },
+    {
+        "open": "12.6",
+        "close": "13",
+        "volume": "3800",
+        "symbol": "TV6",
+        "timestamp": "1639958400",
+        "low": "12.6",
+        "date": "2021-12-20",
+        "high": "13"
+    },
+    {
+        "open": "12.8",
+        "close": "11.6",
+        "volume": "6100",
+        "symbol": "TV6",
+        "timestamp": "1640044800",
+        "low": "11.2",
+        "date": "2021-12-21",
+        "high": "12.8"
+    },
+    {
+        "open": "11.7",
+        "close": "13.5",
+        "volume": "6100",
+        "symbol": "TV6",
+        "timestamp": "1640131200",
+        "low": "11.7",
+        "date": "2021-12-22",
+        "high": "13.5"
+    },
+    {
+        "open": "14.5",
+        "close": "14.5",
+        "volume": "2000",
+        "symbol": "TV6",
+        "timestamp": "1640217600",
+        "low": "14.5",
+        "date": "2021-12-23",
+        "high": "14.5"
+    },
+    {
+        "open": "12.6",
+        "close": "12.8",
+        "volume": "4500",
+        "symbol": "TV6",
+        "timestamp": "1640304000",
+        "low": "12.6",
+        "date": "2021-12-24",
+        "high": "12.9"
+    },
+    {
+        "open": "12.6",
+        "close": "13.7",
+        "volume": "2100",
+        "symbol": "TV6",
+        "timestamp": "1640563200",
+        "low": "12.6",
+        "date": "2021-12-27",
+        "high": "13.7"
+    },
+    {
+        "open": "14",
+        "close": "12.5",
+        "volume": "7900",
+        "symbol": "TV6",
+        "timestamp": "1640649600",
+        "low": "12",
+        "date": "2021-12-28",
+        "high": "14.3"
+    },
+    {
+        "open": "12.8",
+        "close": "10.8",
+        "volume": "5000",
+        "symbol": "TV6",
+        "timestamp": "1640736000",
+        "low": "10.8",
+        "date": "2021-12-29",
+        "high": "12.8"
+    },
+    {
+        "open": "12.9",
+        "close": "13",
+        "volume": "2700",
+        "symbol": "TV6",
+        "timestamp": "1640822400",
+        "low": "12.9",
+        "date": "2021-12-30",
+        "high": "13.4"
+    },
+    {
+        "open": "12.9",
+        "close": "12.8",
+        "volume": "1500",
+        "symbol": "TV6",
+        "timestamp": "1640908800",
+        "low": "12.8",
+        "date": "2021-12-31",
+        "high": "13"
+    },
+    {
+        "open": "12.8",
+        "close": "13.8",
+        "volume": "2600",
+        "symbol": "TV6",
+        "timestamp": "1641254400",
+        "low": "12.8",
+        "date": "2022-01-04",
+        "high": "13.9"
+    },
+    {
+        "open": "13.6",
+        "close": "13",
+        "volume": "1900",
+        "symbol": "TV6",
+        "timestamp": "1641340800",
+        "low": "13",
+        "date": "2022-01-05",
+        "high": "13.7"
+    },
+    {
+        "open": "13.6",
+        "close": "13.5",
+        "volume": "2100",
+        "symbol": "TV6",
+        "timestamp": "1641427200",
+        "low": "13",
+        "date": "2022-01-06",
+        "high": "13.6"
+    },
+    {
+        "open": "13.3",
+        "close": "13.1",
+        "volume": "3100",
+        "symbol": "TV6",
+        "timestamp": "1641513600",
+        "low": "13",
+        "date": "2022-01-07",
+        "high": "13.3"
+    },
+    {
+        "open": "12.7",
+        "close": "13.5",
+        "volume": "24600",
+        "symbol": "TV6",
+        "timestamp": "1641772800",
+        "low": "12.7",
+        "date": "2022-01-10",
+        "high": "13.9"
+    },
+    {
+        "open": "13.5",
+        "close": "12.7",
+        "volume": "3000",
+        "symbol": "TV6",
+        "timestamp": "1641859200",
+        "low": "12.7",
+        "date": "2022-01-11",
+        "high": "13.6"
+    },
+    {
+        "open": "13.1",
+        "close": "13",
+        "volume": "6100",
+        "symbol": "TV6",
+        "timestamp": "1641945600",
+        "low": "13",
+        "date": "2022-01-12",
+        "high": "14"
+    },
+    {
+        "open": "14.5",
+        "close": "13",
+        "volume": "3800",
+        "symbol": "TV6",
+        "timestamp": "1642032000",
+        "low": "13",
+        "date": "2022-01-13",
+        "high": "14.5"
+    },
+    {
+        "open": "13.4",
+        "close": "13.4",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1642118400",
+        "low": "13.4",
+        "date": "2022-01-14",
+        "high": "13.4"
+    },
+    {
+        "open": "13.6",
+        "close": "13",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1642377600",
+        "low": "12.8",
+        "date": "2022-01-17",
+        "high": "13.6"
+    },
+    {
+        "open": "13",
+        "close": "13",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1642464000",
+        "low": "13",
+        "date": "2022-01-18",
+        "high": "13"
+    },
+    {
+        "open": "14.9",
+        "close": "14",
+        "volume": "1300",
+        "symbol": "TV6",
+        "timestamp": "1642550400",
+        "low": "13.4",
+        "date": "2022-01-19",
+        "high": "14.9"
+    },
+    {
+        "open": "12.4",
+        "close": "12.3",
+        "volume": "1100",
+        "symbol": "TV6",
+        "timestamp": "1642723200",
+        "low": "12.3",
+        "date": "2022-01-21",
+        "high": "12.5"
+    },
+    {
+        "open": "12.1",
+        "close": "11",
+        "volume": "11200",
+        "symbol": "TV6",
+        "timestamp": "1642982400",
+        "low": "11",
+        "date": "2022-01-24",
+        "high": "12.9"
+    },
+    {
+        "open": "13.2",
+        "close": "13.1",
+        "volume": "1700",
+        "symbol": "TV6",
+        "timestamp": "1643068800",
+        "low": "10.7",
+        "date": "2022-01-25",
+        "high": "13.2"
+    },
+    {
+        "open": "12.4",
+        "close": "12.4",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1643155200",
+        "low": "12.4",
+        "date": "2022-01-26",
+        "high": "12.4"
+    },
+    {
+        "open": "11.5",
+        "close": "11.5",
+        "volume": "5700",
+        "symbol": "TV6",
+        "timestamp": "1643328000",
+        "low": "11.5",
+        "date": "2022-01-28",
+        "high": "11.5"
+    },
+    {
+        "open": "11.5",
+        "close": "11",
+        "volume": "1600",
+        "symbol": "TV6",
+        "timestamp": "1644192000",
+        "low": "11",
+        "date": "2022-02-07",
+        "high": "11.5"
+    },
+    {
+        "open": "11.4",
+        "close": "11.4",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1644278400",
+        "low": "11.4",
+        "date": "2022-02-08",
+        "high": "11.4"
+    },
+    {
+        "open": "11.3",
+        "close": "11.4",
+        "volume": "5800",
+        "symbol": "TV6",
+        "timestamp": "1644364800",
+        "low": "11.3",
+        "date": "2022-02-09",
+        "high": "11.4"
+    },
+    {
+        "open": "12",
+        "close": "12.7",
+        "volume": "900",
+        "symbol": "TV6",
+        "timestamp": "1644451200",
+        "low": "11.9",
+        "date": "2022-02-10",
+        "high": "12.8"
+    },
+    {
+        "open": "12.7",
+        "close": "12",
+        "volume": "5400",
+        "symbol": "TV6",
+        "timestamp": "1644537600",
+        "low": "12",
+        "date": "2022-02-11",
+        "high": "12.7"
+    },
+    {
+        "open": "12.9",
+        "close": "13",
+        "volume": "7100",
+        "symbol": "TV6",
+        "timestamp": "1644796800",
+        "low": "11.5",
+        "date": "2022-02-14",
+        "high": "13"
+    },
+    {
+        "open": "11.8",
+        "close": "12.9",
+        "volume": "400",
+        "symbol": "TV6",
+        "timestamp": "1644883200",
+        "low": "11.8",
+        "date": "2022-02-15",
+        "high": "12.9"
+    },
+    {
+        "open": "13",
+        "close": "12.5",
+        "volume": "2000",
+        "symbol": "TV6",
+        "timestamp": "1644969600",
+        "low": "12.5",
+        "date": "2022-02-16",
+        "high": "13"
+    },
+    {
+        "open": "12.5",
+        "close": "12",
+        "volume": "24500",
+        "symbol": "TV6",
+        "timestamp": "1645056000",
+        "low": "12",
+        "date": "2022-02-17",
+        "high": "12.5"
+    },
+    {
+        "open": "12.7",
+        "close": "12",
+        "volume": "900",
+        "symbol": "TV6",
+        "timestamp": "1645142400",
+        "low": "12",
+        "date": "2022-02-18",
+        "high": "12.7"
+    },
+    {
+        "open": "12.8",
+        "close": "11.5",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1645488000",
+        "low": "11.5",
+        "date": "2022-02-22",
+        "high": "12.8"
+    },
+    {
+        "open": "12.3",
+        "close": "12.3",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1645574400",
+        "low": "12.3",
+        "date": "2022-02-23",
+        "high": "12.3"
+    },
+    {
+        "open": "11.2",
+        "close": "11.2",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1645660800",
+        "low": "11.2",
+        "date": "2022-02-24",
+        "high": "11.2"
+    },
+    {
+        "open": "12.6",
+        "close": "12.6",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1645747200",
+        "low": "12.6",
+        "date": "2022-02-25",
+        "high": "12.6"
+    },
+    {
+        "open": "12",
+        "close": "12",
+        "volume": "2100",
+        "symbol": "TV6",
+        "timestamp": "1646092800",
+        "low": "12",
+        "date": "2022-03-01",
+        "high": "12.6"
+    },
+    {
+        "open": "12.1",
+        "close": "11.5",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1646179200",
+        "low": "11.5",
+        "date": "2022-03-02",
+        "high": "12.1"
+    },
+    {
+        "open": "11.8",
+        "close": "11.5",
+        "volume": "4300",
+        "symbol": "TV6",
+        "timestamp": "1646265600",
+        "low": "11.5",
+        "date": "2022-03-03",
+        "high": "11.9"
+    },
+    {
+        "open": "11.5",
+        "close": "11.9",
+        "volume": "5300",
+        "symbol": "TV6",
+        "timestamp": "1646352000",
+        "low": "10",
+        "date": "2022-03-04",
+        "high": "11.9"
+    },
+    {
+        "open": "11.9",
+        "close": "11.9",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1646611200",
+        "low": "11.9",
+        "date": "2022-03-07",
+        "high": "11.9"
+    },
+    {
+        "open": "11.9",
+        "close": "11.9",
+        "volume": "3900",
+        "symbol": "TV6",
+        "timestamp": "1646697600",
+        "low": "11.7",
+        "date": "2022-03-08",
+        "high": "12.3"
+    },
+    {
+        "open": "11.8",
+        "close": "11.8",
+        "volume": "3200",
+        "symbol": "TV6",
+        "timestamp": "1646784000",
+        "low": "11.8",
+        "date": "2022-03-09",
+        "high": "11.8"
+    },
+    {
+        "open": "11.7",
+        "close": "11.7",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1646870400",
+        "low": "11.7",
+        "date": "2022-03-10",
+        "high": "11.7"
+    },
+    {
+        "open": "11.6",
+        "close": "11",
+        "volume": "12400",
+        "symbol": "TV6",
+        "timestamp": "1646956800",
+        "low": "11",
+        "date": "2022-03-11",
+        "high": "11.6"
+    },
+    {
+        "open": "11.1",
+        "close": "11",
+        "volume": "700",
+        "symbol": "TV6",
+        "timestamp": "1647216000",
+        "low": "11",
+        "date": "2022-03-14",
+        "high": "11.1"
+    },
+    {
+        "open": "11",
+        "close": "11",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1647302400",
+        "low": "11",
+        "date": "2022-03-15",
+        "high": "11"
+    },
+    {
+        "open": "11",
+        "close": "11.1",
+        "volume": "9400",
+        "symbol": "TV6",
+        "timestamp": "1647388800",
+        "low": "10.5",
+        "date": "2022-03-16",
+        "high": "11.1"
+    },
+    {
+        "open": "11",
+        "close": "11",
+        "volume": "800",
+        "symbol": "TV6",
+        "timestamp": "1647475200",
+        "low": "11",
+        "date": "2022-03-17",
+        "high": "11"
+    },
+    {
+        "open": "11.5",
+        "close": "11.4",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1647561600",
+        "low": "11.4",
+        "date": "2022-03-18",
+        "high": "11.5"
+    },
+    {
+        "open": "11.4",
+        "close": "11.1",
+        "volume": "4200",
+        "symbol": "TV6",
+        "timestamp": "1647820800",
+        "low": "11",
+        "date": "2022-03-21",
+        "high": "11.4"
+    },
+    {
+        "open": "11.1",
+        "close": "11.1",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1647907200",
+        "low": "11.1",
+        "date": "2022-03-22",
+        "high": "11.1"
+    },
+    {
+        "open": "11.1",
+        "close": "11.1",
+        "volume": "800",
+        "symbol": "TV6",
+        "timestamp": "1647993600",
+        "low": "11.1",
+        "date": "2022-03-23",
+        "high": "11.1"
+    },
+    {
+        "open": "11.1",
+        "close": "11.1",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1648080000",
+        "low": "11.1",
+        "date": "2022-03-24",
+        "high": "11.1"
+    },
+    {
+        "open": "11",
+        "close": "10.7",
+        "volume": "2000",
+        "symbol": "TV6",
+        "timestamp": "1648166400",
+        "low": "10.7",
+        "date": "2022-03-25",
+        "high": "11"
+    },
+    {
+        "open": "11",
+        "close": "10.2",
+        "volume": "3900",
+        "symbol": "TV6",
+        "timestamp": "1648425600",
+        "low": "10.2",
+        "date": "2022-03-28",
+        "high": "11.1"
+    },
+    {
+        "open": "10.2",
+        "close": "10",
+        "volume": "18000",
+        "symbol": "TV6",
+        "timestamp": "1648512000",
+        "low": "10",
+        "date": "2022-03-29",
+        "high": "10.8"
+    },
+    {
+        "open": "11.5",
+        "close": "11.3",
+        "volume": "5200",
+        "symbol": "TV6",
+        "timestamp": "1648598400",
+        "low": "9.6",
+        "date": "2022-03-30",
+        "high": "11.5"
+    },
+    {
+        "open": "11",
+        "close": "11",
+        "volume": "1500",
+        "symbol": "TV6",
+        "timestamp": "1648684800",
+        "low": "10.9",
+        "date": "2022-03-31",
+        "high": "11"
+    },
+    {
+        "open": "10.1",
+        "close": "10.7",
+        "volume": "6200",
+        "symbol": "TV6",
+        "timestamp": "1648771200",
+        "low": "10",
+        "date": "2022-04-01",
+        "high": "10.7"
+    },
+    {
+        "open": "10.1",
+        "close": "10.4",
+        "volume": "1700",
+        "symbol": "TV6",
+        "timestamp": "1649030400",
+        "low": "10.1",
+        "date": "2022-04-04",
+        "high": "10.6"
+    },
+    {
+        "open": "10.4",
+        "close": "10.3",
+        "volume": "2300",
+        "symbol": "TV6",
+        "timestamp": "1649116800",
+        "low": "10.3",
+        "date": "2022-04-05",
+        "high": "10.6"
+    },
+    {
+        "open": "10.4",
+        "close": "10.2",
+        "volume": "2900",
+        "symbol": "TV6",
+        "timestamp": "1649203200",
+        "low": "9.7",
+        "date": "2022-04-06",
+        "high": "10.4"
+    },
+    {
+        "open": "10.3",
+        "close": "11",
+        "volume": "7200",
+        "symbol": "TV6",
+        "timestamp": "1649289600",
+        "low": "10.3",
+        "date": "2022-04-07",
+        "high": "11"
+    },
+    {
+        "open": "12",
+        "close": "10.5",
+        "volume": "6800",
+        "symbol": "TV6",
+        "timestamp": "1649376000",
+        "low": "10.5",
+        "date": "2022-04-08",
+        "high": "12"
+    },
+    {
+        "open": "10",
+        "close": "10.8",
+        "volume": "3600",
+        "symbol": "TV6",
+        "timestamp": "1649721600",
+        "low": "9.8",
+        "date": "2022-04-12",
+        "high": "10.9"
+    },
+    {
+        "open": "9.6",
+        "close": "10.9",
+        "volume": "12600",
+        "symbol": "TV6",
+        "timestamp": "1649808000",
+        "low": "9.6",
+        "date": "2022-04-13",
+        "high": "10.9"
+    },
+    {
+        "open": "10.8",
+        "close": "10.1",
+        "volume": "3100",
+        "symbol": "TV6",
+        "timestamp": "1649894400",
+        "low": "10",
+        "date": "2022-04-14",
+        "high": "10.9"
+    },
+    {
+        "open": "10.7",
+        "close": "11",
+        "volume": "24000",
+        "symbol": "TV6",
+        "timestamp": "1649980800",
+        "low": "10.5",
+        "date": "2022-04-15",
+        "high": "11"
+    },
+    {
+        "open": "11",
+        "close": "9.9",
+        "volume": "51900",
+        "symbol": "TV6",
+        "timestamp": "1650240000",
+        "low": "9.8",
+        "date": "2022-04-18",
+        "high": "11"
+    },
+    {
+        "open": "10",
+        "close": "10.9",
+        "volume": "142300",
+        "symbol": "TV6",
+        "timestamp": "1650326400",
+        "low": "9.9",
+        "date": "2022-04-19",
+        "high": "10.9"
+    },
+    {
+        "open": "10",
+        "close": "9.8",
+        "volume": "20800",
+        "symbol": "TV6",
+        "timestamp": "1650412800",
+        "low": "9.8",
+        "date": "2022-04-20",
+        "high": "10.4"
+    },
+    {
+        "open": "10.4",
+        "close": "10.7",
+        "volume": "5200",
+        "symbol": "TV6",
+        "timestamp": "1650499200",
+        "low": "10.4",
+        "date": "2022-04-21",
+        "high": "10.9"
+    },
+    {
+        "open": "10.8",
+        "close": "10",
+        "volume": "4500",
+        "symbol": "TV6",
+        "timestamp": "1650585600",
+        "low": "10",
+        "date": "2022-04-22",
+        "high": "12.4"
+    },
+    {
+        "open": "11",
+        "close": "12.2",
+        "volume": "1200",
+        "symbol": "TV6",
+        "timestamp": "1650844800",
+        "low": "11",
+        "date": "2022-04-25",
+        "high": "12.8"
+    },
+    {
+        "open": "12.1",
+        "close": "12.1",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1650931200",
+        "low": "12.1",
+        "date": "2022-04-26",
+        "high": "12.1"
+    },
+    {
+        "open": "11.9",
+        "close": "11.9",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1651017600",
+        "low": "11.9",
+        "date": "2022-04-27",
+        "high": "11.9"
+    },
+    {
+        "open": "10.3",
+        "close": "10.3",
+        "volume": "3100",
+        "symbol": "TV6",
+        "timestamp": "1651622400",
+        "low": "10.3",
+        "date": "2022-05-04",
+        "high": "10.3"
+    },
+    {
+        "open": "11",
+        "close": "10.2",
+        "volume": "800",
+        "symbol": "TV6",
+        "timestamp": "1651708800",
+        "low": "10.2",
+        "date": "2022-05-05",
+        "high": "11"
+    },
+    {
+        "open": "12.5",
+        "close": "10.1",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1651795200",
+        "low": "10.1",
+        "date": "2022-05-06",
+        "high": "12.5"
+    },
+    {
+        "open": "10.1",
+        "close": "10.5",
+        "volume": "6400",
+        "symbol": "TV6",
+        "timestamp": "1652054400",
+        "low": "10",
+        "date": "2022-05-09",
+        "high": "10.6"
+    },
+    {
+        "open": "11.7",
+        "close": "11.3",
+        "volume": "1901",
+        "symbol": "TV6",
+        "timestamp": "1652140800",
+        "low": "10.1",
+        "date": "2022-05-10",
+        "high": "11.7"
+    },
+    {
+        "open": "11.5",
+        "close": "10.1",
+        "volume": "13900",
+        "symbol": "TV6",
+        "timestamp": "1652227200",
+        "low": "10.1",
+        "date": "2022-05-11",
+        "high": "11.5"
+    },
+    {
+        "open": "10.9",
+        "close": "9.7",
+        "volume": "6900",
+        "symbol": "TV6",
+        "timestamp": "1652313600",
+        "low": "9.7",
+        "date": "2022-05-12",
+        "high": "10.9"
+    },
+    {
+        "open": "10",
+        "close": "10",
+        "volume": "10500",
+        "symbol": "TV6",
+        "timestamp": "1652400000",
+        "low": "10",
+        "date": "2022-05-13",
+        "high": "10"
+    },
+    {
+        "open": "10.4",
+        "close": "10.4",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1652659200",
+        "low": "10.4",
+        "date": "2022-05-16",
+        "high": "10.4"
+    },
+    {
+        "open": "9.5",
+        "close": "9.1",
+        "volume": "3300",
+        "symbol": "TV6",
+        "timestamp": "1652832000",
+        "low": "9.1",
+        "date": "2022-05-18",
+        "high": "9.5"
+    },
+    {
+        "open": "9.8",
+        "close": "9.9",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1652918400",
+        "low": "9.8",
+        "date": "2022-05-19",
+        "high": "9.9"
+    },
+    {
+        "open": "10.2",
+        "close": "10.2",
+        "volume": "400",
+        "symbol": "TV6",
+        "timestamp": "1653004800",
+        "low": "10.2",
+        "date": "2022-05-20",
+        "high": "10.2"
+    },
+    {
+        "open": "10.1",
+        "close": "10.2",
+        "volume": "5300",
+        "symbol": "TV6",
+        "timestamp": "1653436800",
+        "low": "10.1",
+        "date": "2022-05-25",
+        "high": "10.2"
+    },
+    {
+        "open": "10.2",
+        "close": "10.2",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1653523200",
+        "low": "10.2",
+        "date": "2022-05-26",
+        "high": "10.2"
+    },
+    {
+        "open": "9",
+        "close": "8.8",
+        "volume": "11200",
+        "symbol": "TV6",
+        "timestamp": "1653868800",
+        "low": "8.8",
+        "date": "2022-05-30",
+        "high": "9.1"
+    },
+    {
+        "open": "9",
+        "close": "9",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1653955200",
+        "low": "9",
+        "date": "2022-05-31",
+        "high": "9"
+    },
+    {
+        "open": "10.3",
+        "close": "9",
+        "volume": "2700",
+        "symbol": "TV6",
+        "timestamp": "1654041600",
+        "low": "9",
+        "date": "2022-06-01",
+        "high": "10.3"
+    },
+    {
+        "open": "9.8",
+        "close": "9.8",
+        "volume": "300",
+        "symbol": "TV6",
+        "timestamp": "1654128000",
+        "low": "9.8",
+        "date": "2022-06-02",
+        "high": "9.8"
+    },
+    {
+        "open": "9.7",
+        "close": "9.8",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1654473600",
+        "low": "9.7",
+        "date": "2022-06-06",
+        "high": "9.8"
+    },
+    {
+        "open": "9",
+        "close": "9",
+        "volume": "1200",
+        "symbol": "TV6",
+        "timestamp": "1654560000",
+        "low": "9",
+        "date": "2022-06-07",
+        "high": "9"
+    },
+    {
+        "open": "9",
+        "close": "9",
+        "volume": "400",
+        "symbol": "TV6",
+        "timestamp": "1654732800",
+        "low": "9",
+        "date": "2022-06-09",
+        "high": "9"
+    },
+    {
+        "open": "9",
+        "close": "9",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1655078400",
+        "low": "9",
+        "date": "2022-06-13",
+        "high": "9"
+    },
+    {
+        "open": "8.8",
+        "close": "8.7",
+        "volume": "2000",
+        "symbol": "TV6",
+        "timestamp": "1655251200",
+        "low": "8.7",
+        "date": "2022-06-15",
+        "high": "8.8"
+    },
+    {
+        "open": "8.8",
+        "close": "8.7",
+        "volume": "26000",
+        "symbol": "TV6",
+        "timestamp": "1656374400",
+        "low": "8.7",
+        "date": "2022-06-28",
+        "high": "8.8"
+    },
+    {
+        "open": "8.7",
+        "close": "8.7",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1656979200",
+        "low": "8.7",
+        "date": "2022-07-05",
+        "high": "8.7"
+    },
+    {
+        "open": "8",
+        "close": "8",
+        "volume": "400",
+        "symbol": "TV6",
+        "timestamp": "1657065600",
+        "low": "8",
+        "date": "2022-07-06",
+        "high": "8"
+    },
+    {
+        "open": "8",
+        "close": "9.1",
+        "volume": "1600",
+        "symbol": "TV6",
+        "timestamp": "1657497600",
+        "low": "8",
+        "date": "2022-07-11",
+        "high": "9.1"
+    },
+    {
+        "open": "8.6",
+        "close": "8.6",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1657584000",
+        "low": "8.6",
+        "date": "2022-07-12",
+        "high": "8.6"
+    },
+    {
+        "open": "8.6",
+        "close": "9.7",
+        "volume": "8800",
+        "symbol": "TV6",
+        "timestamp": "1657670400",
+        "low": "8.6",
+        "date": "2022-07-13",
+        "high": "9.7"
+    },
+    {
+        "open": "8.9",
+        "close": "9.5",
+        "volume": "151200",
+        "symbol": "TV6",
+        "timestamp": "1657756800",
+        "low": "8.9",
+        "date": "2022-07-14",
+        "high": "9.5"
+    },
+    {
+        "open": "9.5",
+        "close": "9.5",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1657843200",
+        "low": "9.5",
+        "date": "2022-07-15",
+        "high": "9.5"
+    },
+    {
+        "open": "10",
+        "close": "10",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1658102400",
+        "low": "10",
+        "date": "2022-07-18",
+        "high": "10"
+    },
+    {
+        "open": "10.5",
+        "close": "10.5",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1658361600",
+        "low": "10.5",
+        "date": "2022-07-21",
+        "high": "10.5"
+    },
+    {
+        "open": "9",
+        "close": "9",
+        "volume": "3700",
+        "symbol": "TV6",
+        "timestamp": "1659052800",
+        "low": "9",
+        "date": "2022-07-29",
+        "high": "9"
+    },
+    {
+        "open": "7.7",
+        "close": "7.7",
+        "volume": "4800",
+        "symbol": "TV6",
+        "timestamp": "1659312000",
+        "low": "7.7",
+        "date": "2022-08-01",
+        "high": "7.7"
+    },
+    {
+        "open": "6.6",
+        "close": "6.8",
+        "volume": "27100",
+        "symbol": "TV6",
+        "timestamp": "1659398400",
+        "low": "6.6",
+        "date": "2022-08-02",
+        "high": "7"
+    },
+    {
+        "open": "7.7",
+        "close": "7.7",
+        "volume": "5800",
+        "symbol": "TV6",
+        "timestamp": "1659484800",
+        "low": "6.4",
+        "date": "2022-08-03",
+        "high": "7.7"
+    },
+    {
+        "open": "7.8",
+        "close": "7.8",
+        "volume": "400",
+        "symbol": "TV6",
+        "timestamp": "1659571200",
+        "low": "7.8",
+        "date": "2022-08-04",
+        "high": "7.8"
+    },
+    {
+        "open": "6.8",
+        "close": "6.9",
+        "volume": "6500",
+        "symbol": "TV6",
+        "timestamp": "1659657600",
+        "low": "6.8",
+        "date": "2022-08-05",
+        "high": "7.5"
+    },
+    {
+        "open": "7",
+        "close": "6.7",
+        "volume": "12300",
+        "symbol": "TV6",
+        "timestamp": "1659916800",
+        "low": "6.5",
+        "date": "2022-08-08",
+        "high": "7"
+    },
+    {
+        "open": "6.6",
+        "close": "6.6",
+        "volume": "6000",
+        "symbol": "TV6",
+        "timestamp": "1660003200",
+        "low": "6.5",
+        "date": "2022-08-09",
+        "high": "6.6"
+    },
+    {
+        "open": "6.7",
+        "close": "6.7",
+        "volume": "2500",
+        "symbol": "TV6",
+        "timestamp": "1660089600",
+        "low": "6.6",
+        "date": "2022-08-10",
+        "high": "6.9"
+    },
+    {
+        "open": "6.6",
+        "close": "6.5",
+        "volume": "7700",
+        "symbol": "TV6",
+        "timestamp": "1660176000",
+        "low": "6.5",
+        "date": "2022-08-11",
+        "high": "6.7"
+    },
+    {
+        "open": "6.2",
+        "close": "6.7",
+        "volume": "10400",
+        "symbol": "TV6",
+        "timestamp": "1660262400",
+        "low": "6.1",
+        "date": "2022-08-12",
+        "high": "6.7"
+    },
+    {
+        "open": "6.4",
+        "close": "7.3",
+        "volume": "9600",
+        "symbol": "TV6",
+        "timestamp": "1660521600",
+        "low": "6.2",
+        "date": "2022-08-15",
+        "high": "7.3"
+    },
+    {
+        "open": "6.5",
+        "close": "6.2",
+        "volume": "9000",
+        "symbol": "TV6",
+        "timestamp": "1660608000",
+        "low": "6.2",
+        "date": "2022-08-16",
+        "high": "6.5"
+    },
+    {
+        "open": "6.2",
+        "close": "6.1",
+        "volume": "300",
+        "symbol": "TV6",
+        "timestamp": "1660694400",
+        "low": "6.1",
+        "date": "2022-08-17",
+        "high": "6.2"
+    },
+    {
+        "open": "6.1",
+        "close": "6.1",
+        "volume": "1800",
+        "symbol": "TV6",
+        "timestamp": "1660780800",
+        "low": "6",
+        "date": "2022-08-18",
+        "high": "6.1"
+    },
+    {
+        "open": "6.2",
+        "close": "6.2",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1660867200",
+        "low": "6.2",
+        "date": "2022-08-19",
+        "high": "6.2"
+    },
+    {
+        "open": "6.2",
+        "close": "6.1",
+        "volume": "400",
+        "symbol": "TV6",
+        "timestamp": "1661126400",
+        "low": "6.1",
+        "date": "2022-08-22",
+        "high": "6.2"
+    },
+    {
+        "open": "6",
+        "close": "6",
+        "volume": "2400",
+        "symbol": "TV6",
+        "timestamp": "1661212800",
+        "low": "6",
+        "date": "2022-08-23",
+        "high": "6"
+    },
+    {
+        "open": "6.2",
+        "close": "6.2",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1661299200",
+        "low": "6.2",
+        "date": "2022-08-24",
+        "high": "6.2"
+    },
+    {
+        "open": "6.2",
+        "close": "6",
+        "volume": "8000",
+        "symbol": "TV6",
+        "timestamp": "1661385600",
+        "low": "6",
+        "date": "2022-08-25",
+        "high": "6.2"
+    },
+    {
+        "open": "6",
+        "close": "6",
+        "volume": "1300",
+        "symbol": "TV6",
+        "timestamp": "1661472000",
+        "low": "6",
+        "date": "2022-08-26",
+        "high": "6"
+    },
+    {
+        "open": "6",
+        "close": "5.9",
+        "volume": "200",
+        "symbol": "TV6",
+        "timestamp": "1661731200",
+        "low": "5.9",
+        "date": "2022-08-29",
+        "high": "6"
+    },
+    {
+        "open": "6",
+        "close": "6",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1661817600",
+        "low": "6",
+        "date": "2022-08-30",
+        "high": "6"
+    },
+    {
+        "open": "5.9",
+        "close": "6",
+        "volume": "4100",
+        "symbol": "TV6",
+        "timestamp": "1661904000",
+        "low": "5.9",
+        "date": "2022-08-31",
+        "high": "6"
+    },
+    {
+        "open": "6",
+        "close": "5.9",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1662336000",
+        "low": "5.9",
+        "date": "2022-09-05",
+        "high": "6"
+    },
+    {
+        "open": "5.9",
+        "close": "5.9",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1662422400",
+        "low": "5.9",
+        "date": "2022-09-06",
+        "high": "5.9"
+    },
+    {
+        "open": "6",
+        "close": "6",
+        "volume": "800",
+        "symbol": "TV6",
+        "timestamp": "1662595200",
+        "low": "5.6",
+        "date": "2022-09-08",
+        "high": "6"
+    },
+    {
+        "open": "5.7",
+        "close": "5.5",
+        "volume": "11400",
+        "symbol": "TV6",
+        "timestamp": "1662681600",
+        "low": "5.5",
+        "date": "2022-09-09",
+        "high": "5.7"
+    },
+    {
+        "open": "5.5",
+        "close": "5.5",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1662940800",
+        "low": "5.5",
+        "date": "2022-09-12",
+        "high": "5.5"
+    },
+    {
+        "open": "5.5",
+        "close": "5.5",
+        "volume": "500",
+        "symbol": "TV6",
+        "timestamp": "1663027200",
+        "low": "5.5",
+        "date": "2022-09-13",
+        "high": "5.5"
+    },
+    {
+        "open": "5.4",
+        "close": "5.4",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1663286400",
+        "low": "5.4",
+        "date": "2022-09-16",
+        "high": "5.4"
+    },
+    {
+        "open": "5.4",
+        "close": "4.7",
+        "volume": "9100",
+        "symbol": "TV6",
+        "timestamp": "1663545600",
+        "low": "4.6",
+        "date": "2022-09-19",
+        "high": "5.4"
+    },
+    {
+        "open": "5.4",
+        "close": "5.4",
+        "volume": "1000",
+        "symbol": "TV6",
+        "timestamp": "1663632000",
+        "low": "5.4",
+        "date": "2022-09-20",
+        "high": "5.5"
+    },
+    {
+        "open": "5.7",
+        "close": "5.7",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1663718400",
+        "low": "5.7",
+        "date": "2022-09-21",
+        "high": "5.7"
+    },
+    {
+        "open": "5",
+        "close": "5",
+        "volume": "5000",
+        "symbol": "TV6",
+        "timestamp": "1663804800",
+        "low": "4.9",
+        "date": "2022-09-22",
+        "high": "5.5"
+    },
+    {
+        "open": "5.4",
+        "close": "4.8",
+        "volume": "3100",
+        "symbol": "TV6",
+        "timestamp": "1663891200",
+        "low": "4.5",
+        "date": "2022-09-23",
+        "high": "5.4"
+    },
+    {
+        "open": "5.3",
+        "close": "5.4",
+        "volume": "2200",
+        "symbol": "TV6",
+        "timestamp": "1664150400",
+        "low": "4.7",
+        "date": "2022-09-26",
+        "high": "5.4"
+    },
+    {
+        "open": "5.4",
+        "close": "5.4",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1664236800",
+        "low": "5.4",
+        "date": "2022-09-27",
+        "high": "5.4"
+    },
+    {
+        "open": "4.8",
+        "close": "4.7",
+        "volume": "2500",
+        "symbol": "TV6",
+        "timestamp": "1664323200",
+        "low": "4.6",
+        "date": "2022-09-28",
+        "high": "4.8"
+    },
+    {
+        "open": "5.2",
+        "close": "5.2",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1664409600",
+        "low": "5.2",
+        "date": "2022-09-29",
+        "high": "5.2"
+    },
+    {
+        "open": "5.6",
+        "close": "4.5",
+        "volume": "600",
+        "symbol": "TV6",
+        "timestamp": "1664496000",
+        "low": "4.5",
+        "date": "2022-09-30",
+        "high": "5.6"
+    },
+    {
+        "open": "5.3",
+        "close": "5.1",
+        "volume": "1200",
+        "symbol": "TV6",
+        "timestamp": "1664755200",
+        "low": "4.2",
+        "date": "2022-10-03",
+        "high": "5.3"
+    },
+    {
+        "open": "5.2",
+        "close": "5.2",
+        "volume": "200",
+        "symbol": "TV6",
+        "timestamp": "1664841600",
+        "low": "5.2",
+        "date": "2022-10-04",
+        "high": "5.2"
+    },
+    {
+        "open": "5.4",
+        "close": "5.4",
+        "volume": "100",
+        "symbol": "TV6",
+        "timestamp": "1664928000",
+        "low": "5.4",
+        "date": "2022-10-05",
+        "high": "5.4"
+    },
+    {
+        "open": "4.6",
+        "close": "5.1",
+        "volume": "1500",
+        "symbol": "TV6",
+        "timestamp": "1665014400",
+        "low": "4.6",
+        "date": "2022-10-06",
+        "high": "5.2"
+    },
+    {
+        "open": "5.1",
+        "close": "4",
+        "volume": "1100",
+        "symbol": "TV6",
+        "timestamp": "1665100800",
+        "low": "4",
+        "date": "2022-10-07",
+        "high": "5.1"
+    },
+    {
+        "open": "5.1",
+        "close": "4",
+        "volume": "300",
+        "symbol": "TV6",
+        "timestamp": "1665446400",
+        "low": "4",
+        "date": "2022-10-11",
+        "high": "5.1"
+    },
+    {
+        "open": "3.8",
+        "close": "4.4",
+        "volume": "10200",
+        "symbol": "TV6",
+        "timestamp": "1665532800",
+        "low": "3.8",
+        "date": "2022-10-12",
+        "high": "4.4"
+    },
+    {
+        "open": "4.3",
+        "close": "4.3",
+        "volume": "9100",
+        "symbol": "TV6",
+        "timestamp": "1665619200",
+        "low": "3.4",
+        "date": "2022-10-13",
+        "high": "4.3"
+    },
+    {
+        "open": "3.3",
+        "close": "3.5",
+        "volume": "18600",
+        "symbol": "TV6",
+        "timestamp": "1665705600",
+        "low": "3.3",
+        "date": "2022-10-14",
+        "high": "4.2"
+    },
+    {
+        "open": "3.2",
+        "close": "3.9",
+        "volume": "10100.0",
+        "symbol": "TV6",
+        "timestamp": "1665964800.0",
+        "low": "3.1",
+        "date": "2022-10-17",
+        "high": "3.9"
+    },
+    {
+        "open": "3.6",
+        "close": "3.2",
+        "volume": "22000.0",
+        "symbol": "TV6",
+        "timestamp": "1666051200.0",
+        "low": "2.8",
+        "date": "2022-10-18",
+        "high": "3.6"
+    },
+    {
+        "open": "3.2",
+        "close": "3.1",
+        "volume": "11900.0",
+        "symbol": "TV6",
+        "timestamp": "1666137600.0",
+        "low": "2.5",
+        "date": "2022-10-19",
+        "high": "3.3"
+    },
+    {
+        "open": "3.0",
+        "close": "3.0",
+        "volume": "23400.0",
+        "symbol": "TV6",
+        "timestamp": "1666224000.0",
+        "low": "2.4",
+        "date": "2022-10-20",
+        "high": "3.1"
+    },
+    {
+        "open": "3.1",
+        "close": "3.2",
+        "volume": "7400.0",
+        "symbol": "TV6",
+        "timestamp": "1666310400.0",
+        "low": "2.6",
+        "date": "2022-10-21",
+        "high": "3.2"
+    },
+    {
+        "open": "2.9",
+        "close": "3.0",
+        "volume": "12200.0",
+        "symbol": "TV6",
+        "timestamp": "1666569600.0",
+        "low": "2.7",
+        "date": "2022-10-24",
+        "high": "3.1"
+    },
+    {
+        "open": "2.9",
+        "close": "2.9",
+        "volume": "10100.0",
+        "symbol": "TV6",
+        "timestamp": "1666656000.0",
+        "low": "2.9",
+        "date": "2022-10-25",
+        "high": "2.9"
+    },
+    {
+        "open": "2.6",
+        "close": "2.5",
+        "volume": "6800.0",
+        "symbol": "TV6",
+        "timestamp": "1666742400.0",
+        "low": "2.5",
+        "date": "2022-10-26",
+        "high": "2.7"
+    },
+    {
+        "open": "2.7",
+        "close": "2.7",
+        "volume": "11700.0",
+        "symbol": "TV6",
+        "timestamp": "1666828800.0",
+        "low": "2.4",
+        "date": "2022-10-27",
+        "high": "2.7"
+    },
+    {
+        "open": "2.9",
+        "close": "2.9",
+        "volume": "17000.0",
+        "symbol": "TV6",
+        "timestamp": "1666915200.0",
+        "low": "2.5",
+        "date": "2022-10-28",
+        "high": "2.9"
+    },
+    {
+        "open": "2.9",
+        "close": "2.9",
+        "volume": "4900.0",
+        "symbol": "TV6",
+        "timestamp": "1667174400.0",
+        "low": "2.8",
+        "date": "2022-10-31",
+        "high": "2.9"
+    },
+    {
+        "open": "2.7",
+        "close": "2.6",
+        "volume": "2300.0",
+        "symbol": "TV6",
+        "timestamp": "1667260800.0",
+        "low": "2.6",
+        "date": "2022-11-01",
+        "high": "2.7"
+    },
+    {
+        "open": "2.7",
+        "close": "2.9",
+        "volume": "5000.0",
+        "symbol": "TV6",
+        "timestamp": "1667347200.0",
+        "low": "2.7",
+        "date": "2022-11-02",
+        "high": "2.9"
+    },
+    {
+        "open": "2.8",
+        "close": "2.5",
+        "volume": "10900.0",
+        "symbol": "TV6",
+        "timestamp": "1667433600.0",
+        "low": "2.5",
+        "date": "2022-11-03",
+        "high": "3.2"
+    }
+]

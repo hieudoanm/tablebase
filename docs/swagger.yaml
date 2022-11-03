@@ -1,0 +1,512 @@
+info:
+  title: tablebase
+  version: 0.0.1
+  description: TableBase API
+  license:
+    name: MIT
+  contact:
+    name: hieudoanm
+    email: hieumdoan@gmail.com
+openapi: 3.0.0
+servers:
+  - url: https://raw.githubusercontent.com/hieudoanm/tablebase/master/json
+paths:
+  /australia/states:
+    get:
+      operationId: GetAustraliaStates
+      responses:
+        '200':
+          description: Get Australia States
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Australia
+      security: []
+      parameters: []
+  /australia/stock/companies:
+    get:
+      operationId: GetAustraliaStockCompanies
+      responses:
+        '200':
+          description: Get Australia Stock Companies
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Australia
+      security: []
+      parameters: []
+  /australia/university/medical-schools:
+    get:
+      operationId: GetAustraliaUniversityMedical-schools
+      responses:
+        '200':
+          description: Get Australia University Medical-schools
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Australia
+      security: []
+      parameters: []
+  /football/competitions:
+    get:
+      operationId: GetFootballCompetitions
+      responses:
+        '200':
+          description: Get Football Competitions
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Football
+      security: []
+      parameters: []
+  /football/favourites:
+    get:
+      operationId: GetFootballFavourites
+      responses:
+        '200':
+          description: Get Football Favourites
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Football
+      security: []
+      parameters: []
+  /football/teams:
+    get:
+      operationId: GetFootballTeams
+      responses:
+        '200':
+          description: Get Football Teams
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Football
+      security: []
+      parameters: []
+  /github/languages:
+    get:
+      operationId: GetGithubLanguages
+      responses:
+        '200':
+          description: Get Github Languages
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Github
+      security: []
+      parameters: []
+  /quotes/quotes:
+    get:
+      operationId: GetQuotesQuotes
+      responses:
+        '200':
+          description: Get Quotes Quotes
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Quotes
+      security: []
+      parameters: []
+  /tarot/cards:
+    get:
+      operationId: GetTarotCards
+      responses:
+        '200':
+          description: Get Tarot Cards
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Tarot
+      security: []
+      parameters: []
+  /usa/congress/${chamber}/${congress}/members:
+    get:
+      operationId: GetUsaCongressSenate99Members
+      responses:
+        '200':
+          description: Get Usa Congress Senate 99 Members
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters:
+        - in: query
+          name: chamber
+          required: true
+          schema:
+            type: string
+        - in: query
+          name: congress
+          required: true
+          schema:
+            type: number
+  /usa/states:
+    get:
+      operationId: GetUsaStates
+      responses:
+        '200':
+          description: Get Usa States
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters: []
+  /usa/stock/history/${symbol}:
+    get:
+      operationId: GetUsaStockHistoryZBH
+      responses:
+        '200':
+          description: Get Usa Stock History ZBH
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters:
+        - in: query
+          name: symbol
+          required: true
+          schema:
+            type: string
+  /usa/stock/nasdaq:
+    get:
+      operationId: GetUsaStockNasdaq
+      responses:
+        '200':
+          description: Get Usa Stock Nasdaq
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters: []
+  /usa/stock/symbols:
+    get:
+      operationId: GetUsaStockSymbols
+      responses:
+        '200':
+          description: Get Usa Stock Symbols
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters: []
+  /usa/stock-watch/house/all_transactions:
+    get:
+      operationId: GetUsaStock-watchHouseAll_transactions
+      responses:
+        '200':
+          description: Get Usa Stock-watch House All_transactions
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters: []
+  /usa/stock-watch/house/transactions:
+    get:
+      operationId: GetUsaStock-watchHouseTransactions
+      responses:
+        '200':
+          description: Get Usa Stock-watch House Transactions
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters: []
+  /usa/stock-watch/senate/all_transactions:
+    get:
+      operationId: GetUsaStock-watchSenateAll_transactions
+      responses:
+        '200':
+          description: Get Usa Stock-watch Senate All_transactions
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters: []
+  /usa/stock-watch/senate/transactions:
+    get:
+      operationId: GetUsaStock-watchSenateTransactions
+      responses:
+        '200':
+          description: Get Usa Stock-watch Senate Transactions
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Usa
+      security: []
+      parameters: []
+  /vietnam/license/plates:
+    get:
+      operationId: GetVietnamLicensePlates
+      responses:
+        '200':
+          description: Get Vietnam License Plates
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters: []
+  /vietnam/stock/companies:
+    get:
+      operationId: GetVietnamStockCompanies
+      responses:
+        '200':
+          description: Get Vietnam Stock Companies
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters: []
+  /vietnam/stock/history/${symbol}:
+    get:
+      operationId: GetVietnamStockHistoryYTC
+      responses:
+        '200':
+          description: Get Vietnam Stock History YTC
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters:
+        - in: query
+          name: symbol
+          required: true
+          schema:
+            type: string
+  /vietnam/stock/subcompanies/${symbol}:
+    get:
+      operationId: GetVietnamStockSubcompaniesXMC
+      responses:
+        '200':
+          description: Get Vietnam Stock Subcompanies XMC
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters:
+        - in: query
+          name: symbol
+          required: true
+          schema:
+            type: string
+  /vietnam/stock/subsectors/${symbol}:
+    get:
+      operationId: GetVietnamStockSubsectorsWater
+      responses:
+        '200':
+          description: Get Vietnam Stock Subsectors Water
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters:
+        - in: query
+          name: symbol
+          required: true
+          schema:
+            type: string
+  /vietnam/vleague/${competition}/events/${season}:
+    get:
+      operationId: GetVietnamVleagueV.league-2Events2023
+      responses:
+        '200':
+          description: Get Vietnam Vleague V.league-2 Events 2023
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters:
+        - in: query
+          name: competition
+          required: true
+          schema:
+            type: string
+        - in: query
+          name: season
+          required: true
+          schema:
+            type: number
+  /vietnam/vleague/${competition}/fixtures/${season}:
+    get:
+      operationId: GetVietnamVleagueV.league-2Fixtures2023
+      responses:
+        '200':
+          description: Get Vietnam Vleague V.league-2 Fixtures 2023
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters:
+        - in: query
+          name: competition
+          required: true
+          schema:
+            type: string
+        - in: query
+          name: season
+          required: true
+          schema:
+            type: number
+  /vietnam/vleague/${competition}/standings/${season}:
+    get:
+      operationId: GetVietnamVleagueV.league-2Standings2023
+      responses:
+        '200':
+          description: Get Vietnam Vleague V.league-2 Standings 2023
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters:
+        - in: query
+          name: competition
+          required: true
+          schema:
+            type: string
+        - in: query
+          name: season
+          required: true
+          schema:
+            type: number
+  /vietnam/vleague/players:
+    get:
+      operationId: GetVietnamVleaguePlayers
+      responses:
+        '200':
+          description: Get Vietnam Vleague Players
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters: []
+  /vietnam/vleague/teams:
+    get:
+      operationId: GetVietnamVleagueTeams
+      responses:
+        '200':
+          description: Get Vietnam Vleague Teams
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - Vietnam
+      security: []
+      parameters: []
+  /world/countries:
+    get:
+      operationId: GetWorldCountries
+      responses:
+        '200':
+          description: Get World Countries
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - World
+      security: []
+      parameters: []
+  /world/timezones:
+    get:
+      operationId: GetWorldTimezones
+      responses:
+        '200':
+          description: Get World Timezones
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - World
+      security: []
+      parameters: []
+  /world/visas/${country}:
+    get:
+      operationId: GetWorldVisasViet-nam
+      responses:
+        '200':
+          description: Get World Visas Viet-nam
+          content:
+            application/json:
+              schema:
+                type: object
+      tags:
+        - World
+      security: []
+      parameters:
+        - in: query
+          name: country
+          required: true
+          schema:
+            type: string

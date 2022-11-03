@@ -1,0 +1,3292 @@
+[
+    {
+        "open": "12.5",
+        "close": "12.5",
+        "date": "2020-12-01",
+        "volume": "23300",
+        "symbol": "GMA",
+        "timestamp": "1606780800",
+        "low": "12.5",
+        "high": "12.5"
+    },
+    {
+        "open": "13.75",
+        "close": "13.75",
+        "date": "2020-12-02",
+        "volume": "1400",
+        "symbol": "GMA",
+        "timestamp": "1606867200",
+        "low": "13.75",
+        "high": "13.75"
+    },
+    {
+        "open": "15.08",
+        "close": "15.08",
+        "date": "2020-12-03",
+        "volume": "2000",
+        "symbol": "GMA",
+        "timestamp": "1606953600",
+        "low": "15.08",
+        "high": "15.08"
+    },
+    {
+        "open": "16.58",
+        "close": "16.42",
+        "date": "2020-12-04",
+        "volume": "6600",
+        "symbol": "GMA",
+        "timestamp": "1607040000",
+        "low": "16.42",
+        "high": "16.58"
+    },
+    {
+        "open": "16.42",
+        "close": "18",
+        "date": "2020-12-07",
+        "volume": "4000",
+        "symbol": "GMA",
+        "timestamp": "1607299200",
+        "low": "16.42",
+        "high": "18"
+    },
+    {
+        "open": "18",
+        "close": "19.75",
+        "date": "2020-12-08",
+        "volume": "2000",
+        "symbol": "GMA",
+        "timestamp": "1607385600",
+        "low": "18",
+        "high": "19.75"
+    },
+    {
+        "open": "21.25",
+        "close": "21.67",
+        "date": "2020-12-09",
+        "volume": "1400",
+        "symbol": "GMA",
+        "timestamp": "1607472000",
+        "low": "21.25",
+        "high": "21.67"
+    },
+    {
+        "open": "23.75",
+        "close": "23.75",
+        "date": "2020-12-10",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1607558400",
+        "low": "23.75",
+        "high": "23.83"
+    },
+    {
+        "open": "26.08",
+        "close": "26.08",
+        "date": "2020-12-11",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1607644800",
+        "low": "26.08",
+        "high": "26.08"
+    },
+    {
+        "open": "28.58",
+        "close": "27.5",
+        "date": "2020-12-14",
+        "volume": "3300",
+        "symbol": "GMA",
+        "timestamp": "1607904000",
+        "low": "27.5",
+        "high": "28.67"
+    },
+    {
+        "open": "27.5",
+        "close": "30.25",
+        "date": "2020-12-15",
+        "volume": "1200",
+        "symbol": "GMA",
+        "timestamp": "1607990400",
+        "low": "27.5",
+        "high": "30.25"
+    },
+    {
+        "open": "32.91",
+        "close": "32.91",
+        "date": "2020-12-16",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1608076800",
+        "low": "32.91",
+        "high": "32.91"
+    },
+    {
+        "open": "33.66",
+        "close": "34.58",
+        "date": "2020-12-17",
+        "volume": "1400",
+        "symbol": "GMA",
+        "timestamp": "1608163200",
+        "low": "32.91",
+        "high": "34.58"
+    },
+    {
+        "open": "35.41",
+        "close": "34.58",
+        "date": "2020-12-18",
+        "volume": "900",
+        "symbol": "GMA",
+        "timestamp": "1608249600",
+        "low": "34.58",
+        "high": "35.83"
+    },
+    {
+        "open": "34.58",
+        "close": "35.83",
+        "date": "2020-12-21",
+        "volume": "5000",
+        "symbol": "GMA",
+        "timestamp": "1608508800",
+        "low": "34.08",
+        "high": "35.83"
+    },
+    {
+        "open": "35.83",
+        "close": "39.41",
+        "date": "2020-12-22",
+        "volume": "1500",
+        "symbol": "GMA",
+        "timestamp": "1608595200",
+        "low": "35.83",
+        "high": "39.41"
+    },
+    {
+        "open": "40",
+        "close": "40.08",
+        "date": "2020-12-23",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1608681600",
+        "low": "40",
+        "high": "40.08"
+    },
+    {
+        "open": "40.08",
+        "close": "40.08",
+        "date": "2020-12-24",
+        "volume": "5600",
+        "symbol": "GMA",
+        "timestamp": "1608768000",
+        "low": "40",
+        "high": "40.41"
+    },
+    {
+        "open": "40.08",
+        "close": "40.41",
+        "date": "2020-12-25",
+        "volume": "800",
+        "symbol": "GMA",
+        "timestamp": "1608854400",
+        "low": "40.08",
+        "high": "40.41"
+    },
+    {
+        "open": "40.41",
+        "close": "42.08",
+        "date": "2020-12-28",
+        "volume": "700",
+        "symbol": "GMA",
+        "timestamp": "1609113600",
+        "low": "40.41",
+        "high": "42.08"
+    },
+    {
+        "open": "41.66",
+        "close": "41.25",
+        "date": "2020-12-29",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1609200000",
+        "low": "41.25",
+        "high": "41.66"
+    },
+    {
+        "open": "41.66",
+        "close": "41.66",
+        "date": "2020-12-30",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1609286400",
+        "low": "41.66",
+        "high": "41.66"
+    },
+    {
+        "open": "42.91",
+        "close": "42.91",
+        "date": "2020-12-31",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1609372800",
+        "low": "42.91",
+        "high": "43.33"
+    },
+    {
+        "open": "42.91",
+        "close": "42.91",
+        "date": "2021-01-04",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1609718400",
+        "low": "42.5",
+        "high": "42.91"
+    },
+    {
+        "open": "42.91",
+        "close": "42.5",
+        "date": "2021-01-05",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1609804800",
+        "low": "42.5",
+        "high": "42.91"
+    },
+    {
+        "open": "41.25",
+        "close": "43.33",
+        "date": "2021-01-06",
+        "volume": "800",
+        "symbol": "GMA",
+        "timestamp": "1609891200",
+        "low": "41.25",
+        "high": "43.33"
+    },
+    {
+        "open": "45",
+        "close": "45",
+        "date": "2021-01-07",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1609977600",
+        "low": "45",
+        "high": "45"
+    },
+    {
+        "open": "43.33",
+        "close": "43.33",
+        "date": "2021-01-13",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1610496000",
+        "low": "43.33",
+        "high": "43.33"
+    },
+    {
+        "open": "43.33",
+        "close": "43.33",
+        "date": "2021-01-14",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1610582400",
+        "low": "43.33",
+        "high": "43.33"
+    },
+    {
+        "open": "43.75",
+        "close": "43.75",
+        "date": "2021-01-15",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1610668800",
+        "low": "43.75",
+        "high": "43.75"
+    },
+    {
+        "open": "43.91",
+        "close": "43.91",
+        "date": "2021-01-18",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1610928000",
+        "low": "43.91",
+        "high": "43.91"
+    },
+    {
+        "open": "43.75",
+        "close": "43.75",
+        "date": "2021-01-19",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1611014400",
+        "low": "43.75",
+        "high": "43.75"
+    },
+    {
+        "open": "41.41",
+        "close": "41.41",
+        "date": "2021-01-20",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1611100800",
+        "low": "41.41",
+        "high": "41.41"
+    },
+    {
+        "open": "41.41",
+        "close": "41.41",
+        "date": "2021-01-21",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1611187200",
+        "low": "41.41",
+        "high": "41.41"
+    },
+    {
+        "open": "38.33",
+        "close": "38.33",
+        "date": "2021-01-22",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1611273600",
+        "low": "38.33",
+        "high": "38.33"
+    },
+    {
+        "open": "34.5",
+        "close": "34.5",
+        "date": "2021-02-01",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1612137600",
+        "low": "34.5",
+        "high": "34.5"
+    },
+    {
+        "open": "31.08",
+        "close": "31.08",
+        "date": "2021-02-02",
+        "volume": "266800",
+        "symbol": "GMA",
+        "timestamp": "1612224000",
+        "low": "31.08",
+        "high": "31.08"
+    },
+    {
+        "open": "31.66",
+        "close": "31.66",
+        "date": "2021-02-03",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1612310400",
+        "low": "31.66",
+        "high": "31.66"
+    },
+    {
+        "open": "32.5",
+        "close": "31.83",
+        "date": "2021-02-04",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1612396800",
+        "low": "31.83",
+        "high": "32.5"
+    },
+    {
+        "open": "32.08",
+        "close": "32.08",
+        "date": "2021-02-05",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1612483200",
+        "low": "32.08",
+        "high": "32.08"
+    },
+    {
+        "open": "32.25",
+        "close": "32.25",
+        "date": "2021-02-08",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1612742400",
+        "low": "32.25",
+        "high": "32.25"
+    },
+    {
+        "open": "32.33",
+        "close": "32.33",
+        "date": "2021-02-09",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1612828800",
+        "low": "32.33",
+        "high": "32.33"
+    },
+    {
+        "open": "32.41",
+        "close": "32.41",
+        "date": "2021-02-17",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1613520000",
+        "low": "32.41",
+        "high": "32.41"
+    },
+    {
+        "open": "32.41",
+        "close": "32.41",
+        "date": "2021-02-18",
+        "volume": "5300",
+        "symbol": "GMA",
+        "timestamp": "1613606400",
+        "low": "32.41",
+        "high": "32.41"
+    },
+    {
+        "open": "32.5",
+        "close": "32.5",
+        "date": "2021-02-19",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1613692800",
+        "low": "32.5",
+        "high": "32.5"
+    },
+    {
+        "open": "32.58",
+        "close": "32.58",
+        "date": "2021-02-22",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1613952000",
+        "low": "32.58",
+        "high": "32.58"
+    },
+    {
+        "open": "32.58",
+        "close": "32.66",
+        "date": "2021-02-23",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1614038400",
+        "low": "32.58",
+        "high": "32.66"
+    },
+    {
+        "open": "32.75",
+        "close": "32.75",
+        "date": "2021-02-24",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1614124800",
+        "low": "32.75",
+        "high": "32.75"
+    },
+    {
+        "open": "32.83",
+        "close": "32.83",
+        "date": "2021-02-25",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1614211200",
+        "low": "32.83",
+        "high": "32.83"
+    },
+    {
+        "open": "32.91",
+        "close": "32.91",
+        "date": "2021-02-26",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1614297600",
+        "low": "32.91",
+        "high": "32.91"
+    },
+    {
+        "open": "33",
+        "close": "33",
+        "date": "2021-03-02",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1614643200",
+        "low": "33",
+        "high": "33"
+    },
+    {
+        "open": "33.08",
+        "close": "33.08",
+        "date": "2021-03-03",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1614729600",
+        "low": "33.08",
+        "high": "33.08"
+    },
+    {
+        "open": "33.16",
+        "close": "33.16",
+        "date": "2021-03-04",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1614816000",
+        "low": "33.16",
+        "high": "33.16"
+    },
+    {
+        "open": "33",
+        "close": "33",
+        "date": "2021-03-08",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1615161600",
+        "low": "33",
+        "high": "33"
+    },
+    {
+        "open": "33",
+        "close": "33.08",
+        "date": "2021-03-09",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1615248000",
+        "low": "33",
+        "high": "33.08"
+    },
+    {
+        "open": "33.16",
+        "close": "33.16",
+        "date": "2021-03-10",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1615334400",
+        "low": "33.16",
+        "high": "33.16"
+    },
+    {
+        "open": "33.41",
+        "close": "33.33",
+        "date": "2021-03-11",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1615420800",
+        "low": "33.33",
+        "high": "33.41"
+    },
+    {
+        "open": "33.41",
+        "close": "33.33",
+        "date": "2021-03-12",
+        "volume": "1500",
+        "symbol": "GMA",
+        "timestamp": "1615507200",
+        "low": "33.33",
+        "high": "33.5"
+    },
+    {
+        "open": "33.33",
+        "close": "33.41",
+        "date": "2021-03-15",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1615766400",
+        "low": "33.33",
+        "high": "33.41"
+    },
+    {
+        "open": "33.41",
+        "close": "33.75",
+        "date": "2021-03-16",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1615852800",
+        "low": "33.41",
+        "high": "33.75"
+    },
+    {
+        "open": "33.91",
+        "close": "34.16",
+        "date": "2021-03-17",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1615939200",
+        "low": "33.91",
+        "high": "34.16"
+    },
+    {
+        "open": "34.16",
+        "close": "34.58",
+        "date": "2021-03-18",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1616025600",
+        "low": "34.16",
+        "high": "34.58"
+    },
+    {
+        "open": "33.91",
+        "close": "35",
+        "date": "2021-03-19",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1616112000",
+        "low": "33.91",
+        "high": "35"
+    },
+    {
+        "open": "35.08",
+        "close": "35.41",
+        "date": "2021-03-22",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1616371200",
+        "low": "35.08",
+        "high": "35.41"
+    },
+    {
+        "open": "35.58",
+        "close": "35.83",
+        "date": "2021-03-23",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1616457600",
+        "low": "35.58",
+        "high": "35.83"
+    },
+    {
+        "open": "35.83",
+        "close": "36.08",
+        "date": "2021-03-24",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1616544000",
+        "low": "35.83",
+        "high": "36.08"
+    },
+    {
+        "open": "36.08",
+        "close": "36.41",
+        "date": "2021-03-25",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1616630400",
+        "low": "36.08",
+        "high": "36.41"
+    },
+    {
+        "open": "36.41",
+        "close": "36.75",
+        "date": "2021-03-26",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1616716800",
+        "low": "36.41",
+        "high": "36.75"
+    },
+    {
+        "open": "36.75",
+        "close": "37.08",
+        "date": "2021-03-29",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1616976000",
+        "low": "36.75",
+        "high": "37.08"
+    },
+    {
+        "open": "37.08",
+        "close": "37.58",
+        "date": "2021-03-30",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1617062400",
+        "low": "37.08",
+        "high": "37.58"
+    },
+    {
+        "open": "37.91",
+        "close": "40.83",
+        "date": "2021-03-31",
+        "volume": "700",
+        "symbol": "GMA",
+        "timestamp": "1617148800",
+        "low": "37.91",
+        "high": "40.83"
+    },
+    {
+        "open": "40.91",
+        "close": "40.91",
+        "date": "2021-04-01",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1617235200",
+        "low": "40.91",
+        "high": "40.91"
+    },
+    {
+        "open": "41",
+        "close": "41",
+        "date": "2021-04-02",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1617321600",
+        "low": "41",
+        "high": "41"
+    },
+    {
+        "open": "41",
+        "close": "40.75",
+        "date": "2021-04-05",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1617580800",
+        "low": "40.75",
+        "high": "41"
+    },
+    {
+        "open": "40.75",
+        "close": "40.75",
+        "date": "2021-04-06",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1617667200",
+        "low": "40.75",
+        "high": "40.75"
+    },
+    {
+        "open": "40.75",
+        "close": "40.41",
+        "date": "2021-04-07",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1617753600",
+        "low": "40.41",
+        "high": "40.83"
+    },
+    {
+        "open": "40.41",
+        "close": "40.41",
+        "date": "2021-04-08",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1617840000",
+        "low": "40.41",
+        "high": "40.41"
+    },
+    {
+        "open": "40.5",
+        "close": "40.5",
+        "date": "2021-04-09",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1617926400",
+        "low": "40.5",
+        "high": "40.5"
+    },
+    {
+        "open": "40.41",
+        "close": "40.41",
+        "date": "2021-04-12",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1618185600",
+        "low": "40.41",
+        "high": "40.41"
+    },
+    {
+        "open": "40.33",
+        "close": "40.33",
+        "date": "2021-04-13",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1618272000",
+        "low": "40.33",
+        "high": "40.33"
+    },
+    {
+        "open": "40.41",
+        "close": "40.41",
+        "date": "2021-04-14",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1618358400",
+        "low": "40.41",
+        "high": "40.41"
+    },
+    {
+        "open": "40.25",
+        "close": "40.25",
+        "date": "2021-04-15",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1618444800",
+        "low": "40.25",
+        "high": "40.25"
+    },
+    {
+        "open": "40.33",
+        "close": "40.33",
+        "date": "2021-04-16",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1618531200",
+        "low": "40.33",
+        "high": "40.33"
+    },
+    {
+        "open": "40.41",
+        "close": "42.5",
+        "date": "2021-04-20",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1618876800",
+        "low": "40.41",
+        "high": "42.5"
+    },
+    {
+        "open": "41.16",
+        "close": "41.16",
+        "date": "2021-04-22",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1619049600",
+        "low": "41.16",
+        "high": "41.16"
+    },
+    {
+        "open": "41.08",
+        "close": "41.08",
+        "date": "2021-04-23",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1619136000",
+        "low": "41.08",
+        "high": "41.08"
+    },
+    {
+        "open": "39.91",
+        "close": "39.91",
+        "date": "2021-04-26",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1619395200",
+        "low": "39.91",
+        "high": "39.91"
+    },
+    {
+        "open": "39.83",
+        "close": "39.83",
+        "date": "2021-04-27",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1619481600",
+        "low": "39.83",
+        "high": "39.83"
+    },
+    {
+        "open": "40",
+        "close": "40",
+        "date": "2021-04-28",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1619568000",
+        "low": "40",
+        "high": "40"
+    },
+    {
+        "open": "40",
+        "close": "40",
+        "date": "2021-04-29",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1619654400",
+        "low": "40",
+        "high": "40"
+    },
+    {
+        "open": "40.41",
+        "close": "40.41",
+        "date": "2021-05-04",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1620086400",
+        "low": "40.41",
+        "high": "40.41"
+    },
+    {
+        "open": "40.41",
+        "close": "40.41",
+        "date": "2021-05-05",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1620172800",
+        "low": "40.41",
+        "high": "40.41"
+    },
+    {
+        "open": "40.5",
+        "close": "40.5",
+        "date": "2021-05-06",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1620259200",
+        "low": "40.5",
+        "high": "40.5"
+    },
+    {
+        "open": "40.41",
+        "close": "40.41",
+        "date": "2021-05-07",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1620345600",
+        "low": "40.41",
+        "high": "40.41"
+    },
+    {
+        "open": "40.08",
+        "close": "40.08",
+        "date": "2021-05-10",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1620604800",
+        "low": "40.08",
+        "high": "40.08"
+    },
+    {
+        "open": "39.75",
+        "close": "39.75",
+        "date": "2021-05-11",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1620691200",
+        "low": "39.75",
+        "high": "39.75"
+    },
+    {
+        "open": "39.5",
+        "close": "39.5",
+        "date": "2021-05-12",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1620777600",
+        "low": "39.5",
+        "high": "39.5"
+    },
+    {
+        "open": "39.83",
+        "close": "39.91",
+        "date": "2021-05-13",
+        "volume": "600",
+        "symbol": "GMA",
+        "timestamp": "1620864000",
+        "low": "39.83",
+        "high": "39.91"
+    },
+    {
+        "open": "39.83",
+        "close": "39.83",
+        "date": "2021-05-18",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1621296000",
+        "low": "39.83",
+        "high": "39.83"
+    },
+    {
+        "open": "39.75",
+        "close": "39.75",
+        "date": "2021-05-19",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1621382400",
+        "low": "39.75",
+        "high": "39.75"
+    },
+    {
+        "open": "39.83",
+        "close": "43.66",
+        "date": "2021-05-20",
+        "volume": "6300",
+        "symbol": "GMA",
+        "timestamp": "1621468800",
+        "low": "39.58",
+        "high": "43.66"
+    },
+    {
+        "open": "43.58",
+        "close": "43.58",
+        "date": "2021-05-21",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1621555200",
+        "low": "43.58",
+        "high": "43.58"
+    },
+    {
+        "open": "43.75",
+        "close": "43.75",
+        "date": "2021-05-24",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1621814400",
+        "low": "43.75",
+        "high": "43.75"
+    },
+    {
+        "open": "43.83",
+        "close": "43.83",
+        "date": "2021-05-25",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1621900800",
+        "low": "43.83",
+        "high": "43.83"
+    },
+    {
+        "open": "43.83",
+        "close": "43.91",
+        "date": "2021-05-26",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1621987200",
+        "low": "43.83",
+        "high": "43.91"
+    },
+    {
+        "open": "43.75",
+        "close": "43.91",
+        "date": "2021-05-27",
+        "volume": "2200",
+        "symbol": "GMA",
+        "timestamp": "1622073600",
+        "low": "43.75",
+        "high": "43.91"
+    },
+    {
+        "open": "43.91",
+        "close": "44.08",
+        "date": "2021-05-28",
+        "volume": "900",
+        "symbol": "GMA",
+        "timestamp": "1622160000",
+        "low": "43.91",
+        "high": "44.08"
+    },
+    {
+        "open": "44.16",
+        "close": "44.41",
+        "date": "2021-05-31",
+        "volume": "1700",
+        "symbol": "GMA",
+        "timestamp": "1622419200",
+        "low": "44.16",
+        "high": "44.41"
+    },
+    {
+        "open": "44.5",
+        "close": "44.41",
+        "date": "2021-06-01",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1622505600",
+        "low": "44.41",
+        "high": "44.5"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-02",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1622592000",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-03",
+        "volume": "2000",
+        "symbol": "GMA",
+        "timestamp": "1622678400",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.16",
+        "close": "44.41",
+        "date": "2021-06-04",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1622764800",
+        "low": "44.16",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-07",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1623024000",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-08",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1623110400",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-09",
+        "volume": "1400",
+        "symbol": "GMA",
+        "timestamp": "1623196800",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-10",
+        "volume": "700",
+        "symbol": "GMA",
+        "timestamp": "1623283200",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-11",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1623369600",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-15",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1623715200",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.41",
+        "date": "2021-06-16",
+        "volume": "1200",
+        "symbol": "GMA",
+        "timestamp": "1623801600",
+        "low": "44.41",
+        "high": "44.41"
+    },
+    {
+        "open": "44.41",
+        "close": "44.5",
+        "date": "2021-06-17",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1623888000",
+        "low": "44.41",
+        "high": "44.5"
+    },
+    {
+        "open": "44.41",
+        "close": "44.5",
+        "date": "2021-06-18",
+        "volume": "1200",
+        "symbol": "GMA",
+        "timestamp": "1623974400",
+        "low": "44.41",
+        "high": "44.5"
+    },
+    {
+        "open": "44.5",
+        "close": "44.5",
+        "date": "2021-06-21",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1624233600",
+        "low": "44.5",
+        "high": "44.5"
+    },
+    {
+        "open": "44.5",
+        "close": "44.5",
+        "date": "2021-06-22",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1624320000",
+        "low": "44.5",
+        "high": "44.5"
+    },
+    {
+        "open": "44.5",
+        "close": "44.5",
+        "date": "2021-06-23",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1624406400",
+        "low": "44.5",
+        "high": "44.5"
+    },
+    {
+        "open": "44.5",
+        "close": "45",
+        "date": "2021-06-24",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1624492800",
+        "low": "44.5",
+        "high": "45"
+    },
+    {
+        "open": "45",
+        "close": "45.83",
+        "date": "2021-06-25",
+        "volume": "1100",
+        "symbol": "GMA",
+        "timestamp": "1624579200",
+        "low": "45",
+        "high": "45.83"
+    },
+    {
+        "open": "46.66",
+        "close": "47.91",
+        "date": "2021-06-28",
+        "volume": "1600",
+        "symbol": "GMA",
+        "timestamp": "1624838400",
+        "low": "46.66",
+        "high": "47.91"
+    },
+    {
+        "open": "48.33",
+        "close": "48.33",
+        "date": "2021-06-29",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1624924800",
+        "low": "48.33",
+        "high": "48.33"
+    },
+    {
+        "open": "48.75",
+        "close": "52.33",
+        "date": "2021-06-30",
+        "volume": "1300",
+        "symbol": "GMA",
+        "timestamp": "1625011200",
+        "low": "48.75",
+        "high": "52.33"
+    },
+    {
+        "open": "52",
+        "close": "52.08",
+        "date": "2021-07-01",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1625097600",
+        "low": "52",
+        "high": "52.08"
+    },
+    {
+        "open": "52.08",
+        "close": "52",
+        "date": "2021-07-02",
+        "volume": "1200",
+        "symbol": "GMA",
+        "timestamp": "1625184000",
+        "low": "52",
+        "high": "52.08"
+    },
+    {
+        "open": "51.83",
+        "close": "51.91",
+        "date": "2021-07-05",
+        "volume": "1000",
+        "symbol": "GMA",
+        "timestamp": "1625443200",
+        "low": "51.83",
+        "high": "51.91"
+    },
+    {
+        "open": "51.66",
+        "close": "51.83",
+        "date": "2021-07-06",
+        "volume": "600",
+        "symbol": "GMA",
+        "timestamp": "1625529600",
+        "low": "51.66",
+        "high": "51.83"
+    },
+    {
+        "open": "51.83",
+        "close": "51.83",
+        "date": "2021-07-07",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1625616000",
+        "low": "51.83",
+        "high": "51.83"
+    },
+    {
+        "open": "51.58",
+        "close": "51.83",
+        "date": "2021-07-09",
+        "volume": "2000",
+        "symbol": "GMA",
+        "timestamp": "1625788800",
+        "low": "51.58",
+        "high": "51.83"
+    },
+    {
+        "open": "51.66",
+        "close": "51.83",
+        "date": "2021-07-12",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1626048000",
+        "low": "51.66",
+        "high": "51.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-07-13",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1626134400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-07-14",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1626220800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50",
+        "date": "2021-07-15",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1626307200",
+        "low": "50",
+        "high": "50.83"
+    },
+    {
+        "open": "50",
+        "close": "50",
+        "date": "2021-07-16",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1626393600",
+        "low": "50",
+        "high": "50"
+    },
+    {
+        "open": "50",
+        "close": "50",
+        "date": "2021-07-19",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1626652800",
+        "low": "50",
+        "high": "50"
+    },
+    {
+        "open": "49.91",
+        "close": "50",
+        "date": "2021-07-20",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1626739200",
+        "low": "49.91",
+        "high": "50"
+    },
+    {
+        "open": "49.91",
+        "close": "49.83",
+        "date": "2021-07-21",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1626825600",
+        "low": "49.83",
+        "high": "49.91"
+    },
+    {
+        "open": "49.83",
+        "close": "49.75",
+        "date": "2021-07-22",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1626912000",
+        "low": "49.75",
+        "high": "49.83"
+    },
+    {
+        "open": "49.75",
+        "close": "49.83",
+        "date": "2021-07-23",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1626998400",
+        "low": "49.75",
+        "high": "49.83"
+    },
+    {
+        "open": "49.16",
+        "close": "49.16",
+        "date": "2021-07-26",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1627257600",
+        "low": "49.16",
+        "high": "49.16"
+    },
+    {
+        "open": "49.08",
+        "close": "49.16",
+        "date": "2021-07-27",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1627344000",
+        "low": "49.08",
+        "high": "49.16"
+    },
+    {
+        "open": "49.16",
+        "close": "49.16",
+        "date": "2021-07-28",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1627430400",
+        "low": "49.16",
+        "high": "49.16"
+    },
+    {
+        "open": "49.08",
+        "close": "49.08",
+        "date": "2021-07-29",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1627516800",
+        "low": "49.08",
+        "high": "49.08"
+    },
+    {
+        "open": "49.16",
+        "close": "51.66",
+        "date": "2021-07-30",
+        "volume": "900",
+        "symbol": "GMA",
+        "timestamp": "1627603200",
+        "low": "49.16",
+        "high": "51.66"
+    },
+    {
+        "open": "50.83",
+        "close": "51.66",
+        "date": "2021-08-02",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1627862400",
+        "low": "50.83",
+        "high": "51.66"
+    },
+    {
+        "open": "50.83",
+        "close": "51.66",
+        "date": "2021-08-03",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1627948800",
+        "low": "50.83",
+        "high": "51.66"
+    },
+    {
+        "open": "50",
+        "close": "51.25",
+        "date": "2021-08-04",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1628035200",
+        "low": "50",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-05",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1628121600",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-06",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1628208000",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-09",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1628467200",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-10",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1628553600",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-11",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1628640000",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-12",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1628726400",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-13",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1628812800",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "51.25",
+        "date": "2021-08-16",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1629072000",
+        "low": "50.83",
+        "high": "51.25"
+    },
+    {
+        "open": "46.16",
+        "close": "51.25",
+        "date": "2021-08-17",
+        "volume": "1300",
+        "symbol": "GMA",
+        "timestamp": "1629158400",
+        "low": "46.16",
+        "high": "51.25"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-08-18",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1629244800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-08-19",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1629331200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-08-20",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1629417600",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-08-23",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1629676800",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-08-24",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1629763200",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-08-25",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1629849600",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-08-26",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1629936000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-08-27",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1630022400",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-08-30",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1630281600",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-08-31",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1630368000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-01",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1630454400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-09-06",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1630886400",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-09-07",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1630972800",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-09-08",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1631059200",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-09",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1631145600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.83",
+        "date": "2021-09-10",
+        "volume": "1400",
+        "symbol": "GMA",
+        "timestamp": "1631232000",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.41",
+        "date": "2021-09-13",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1631491200",
+        "low": "50.41",
+        "high": "50.41"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-14",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1631577600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-15",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1631664000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-16",
+        "volume": "1600",
+        "symbol": "GMA",
+        "timestamp": "1631750400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-17",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1631836800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-20",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632096000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-21",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632182400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-22",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632268800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-23",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632355200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-24",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632441600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-27",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632700800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-28",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632787200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-29",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632873600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-09-30",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1632960000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-01",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633046400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-04",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633305600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-05",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633392000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-06",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633478400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-07",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633564800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-08",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633651200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-11",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633910400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-12",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1633996800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-13",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634083200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-14",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634169600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-15",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634256000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-18",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634515200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-19",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634601600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-20",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634688000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-21",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634774400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-22",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1634860800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-25",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1635120000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-26",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1635206400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-27",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1635292800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-28",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1635379200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-10-29",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1635465600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-05",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1636070400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-08",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1636329600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-10",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1636502400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-11",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1636588800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-12",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1636675200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-15",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1636934400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-16",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1637020800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.41",
+        "close": "50.41",
+        "date": "2021-11-17",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1637107200",
+        "low": "50.41",
+        "high": "50.41"
+    },
+    {
+        "open": "50.83",
+        "close": "50.41",
+        "date": "2021-11-18",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1637193600",
+        "low": "50.41",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-19",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1637280000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-22",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1637539200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-23",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1637625600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-24",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1637712000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-25",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1637798400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-26",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1637884800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-29",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1638144000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-11-30",
+        "volume": "500",
+        "symbol": "GMA",
+        "timestamp": "1638230400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-01",
+        "volume": "267000",
+        "symbol": "GMA",
+        "timestamp": "1638316800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-02",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1638403200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-06",
+        "volume": "261600",
+        "symbol": "GMA",
+        "timestamp": "1638748800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-07",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1638835200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-08",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1638921600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-09",
+        "volume": "130800",
+        "symbol": "GMA",
+        "timestamp": "1639008000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-10",
+        "volume": "32800",
+        "symbol": "GMA",
+        "timestamp": "1639094400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-13",
+        "volume": "32700",
+        "symbol": "GMA",
+        "timestamp": "1639353600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-14",
+        "volume": "130800",
+        "symbol": "GMA",
+        "timestamp": "1639440000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-15",
+        "volume": "61200",
+        "symbol": "GMA",
+        "timestamp": "1639526400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-16",
+        "volume": "32700",
+        "symbol": "GMA",
+        "timestamp": "1639612800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-17",
+        "volume": "65400",
+        "symbol": "GMA",
+        "timestamp": "1639699200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-20",
+        "volume": "65700",
+        "symbol": "GMA",
+        "timestamp": "1639958400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-21",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1640044800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-22",
+        "volume": "65700",
+        "symbol": "GMA",
+        "timestamp": "1640131200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-23",
+        "volume": "65700",
+        "symbol": "GMA",
+        "timestamp": "1640217600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-24",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1640304000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-27",
+        "volume": "65700",
+        "symbol": "GMA",
+        "timestamp": "1640563200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-28",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1640649600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-29",
+        "volume": "33000",
+        "symbol": "GMA",
+        "timestamp": "1640736000",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-30",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1640822400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2021-12-31",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1640908800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-04",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1641254400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-05",
+        "volume": "123400",
+        "symbol": "GMA",
+        "timestamp": "1641340800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-06",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1641427200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-07",
+        "volume": "66000",
+        "symbol": "GMA",
+        "timestamp": "1641513600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-01-10",
+        "volume": "130900",
+        "symbol": "GMA",
+        "timestamp": "1641772800",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-11",
+        "volume": "65900",
+        "symbol": "GMA",
+        "timestamp": "1641859200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-01-12",
+        "volume": "66100",
+        "symbol": "GMA",
+        "timestamp": "1641945600",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "51.08",
+        "date": "2022-01-13",
+        "volume": "131200",
+        "symbol": "GMA",
+        "timestamp": "1642032000",
+        "low": "50.83",
+        "high": "51.08"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-01-14",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1642118400",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-01-17",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1642377600",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-18",
+        "volume": "131400",
+        "symbol": "GMA",
+        "timestamp": "1642464000",
+        "low": "50.75",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-01-19",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1642550400",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-20",
+        "volume": "65600",
+        "symbol": "GMA",
+        "timestamp": "1642636800",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-21",
+        "volume": "65400",
+        "symbol": "GMA",
+        "timestamp": "1642723200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-24",
+        "volume": "130800",
+        "symbol": "GMA",
+        "timestamp": "1642982400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-01-25",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1643068800",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.91",
+        "close": "51",
+        "date": "2022-01-26",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1643155200",
+        "low": "50.91",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-01-27",
+        "volume": "130800",
+        "symbol": "GMA",
+        "timestamp": "1643241600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-01-28",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1643328000",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.91",
+        "close": "51",
+        "date": "2022-02-07",
+        "volume": "65300",
+        "symbol": "GMA",
+        "timestamp": "1644192000",
+        "low": "50.91",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-02-08",
+        "volume": "130900",
+        "symbol": "GMA",
+        "timestamp": "1644278400",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-02-09",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1644364800",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.91",
+        "close": "51",
+        "date": "2022-02-10",
+        "volume": "65300",
+        "symbol": "GMA",
+        "timestamp": "1644451200",
+        "low": "50.91",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-02-11",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1644537600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "45.75",
+        "close": "50.83",
+        "date": "2022-02-14",
+        "volume": "196300",
+        "symbol": "GMA",
+        "timestamp": "1644796800",
+        "low": "45.75",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-02-15",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1644883200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-02-16",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1644969600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.66",
+        "close": "50.83",
+        "date": "2022-02-17",
+        "volume": "131000",
+        "symbol": "GMA",
+        "timestamp": "1645056000",
+        "low": "50.66",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-02-18",
+        "volume": "65400",
+        "symbol": "GMA",
+        "timestamp": "1645142400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-02-21",
+        "volume": "65400",
+        "symbol": "GMA",
+        "timestamp": "1645401600",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-02-22",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1645488000",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-02-23",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1645574400",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-02-24",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1645660800",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-02-25",
+        "volume": "98100",
+        "symbol": "GMA",
+        "timestamp": "1645747200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-02-28",
+        "volume": "65600",
+        "symbol": "GMA",
+        "timestamp": "1646006400",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-01",
+        "volume": "98300",
+        "symbol": "GMA",
+        "timestamp": "1646092800",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-03-02",
+        "volume": "98200",
+        "symbol": "GMA",
+        "timestamp": "1646179200",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-03",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1646265600",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-04",
+        "volume": "32800",
+        "symbol": "GMA",
+        "timestamp": "1646352000",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-07",
+        "volume": "98200",
+        "symbol": "GMA",
+        "timestamp": "1646611200",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-08",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1646697600",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-09",
+        "volume": "63100",
+        "symbol": "GMA",
+        "timestamp": "1646784000",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "51",
+        "date": "2022-03-10",
+        "volume": "131200",
+        "symbol": "GMA",
+        "timestamp": "1646870400",
+        "low": "50.83",
+        "high": "51"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-11",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1646956800",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-14",
+        "volume": "65800",
+        "symbol": "GMA",
+        "timestamp": "1647216000",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-15",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1647302400",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-16",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1647388800",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-17",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1647475200",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-18",
+        "volume": "134700",
+        "symbol": "GMA",
+        "timestamp": "1647561600",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-03-21",
+        "volume": "66400",
+        "symbol": "GMA",
+        "timestamp": "1647820800",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-22",
+        "volume": "37400",
+        "symbol": "GMA",
+        "timestamp": "1647907200",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-23",
+        "volume": "164500",
+        "symbol": "GMA",
+        "timestamp": "1647993600",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-24",
+        "volume": "37700",
+        "symbol": "GMA",
+        "timestamp": "1648080000",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-25",
+        "volume": "65900",
+        "symbol": "GMA",
+        "timestamp": "1648166400",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-28",
+        "volume": "137900",
+        "symbol": "GMA",
+        "timestamp": "1648425600",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-29",
+        "volume": "37500",
+        "symbol": "GMA",
+        "timestamp": "1648512000",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50.83",
+        "close": "50.91",
+        "date": "2022-03-30",
+        "volume": "65500",
+        "symbol": "GMA",
+        "timestamp": "1648598400",
+        "low": "50.83",
+        "high": "50.91"
+    },
+    {
+        "open": "50",
+        "close": "50.83",
+        "date": "2022-03-31",
+        "volume": "28600",
+        "symbol": "GMA",
+        "timestamp": "1648684800",
+        "low": "50",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-04-01",
+        "volume": "97900",
+        "symbol": "GMA",
+        "timestamp": "1648771200",
+        "low": "50.83",
+        "high": "50.83"
+    },
+    {
+        "open": "50.66",
+        "close": "50.83",
+        "date": "2022-04-04",
+        "volume": "30200",
+        "symbol": "GMA",
+        "timestamp": "1649030400",
+        "low": "50.66",
+        "high": "50.83"
+    },
+    {
+        "open": "50.83",
+        "close": "50.83",
+        "date": "2022-04-05",
+        "volume": "27800",
+        "symbol": "GMA",
+        "timestamp": "1649116800",
+        "low": "50.75",
+        "high": "50.83"
+    },
+    {
+        "open": "50.58",
+        "close": "50.83",
+        "date": "2022-04-06",
+        "volume": "20700",
+        "symbol": "GMA",
+        "timestamp": "1649203200",
+        "low": "50.58",
+        "high": "50.83"
+    },
+    {
+        "open": "45.91",
+        "close": "45.91",
+        "date": "2022-04-07",
+        "volume": "1100",
+        "symbol": "GMA",
+        "timestamp": "1649289600",
+        "low": "45.91",
+        "high": "45.91"
+    },
+    {
+        "open": "41.33",
+        "close": "41.66",
+        "date": "2022-04-12",
+        "volume": "300",
+        "symbol": "GMA",
+        "timestamp": "1649721600",
+        "low": "41.33",
+        "high": "41.66"
+    },
+    {
+        "open": "45.75",
+        "close": "45.75",
+        "date": "2022-04-14",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1649894400",
+        "low": "45.75",
+        "high": "45.75"
+    },
+    {
+        "open": "41.66",
+        "close": "49.91",
+        "date": "2022-04-15",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1649980800",
+        "low": "41.66",
+        "high": "49.91"
+    },
+    {
+        "open": "45",
+        "close": "45",
+        "date": "2022-04-22",
+        "volume": "400",
+        "symbol": "GMA",
+        "timestamp": "1650585600",
+        "low": "45",
+        "high": "45"
+    },
+    {
+        "open": "41.66",
+        "close": "49.16",
+        "date": "2022-04-25",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1650844800",
+        "low": "41.66",
+        "high": "49.16"
+    },
+    {
+        "open": "44.33",
+        "close": "44.33",
+        "date": "2022-04-29",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1651190400",
+        "low": "44.33",
+        "high": "44.33"
+    },
+    {
+        "open": "41.66",
+        "close": "41.66",
+        "date": "2022-05-06",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1651795200",
+        "low": "41.66",
+        "high": "41.66"
+    },
+    {
+        "open": "41.66",
+        "close": "41.66",
+        "date": "2022-05-11",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1652227200",
+        "low": "41.66",
+        "high": "41.66"
+    },
+    {
+        "open": "41.66",
+        "close": "41.66",
+        "date": "2022-05-16",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1652659200",
+        "low": "41.66",
+        "high": "41.66"
+    },
+    {
+        "open": "45.7",
+        "close": "45.7",
+        "date": "2022-05-30",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1653868800",
+        "low": "45.7",
+        "high": "45.7"
+    },
+    {
+        "open": "50",
+        "close": "50",
+        "date": "2022-06-22",
+        "volume": "700",
+        "symbol": "GMA",
+        "timestamp": "1655856000",
+        "low": "50",
+        "high": "50"
+    },
+    {
+        "open": "45",
+        "close": "45",
+        "date": "2022-08-24",
+        "volume": "600",
+        "symbol": "GMA",
+        "timestamp": "1661299200",
+        "low": "45",
+        "high": "45"
+    },
+    {
+        "open": "40.5",
+        "close": "40.5",
+        "date": "2022-09-14",
+        "volume": "100",
+        "symbol": "GMA",
+        "timestamp": "1663113600",
+        "low": "40.5",
+        "high": "40.5"
+    },
+    {
+        "open": "44.4",
+        "close": "44.4",
+        "date": "2022-09-30",
+        "volume": "200",
+        "symbol": "GMA",
+        "timestamp": "1664496000",
+        "low": "44.4",
+        "high": "44.4"
+    }
+]
