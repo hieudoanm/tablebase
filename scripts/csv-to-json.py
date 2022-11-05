@@ -30,6 +30,7 @@ for root_dir, cur_dir, files in os.walk("./data"):
     if len(csv_files) == 0:
         continue
     for file in files:
+        print("file", file)
         csv_file_path = root_dir + "/" + file
         json_file_path = csv_file_path.replace("./data", "./json").replace(".csv", ".json")
         csv_to_json(csv_file_path, json_file_path)
