@@ -1,5 +1,5 @@
-id,name
-TIER_ONE,V.League 1
-TIER_TWO,V.League 2
-TIER_THREE,V.League 3
-TIER_CUP,National Cup
+id,name,tier
+1,V.League 1,TIER_ONE
+2,V.League 2,TIER_TWO
+3,V.League 3,TIER_THREE
+4,National Cup,TIER_CUP

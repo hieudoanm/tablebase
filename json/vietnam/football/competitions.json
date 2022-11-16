@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "V.League 1",
+        "tier": "TIER_ONE"
+    },
+    {
+        "id": "2",
+        "name": "V.League 2",
+        "tier": "TIER_TWO"
+    },
+    {
+        "id": "3",
+        "name": "V.League 3",
+        "tier": "TIER_THREE"
+    },
+    {
+        "id": "4",
+        "name": "National Cup",
+        "tier": "TIER_CUP"
+    }
+]
