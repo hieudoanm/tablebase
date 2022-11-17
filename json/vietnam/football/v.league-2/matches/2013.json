@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_TWO-2013-1-CAT-QNA",
-        "competition": "V.League 2",
+        "id": "1-CAT-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "1",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-1-ANGI-QNI",
-        "competition": "V.League 2",
+        "id": "1-ANGI-QNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "1",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-1-DOT-TDC",
-        "competition": "V.League 2",
+        "id": "1-DOT-TDC",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "1",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-1-SGO-BIDI",
-        "competition": "V.League 2",
+        "id": "1-SGO-BIDI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "1",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-2-QNA-DOT",
-        "competition": "V.League 2",
+        "id": "2-QNA-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "2",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-2-BIDI-ANGI",
-        "competition": "V.League 2",
+        "id": "2-BIDI-ANGI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "2",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-2-TDC-CAT",
-        "competition": "V.League 2",
+        "id": "2-TDC-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "2",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-2-QNI-SGO",
-        "competition": "V.League 2",
+        "id": "2-QNI-SGO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "2",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-3-BIDI-CAT",
-        "competition": "V.League 2",
+        "id": "3-BIDI-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "3",
@@ -162,8 +162,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-3-QNI-DOT",
-        "competition": "V.League 2",
+        "id": "3-QNI-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "3",
@@ -180,8 +180,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-3-ANGI-TDC",
-        "competition": "V.League 2",
+        "id": "3-ANGI-TDC",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "3",
@@ -198,8 +198,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-3-SGO-QNA",
-        "competition": "V.League 2",
+        "id": "3-SGO-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "3",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-4-TDC-QNI",
-        "competition": "V.League 2",
+        "id": "4-TDC-QNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "4",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-4-DOT-ANGI",
-        "competition": "V.League 2",
+        "id": "4-DOT-ANGI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "4",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-4-CAT-SGO",
-        "competition": "V.League 2",
+        "id": "4-CAT-SGO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "4",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-4-QNA-BIDI",
-        "competition": "V.League 2",
+        "id": "4-QNA-BIDI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "4",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-5-DOT-CAT",
-        "competition": "V.League 2",
+        "id": "5-DOT-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "5",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-5-TDC-QNA",
-        "competition": "V.League 2",
+        "id": "5-TDC-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "5",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-5-ANGI-SGO",
-        "competition": "V.League 2",
+        "id": "5-ANGI-SGO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "5",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-5-QNI-BIDI",
-        "competition": "V.League 2",
+        "id": "5-QNI-BIDI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "5",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-6-ANGI-CAT",
-        "competition": "V.League 2",
+        "id": "6-ANGI-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "6",
@@ -378,8 +378,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-6-QNI-QNA",
-        "competition": "V.League 2",
+        "id": "6-QNI-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "6",
@@ -396,8 +396,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-6-BIDI-TDC",
-        "competition": "V.League 2",
+        "id": "6-BIDI-TDC",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "6",
@@ -414,8 +414,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-6-SGO-DOT",
-        "competition": "V.League 2",
+        "id": "6-SGO-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "6",
@@ -432,8 +432,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-7-CAT-QNI",
-        "competition": "V.League 2",
+        "id": "7-CAT-QNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "7",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-7-TDC-SGO",
-        "competition": "V.League 2",
+        "id": "7-TDC-SGO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "7",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-7-DOT-BIDI",
-        "competition": "V.League 2",
+        "id": "7-DOT-BIDI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "7",
@@ -486,8 +486,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-7-QNA-ANGI",
-        "competition": "V.League 2",
+        "id": "7-QNA-ANGI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "7",
@@ -504,8 +504,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-8-QNI-ANGI",
-        "competition": "V.League 2",
+        "id": "8-QNI-ANGI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "8",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-8-TDC-DOT",
-        "competition": "V.League 2",
+        "id": "8-TDC-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "8",
@@ -540,8 +540,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-8-QNA-CAT",
-        "competition": "V.League 2",
+        "id": "8-QNA-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "8",
@@ -558,8 +558,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-8-BIDI-SGO",
-        "competition": "V.League 2",
+        "id": "8-BIDI-SGO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "8",
@@ -576,8 +576,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-9-ANGI-BIDI",
-        "competition": "V.League 2",
+        "id": "9-ANGI-BIDI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "9",
@@ -594,8 +594,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-9-DOT-QNA",
-        "competition": "V.League 2",
+        "id": "9-DOT-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "9",
@@ -612,8 +612,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-9-CAT-TDC",
-        "competition": "V.League 2",
+        "id": "9-CAT-TDC",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "9",
@@ -630,8 +630,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-9-SGO-QNI",
-        "competition": "V.League 2",
+        "id": "9-SGO-QNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "9",
@@ -648,8 +648,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-10-DOT-QNI",
-        "competition": "V.League 2",
+        "id": "10-DOT-QNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "10",
@@ -666,8 +666,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-10-TDC-ANGI",
-        "competition": "V.League 2",
+        "id": "10-TDC-ANGI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "10",
@@ -684,8 +684,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-10-CAT-BIDI",
-        "competition": "V.League 2",
+        "id": "10-CAT-BIDI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "10",
@@ -702,8 +702,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-10-QNA-SGO",
-        "competition": "V.League 2",
+        "id": "10-QNA-SGO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "10",
@@ -720,8 +720,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-11-QNI-TDC",
-        "competition": "V.League 2",
+        "id": "11-QNI-TDC",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "11",
@@ -738,8 +738,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-11-ANGI-DOT",
-        "competition": "V.League 2",
+        "id": "11-ANGI-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "11",
@@ -756,8 +756,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-11-BIDI-QNA",
-        "competition": "V.League 2",
+        "id": "11-BIDI-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "11",
@@ -774,8 +774,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-11-SGO-CAT",
-        "competition": "V.League 2",
+        "id": "11-SGO-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "11",
@@ -792,8 +792,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-12-CAT-DOT",
-        "competition": "V.League 2",
+        "id": "12-CAT-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "12",
@@ -810,8 +810,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-12-QNA-TDC",
-        "competition": "V.League 2",
+        "id": "12-QNA-TDC",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "12",
@@ -828,8 +828,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-12-SGO-ANGI",
-        "competition": "V.League 2",
+        "id": "12-SGO-ANGI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "12",
@@ -846,8 +846,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-12-BIDI-QNI",
-        "competition": "V.League 2",
+        "id": "12-BIDI-QNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "12",
@@ -864,8 +864,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-13-CAT-ANGI",
-        "competition": "V.League 2",
+        "id": "13-CAT-ANGI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "13",
@@ -882,8 +882,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-13-QNA-QNI",
-        "competition": "V.League 2",
+        "id": "13-QNA-QNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "13",
@@ -900,8 +900,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-13-DOT-SGO",
-        "competition": "V.League 2",
+        "id": "13-DOT-SGO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "13",
@@ -918,8 +918,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-13-TDC-BIDI",
-        "competition": "V.League 2",
+        "id": "13-TDC-BIDI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "13",
@@ -936,8 +936,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-14-BIDI-DOT",
-        "competition": "V.League 2",
+        "id": "14-BIDI-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "14",
@@ -954,8 +954,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-14-SGO-TDC",
-        "competition": "V.League 2",
+        "id": "14-SGO-TDC",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "14",
@@ -972,8 +972,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-14-QNI-CAT",
-        "competition": "V.League 2",
+        "id": "14-QNI-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "14",
@@ -990,8 +990,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2013-14-ANGI-QNA",
-        "competition": "V.League 2",
+        "id": "14-ANGI-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2013",
         "round": "14",

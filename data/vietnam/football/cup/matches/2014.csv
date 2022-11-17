@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2014-1/16-CAT-ANGI,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-08,15:30,Cần Thơ,CAT,Cần Thơ,2,1,ANGI,An Giang,Cần Thơ
 TIER_CUP-2014-1/16-DAL-SGO,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-08,15:30,Buôn Ma Thuột,DAL,Đắk Lắk,1,0,SGO,Sài Gòn,Đắk Lắk
 TIER_CUP-2014-1/16-TNI-BIDU,National Cup,TIER_CUP,2014,1/16,FINISHED,2014-03-09,15:30,Tây Ninh,TNI,XM Fico - YTL Tây Ninh,0,2,BIDU,Becamex Bình Dương,Becamex Bình Dương

@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_CUP-2016-1/16-BPH-QNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-BPH-QNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -18,8 +18,8 @@
         "note": "Than Qu\u1ea3ng Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/16-DAL-CAM",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-DAL-CAM",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -36,8 +36,8 @@
         "note": "C\u00e0 Mau"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/16-NAN-KHH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-NAN-KHH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -54,8 +54,8 @@
         "note": "S\u00f4ng Lam Ngh\u1ec7 An"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/16-NAD-PYE",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-NAD-PYE",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -72,8 +72,8 @@
         "note": "Nam \u0110\u1ecbnh"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/16-DON-TNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-DON-TNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -90,8 +90,8 @@
         "note": "XM Fico - YTL T\u00e2y Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/16-QNA-HUE",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-QNA-HUE",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -108,8 +108,8 @@
         "note": "Qu\u1ea3ng Nam"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/16-GLA-VTL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-GLA-VTL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -126,8 +126,8 @@
         "note": "Ho\u00e0ng Anh Gia Lai"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/16-THH-HCM",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/16-THH-HCM",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/16",
@@ -144,8 +144,8 @@
         "note": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-NAD-CAT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-NAD-CAT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -162,8 +162,8 @@
         "note": "Nam \u0110\u1ecbnh"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-GLA-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-GLA-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -180,8 +180,8 @@
         "note": "Ho\u00e0ng Anh Gia Lai"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-QNA-SGO",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-QNA-SGO",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -198,8 +198,8 @@
         "note": "Qu\u1ea3ng Nam"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-BIDU-CAM",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-BIDU-CAM",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -216,8 +216,8 @@
         "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-LAN-TNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-LAN-TNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -234,8 +234,8 @@
         "note": "Long An"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-HAP-NAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-HAP-NAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -252,8 +252,8 @@
         "note": "H\u1ea3i Ph\u00f2ng"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-QNI-DOT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-QNI-DOT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -270,8 +270,8 @@
         "note": "Than Qu\u1ea3ng Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2016-1/8-HAN-THH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-1/8-HAN-THH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "1/8",
@@ -288,8 +288,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-1-NAD-HAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-1-NAD-HAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-1",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-1-BIDU-GLA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-1-BIDU-GLA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-1",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-1-HAP-QNA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-1-HAP-QNA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-1",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-1-QNI-LAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-1-QNI-LAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-1",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-2-QNA-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-2-QNA-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-2",
@@ -378,8 +378,8 @@
         "note": "Qu\u1ea3ng Nam"
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-2-GLA-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-2-GLA-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-2",
@@ -396,8 +396,8 @@
         "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-2-LAN-QNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-2-LAN-QNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-2",
@@ -414,8 +414,8 @@
         "note": "Than Qu\u1ea3ng Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2016-quarterfinal-leg-2-HAN-NAD",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-quarterfinal-leg-2-HAN-NAD",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "quarterfinal-leg-2",
@@ -432,8 +432,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2016-semifinal-leg-1-BIDU-QNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-semifinal-leg-1-BIDU-QNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "semifinal-leg-1",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2016-semifinal-leg-1-QNA-HAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-semifinal-leg-1-QNA-HAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "semifinal-leg-1",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2016-semifinal-leg-2-QNI-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-semifinal-leg-2-QNI-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "semifinal-leg-2",
@@ -486,8 +486,8 @@
         "note": "Than Qu\u1ea3ng Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2016-semifinal-leg-2-HAN-QNA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-semifinal-leg-2-HAN-QNA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "semifinal-leg-2",
@@ -504,8 +504,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2016-final-leg-1-QNI-HAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-final-leg-1-QNI-HAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "final-leg-1",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2016-final-leg-2-HAN-QNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2016-final-leg-2-HAN-QNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2016",
         "round": "final-leg-2",

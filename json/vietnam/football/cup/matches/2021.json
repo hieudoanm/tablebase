@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_CUP-2021-1/16-CAT-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-CAT-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -18,8 +18,8 @@
         "note": "C\u1ea7n Th\u01a1"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-GLA-ANGI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-GLA-ANGI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -36,8 +36,8 @@
         "note": "Ho\u00e0ng Anh Gia Lai"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-DAN-BRVT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-DAN-BRVT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -54,8 +54,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-HAT-CAND",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-HAT-CAND",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -72,8 +72,8 @@
         "note": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-PHI-NAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-PHI-NAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -90,8 +90,8 @@
         "note": "Ph\u1ed1 Hi\u1ebfn"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-DAL-THH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-DAL-THH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -108,8 +108,8 @@
         "note": "\u0110\u1eafk L\u1eafk"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-BIDI-LAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-BIDI-LAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -126,8 +126,8 @@
         "note": "Long An"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-QNA-SGO",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-QNA-SGO",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -144,8 +144,8 @@
         "note": "Qu\u1ea3ng Nam"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-HAP-BPH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-HAP-BPH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -162,8 +162,8 @@
         "note": "H\u1ea3i Ph\u00f2ng"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-PDO-HUE",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-PDO-HUE",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -180,8 +180,8 @@
         "note": "Ph\u00f9 \u0110\u1ed5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/16-KHH-PTH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/16-KHH-PTH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/16",
@@ -198,8 +198,8 @@
         "note": "Kh\u00e1nh H\u00f2a"
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-QNI-LAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-QNI-LAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-PDO-CAT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-PDO-CAT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-HCM-HAT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-HCM-HAT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-QNA-DAL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-QNA-DAL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-VTL-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-VTL-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-GLA-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-GLA-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-HAN-PHI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-HAN-PHI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2021-1/8-NAD-KHH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2021-1/8-NAD-KHH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2021",
         "round": "1/8",

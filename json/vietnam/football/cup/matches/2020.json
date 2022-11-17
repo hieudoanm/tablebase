@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_CUP-2020-1/16-NAD-GLA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-NAD-GLA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -18,8 +18,8 @@
         "note": "Nam \u0110\u1ecbnh"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-ANGI-LAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-ANGI-LAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -36,8 +36,8 @@
         "note": "An Giang"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-HUE-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-HUE-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -54,8 +54,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-NAN-BIDI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-NAN-BIDI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -72,8 +72,8 @@
         "note": "S\u00f4ng Lam Ngh\u1ec7 An"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-BRVT-SGO",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-BRVT-SGO",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -90,8 +90,8 @@
         "note": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-DOT-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-DOT-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -108,8 +108,8 @@
         "note": "\u0110\u1ed3ng Th\u00e1p"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-PHI-THH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-PHI-THH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -126,8 +126,8 @@
         "note": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-KHH-VTL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-KHH-VTL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -144,8 +144,8 @@
         "note": "Viettel"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-BPH-DAL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-BPH-DAL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -162,8 +162,8 @@
         "note": "B\u00ecnh Ph\u01b0\u1edbc"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/16-HAT-TNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/16-HAT-TNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/16",
@@ -180,8 +180,8 @@
         "note": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-ANGI-VTL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-ANGI-VTL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -198,8 +198,8 @@
         "note": "Viettel"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-NAN-BRVT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-NAN-BRVT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -216,8 +216,8 @@
         "note": "B\u00e0 R\u1ecba-V\u0169ng T\u00e0u"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-QNI-NAD",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-QNI-NAD",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -234,8 +234,8 @@
         "note": "Than Qu\u1ea3ng Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-HCM-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-HCM-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -252,8 +252,8 @@
         "note": "TP H\u1ed3 Ch\u00ed Minh"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-BIDU-THH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-BIDU-THH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -270,8 +270,8 @@
         "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-CAT-BPH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-CAT-BPH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -288,8 +288,8 @@
         "note": "C\u1ea7n Th\u01a1"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-QNA-HAT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-QNA-HAT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -306,8 +306,8 @@
         "note": "H\u1ed3ng L\u0129nh H\u00e0 T\u0129nh"
     },
     {
-        "fixtureId": "TIER_CUP-2020-1/8-HAN-DOT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-1/8-HAN-DOT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "1/8",
@@ -324,8 +324,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2020-quarterfinal-BRVT-HCM",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-quarterfinal-BRVT-HCM",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "quarterfinal",
@@ -342,8 +342,8 @@
         "note": "TP H\u1ed3 Ch\u00ed Minh"
     },
     {
-        "fixtureId": "TIER_CUP-2020-quarterfinal-HAN-CAT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-quarterfinal-HAN-CAT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "quarterfinal",
@@ -360,8 +360,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2020-quarterfinal-HAT-QNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-quarterfinal-HAT-QNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "quarterfinal",
@@ -378,8 +378,8 @@
         "note": "Than Qu\u1ea3ng Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2020-quarterfinal-VTL-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-quarterfinal-VTL-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "quarterfinal",
@@ -396,8 +396,8 @@
         "note": "Viettel"
     },
     {
-        "fixtureId": "TIER_CUP-2020-semifinal-QNI-VTL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-semifinal-QNI-VTL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "semifinal",
@@ -414,8 +414,8 @@
         "note": "Viettel"
     },
     {
-        "fixtureId": "TIER_CUP-2020-semifinal-HAN-HCM",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-semifinal-HAN-HCM",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "semifinal",
@@ -432,8 +432,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2020-final-VTL-HAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2020-final-VTL-HAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2020",
         "round": "final",

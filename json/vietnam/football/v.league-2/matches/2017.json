@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_TWO-2017-1-BPH-DAL",
-        "competition": "V.League 2",
+        "id": "1-BPH-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "1",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-1-HUE-NAD",
-        "competition": "V.League 2",
+        "id": "1-HUE-NAD",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "1",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-1-DOT-VTL",
-        "competition": "V.League 2",
+        "id": "1-DOT-VTL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "1",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-2-TNI-HUE",
-        "competition": "V.League 2",
+        "id": "2-TNI-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "2",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-2-NAD-DOT",
-        "competition": "V.League 2",
+        "id": "2-NAD-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "2",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-2-VTL-BPH",
-        "competition": "V.League 2",
+        "id": "2-VTL-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "2",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-3-BPH-NAD",
-        "competition": "V.League 2",
+        "id": "3-BPH-NAD",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "3",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-3-DAL-VTL",
-        "competition": "V.League 2",
+        "id": "3-DAL-VTL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "3",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-3-DOT-TNI",
-        "competition": "V.League 2",
+        "id": "3-DOT-TNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "3",
@@ -162,8 +162,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-4-HUE-DOT",
-        "competition": "V.League 2",
+        "id": "4-HUE-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "4",
@@ -180,8 +180,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-4-TNI-BPH",
-        "competition": "V.League 2",
+        "id": "4-TNI-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "4",
@@ -198,8 +198,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-4-NAD-DAL",
-        "competition": "V.League 2",
+        "id": "4-NAD-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "4",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-5-BPH-HUE",
-        "competition": "V.League 2",
+        "id": "5-BPH-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "5",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-5-DAL-TNI",
-        "competition": "V.League 2",
+        "id": "5-DAL-TNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "5",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-5-VTL-NAD",
-        "competition": "V.League 2",
+        "id": "5-VTL-NAD",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "5",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-6-TNI-VTL",
-        "competition": "V.League 2",
+        "id": "6-TNI-VTL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "6",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-6-HUE-DAL",
-        "competition": "V.League 2",
+        "id": "6-HUE-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "6",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-6-DOT-BPH",
-        "competition": "V.League 2",
+        "id": "6-DOT-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "6",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-7-DAL-DOT",
-        "competition": "V.League 2",
+        "id": "7-DAL-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "7",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-7-NAD-TNI",
-        "competition": "V.League 2",
+        "id": "7-NAD-TNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "7",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-7-VTL-HUE",
-        "competition": "V.League 2",
+        "id": "7-VTL-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "7",
@@ -378,8 +378,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-8-DOT-NAD",
-        "competition": "V.League 2",
+        "id": "8-DOT-NAD",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "8",
@@ -396,8 +396,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-8-BPH-VTL",
-        "competition": "V.League 2",
+        "id": "8-BPH-VTL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "8",
@@ -414,8 +414,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-8-HUE-TNI",
-        "competition": "V.League 2",
+        "id": "8-HUE-TNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "8",
@@ -432,8 +432,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-9-DAL-BPH",
-        "competition": "V.League 2",
+        "id": "9-DAL-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "9",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-9-NAD-HUE",
-        "competition": "V.League 2",
+        "id": "9-NAD-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "9",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-9-VTL-DOT",
-        "competition": "V.League 2",
+        "id": "9-VTL-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "9",
@@ -486,8 +486,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-10-HUE-VTL",
-        "competition": "V.League 2",
+        "id": "10-HUE-VTL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "10",
@@ -504,8 +504,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-10-TNI-NAD",
-        "competition": "V.League 2",
+        "id": "10-TNI-NAD",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "10",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-10-DOT-DAL",
-        "competition": "V.League 2",
+        "id": "10-DOT-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "10",
@@ -540,8 +540,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-11-TNI-DOT",
-        "competition": "V.League 2",
+        "id": "11-TNI-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "11",
@@ -558,8 +558,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-11-NAD-BPH",
-        "competition": "V.League 2",
+        "id": "11-NAD-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "11",
@@ -576,8 +576,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-11-VTL-DAL",
-        "competition": "V.League 2",
+        "id": "11-VTL-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "11",
@@ -594,8 +594,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-12-BPH-TNI",
-        "competition": "V.League 2",
+        "id": "12-BPH-TNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "12",
@@ -612,8 +612,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-12-DAL-NAD",
-        "competition": "V.League 2",
+        "id": "12-DAL-NAD",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "12",
@@ -630,8 +630,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-12-DOT-HUE",
-        "competition": "V.League 2",
+        "id": "12-DOT-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "12",
@@ -648,8 +648,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-13-NAD-VTL",
-        "competition": "V.League 2",
+        "id": "13-NAD-VTL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "13",
@@ -666,8 +666,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-13-HUE-BPH",
-        "competition": "V.League 2",
+        "id": "13-HUE-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "13",
@@ -684,8 +684,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-13-TNI-DAL",
-        "competition": "V.League 2",
+        "id": "13-TNI-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "13",
@@ -702,8 +702,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-14-BPH-DOT",
-        "competition": "V.League 2",
+        "id": "14-BPH-DOT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "14",
@@ -720,8 +720,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-14-VTL-TNI",
-        "competition": "V.League 2",
+        "id": "14-VTL-TNI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "14",
@@ -738,8 +738,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2017-14-DAL-HUE",
-        "competition": "V.League 2",
+        "id": "14-DAL-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2017",
         "round": "14",

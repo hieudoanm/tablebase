@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_ONE-2016-1-THH-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-1-THH-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "1",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-1-DAN-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-1-DAN-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "1",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-1-BIDU-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-1-BIDU-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "1",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-1-QNI-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-1-QNI-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "1",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-1-NAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-1-NAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "1",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-1-LAN-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-1-LAN-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "1",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-1-SGO-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-1-SGO-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "1",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-2-NAN-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-2-NAN-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "2",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-2-DAN-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-2-DAN-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "2",
@@ -162,8 +162,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-2-HAP-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-2-HAP-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "2",
@@ -180,8 +180,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-2-LAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-2-LAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "2",
@@ -198,8 +198,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-2-GLA-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-2-GLA-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "2",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-2-HAN-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-2-HAN-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "2",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-2-BIDU-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-2-BIDU-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "2",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-3-QNI-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-3-QNI-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "3",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-3-KHH-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-3-KHH-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "3",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-3-QNA-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-3-QNA-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "3",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-3-DOT-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-3-DOT-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "3",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-3-CAT-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-3-CAT-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "3",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-3-SGO-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-3-SGO-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "3",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-3-THH-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-3-THH-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "3",
@@ -378,8 +378,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-4-NAN-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-4-NAN-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "4",
@@ -396,8 +396,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-4-QNA-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-4-QNA-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "4",
@@ -414,8 +414,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-4-KHH-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-4-KHH-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "4",
@@ -432,8 +432,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-4-DAN-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-4-DAN-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "4",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-4-CAT-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-4-CAT-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "4",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-4-HAP-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-4-HAP-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "4",
@@ -486,8 +486,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-4-HAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-4-HAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "4",
@@ -504,8 +504,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-5-BIDU-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-5-BIDU-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "5",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-5-LAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-5-LAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "5",
@@ -540,8 +540,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-5-DOT-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-5-DOT-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "5",
@@ -558,8 +558,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-5-QNI-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-5-QNI-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "5",
@@ -576,8 +576,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-5-THH-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-5-THH-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "5",
@@ -594,8 +594,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-5-GLA-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-5-GLA-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "5",
@@ -612,8 +612,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-5-SGO-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-5-SGO-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "5",
@@ -630,8 +630,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-6-QNA-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-6-QNA-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "6",
@@ -648,8 +648,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-6-CAT-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-6-CAT-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "6",
@@ -666,8 +666,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-6-HAP-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-6-HAP-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "6",
@@ -684,8 +684,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-6-DOT-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-6-DOT-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "6",
@@ -702,8 +702,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-6-GLA-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-6-GLA-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "6",
@@ -720,8 +720,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-6-SGO-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-6-SGO-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "6",
@@ -738,8 +738,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-6-DAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-6-DAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "6",
@@ -756,8 +756,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-7-KHH-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-7-KHH-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "7",
@@ -774,8 +774,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-7-HAP-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-7-HAP-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "7",
@@ -792,8 +792,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-7-QNI-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-7-QNI-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "7",
@@ -810,8 +810,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-7-NAN-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-7-NAN-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "7",
@@ -828,8 +828,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-7-CAT-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-7-CAT-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "7",
@@ -846,8 +846,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-7-THH-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-7-THH-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "7",
@@ -864,8 +864,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-7-HAN-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-7-HAN-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "7",
@@ -882,8 +882,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-8-QNA-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-8-QNA-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "8",
@@ -900,8 +900,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-8-LAN-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-8-LAN-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "8",
@@ -918,8 +918,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-8-KHH-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-8-KHH-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "8",
@@ -936,8 +936,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-8-QNI-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-8-QNI-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "8",
@@ -954,8 +954,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-8-THH-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-8-THH-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "8",
@@ -972,8 +972,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-8-BIDU-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-8-BIDU-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "8",
@@ -990,8 +990,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-8-HAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-8-HAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "8",
@@ -1008,8 +1008,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-9-DOT-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-9-DOT-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "9",
@@ -1026,8 +1026,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-9-QNA-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-9-QNA-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "9",
@@ -1044,8 +1044,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-9-DAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-9-DAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "9",
@@ -1062,8 +1062,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-9-SGO-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-9-SGO-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "9",
@@ -1080,8 +1080,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-9-HAP-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-9-HAP-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "9",
@@ -1098,8 +1098,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-9-GLA-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-9-GLA-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "9",
@@ -1116,8 +1116,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-9-CAT-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-9-CAT-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "9",
@@ -1134,8 +1134,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-10-QNA-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-10-QNA-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "10",
@@ -1152,8 +1152,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-10-LAN-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-10-LAN-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "10",
@@ -1170,8 +1170,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-10-KHH-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-10-KHH-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "10",
@@ -1188,8 +1188,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-10-QNI-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-10-QNI-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "10",
@@ -1206,8 +1206,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-10-NAN-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-10-NAN-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "10",
@@ -1224,8 +1224,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-10-THH-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-10-THH-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "10",
@@ -1242,8 +1242,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-10-BIDU-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-10-BIDU-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "10",
@@ -1260,8 +1260,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-11-HAN-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-11-HAN-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "11",
@@ -1278,8 +1278,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-11-KHH-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-11-KHH-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "11",
@@ -1296,8 +1296,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-11-CAT-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-11-CAT-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "11",
@@ -1314,8 +1314,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-11-HAN-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-11-HAN-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "11",
@@ -1332,8 +1332,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-11-GLA-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-11-GLA-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "11",
@@ -1350,8 +1350,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-11-DOT-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-11-DOT-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "11",
@@ -1368,8 +1368,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-11-HAP-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-11-HAP-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "11",
@@ -1386,8 +1386,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-12-QNA-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-12-QNA-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "12",
@@ -1404,8 +1404,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-12-HAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-12-HAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "12",
@@ -1422,8 +1422,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-12-KHH-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-12-KHH-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "12",
@@ -1440,8 +1440,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-12-CAT-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-12-CAT-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "12",
@@ -1458,8 +1458,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-12-HAP-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-12-HAP-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "12",
@@ -1476,8 +1476,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-12-THH-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-12-THH-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "12",
@@ -1494,8 +1494,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-12-QNI-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-12-QNI-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "12",
@@ -1512,8 +1512,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-13-DOT-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-13-DOT-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "13",
@@ -1530,8 +1530,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-13-LAN-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-13-LAN-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "13",
@@ -1548,8 +1548,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-13-DAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-13-DAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "13",
@@ -1566,8 +1566,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-13-BIDU-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-13-BIDU-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "13",
@@ -1584,8 +1584,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-13-GLA-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-13-GLA-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "13",
@@ -1602,8 +1602,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-13-SGO-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-13-SGO-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "13",
@@ -1620,8 +1620,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-13-NAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-13-NAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "13",
@@ -1638,8 +1638,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-14-DAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-14-DAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "14",
@@ -1656,8 +1656,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-14-QNA-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-14-QNA-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "14",
@@ -1674,8 +1674,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-14-KHH-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-14-KHH-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "14",
@@ -1692,8 +1692,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-14-CAT-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-14-CAT-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "14",
@@ -1710,8 +1710,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-14-HAP-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-14-HAP-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "14",
@@ -1728,8 +1728,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-14-NAN-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-14-NAN-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "14",
@@ -1746,8 +1746,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-14-HAN-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-14-HAN-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "14",
@@ -1764,8 +1764,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-15-BIDU-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-15-BIDU-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "15",
@@ -1782,8 +1782,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-15-LAN-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-15-LAN-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "15",
@@ -1800,8 +1800,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-15-QNI-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-15-QNI-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "15",
@@ -1818,8 +1818,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-15-DOT-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-15-DOT-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "15",
@@ -1836,8 +1836,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-15-GLA-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-15-GLA-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "15",
@@ -1854,8 +1854,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-15-SGO-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-15-SGO-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "15",
@@ -1872,8 +1872,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-15-THH-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-15-THH-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "15",
@@ -1890,8 +1890,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-16-DOT-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-16-DOT-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "16",
@@ -1908,8 +1908,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-16-LAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-16-LAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "16",
@@ -1926,8 +1926,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-16-BIDU-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-16-BIDU-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "16",
@@ -1944,8 +1944,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-16-GLA-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-16-GLA-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "16",
@@ -1962,8 +1962,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-16-SGO-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-16-SGO-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "16",
@@ -1980,8 +1980,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-16-DAN-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-16-DAN-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "16",
@@ -1998,8 +1998,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-16-NAN-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-16-NAN-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "16",
@@ -2016,8 +2016,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-17-KHH-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-17-KHH-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "17",
@@ -2034,8 +2034,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-17-CAT-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-17-CAT-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "17",
@@ -2052,8 +2052,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-17-QNA-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-17-QNA-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "17",
@@ -2070,8 +2070,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-17-HAP-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-17-HAP-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "17",
@@ -2088,8 +2088,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-17-THH-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-17-THH-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "17",
@@ -2106,8 +2106,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-17-QNI-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-17-QNI-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "17",
@@ -2124,8 +2124,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-17-HAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-17-HAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "17",
@@ -2142,8 +2142,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-18-LAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-18-LAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "18",
@@ -2160,8 +2160,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-18-QNA-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-18-QNA-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "18",
@@ -2178,8 +2178,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-18-DOT-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-18-DOT-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "18",
@@ -2196,8 +2196,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-18-SGO-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-18-SGO-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "18",
@@ -2214,8 +2214,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-18-BIDU-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-18-BIDU-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "18",
@@ -2232,8 +2232,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-18-DAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-18-DAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "18",
@@ -2250,8 +2250,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-18-GLA-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-18-GLA-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "18",
@@ -2268,8 +2268,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-19-LAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-19-LAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "19",
@@ -2286,8 +2286,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-19-KHH-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-19-KHH-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "19",
@@ -2304,8 +2304,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-19-BIDU-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-19-BIDU-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "19",
@@ -2322,8 +2322,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-19-NAN-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-19-NAN-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "19",
@@ -2340,8 +2340,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-19-THH-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-19-THH-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "19",
@@ -2358,8 +2358,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-19-HAN-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-19-HAN-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "19",
@@ -2376,8 +2376,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-19-QNI-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-19-QNI-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "19",
@@ -2394,8 +2394,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-20-DOT-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-20-DOT-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "20",
@@ -2412,8 +2412,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-20-QNA-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-20-QNA-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "20",
@@ -2430,8 +2430,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-20-DAN-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-20-DAN-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "20",
@@ -2448,8 +2448,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-20-CAT-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-20-CAT-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "20",
@@ -2466,8 +2466,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-20-HAP-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-20-HAP-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "20",
@@ -2484,8 +2484,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-20-GLA-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-20-GLA-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "20",
@@ -2502,8 +2502,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-20-SGO-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-20-SGO-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "20",
@@ -2520,8 +2520,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-21-DOT-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-21-DOT-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "21",
@@ -2538,8 +2538,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-21-KHH-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-21-KHH-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "21",
@@ -2556,8 +2556,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-21-SGO-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-21-SGO-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "21",
@@ -2574,8 +2574,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-21-QNA-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-21-QNA-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "21",
@@ -2592,8 +2592,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-21-BIDU-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-21-BIDU-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "21",
@@ -2610,8 +2610,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-21-CAT-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-21-CAT-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "21",
@@ -2628,8 +2628,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-21-QNI-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-21-QNI-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "21",
@@ -2646,8 +2646,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-22-HAN-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-22-HAN-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "22",
@@ -2664,8 +2664,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-22-DAN-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-22-DAN-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "22",
@@ -2682,8 +2682,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-22-LAN-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-22-LAN-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "22",
@@ -2700,8 +2700,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-22-NAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-22-NAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "22",
@@ -2718,8 +2718,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-22-THH-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-22-THH-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "22",
@@ -2736,8 +2736,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-22-HAP-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-22-HAP-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "22",
@@ -2754,8 +2754,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-22-GLA-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-22-GLA-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "22",
@@ -2772,8 +2772,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-23-DAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-23-DAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "23",
@@ -2790,8 +2790,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-23-QNI-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-23-QNI-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "23",
@@ -2808,8 +2808,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-23-LAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-23-LAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "23",
@@ -2826,8 +2826,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-23-BIDU-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-23-BIDU-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "23",
@@ -2844,8 +2844,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-23-NAN-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-23-NAN-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "23",
@@ -2862,8 +2862,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-23-THH-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-23-THH-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "23",
@@ -2880,8 +2880,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-23-SGO-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-23-SGO-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "23",
@@ -2898,8 +2898,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-24-HAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-24-HAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "24",
@@ -2916,8 +2916,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-24-KHH-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-24-KHH-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "24",
@@ -2934,8 +2934,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-24-QNA-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-24-QNA-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "24",
@@ -2952,8 +2952,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-24-DOT-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-24-DOT-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "24",
@@ -2970,8 +2970,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-24-CAT-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-24-CAT-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "24",
@@ -2988,8 +2988,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-24-HAP-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-24-HAP-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "24",
@@ -3006,8 +3006,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-24-GLA-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-24-GLA-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "24",
@@ -3024,8 +3024,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-25-NAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-25-NAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "25",
@@ -3042,8 +3042,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-25-HAN-DOT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-25-HAN-DOT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "25",
@@ -3060,8 +3060,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-25-BIDU-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-25-BIDU-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "25",
@@ -3078,8 +3078,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-25-KHH-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-25-KHH-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "25",
@@ -3096,8 +3096,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-25-LAN-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-25-LAN-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "25",
@@ -3114,8 +3114,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-25-THH-CAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-25-THH-CAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "25",
@@ -3132,8 +3132,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-25-QNI-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-25-QNI-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "25",
@@ -3150,8 +3150,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-26-SGO-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-26-SGO-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "26",
@@ -3168,8 +3168,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-26-DOT-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-26-DOT-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "26",
@@ -3186,8 +3186,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-26-DAN-QNA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-26-DAN-QNA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "26",
@@ -3204,8 +3204,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-26-HAP-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-26-HAP-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "26",
@@ -3222,8 +3222,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-26-CAT-KHH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-26-CAT-KHH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "26",
@@ -3240,8 +3240,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-26-GLA-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-26-GLA-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "26",
@@ -3258,8 +3258,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2016-26-NAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2016-26-NAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2016",
         "round": "26",

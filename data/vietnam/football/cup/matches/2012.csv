@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2012-1/16-TNI-NIB,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,15:30,Tây Ninh,TNI,XM Fico - YTL Tây Ninh,0,0,NIB,XM The Vissai Ninh Bình,XM The Vissai Ninh Bình
 TIER_CUP-2012-1/16-DON-,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,15:30,Đồng Nai,DON,Đồng Nai,1,1,,Khatoco Khánh Hòa,Khatoco Khánh Hòa
 TIER_CUP-2012-1/16-ANGI-BIDI,National Cup,TIER_CUP,2012,1/16,FINISHED,2011-12-18,15:30,Kiên Giang,ANGI,An Giang,0,2,BIDI,Topenland Bình Định,Topenland Bình Định

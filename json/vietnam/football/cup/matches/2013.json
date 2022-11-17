@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_CUP-2013-1/16-DOT-QNA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/16-DOT-QNA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/16",
@@ -18,8 +18,8 @@
         "note": "Qu\u1ea3ng Nam"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/16-ANGI-CAT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/16-ANGI-CAT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/16",
@@ -36,8 +36,8 @@
         "note": "An Giang"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-QNA-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-QNA-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -54,8 +54,8 @@
         "note": "Qu\u1ea3ng Nam"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-HAN-KLKG",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-HAN-KLKG",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -72,8 +72,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-GLA-XTSG",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-GLA-XTSG",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -90,8 +90,8 @@
         "note": "Ho\u00e0ng Anh Gia Lai"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-DAN-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-DAN-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -108,8 +108,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-DON-BIDI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-DON-BIDI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -126,8 +126,8 @@
         "note": "\u0110\u1ed3ng Nai"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-ANGI-LAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-ANGI-LAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -144,8 +144,8 @@
         "note": "Long An"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-THH-NAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-THH-NAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -162,8 +162,8 @@
         "note": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a"
     },
     {
-        "fixtureId": "TIER_CUP-2013-1/8-NIB-QNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-1/8-NIB-QNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "1/8",
@@ -180,8 +180,8 @@
         "note": "XM The Vissai Ninh B\u00ecnh"
     },
     {
-        "fixtureId": "TIER_CUP-2013-quarterfinal-THH-DON",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-quarterfinal-THH-DON",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "quarterfinal",
@@ -198,8 +198,8 @@
         "note": "\u0110\u1ed3ng Nai"
     },
     {
-        "fixtureId": "TIER_CUP-2013-quarterfinal-NIB-GLA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-quarterfinal-NIB-GLA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "quarterfinal",
@@ -216,8 +216,8 @@
         "note": "XM The Vissai Ninh B\u00ecnh"
     },
     {
-        "fixtureId": "TIER_CUP-2013-quarterfinal-DAN-QNA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-quarterfinal-DAN-QNA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "quarterfinal",
@@ -234,8 +234,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2013-quarterfinal-LAN-HAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-quarterfinal-LAN-HAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "quarterfinal",
@@ -252,8 +252,8 @@
         "note": "Long An"
     },
     {
-        "fixtureId": "TIER_CUP-2013-semifinal-DON-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-semifinal-DON-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "semifinal",
@@ -270,8 +270,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2013-semifinal-LAN-NIB",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-semifinal-LAN-NIB",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "semifinal",
@@ -288,8 +288,8 @@
         "note": "XM The Vissai Ninh B\u00ecnh"
     },
     {
-        "fixtureId": "TIER_CUP-2013-final-DAN-NIB",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2013-final-DAN-NIB",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2013",
         "round": "final",

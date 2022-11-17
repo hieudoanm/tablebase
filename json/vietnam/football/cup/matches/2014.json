@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_CUP-2014-1/16-CAT-ANGI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/16-CAT-ANGI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/16",
@@ -18,8 +18,8 @@
         "note": "C\u1ea7n Th\u01a1"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/16-DAL-SGO",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/16-DAL-SGO",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/16",
@@ -36,8 +36,8 @@
         "note": "\u0110\u1eafk L\u1eafk"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/16-TNI-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/16-TNI-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/16",
@@ -54,8 +54,8 @@
         "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/16-KHH-HUE",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/16-KHH-HUE",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/16",
@@ -72,8 +72,8 @@
         "note": "Kh\u00e1nh H\u00f2a"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/16-HCM-DOT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/16-HCM-DOT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/16",
@@ -90,8 +90,8 @@
         "note": "\u0110\u1ed3ng Th\u00e1p"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-CAT-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-CAT-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -108,8 +108,8 @@
         "note": "H\u1ea3i Ph\u00f2ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-LAN-THH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-LAN-THH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -126,8 +126,8 @@
         "note": "Long An"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-GLA-DON",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-GLA-DON",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -144,8 +144,8 @@
         "note": "Ho\u00e0ng Anh Gia Lai"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-QNI-KHH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-QNI-KHH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -162,8 +162,8 @@
         "note": "Than Qu\u1ea3ng Ninh"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-DAN-DOT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-DAN-DOT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -180,8 +180,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-HAN-DAL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-HAN-DAL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -198,8 +198,8 @@
         "note": "\u0110\u1eafk L\u1eafk"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-NAN-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-NAN-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -216,8 +216,8 @@
         "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-1/8-NIB-QNA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-1/8-NIB-QNA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "1/8",
@@ -234,8 +234,8 @@
         "note": "Qu\u1ea3ng Nam"
     },
     {
-        "fixtureId": "TIER_CUP-2014-quarterfinal-HAP-QNA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-quarterfinal-HAP-QNA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "quarterfinal",
@@ -252,8 +252,8 @@
         "note": "H\u1ea3i Ph\u00f2ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-quarterfinal-BIDU-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-quarterfinal-BIDU-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "quarterfinal",
@@ -270,8 +270,8 @@
         "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-quarterfinal-QNI-GLA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-quarterfinal-QNI-GLA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "quarterfinal",
@@ -288,8 +288,8 @@
         "note": "Ho\u00e0ng Anh Gia Lai"
     },
     {
-        "fixtureId": "TIER_CUP-2014-quarterfinal-DAL-LAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-quarterfinal-DAL-LAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "quarterfinal",
@@ -306,8 +306,8 @@
         "note": "Long An"
     },
     {
-        "fixtureId": "TIER_CUP-2014-semifinal-HAP-LAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-semifinal-HAP-LAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "semifinal",
@@ -324,8 +324,8 @@
         "note": "H\u1ea3i Ph\u00f2ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-semifinal-BIDU-GLA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-semifinal-BIDU-GLA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "semifinal",
@@ -342,8 +342,8 @@
         "note": "Becamex B\u00ecnh D\u01b0\u01a1ng"
     },
     {
-        "fixtureId": "TIER_CUP-2014-final-HAP-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2014-final-HAP-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2014",
         "round": "final",

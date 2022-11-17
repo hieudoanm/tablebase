@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2017-1/16-BPH-DOT,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-04,15:00,Bình Phước,BPH,Bình Phước,2,0,DOT,Đồng Tháp,Bình Phước
 TIER_CUP-2017-1/16-NAN-DAL,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-04,16:30,Vinh,NAN,Sông Lam Nghệ An,3,1,DAL,Đắk Lắk,Sông Lam Nghệ An
 TIER_CUP-2017-1/16-DAN-TNI,National Cup,TIER_CUP,2017,1/16,FINISHED,2017-02-04,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,6,1,TNI,XM Fico - YTL Tây Ninh,SHB Đà Nẵng

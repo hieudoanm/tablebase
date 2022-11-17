@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2020-1/16-NAD-GLA,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-23,18:00,Thiên Trường,NAD,Nam Định,2,0,GLA,Hoàng Anh Gia Lai,Nam Định
 TIER_CUP-2020-1/16-ANGI-LAN,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-24,15:30,Kiên Giang,ANGI,An Giang,2,2,LAN,Long An,An Giang
 TIER_CUP-2020-1/16-HUE-DAN,National Cup,TIER_CUP,2020,1/16,FINISHED,2020-05-24,16:00,Tự Do,HUE,Huế,0,1,DAN,SHB Đà Nẵng,SHB Đà Nẵng

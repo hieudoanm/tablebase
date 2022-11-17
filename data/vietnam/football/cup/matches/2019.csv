@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2019-1/16-DOT-TNI,National Cup,TIER_CUP,2019,1/16,FINISHED,2019-03-29,15:30,Đồng Tháp,DOT,Đồng Tháp,3,4,TNI,XM Fico - YTL Tây Ninh,XM Fico - YTL Tây Ninh
 TIER_CUP-2019-1/16-KHH-ANGI,National Cup,TIER_CUP,2019,1/16,FINISHED,2019-03-29,17:00,19/8 Nha Trang,KHH,Khánh Hòa,0,2,ANGI,An Giang,An Giang
 TIER_CUP-2019-1/16-SGO-BIDI,National Cup,TIER_CUP,2019,1/16,FINISHED,2019-03-29,19:00,Thống Nhất,SGO,Sài Gòn,6,1,BIDI,Topenland Bình Định,Sài Gòn

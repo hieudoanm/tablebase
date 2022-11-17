@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_TWO-2022-1-PTH-DAL",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-1-PTH-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "1",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-1-HUE-KHH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-1-HUE-KHH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "1",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-1-CAT-BPH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-1-CAT-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "1",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-1-PDO-BRVT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-1-PDO-BRVT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "1",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-1-CAND-QNA",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-1-CAND-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "1",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-1-LAN-PHI",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-1-LAN-PHI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "1",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-2-QNA-HUE",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-2-QNA-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "2",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-2-DAL-CAT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-2-DAL-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "2",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-2-KHH-PDO",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-2-KHH-PDO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "2",
@@ -162,8 +162,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-2-BPH-LAN",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-2-BPH-LAN",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "2",
@@ -180,8 +180,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-2-PHI-PTH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-2-PHI-PTH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "2",
@@ -198,8 +198,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-2-BRVT-CAND",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-2-BRVT-CAND",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "2",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-3-PTH-QNA",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-3-PTH-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "3",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-3-LAN-BRVT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-3-LAN-BRVT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "3",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-3-CAT-KHH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-3-CAT-KHH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "3",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-3-CAND-DAL",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-3-CAND-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "3",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-3-HUE-BPH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-3-HUE-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "3",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-3-PDO-PHI",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-3-PDO-PHI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "3",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-4-QNA-CAT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-4-QNA-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "4",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-4-KHH-LAN",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-4-KHH-LAN",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "4",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-4-BRVT-PTH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-4-BRVT-PTH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "4",
@@ -378,8 +378,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-4-DAL-HUE",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-4-DAL-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "4",
@@ -396,8 +396,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-4-BPH-PDO",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-4-BPH-PDO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "4",
@@ -414,8 +414,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-4-PHI-CAND",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-4-PHI-CAND",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "4",
@@ -432,8 +432,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-5-PTH-KHH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-5-PTH-KHH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "5",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-5-PDO-CAT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-5-PDO-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "5",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-5-BRVT-DAL",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-5-BRVT-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "5",
@@ -486,8 +486,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-5-CAND-BPH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-5-CAND-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "5",
@@ -504,8 +504,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-5-LAN-HUE",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-5-LAN-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "5",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-5-PHI-QNA",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-5-PHI-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "5",
@@ -540,8 +540,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-6-LAN-DAL",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-6-LAN-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "6",
@@ -558,8 +558,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-6-QNA-PDO",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-6-QNA-PDO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "6",
@@ -576,8 +576,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-6-BPH-BRVT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-6-BPH-BRVT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "6",
@@ -594,8 +594,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-6-HUE-PTH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-6-HUE-PTH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "6",
@@ -612,8 +612,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-6-KHH-PHI",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-6-KHH-PHI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "6",
@@ -630,8 +630,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-6-CAT-CAND",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-6-CAT-CAND",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "6",
@@ -648,8 +648,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-7-DAL-BPH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-7-DAL-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "7",
@@ -666,8 +666,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-7-PTH-LAN",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-7-PTH-LAN",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "7",
@@ -684,8 +684,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-7-PHI-CAT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-7-PHI-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "7",
@@ -702,8 +702,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-7-PDO-CAND",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-7-PDO-CAND",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "7",
@@ -720,8 +720,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-7-KHH-QNA",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-7-KHH-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "7",
@@ -738,8 +738,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-7-BRVT-HUE",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-7-BRVT-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "7",
@@ -756,8 +756,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-8-PTH-PDO",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-8-PTH-PDO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "8",
@@ -774,8 +774,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-8-QNA-BPH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-8-QNA-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "8",
@@ -792,8 +792,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-8-DAL-KHH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-8-DAL-KHH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "8",
@@ -810,8 +810,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-8-PHI-HUE",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-8-PHI-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "8",
@@ -828,8 +828,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-8-CAND-LAN",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-8-CAND-LAN",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "8",
@@ -846,8 +846,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-8-BRVT-CAT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-8-BRVT-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "8",
@@ -864,8 +864,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-9-HUE-CAND",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-9-HUE-CAND",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "9",
@@ -882,8 +882,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-9-BPH-PHI",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-9-BPH-PHI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "9",
@@ -900,8 +900,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-9-PDO-DAL",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-9-PDO-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "9",
@@ -918,8 +918,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-9-LAN-QNA",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-9-LAN-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "9",
@@ -936,8 +936,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-9-KHH-BRVT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-9-KHH-BRVT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "9",
@@ -954,8 +954,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-9-CAT-PTH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-9-CAT-PTH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "9",
@@ -972,8 +972,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-10-PDO-LAN",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-10-PDO-LAN",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "10",
@@ -990,8 +990,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-10-KHH-BPH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-10-KHH-BPH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "10",
@@ -1008,8 +1008,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-10-CAT-HUE",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-10-CAT-HUE",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "10",
@@ -1026,8 +1026,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-10-PTH-CAND",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-10-PTH-CAND",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "10",
@@ -1044,8 +1044,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-10-QNA-DAL",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-10-QNA-DAL",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "10",
@@ -1062,8 +1062,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-10-PHI-BRVT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-10-PHI-BRVT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "10",
@@ -1080,8 +1080,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-11-DAL-PHI",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-11-DAL-PHI",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "11",
@@ -1098,8 +1098,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-11-LAN-CAT",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-11-LAN-CAT",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "11",
@@ -1116,8 +1116,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-11-BRVT-QNA",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-11-BRVT-QNA",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "11",
@@ -1134,8 +1134,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-11-CAND-KHH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-11-CAND-KHH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "11",
@@ -1152,8 +1152,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-11-HUE-PDO",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-11-HUE-PDO",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "11",
@@ -1170,8 +1170,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_TWO-2022-11-BPH-PTH",
-        "competition": "V.League 2",
+        "id": "TIER_TWO-2022-11-BPH-PTH",
+        "competitionId": "2",
         "competitionTier": "TIER_TWO",
         "season": "2022",
         "round": "11",

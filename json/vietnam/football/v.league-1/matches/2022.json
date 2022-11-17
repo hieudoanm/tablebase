@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_ONE-2022-1-BIDU-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-1-BIDU-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "1",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-1-BIDI-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-1-BIDI-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "1",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-1-HAT-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-1-HAT-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "1",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-1-NAD-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-1-NAD-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "1",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-1-SGO-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-1-SGO-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "1",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-1-HAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-1-HAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "1",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-2-THH-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-2-THH-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "2",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-2-NAN-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-2-NAN-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "2",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-2-DAN-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-2-DAN-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "2",
@@ -162,8 +162,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-2-GLA-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-2-GLA-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "2",
@@ -180,8 +180,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-2-HAP-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-2-HAP-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "2",
@@ -198,8 +198,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-2-VTL-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-2-VTL-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "2",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-3-VTL-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-3-VTL-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "3",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-3-NAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-3-NAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "3",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-3-DAN-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-3-DAN-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "3",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-3-HAP-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-3-HAP-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "3",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-3-HCM-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-3-HCM-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "3",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-3-NAD-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-3-NAD-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "3",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-4-GLA-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-4-GLA-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "4",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-4-THH-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-4-THH-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "4",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-4-HAN-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-4-HAN-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "4",
@@ -378,8 +378,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-4-BIDU-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-4-BIDU-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "4",
@@ -396,8 +396,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-4-HAT-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-4-HAT-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "4",
@@ -414,8 +414,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-4-SGO-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-4-SGO-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "4",
@@ -432,8 +432,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-5-BIDI-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-5-BIDI-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "5",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-5-HAP-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-5-HAP-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "5",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-5-HCM-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-5-HCM-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "5",
@@ -486,8 +486,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-5-DAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-5-DAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "5",
@@ -504,8 +504,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-5-NAD-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-5-NAD-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "5",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-5-VTL-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-5-VTL-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "5",
@@ -540,8 +540,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-6-NAN-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-6-NAN-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "6",
@@ -558,8 +558,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-6-THH-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-6-THH-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "6",
@@ -576,8 +576,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-6-HAT-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-6-HAT-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "6",
@@ -594,8 +594,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-6-SGO-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-6-SGO-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "6",
@@ -612,8 +612,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-6-GLA-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-6-GLA-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "6",
@@ -630,8 +630,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-6-HAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-6-HAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "6",
@@ -648,8 +648,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-7-NAN-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-7-NAN-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "7",
@@ -666,8 +666,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-7-BIDU-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-7-BIDU-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "7",
@@ -684,8 +684,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-7-BIDI-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-7-BIDI-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "7",
@@ -702,8 +702,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-7-HAP-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-7-HAP-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "7",
@@ -720,8 +720,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-7-THH-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-7-THH-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "7",
@@ -738,8 +738,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-7-HCM-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-7-HCM-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "7",
@@ -756,8 +756,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-8-DAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-8-DAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "8",
@@ -774,8 +774,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-8-NAD-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-8-NAD-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "8",
@@ -792,8 +792,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-8-HAP-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-8-HAP-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "8",
@@ -810,8 +810,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-8-GLA-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-8-GLA-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "8",
@@ -828,8 +828,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-8-HAN-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-8-HAN-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "8",
@@ -846,8 +846,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-8-HCM-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-8-HCM-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "8",
@@ -864,8 +864,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-9-NAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-9-NAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "9",
@@ -882,8 +882,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-9-BIDI-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-9-BIDI-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "9",
@@ -900,8 +900,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-9-VTL-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-9-VTL-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "9",
@@ -918,8 +918,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-9-GLA-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-9-GLA-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "9",
@@ -936,8 +936,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-9-HAT-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-9-HAT-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "9",
@@ -954,8 +954,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-9-SGO-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-9-SGO-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "9",
@@ -972,8 +972,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-10-DAN-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-10-DAN-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "10",
@@ -990,8 +990,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-10-HCM-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-10-HCM-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "10",
@@ -1008,8 +1008,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-10-BIDU-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-10-BIDU-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "10",
@@ -1026,8 +1026,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-10-HAT-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-10-HAT-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "10",
@@ -1044,8 +1044,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-10-THH-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-10-THH-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "10",
@@ -1062,8 +1062,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-10-HAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-10-HAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "10",
@@ -1080,8 +1080,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-11-HAP-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-11-HAP-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "11",
@@ -1098,8 +1098,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-11-SGO-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-11-SGO-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "11",
@@ -1116,8 +1116,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-11-BIDI-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-11-BIDI-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "11",
@@ -1134,8 +1134,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-11-VTL-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-11-VTL-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "11",
@@ -1152,8 +1152,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-11-NAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-11-NAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "11",
@@ -1170,8 +1170,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-11-NAD-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-11-NAD-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "11",
@@ -1188,8 +1188,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-12-THH-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-12-THH-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "12",
@@ -1206,8 +1206,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-12-HCM-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-12-HCM-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "12",
@@ -1224,8 +1224,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-12-BIDU-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-12-BIDU-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "12",
@@ -1242,8 +1242,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-12-NAD-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-12-NAD-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "12",
@@ -1260,8 +1260,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-12-DON-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-12-DON-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "12",
@@ -1278,8 +1278,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-12-HAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-12-HAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "12",
@@ -1296,8 +1296,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-13-GLA-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-13-GLA-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "13",
@@ -1314,8 +1314,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-13-HAT-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-13-HAT-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "13",
@@ -1332,8 +1332,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-13-VTL-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-13-VTL-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "13",
@@ -1350,8 +1350,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-13-BIDU-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-13-BIDU-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "13",
@@ -1368,8 +1368,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-13-BIDI-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-13-BIDI-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "13",
@@ -1386,8 +1386,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2022-13-SGO-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2022-13-SGO-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2022",
         "round": "13",

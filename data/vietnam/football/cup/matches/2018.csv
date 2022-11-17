@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2018-1/16-BIDI-VTL,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-08,16:00,Quy Nhơn,BIDI,Topenland Bình Định,1,0,VTL,Viettel,Topenland Bình Định
 TIER_CUP-2018-1/16-TNI-BPH,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-08,16:30,Tây Ninh,TNI,XM Fico - YTL Tây Ninh,0,1,BPH,Bình Phước,Bình Phước
 TIER_CUP-2018-1/16-LAN-CAND,National Cup,TIER_CUP,2018,1/16,FINISHED,2018-04-08,17:00,Long An,LAN,Long An,0,1,CAND,Công An Nhân Dân,Công An Nhân Dân

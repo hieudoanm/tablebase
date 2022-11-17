@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_ONE-2013-1-HAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-1-HAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "1",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-1-LAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-1-LAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "1",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-1-DON-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-1-DON-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "1",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-1-DAN-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-1-DAN-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "1",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-1-NAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-1-NAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "1",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-2-KLKG-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-2-KLKG-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "2",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-2-BIDU-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-2-BIDU-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "2",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-2-NIB-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-2-NIB-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "2",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-2-THH-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-2-THH-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "2",
@@ -162,8 +162,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-2-GLA-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-2-GLA-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "2",
@@ -180,8 +180,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-3-THH-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-3-THH-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "3",
@@ -198,8 +198,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-3-HAP-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-3-HAP-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "3",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-3-HAN-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-3-HAN-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "3",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-3-LAN-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-3-LAN-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "3",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-3-NAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-3-NAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "3",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-4-NIB-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-4-NIB-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "4",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-4-BIDU-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-4-BIDU-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "4",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-4-HAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-4-HAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "4",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-4-DON-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-4-DON-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "4",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-4-GLA-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-4-GLA-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "4",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-5-KLKG-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-5-KLKG-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "5",
@@ -378,8 +378,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-5-THH-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-5-THH-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "5",
@@ -396,8 +396,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-5-HAP-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-5-HAP-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "5",
@@ -414,8 +414,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-5-LAN-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-5-LAN-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "5",
@@ -432,8 +432,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-5-DAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-5-DAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "5",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-6-NIB-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-6-NIB-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "6",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-6-GLA-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-6-GLA-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "6",
@@ -486,8 +486,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-6-LAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-6-LAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "6",
@@ -504,8 +504,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-6-THH-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-6-THH-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "6",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-6-KLKG-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-6-KLKG-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "6",
@@ -540,8 +540,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-7-GLA-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-7-GLA-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "7",
@@ -558,8 +558,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-7-DON-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-7-DON-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "7",
@@ -576,8 +576,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-7-NIB-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-7-NIB-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "7",
@@ -594,8 +594,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-7-BIDU-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-7-BIDU-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "7",
@@ -612,8 +612,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-7-LAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-7-LAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "7",
@@ -630,8 +630,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-8-THH-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-8-THH-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "8",
@@ -648,8 +648,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-8-HAN-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-8-HAN-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "8",
@@ -666,8 +666,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-8-DON-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-8-DON-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "8",
@@ -684,8 +684,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-8-KLKG-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-8-KLKG-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "8",
@@ -702,8 +702,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-8-GLA-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-8-GLA-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "8",
@@ -720,8 +720,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-9-NAN-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-9-NAN-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "9",
@@ -738,8 +738,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-9-HAP-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-9-HAP-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "9",
@@ -756,8 +756,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-9-THH-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-9-THH-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "9",
@@ -774,8 +774,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-9-DAN-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-9-DAN-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "9",
@@ -792,8 +792,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-9-DON-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-9-DON-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "9",
@@ -810,8 +810,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-10-NIB-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-10-NIB-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "10",
@@ -828,8 +828,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-10-BIDU-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-10-BIDU-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "10",
@@ -846,8 +846,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-10-DAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-10-DAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "10",
@@ -864,8 +864,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-10-HAN-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-10-HAN-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "10",
@@ -882,8 +882,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-10-DAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-10-DAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "10",
@@ -900,8 +900,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-11-NAN-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-11-NAN-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "11",
@@ -918,8 +918,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-11-DON-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-11-DON-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "11",
@@ -936,8 +936,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-11-HAN-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-11-HAN-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "11",
@@ -954,8 +954,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-11-LAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-11-LAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "11",
@@ -972,8 +972,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-11-KLKG-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-11-KLKG-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "11",
@@ -990,8 +990,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-12-GLA-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-12-GLA-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "12",
@@ -1008,8 +1008,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-12-NIB-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-12-NIB-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "12",
@@ -1026,8 +1026,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-12-THH-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-12-THH-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "12",
@@ -1044,8 +1044,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-12-HAP-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-12-HAP-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "12",
@@ -1062,8 +1062,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-12-DAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-12-DAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "12",
@@ -1080,8 +1080,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-13-HAP-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-13-HAP-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "13",
@@ -1098,8 +1098,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-13-KLKG-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-13-KLKG-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "13",
@@ -1116,8 +1116,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-13-HAN-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-13-HAN-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "13",
@@ -1134,8 +1134,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-13-BIDU-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-13-BIDU-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "13",
@@ -1152,8 +1152,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-13-NAN-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-13-NAN-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "13",
@@ -1170,8 +1170,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-14-GLA-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-14-GLA-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "14",
@@ -1188,8 +1188,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-14-DAN-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-14-DAN-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "14",
@@ -1206,8 +1206,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-14-THH-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-14-THH-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "14",
@@ -1224,8 +1224,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-14-LAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-14-LAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "14",
@@ -1242,8 +1242,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-14-NIB-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-14-NIB-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "14",
@@ -1260,8 +1260,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-15-KLKG-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-15-KLKG-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "15",
@@ -1278,8 +1278,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-15-GLA-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-15-GLA-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "15",
@@ -1296,8 +1296,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-15-BIDU-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-15-BIDU-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "15",
@@ -1314,8 +1314,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-15-HAP-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-15-HAP-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "15",
@@ -1332,8 +1332,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-15-NAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-15-NAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "15",
@@ -1350,8 +1350,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-16-DON-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-16-DON-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "16",
@@ -1368,8 +1368,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-16-KLKG-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-16-KLKG-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "16",
@@ -1386,8 +1386,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-16-HAP-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-16-HAP-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "16",
@@ -1404,8 +1404,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-16-LAN-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-16-LAN-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "16",
@@ -1422,8 +1422,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-16-NAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-16-NAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "16",
@@ -1440,8 +1440,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-17-DAN-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-17-DAN-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "17",
@@ -1458,8 +1458,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-17-BIDU-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-17-BIDU-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "17",
@@ -1476,8 +1476,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-17-NAN-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-17-NAN-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "17",
@@ -1494,8 +1494,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-17-HAP-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-17-HAP-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "17",
@@ -1512,8 +1512,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-17-HAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-17-HAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "17",
@@ -1530,8 +1530,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-18-GLA-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-18-GLA-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "18",
@@ -1548,8 +1548,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-18-DON-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-18-DON-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "18",
@@ -1566,8 +1566,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-18-NIB-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-18-NIB-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "18",
@@ -1584,8 +1584,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-18-KLKG-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-18-KLKG-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "18",
@@ -1602,8 +1602,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-18-BIDU-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-18-BIDU-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "18",
@@ -1620,8 +1620,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-19-HAP-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-19-HAP-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "19",
@@ -1638,8 +1638,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-19-GLA-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-19-GLA-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "19",
@@ -1656,8 +1656,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-19-LAN-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-19-LAN-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "19",
@@ -1674,8 +1674,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-19-THH-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-19-THH-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "19",
@@ -1692,8 +1692,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-19-NAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-19-NAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "19",
@@ -1710,8 +1710,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-20-NIB-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-20-NIB-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "20",
@@ -1728,8 +1728,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-20-DAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-20-DAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "20",
@@ -1746,8 +1746,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-20-BIDU-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-20-BIDU-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "20",
@@ -1764,8 +1764,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-20-HAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-20-HAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "20",
@@ -1782,8 +1782,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-20-DON-LAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-20-DON-LAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "20",
@@ -1800,8 +1800,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-21-KLKG-DON",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-21-KLKG-DON",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "21",
@@ -1818,8 +1818,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-21-NAN-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-21-NAN-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "21",
@@ -1836,8 +1836,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-21-HAP-NIB",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-21-HAP-NIB",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "21",
@@ -1854,8 +1854,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-21-THH-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-21-THH-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "21",
@@ -1872,8 +1872,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-21-LAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-21-LAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "21",
@@ -1890,8 +1890,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-22-BIDU-KLKG",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-22-BIDU-KLKG",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "22",
@@ -1908,8 +1908,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-22-DAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-22-DAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "22",
@@ -1926,8 +1926,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-22-HAN-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-22-HAN-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "22",
@@ -1944,8 +1944,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-22-NIB-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-22-NIB-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "22",
@@ -1962,8 +1962,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2013-22-DON-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2013-22-DON-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2013",
         "round": "22",

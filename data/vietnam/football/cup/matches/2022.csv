@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2022-1/16-QNA-BIDU,National Cup,TIER_CUP,2022,1/16,SCHEDULED,2022-04-05,17:00,Quảng Nam,QNA,Quảng Nam,,,BIDU,Becamex Bình Dương,
 TIER_CUP-2022-1/16-HAT-NAD,National Cup,TIER_CUP,2022,1/16,SCHEDULED,2022-04-05,18:00,Hà Tĩnh,HAT,Hồng Lĩnh Hà Tĩnh,,,NAD,Nam Định,
 TIER_CUP-2022-1/16-HUE-SGO,National Cup,TIER_CUP,2022,1/16,SCHEDULED,2022-04-06,16:00,Tự Do,HUE,Huế,,,SGO,Sài Gòn,

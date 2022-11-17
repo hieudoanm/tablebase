@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2013-1/16-DOT-QNA,National Cup,TIER_CUP,2013,1/16,FINISHED,2013-03-16,15:30,Đồng Tháp,DOT,Đồng Tháp,0,0,QNA,Quảng Nam,Quảng Nam
 TIER_CUP-2013-1/16-ANGI-CAT,National Cup,TIER_CUP,2013,1/16,FINISHED,2013-03-16,15:30,Kiên Giang,ANGI,An Giang,4,0,CAT,Cần Thơ,An Giang
 TIER_CUP-2013-1/8-QNA-HAP,National Cup,TIER_CUP,2013,1/8,FINISHED,2013-03-24,15:30,Quảng Nam,QNA,Quảng Nam,1,0,HAP,Hải Phòng,Quảng Nam

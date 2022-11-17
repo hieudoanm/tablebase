@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2015-1/16-PYE-BPH,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,15:30,Phú Yên,PYE,Phú Yên,1,1,BPH,Bình Phước,Bình Phước
 TIER_CUP-2015-1/16-HUE-QNI,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,15:30,Tự Do,HUE,Huế,2,2,QNI,Than Quảng Ninh,Than Quảng Ninh
 TIER_CUP-2015-1/16-DON-SGO,National Cup,TIER_CUP,2015,1/16,FINISHED,2015-04-04,16:00,Đồng Nai,DON,Đồng Nai,3,1,SGO,Sài Gòn,Đồng Nai

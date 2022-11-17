@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_CUP-2012-1/16-TNI-NIB",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-TNI-NIB",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -18,8 +18,8 @@
         "note": "XM The Vissai Ninh B\u00ecnh"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/16-DON-",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-DON-",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -36,8 +36,8 @@
         "note": "Khatoco Kh\u00e1nh H\u00f2a"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/16-ANGI-BIDI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-ANGI-BIDI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -54,8 +54,8 @@
         "note": "Topenland B\u00ecnh \u0110\u1ecbnh"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/16-KLKG-QNA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-KLKG-QNA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -72,8 +72,8 @@
         "note": "Kienlongbank Ki\u00ean Giang"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/16-CAT-QNI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-CAT-QNI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -90,8 +90,8 @@
         "note": "C\u1ea7n Th\u01a1"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/16-HCM-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-HCM-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -108,8 +108,8 @@
         "note": "H\u1ea3i Ph\u00f2ng"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/16-BIDU-LAD",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-BIDU-LAD",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -126,8 +126,8 @@
         "note": "XSKT L\u00e2m \u0110\u1ed3ng"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/16-LAN-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/16-LAN-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/16",
@@ -144,8 +144,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-XTSG-",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-XTSG-",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -162,8 +162,8 @@
         "note": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-LAD-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-LAD-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -180,8 +180,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-KLKG-GLA",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-KLKG-GLA",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -198,8 +198,8 @@
         "note": "Kienlongbank Ki\u00ean Giang"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-NAN-DOT",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-NAN-DOT",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -216,8 +216,8 @@
         "note": "S\u00f4ng Lam Ngh\u1ec7 An"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-HAN-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-HAN-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -234,8 +234,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-NIB-BDHN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-NIB-BDHN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -252,8 +252,8 @@
         "note": "XM The Vissai Ninh B\u00ecnh"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-CAT-THH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-CAT-THH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -270,8 +270,8 @@
         "note": "\u0110\u00f4ng \u00c1 Thanh H\u00f3a"
     },
     {
-        "fixtureId": "TIER_CUP-2012-1/8-NVSG-BIDI",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-1/8-NVSG-BIDI",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "1/8",
@@ -288,8 +288,8 @@
         "note": "Topenland B\u00ecnh \u0110\u1ecbnh"
     },
     {
-        "fixtureId": "TIER_CUP-2012-quarterfinal-NAN-NIB",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-quarterfinal-NAN-NIB",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "quarterfinal",
@@ -306,8 +306,8 @@
         "note": "S\u00f4ng Lam Ngh\u1ec7 An"
     },
     {
-        "fixtureId": "TIER_CUP-2012-quarterfinal-BIDI-HAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-quarterfinal-BIDI-HAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "quarterfinal",
@@ -324,8 +324,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2012-quarterfinal-DAN-KLKG",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-quarterfinal-DAN-KLKG",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "quarterfinal",
@@ -342,8 +342,8 @@
         "note": "SHB \u0110\u00e0 N\u1eb5ng"
     },
     {
-        "fixtureId": "TIER_CUP-2012-quarterfinal-XTSG-THH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-quarterfinal-XTSG-THH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "quarterfinal",
@@ -360,8 +360,8 @@
         "note": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n"
     },
     {
-        "fixtureId": "TIER_CUP-2012-semifinal-HAN-DAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-semifinal-HAN-DAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "semifinal",
@@ -378,8 +378,8 @@
         "note": "H\u00e0 N\u1ed9i"
     },
     {
-        "fixtureId": "TIER_CUP-2012-semifinal-NAN-XTSG",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-semifinal-NAN-XTSG",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "semifinal",
@@ -396,8 +396,8 @@
         "note": "Xu\u00e2n Th\u00e0nh S\u00e0i G\u00f2n"
     },
     {
-        "fixtureId": "TIER_CUP-2012-final-XTSG-HAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2012-final-XTSG-HAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2012",
         "round": "final",

@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_CUP-2022-1/16-QNA-BIDU",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-QNA-BIDU",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-HAT-NAD",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-HAT-NAD",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-HUE-SGO",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-HUE-SGO",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-LAN-KHH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-LAN-KHH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-PDO-HAP",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-PDO-HAP",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-BPH-NAN",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-BPH-NAN",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-CAT-DAL",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-CAT-DAL",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-PHI-PTH",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-PHI-PTH",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_CUP-2022-1/16-HAN-CAND",
-        "competition": "National Cup",
+        "id": "TIER_CUP-2022-1/16-HAN-CAND",
+        "competitionId": "National Cup",
         "competitionTier": "TIER_CUP",
         "season": "2022",
         "round": "1/16",

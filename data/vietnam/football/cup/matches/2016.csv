@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2016-1/16-BPH-QNI,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,15:00,Bình Phước,BPH,Bình Phước,0,2,QNI,Than Quảng Ninh,Than Quảng Ninh
 TIER_CUP-2016-1/16-DAL-CAM,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,15:30,Buôn Ma Thuột,DAL,Đắk Lắk,0,1,CAM,Cà Mau,Cà Mau
 TIER_CUP-2016-1/16-NAN-KHH,National Cup,TIER_CUP,2016,1/16,FINISHED,2016-04-02,16:00,Vinh,NAN,Sông Lam Nghệ An,1,0,KHH,Khánh Hòa,Sông Lam Nghệ An

@@ -1,4 +1,4 @@
-fixtureId,competition,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
+id,competitionId,competitionTier,season,round,status,date,time,stadium,homeId,homeTeam,homeScore,awayScore,awayId,awayTeam,note
 TIER_CUP-2021-1/16-CAT-BIDU,National Cup,TIER_CUP,2021,1/16,FINISHED,2021-04-23,17:00,Cần Thơ,CAT,Cần Thơ,1,1,BIDU,Becamex Bình Dương,Cần Thơ
 TIER_CUP-2021-1/16-GLA-ANGI,National Cup,TIER_CUP,2021,1/16,FINISHED,2021-04-23,17:00,Pleiku,GLA,Hoàng Anh Gia Lai,2,1,ANGI,An Giang,Hoàng Anh Gia Lai
 TIER_CUP-2021-1/16-DAN-BRVT,National Cup,TIER_CUP,2021,1/16,FINISHED,2021-04-23,17:00,Hòa Xuân,DAN,SHB Đà Nẵng,1,0,BRVT,Bà Rịa-Vũng Tàu,SHB Đà Nẵng

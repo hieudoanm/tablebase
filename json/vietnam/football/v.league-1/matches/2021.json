@@ -1,7 +1,7 @@
 [
     {
-        "fixtureId": "TIER_ONE-2021-1-NAD-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-1-NAD-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "1",
@@ -18,8 +18,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-1-NAN-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-1-NAN-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "1",
@@ -36,8 +36,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-1-BIDU-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-1-BIDU-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "1",
@@ -54,8 +54,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-1-VTL-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-1-VTL-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "1",
@@ -72,8 +72,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-1-DAN-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-1-DAN-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "1",
@@ -90,8 +90,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-1-HAT-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-1-HAT-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "1",
@@ -108,8 +108,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-1-SGO-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-1-SGO-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "1",
@@ -126,8 +126,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-2-GLA-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-2-GLA-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "2",
@@ -144,8 +144,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-2-BIDI-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-2-BIDI-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "2",
@@ -162,8 +162,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-2-HAP-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-2-HAP-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "2",
@@ -180,8 +180,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-2-HAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-2-HAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "2",
@@ -198,8 +198,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-2-THH-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-2-THH-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "2",
@@ -216,8 +216,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-2-QNI-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-2-QNI-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "2",
@@ -234,8 +234,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-2-HCM-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-2-HCM-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "2",
@@ -252,8 +252,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-3-THH-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-3-THH-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "3",
@@ -270,8 +270,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-3-SGO-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-3-SGO-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "3",
@@ -288,8 +288,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-3-DAN-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-3-DAN-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "3",
@@ -306,8 +306,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-3-HAP-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-3-HAP-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "3",
@@ -324,8 +324,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-3-GLA-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-3-GLA-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "3",
@@ -342,8 +342,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-3-QNI-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-3-QNI-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "3",
@@ -360,8 +360,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-3-VTL-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-3-VTL-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "3",
@@ -378,8 +378,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-4-NAN-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-4-NAN-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "4",
@@ -396,8 +396,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-4-HAN-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-4-HAN-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "4",
@@ -414,8 +414,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-4-BIDI-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-4-BIDI-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "4",
@@ -432,8 +432,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-4-NAD-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-4-NAD-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "4",
@@ -450,8 +450,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-4-HCM-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-4-HCM-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "4",
@@ -468,8 +468,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-4-BIDU-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-4-BIDU-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "4",
@@ -486,8 +486,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-4-HAT-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-4-HAT-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "4",
@@ -504,8 +504,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-5-DAN-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-5-DAN-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "5",
@@ -522,8 +522,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-5-NAD-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-5-NAD-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "5",
@@ -540,8 +540,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-5-HCM-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-5-HCM-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "5",
@@ -558,8 +558,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-5-BIDU-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-5-BIDU-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "5",
@@ -576,8 +576,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-5-QNI-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-5-QNI-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "5",
@@ -594,8 +594,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-5-HAT-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-5-HAT-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "5",
@@ -612,8 +612,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-5-VTL-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-5-VTL-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "5",
@@ -630,8 +630,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-6-NAN-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-6-NAN-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "6",
@@ -648,8 +648,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-6-GLA-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-6-GLA-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "6",
@@ -666,8 +666,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-6-HAP-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-6-HAP-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "6",
@@ -684,8 +684,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-6-SGO-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-6-SGO-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "6",
@@ -702,8 +702,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-6-THH-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-6-THH-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "6",
@@ -720,8 +720,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-6-BIDI-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-6-BIDI-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "6",
@@ -738,8 +738,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-6-HAN-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-6-HAN-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "6",
@@ -756,8 +756,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-7-DAN-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-7-DAN-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "7",
@@ -774,8 +774,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-7-HAP-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-7-HAP-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "7",
@@ -792,8 +792,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-7-HCM-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-7-HCM-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "7",
@@ -810,8 +810,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-7-QNI-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-7-QNI-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "7",
@@ -828,8 +828,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-7-HAT-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-7-HAT-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "7",
@@ -846,8 +846,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-7-VTL-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-7-VTL-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "7",
@@ -864,8 +864,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-7-NAD-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-7-NAD-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "7",
@@ -882,8 +882,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-8-QNI-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-8-QNI-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "8",
@@ -900,8 +900,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-8-HAT-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-8-HAT-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "8",
@@ -918,8 +918,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-8-HAN-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-8-HAN-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "8",
@@ -936,8 +936,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-8-THH-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-8-THH-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "8",
@@ -954,8 +954,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-8-BIDU-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-8-BIDU-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "8",
@@ -972,8 +972,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-8-DAN-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-8-DAN-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "8",
@@ -990,8 +990,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-8-HCM-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-8-HCM-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "8",
@@ -1008,8 +1008,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-9-BIDI-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-9-BIDI-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "9",
@@ -1026,8 +1026,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-9-SGO-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-9-SGO-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "9",
@@ -1044,8 +1044,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-9-HAN-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-9-HAN-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "9",
@@ -1062,8 +1062,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-9-GLA-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-9-GLA-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "9",
@@ -1080,8 +1080,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-9-THH-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-9-THH-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "9",
@@ -1098,8 +1098,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-9-NAN-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-9-NAN-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "9",
@@ -1116,8 +1116,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-9-HAP-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-9-HAP-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "9",
@@ -1134,8 +1134,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-10-VTL-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-10-VTL-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "10",
@@ -1152,8 +1152,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-10-NAN-HAT",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-10-NAN-HAT",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "10",
@@ -1170,8 +1170,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-10-BIDI-THH",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-10-BIDI-THH",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "10",
@@ -1188,8 +1188,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-10-SGO-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-10-SGO-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "10",
@@ -1206,8 +1206,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-10-BIDU-DAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-10-BIDU-DAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "10",
@@ -1224,8 +1224,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-10-GLA-HAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-10-GLA-HAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "10",
@@ -1242,8 +1242,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-10-NAD-HCM",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-10-NAD-HCM",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "10",
@@ -1260,8 +1260,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-11-HAT-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-11-HAT-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "11",
@@ -1278,8 +1278,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-11-QNI-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-11-QNI-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "11",
@@ -1296,8 +1296,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-11-HCM-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-11-HCM-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "11",
@@ -1314,8 +1314,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-11-THH-GLA",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-11-THH-GLA",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "11",
@@ -1332,8 +1332,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-11-DAN-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-11-DAN-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "11",
@@ -1350,8 +1350,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-11-HAP-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-11-HAP-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "11",
@@ -1368,8 +1368,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-11-HAN-BIDI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-11-HAN-BIDI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "11",
@@ -1386,8 +1386,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-12-HCM-HAP",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-12-HCM-HAP",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "12",
@@ -1404,8 +1404,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-12-BIDI-QNI",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-12-BIDI-QNI",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "12",
@@ -1422,8 +1422,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-12-THH-NAN",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-12-THH-NAN",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "12",
@@ -1440,8 +1440,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-12-HAT-NAD",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-12-HAT-NAD",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "12",
@@ -1458,8 +1458,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-12-GLA-BIDU",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-12-GLA-BIDU",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "12",
@@ -1476,8 +1476,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-12-DAN-VTL",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-12-DAN-VTL",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "12",
@@ -1494,8 +1494,8 @@
         "note": ""
     },
     {
-        "fixtureId": "TIER_ONE-2021-12-HAN-SGO",
-        "competition": "V.League 1",
+        "id": "TIER_ONE-2021-12-HAN-SGO",
+        "competitionId": "1",
         "competitionTier": "TIER_ONE",
         "season": "2021",
         "round": "12",
