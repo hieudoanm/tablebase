@@ -1,43 +1,43 @@
-id,stadiumId,competitionId,name,fullName,code,chairman,manager,founded,active,dissolved
-1,Quy Nhơn,,Bình Định,Topenland Bình Định,BIDI,Nguyễn Văn Cường,Nguyễn Đức Thắng,1975,true,
-2,Gò Đậu,,Bình Dương,Becamex Bình Dương,BIDU,Hồ Hồng Thạch,Đặng Trần Chỉnh,1976,true,
-3,Hòa Xuân,,Đà Nẵng,SHB Đà Nẵng,DAN,Bùi Xuân Hòa,Phan Thanh Hùng,1976,true,
-4,Pleiku,,Gia Lai,Hoàng Anh Gia Lai,GLA,Đoàn Nguyên Đức,Kiatisuk Senamuang,2001,true,
-5,Hàng Đẫy,,Hà Nội,Hà Nội,HAN,Đỗ Vinh Quang,Chun Jaeho,2006,true,
-6,Lạch Tray,,Hải Phòng,Hải Phòng,HAP,Văn Trần Hoàn,Chu Đình Nghiêm,1952,true,
-7,Hà Tĩnh,,Hà Tĩnh,Hồng Lĩnh Hà Tĩnh,HAT,Nguyễn Tiến Dũng,Nguyễn Thành Công,2015,true,
-8,Thống Nhất,,Hồ Chí Minh,TP Hồ Chí Minh,HCM,Nguyễn Hữu Thắng,Trần Minh Chiến,"1960 ",true,
-9,Thiên Trường,,Nam Định,Nam Định,NAD,Nguyễn Tân Anh,Nguyễn Văn Sỹ,1965,true,
-10,Vinh,,Nghệ An,Sông Lam Nghệ An,NAN,Trương Sỹ Bá,Nguyễn Huy Hoàng,1979,true,
-11,Thống Nhất,,Sài Gòn,Sài Gòn,SGO,Trần Hòa Bình,Phùng Thanh Phương,2016,true,
-12,Thanh Hóa,,Thanh Hóa,Đông Á Thanh Hóa,THH,Cao Tiến Đoan,Lujbo Petrovic,1962,true,
-13,Hàng Đẫy,,Viettel,Viettel,VTL,Đỗ Mạnh Dũng,Trương Việt Hoàng,1954,true,
-14,Cà Mau,,Cà Mau,Cà Mau,CAM,,Trần Công Minh,2000,true,
-15,Đồng Nai,,Đồng Nai,Đồng Nai,DON,,Hoàng Hải Dương,1980,true,
-16,Đồng Tháp,,Đồng Tháp,Đồng Tháp,DOT,,Nguyễn Anh Tông,1976,true,
-17,Lâm Đồng,,Lâm Đồng,XSKT Lâm Đồng,LAD,Thái Khắc Ngọ,Ivan Catelavic,1990,true,
-18,Phú Yên,,Phú Yên,Phú Yên,PYE,,Đinh Hồng Vinh,1989,true,
-19,Bình Phước,,Bình Phước,Bình Phước,BPH,Nguyễn Anh Tuấn,Phạm Công Lộc,2006,true,
-20,Bà Rịa,,Bà Rịa-Vũng Tàu,Bà Rịa-Vũng Tàu,BRVT,,Nguyễn Minh Phương,1991,true,
-21,Ninh Bình,,Công An Nhân Dân,Công An Nhân Dân,CAND,,Phạm Quang Thành,2008,true,
-22,Cần Thơ,,Cần Thơ,Cần Thơ,CAT,Phạm Hoàng Hải,Nguyễn Thanh Danh,1976,true,
-23,Buôn Ma Thuột,,Đắk Lắk,Đắk Lắk,DAL,Võ Thành Danh,Võ Thành Luân,1975,true,
-24,Tự Do,,Huế,Huế,HUE,Trần Quang Sang,Nguyễn Đức Dũng,1976,true,
-25,19/8 Nha Trang,,Khánh Hòa,Khánh Hòa,KHH,Nguyễn Thanh Hải,Võ Đình Tân,2013,true,
-26,Long An,,Long An,Long An,LAN,Võ Thành Nhiệm,Ngô Quang Sang,2000,true,
-27,Thanh Trì,,Phù Đổng,Phù Đổng,PDO,Nguyễn Xuân Vũ,Nguyễn Trung Kiên,2015,true,
-28,TTĐT trẻ PVF,,Phố Hiến,Phố Hiến,PHI,,Mauro Alexandre Tavares Jeronimo,2018,true,
-29,Việt Trì,,Phú Thọ,Phú Thọ,PTH,,Vũ Như Thành,2019,true,
-30,Tam Kỳ,,Quảng Nam,Quảng Nam,QNA,Nguyễn Húp,Dương Hồng Sơn,1997,true,
-31,An Giang,,An Giang,An Giang,ANGI,Nhan Thiện Nhân,Trịnh Văn Hậu,1976,false,2021
-32,Hàng Đẫy,,Bóng Đá Hà Nội,Bóng Đá Hà Nội,BDHN,Nguyễn Đức Kiên,,1956,false,2000
-33,19/8 Nha Trang,,Khatoco Khánh Hòa,Khatoco Khánh Hòa,KKH,,,1976,false,
-34,Kiên Giang,,Kienlongbank Kiên Giang,Kienlongbank Kiên Giang,KLKG,,,1998,false,
-35,Ninh Bình,,Ninh Bình,XM The Vissai Ninh Bình,NIB,,,"1978 ",false,
-36,Thống Nhất,,Navibank Sài Gòn,Navibank Sài Gòn,NVSG,,,2012,false,
-37,Cẩm Phả,,Quảng Ninh,Than Quảng Ninh,QNI,,,1956,false,
-38,Hàng Đẫy,,Trẻ Bóng Đá Hà Nội,Trẻ Bóng Đá Hà Nội,TBDHN,,,,,
-39,Chi Lăng,,Trẻ SHB Đà Nẵng,Trẻ SHB Đà Nẵng,TDAN,,,,,
-40,Bình Dương,,TDC Bình Dương,TDC Bình Dương,TDC,,,,,
-41,Tây Ninh,,Tây Ninh,XM Fico - YTL Tây Ninh,TNI,,,1976,false,
-,Thống Nhất,,Xuân Thành Sài Gòn,Xuân Thành Sài Gòn,XTSG,,,2010,false,
+id,competitionId,stadiumId,name,fullName,code,chairman,manager,active,founded,dissolved
+1,1,2,Bình Định,Topenland Bình Định,BDFC,Nguyễn Văn Cường,Nguyễn Đức Thắng,true,1975,0
+2,1,3,Bình Dương,Becamex Bình Dương,BFC,Hồ Hồng Thạch,Đặng Trần Chỉnh,true,1976,0
+3,1,4,Đà Nẵng,SHB Đà Nẵng,SHBĐN,Bùi Xuân Hòa,Phan Thanh Hùng,true,1976,0
+4,1,5,Gia Lai,Hoàng Anh Gia Lai,HAGL,Đoàn Nguyên Đức,Kiatisuk Senamuang,true,2001,0
+5,1,1,Hà Nội,Hà Nội,HNFC,Đỗ Vinh Quang,Chun Jaeho,true,2006,0
+6,1,6,Hải Phòng,Hải Phòng,HPFC,Văn Trần Hoàn,Chu Đình Nghiêm,true,1952,0
+7,1,7,Hà Tĩnh,Hồng Lĩnh Hà Tĩnh,HLHT,Nguyễn Tiến Dũng,Nguyễn Thành Công,true,2015,0
+8,1,8,Hồ Chí Minh,TP Hồ Chí Minh,HCMC,Nguyễn Hữu Thắng,Trần Minh Chiến,true,"1960 ",0
+9,1,9,Nam Định,Nam Định,NDFC,Nguyễn Tân Anh,Nguyễn Văn Sỹ,true,1965,0
+10,1,10,Nghệ An,Sông Lam Nghệ An,SLNA,Trương Sỹ Bá,Nguyễn Huy Hoàng,true,1979,0
+11,1,8,Sài Gòn,Sài Gòn,SGFC,Trần Hòa Bình,Phùng Thanh Phương,true,2016,0
+12,1,11,Thanh Hóa,Đông Á Thanh Hóa,THFC,Cao Tiến Đoan,Lujbo Petrovic,true,1962,0
+13,1,1,Viettel,Viettel,VTFC,Đỗ Mạnh Dũng,Trương Việt Hoàng,true,1954,0
+19,2,14,Bình Phước,Bình Phước,BPFC,Nguyễn Anh Tuấn,Phạm Công Lộc,true,2006,0
+20,2,13,Bà Rịa-Vũng Tàu,Bà Rịa-Vũng Tàu,BRVT,,Nguyễn Minh Phương,true,1991,0
+21,2,12,Công An Nhân Dân,Công An Nhân Dân,CAND,,Phạm Quang Thành,true,2008,0
+22,2,15,Cần Thơ,Cần Thơ,CFC,Phạm Hoàng Hải,Nguyễn Thanh Danh,true,1976,0
+23,2,16,Đắk Lắk,Đắk Lắk,DLK,Võ Thành Danh,Võ Thành Luân,true,1975,0
+24,2,17,Huế,Huế,HUE,Trần Quang Sang,Nguyễn Đức Dũng,true,1976,0
+26,2,19,Long An,Long An,LFC,Võ Thành Nhiệm,Ngô Quang Sang,true,2000,0
+27,2,21,Phù Đổng,Phù Đổng,PĐFC,Nguyễn Xuân Vũ,Nguyễn Trung Kiên,true,2015,0
+28,2,20,Phố Hiến,Phố Hiến,PHFC,,Mauro Alexandre Tavares Jeronimo,true,2018,0
+29,2,22,Phú Thọ,Phú Thọ,PTFC,,Vũ Như Thành,true,2019,0
+30,2,23,Quảng Nam,Quảng Nam,QNFC,Nguyễn Húp,Dương Hồng Sơn,true,1997,0
+25,2,18,Khánh Hòa,Khánh Hòa,KHFC,Nguyễn Thanh Hải,Võ Đình Tân,true,2013,0
+18,,,Phú Yên,Phú Yên,PYE,,Đinh Hồng Vinh,true,1989,0
+14,,,Cà Mau,Cà Mau,CAM,,Trần Công Minh,true,2000,0
+15,,,Đồng Nai,Đồng Nai,DON,,Hoàng Hải Dương,true,1980,0
+16,,,Đồng Tháp,Đồng Tháp,DOT,,Nguyễn Anh Tông,true,1976,0
+17,,,Lâm Đồng,XSKT Lâm Đồng,LAD,Thái Khắc Ngọ,Ivan Catelavic,true,1990,0
+31,,,An Giang,An Giang,ANGI,Nhan Thiện Nhân,Trịnh Văn Hậu,false,1976,2021
+32,,,Bóng Đá Hà Nội,Bóng Đá Hà Nội,BDHN,Nguyễn Đức Kiên,,false,1956,2000
+33,,,Khatoco Khánh Hòa,Khatoco Khánh Hòa,KKH,,,false,1976,0
+34,,,Kienlongbank Kiên Giang,Kienlongbank Kiên Giang,KLKG,,,false,1998,0
+35,,,Ninh Bình,XM The Vissai Ninh Bình,NIB,,,false,"1978 ",0
+36,,,Navibank Sài Gòn,Navibank Sài Gòn,NVSG,,,false,2012,0
+37,,,Quảng Ninh,Than Quảng Ninh,QNI,,,false,1956,0
+38,,,Trẻ Bóng Đá Hà Nội,Trẻ Bóng Đá Hà Nội,TBDHN,,,true,0,0
+39,,,Trẻ SHB Đà Nẵng,Trẻ SHB Đà Nẵng,TDAN,,,true,0,0
+40,,,TDC Bình Dương,TDC Bình Dương,TDC,,,true,0,0
+41,,,Tây Ninh,XM Fico - YTL Tây Ninh,TNI,,,false,1976,0
+42,,,Xuân Thành Sài Gòn,Xuân Thành Sài Gòn,XTSG,,,false,2010,0
