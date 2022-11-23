@@ -3,3 +3,9 @@ csv2json:
 
 lock:
 	pigar
+
+vnindex-companies:
+	python3 ./scripts/vietnam/vnindex/companies.py
+
+vnindex-history:
+	python3 ./scripts/vietnam/vnindex/history.py
