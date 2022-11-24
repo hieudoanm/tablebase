@@ -114,4 +114,7 @@ def write_to_file_csv(file_name, list_of_dict):
         dict_writer.writerows(list_of_dict)
 
 
+sorted_all_time = sorted(
+    companies, key=lambda d: d['market_cap'])
+sorted_all_time.reverse()
 write_to_file_csv("./data/vietnam/stock/companies.csv", companies)

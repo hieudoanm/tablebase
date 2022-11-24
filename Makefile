@@ -9,3 +9,6 @@ vnindex-companies:
 
 vnindex-history:
 	python3 ./scripts/vietnam/vnindex/history.py
+
+vnindex-all-time:
+	python3 ./scripts/vietnam/vnindex/all_time.py

@@ -85,8 +85,7 @@ for company in companies:
             continue
         print(subcompanies)
         filtered_companies = filter_companies(subcompanies)
-        subcompanies_file_path = "./data/vietnam/stock/subcompanies/{0}.csv".format(
-            symbol)
+        subcompanies_file_path = f"./data/vietnam/stock/subcompanies/{symbol}.csv"
         write_to_file_csv(subcompanies_file_path, filtered_companies)
     except:  # pylint: disable=bare-except
         print(symbol, "Error")
