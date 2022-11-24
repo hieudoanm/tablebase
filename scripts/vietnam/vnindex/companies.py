@@ -3,8 +3,6 @@ VNINDEX
 """
 
 import csv
-import math
-import time
 import requests
 
 GATEWAY_URL = "https://wgateway-iboard.ssi.com.vn/graphql"
@@ -25,20 +23,24 @@ query {
 }
 """
 
-stock_symbols_response = requests.post(url=GATEWAY_URL, json={"query": STOCK_SYMBOL_QUERY})
+stock_symbols_response = requests.post(
+    url=GATEWAY_URL, json={"query": STOCK_SYMBOL_QUERY}, timeout=10)
 stock_symbols_json = stock_symbols_response.json()
 stock_symbols_data = stock_symbols_json.get("data", {})
 stock_symbols_hose = stock_symbols_data.get("hose", {})
 stock_symbols_hnx = stock_symbols_data.get("hnx", {})
 stock_symbols_upcom = stock_symbols_data.get("upcom", {})
-stock_symbols_vnindex = stock_symbols_hose + stock_symbols_hnx + stock_symbols_upcom
-stock_symbols = list(map(lambda stock_symbol: stock_symbol.get("stockSymbol", ""), stock_symbols_vnindex))
-stock_symbols = list(filter(lambda stock_symbol: len(stock_symbol) == 3, stock_symbols))
+stock_symbols_vnindex = stock_symbols_hose + \
+    stock_symbols_hnx + stock_symbols_upcom
+stock_symbols = list(map(lambda stock_symbol: stock_symbol.get(
+    "stockSymbol", ""), stock_symbols_vnindex))
+stock_symbols = list(
+    filter(lambda stock_symbol: len(stock_symbol) == 3, stock_symbols))
 stock_symbols.sort()
 print(stock_symbols)
 
 headers = {
-  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 }
 
 COMPANY_PROFILE_QUERY = """
@@ -64,8 +66,10 @@ companies = []
 
 for stock_symbol in stock_symbols:
     # Get Company Profile
-    company_profile_query = COMPANY_PROFILE_QUERY % (stock_symbol, stock_symbol)
-    company_profile_response = requests.post(url=INFO_URL, json={"query": company_profile_query}, headers=headers)
+    company_profile_query = COMPANY_PROFILE_QUERY % (
+        stock_symbol, stock_symbol)
+    company_profile_response = requests.post(
+        url=INFO_URL, json={"query": company_profile_query}, headers=headers, timeout=10)
     company_profile_json = company_profile_response.json()
     company_profile_data = company_profile_json.get("data", {})
     company_profile = company_profile_data.get("companyProfile", {})
@@ -81,19 +85,20 @@ for stock_symbol in stock_symbols:
     listed_value = company_profile.get("issueshare", "")
     market_cap = company_statistics.get("marketcap", "")
     company = {
-      "symbol": symbol,
-      "name": name,
-      "industry": industry,
-      "supersector": supersector,
-      "sector": sector,
-      "subsector": subsector,
-      "listing_date": listing_date,
-      "issue_share": issue_share,
-      "listed_value": listed_value,
-      "market_cap": market_cap
+        "symbol": symbol,
+        "name": name,
+        "industry": industry,
+        "supersector": supersector,
+        "sector": sector,
+        "subsector": subsector,
+        "listing_date": listing_date,
+        "issue_share": issue_share,
+        "listed_value": listed_value,
+        "market_cap": market_cap
     }
     print(company)
     companies.append(company)
+
 
 def write_to_file_csv(file_name, list_of_dict):
     """
@@ -107,5 +112,6 @@ def write_to_file_csv(file_name, list_of_dict):
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(list_of_dict)
+
 
 write_to_file_csv("./data/vietnam/stock/companies.csv", companies)

@@ -5,6 +5,7 @@ Subcompanies
 import csv
 import requests
 
+
 def csv_to_json(csv_file_path):
     """
     CSV to JSON
@@ -20,6 +21,7 @@ def csv_to_json(csv_file_path):
             json_array.append(row)
     return json_array
 
+
 def write_to_file_csv(file_name, list_of_dict):
     """
     Write to CSV
@@ -32,6 +34,7 @@ def write_to_file_csv(file_name, list_of_dict):
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(list_of_dict)
+
 
 companies = csv_to_json("./data/vietnam/stock/companies.csv")
 
@@ -48,8 +51,9 @@ query subCompanies {
 """
 
 headers = {
-  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 }
+
 
 def filter_companies(symbols):
     """
@@ -57,11 +61,13 @@ def filter_companies(symbols):
     """
     return list(filter(lambda company: company["symbol"] in symbols, companies))
 
+
 for company in companies:
     symbol = company.get("symbol", "")
     try:
         subcompanies_query = SUBCOMPANIES_QUERY % (symbol)
-        subcompanies_response = requests.post(url=INFO_URL, json={"query": subcompanies_query}, headers=headers, timeout=10)
+        subcompanies_response = requests.post(
+            url=INFO_URL, json={"query": subcompanies_query}, headers=headers, timeout=10)
         print(symbol, subcompanies_response)
         subcompanies_json = subcompanies_response.json()
         subcompanies_data = subcompanies_json.get("data")
@@ -70,14 +76,17 @@ for company in companies:
             continue
         subcompanies_datas = subcompanies_list.get("datas")
         subcompanies = list(map(
-            lambda subcompanies_data: subcompanies_data.get("childsymbol"), subcompanies_datas
+            lambda subcompanies_data: subcompanies_data.get(
+                "childsymbol"), subcompanies_datas
         ))
-        subcompanies = list(filter(lambda subcompany: subcompany != '', subcompanies))
+        subcompanies = list(
+            filter(lambda subcompany: subcompany != '', subcompanies))
         if len(subcompanies) == 0:
             continue
         print(subcompanies)
         filtered_companies = filter_companies(subcompanies)
-        subcompanies_file_path = "./data/vietnam/stock/subcompanies/{0}.csv".format(symbol)
+        subcompanies_file_path = "./data/vietnam/stock/subcompanies/{0}.csv".format(
+            symbol)
         write_to_file_csv(subcompanies_file_path, filtered_companies)
-    except: # pylint: disable=bare-except
+    except:  # pylint: disable=bare-except
         print(symbol, "Error")

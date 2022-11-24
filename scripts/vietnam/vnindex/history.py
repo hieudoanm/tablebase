@@ -10,6 +10,7 @@ import requests
 
 HISTORY_URL = "https://iboard.ssi.com.vn/dchart/api/history"
 
+
 def csv_to_json(csv_file_path):
     """
     CSV to JSON
@@ -25,6 +26,7 @@ def csv_to_json(csv_file_path):
             json_array.append(row)
     return json_array
 
+
 def write_to_file_csv(file_name, list_of_dict):
     """
     Write to CSV
@@ -38,11 +40,13 @@ def write_to_file_csv(file_name, list_of_dict):
         dict_writer.writeheader()
         dict_writer.writerows(list_of_dict)
 
+
 companies = csv_to_json("./data/vietnam/stock/companies.csv")
 
 headers = {
-  "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36"
 }
+
 
 def map_history(stock_symbol, list_t, list_o, list_h, list_l, list_c, list_v):
     """
@@ -65,17 +69,18 @@ def map_history(stock_symbol, list_t, list_o, list_h, list_l, list_c, list_v):
     return response_history
 
 
-
 for company in companies:
     try:
         symbol = company["symbol"]
-        history_file_path = "./data/vietnam/stock/history/{0}.csv".format(symbol)
+        history_file_path = f"./data/vietnam/stock/history/{symbol}.csv"
         old_history = csv_to_json(history_file_path)
         # Get Company History
         to = math.floor(time.time())
-        history_url = HISTORY_URL + "?resolution=D&symbol={0}&from=0&to={1}".format(symbol, to)
+        history_url = HISTORY_URL + \
+            f"?resolution=D&symbol={symbol}&from=0&to={to}"
         print(history_url)
-        history_response = requests.get(history_url, allow_redirects=False, headers=headers, timeout=10)
+        history_response = requests.get(
+            history_url, allow_redirects=False, headers=headers, timeout=10)
         history_json = history_response.json()
         t = history_json.get("t", [])
         o = history_json.get("o", [])
@@ -85,11 +90,11 @@ for company in companies:
         v = history_json.get("v", [])
         new_history = map_history(symbol, t, o, h, l, c, v)
         combine_history = new_history + old_history
-        history = list({v['date']:v for v in combine_history}.values())
+        history = list({v['date']: v for v in combine_history}.values())
         history = sorted(
             history, key=lambda h: h['date'])
         if len(history) == 0:
             continue
         write_to_file_csv(history_file_path, history)
-    except: # pylint: disable=bare-except
+    except:  # pylint: disable=bare-except
         print("Error")
