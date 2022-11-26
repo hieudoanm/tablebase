@@ -28,10 +28,10 @@ def write_to_file_csv(file_name, list_of_dict):
     all_keys = []
     for item in list_of_dict:
         all_keys += list(item.keys())
-        keys = list(set(all_keys))
+        all_keys = list(set(all_keys))
     all_keys.sort()
     with open(file_name, "w+", newline="", encoding="utf-8") as output_file:
-        dict_writer = csv.DictWriter(output_file, keys)
+        dict_writer = csv.DictWriter(output_file, all_keys)
         dict_writer.writeheader()
         dict_writer.writerows(list_of_dict)
 

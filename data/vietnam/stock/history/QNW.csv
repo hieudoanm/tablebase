@@ -1,2 +1,2 @@
-timestamp,symbol,close,low,open,high,volume,date
-1664409600,QNW,10.1,10.1,10.1,10.1,1000,2022-09-29
+volume,date,symbol,high,timestamp,open,low,close
+1000,2022-09-29,QNW,10.1,1664409600,10.1,10.1,10.1
