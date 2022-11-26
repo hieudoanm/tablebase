@@ -1,2 +1,2 @@
-timestamp,symbol,close,low,open,high,volume,date
-1662508800,NDW,10,10,10,10,3800,2022-09-07
+volume,date,symbol,high,timestamp,open,low,close
+3800,2022-09-07,NDW,10,1662508800,10,10,10

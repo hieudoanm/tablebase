@@ -1,3 +1,3 @@
-symbol,close,timestamp,low,open,high,volume,date
-GH3,9.2,1662336000,9.2,9.2,9.2,200,2022-09-05
-GH3,9.2,1664928000,9.2,9.2,9.2,200,2022-10-05
+volume,date,symbol,high,timestamp,open,low,close
+200,2022-09-05,GH3,9.2,1662336000,9.2,9.2,9.2
+200,2022-10-05,GH3,9.2,1664928000,9.2,9.2,9.2

@@ -1,2 +1,2 @@
-symbol,close,timestamp,low,open,high,volume,date
-BCV,21.5,1638489600,21.5,21.5,21.5,1800,2021-12-03
+volume,date,symbol,high,timestamp,open,low,close
+1800,2021-12-03,BCV,21.5,1638489600,21.5,21.5,21.5
