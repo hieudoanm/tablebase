@@ -1,0 +1,503 @@
+name,dateOfBirth,gender,province,percentage,district,cityOfBirth,degree,active
+Bùi Đức Ái (Anh Đức),1935-01-01,nam,Kiên Giang,0,,,,TRUE
+Đỗ Hữu Ái,1947-01-01,nam,Thanh Hoá,0,,,,TRUE
+Lý Thị Ái,1952-01-01,Nữ,Quảng Ninh,0,,,,TRUE
+Trần Văn An,1925-05-04,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Nguyễn Văn An,1937-10-01,nam,Hà Nam Ninh,0,,,,TRUE
+Đỗ Hoàng Ân,1947-01-01,nam,TP Hà Nội,0,,,,TRUE
+Trần Thị Ân,1923-01-01,Nữ,TP Hà Nội,0,,,,TRUE
+Đặng Văn Ấn,1942-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Nguyễn Thị Ẩn (Nguyễn Thị Ánh),1928-01-01,Nữ,Tiền Giang,0,,,,TRUE
+Dương Văn Ẩn,1933-07-21,nam,Bến Tre,0,,,,TRUE
+Hoàng Anh,1912-02-10,nam,Bình Trị Thiên,0,,,,TRUE
+Phan Anh,1912-03-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Võ Thị Kim Anh,1926-01-01,Nữ,Hậu Giang,0,,,,TRUE
+Bùi Văn Ba,1930-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Hoàng Thị Ba,1951-01-01,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Lý Văn Bẩm (Lê Thu),1932-01-01,nam,Đồng Tháp,0,,,,TRUE
+Nguyễn Bá Bao,1956-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Mai Văn Bẩy,1933-12-19,nam,TP Hồ Chí Minh,0,,,,TRUE
+Bằng Thị Bích (Bằng Thị Bích),1958-01-01,Nữ,Bắc Thái,0,,,,TRUE
+Đào Thị Biểu (Sáu Hòa),1937-07-01,Nữ,Cửu Long,0,,,,TRUE
+Dương Thị Bình,1932-01-01,Nữ,An Giang,0,,,,TRUE
+Nguyễn Thanh Bình,1918-05-04,nam,Hà Bắc,0,,,,TRUE
+Nguyễn Thị Bình,1927-05-26,Nữ,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Nguyễn Thị Bình (Út Bình),1927-01-01,Nữ,Minh Hải,0,,,,TRUE
+Nguyễn Tuấn Bình,1931-01-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Nguyễn Công Bình (Nguyễn Văn Mè),1923-01-01,nam,Tiền Giang,0,,,,TRUE
+Hoàng Thị Bốn,1948-01-01,Nữ,Hải Hưng,0,,,,TRUE
+Nguyễn Văn Bút,1924-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Hoàng Cầm,1920-01-01,nam,Thanh Hoá,0,,,,TRUE
+Đào Hồng Cẩm,1924-01-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Nguyễn Kỳ Cẩm,1929-12-19,nam,Nghệ Tĩnh,0,,,,TRUE
+Vũ Văn Cẩn,1915-01-01,nam,An Giang,0,,,,TRUE
+Cù Huy Cận,1919-05-31,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Trung Cang (Ba Cang),1939-05-05,nam,Đồng Tháp,0,,,,TRUE
+Nguyễn Thị Cảnh,1951-01-01,Nữ,Hà Bắc,0,,,,TRUE
+Võ Trí Cao,1928-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Đặng Văn Cảo,1942-06-01,nam,Hải Hưng,0,,,,TRUE
+Mông Văn Cây,1937-01-01,nam,Cao Bằng,0,,,,TRUE
+Nguyễn Chân,1929-01-01,nam,Bắc Thái,0,,,,TRUE
+Diệp Minh Châu,1919-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nghiêm Chưởng Châu,1929-01-01,Nữ,TP Hà Nội,0,,,,TRUE
+Nguyễn Minh Châu,1921-01-01,nam,Tây Ninh,0,,,,TRUE
+Phạm Long Châu,1930-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Thượng tọa Thích Minh Châu,1920-10-20,nam,TP Hồ Chí Minh,0,,,,TRUE
+Phạm Thị Chèo,1953-12-01,Nữ,Hải Hưng,0,,,,TRUE
+Nguyễn Đình Chi (Đào Thị Xuân Yến),1909-04-19,Nữ,Bình Trị Thiên,0,,,,TRUE
+Tạ Quang Chiến,1925-01-01,nam,An Giang,0,,,,TRUE
+Hoàng Chim,1928-01-01,nam,Sơn La,0,,,,TRUE
+Lò Mí Chinh,1946-06-06,nam,Hà Tuyên,0,,,,TRUE
+Trường Chinh,1907-02-09,nam,TP Hà Nội,0,,,,TRUE
+Dương Quốc Chính,1918-01-01,nam,Hậu Giang,0,,,,TRUE
+Đỗ Chính,1926-01-01,nam,Vĩnh Phú,0,,,,TRUE
+Nguyễn Hữu Chỉnh,1928-01-01,nam,Phú Khánh,0,,,,TRUE
+Đặng Thành Chơn (Đặng Thành Chơn (Tám Lý)),1923-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Tô Đình Cơ,1922-05-05,nam,Nghĩa Bình,0,,,,TRUE
+Hoàng Minh Côn,1925-01-01,nam,Thanh Hoá,0,,,,TRUE
+Lê Song Côn,1937-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Duy Côn,1932-01-01,nam,Hà Bắc,0,,,,TRUE
+Võ Chí Công (Võ Chí Công (Võ Toàn)),1913-09-07,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Vũ Đình Cự,1936-02-15,nam,TP Hà Nội,0,,,,TRUE
+Hoàng Thị Cúc,1950-01-01,Nữ,Thanh Hoá,0,,,,TRUE
+Huỳnh Cương,1925-10-11,nam,Hậu Giang,0,,,,TRUE
+Phạm Xuân Cương,1947-01-01,nam,Thái Bình,0,,,,TRUE
+Đỗ Văn Cương,1938-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Lê Văn Đạc,1947-07-05,nam,Nghệ Tĩnh,0,,,,TRUE
+Vũ Đại,1927-01-01,nam,An Giang,0,,,,TRUE
+Hà Văn Dân,1947-12-20,nam,Thanh Hoá,0,,,,TRUE
+Trần Thị Tâm Đan,1939-11-29,Nữ,TP Hà Nội,0,,,,TRUE
+Vũ Văn Đăng,1938-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Nguyễn Đăng,1921-11-01,nam,Tây Ninh,0,,,,TRUE
+Nguyễn Văn Đẳng,1949-01-01,nam,Phú Khánh,0,,,,TRUE
+Cao Thế Đáo,1940-01-01,nam,TP Hà Nội,0,,,,TRUE
+Trần Thị Xuân Đào,1946-10-28,Nữ,Hải Hưng,0,,,,TRUE
+Lê Thanh Đạo (Lê Thanh Đạo),1944-04-20,nam,TP Hà Nội,0,,,,TRUE
+Lê Văn Đạt,1940-01-01,nam,Long An,0,,,,TRUE
+Trần Quang Đạt,1927-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Trần Văn Dẫu,1940-01-01,nam,Long An,0,,,,TRUE
+Huỳnh Ngọc Đấu,1923-01-01,nam,Đồng Nai,0,,,,TRUE
+Nguyễn Đình Đấu,1956-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Hà Giang Dẻ (Hà Giang Dẻ (K'che)),1936-01-01,nam,Lâm Đồng,0,,,,TRUE
+Phà Bá Đi,1928-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Thị Điểm,1947-01-01,Nữ,TP Hà Nội,0,,,,TRUE
+Huỳnh Ngọc Điền,1953-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Ngọc Diệp,1925-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Nguyễn Ngọc Điệp (Hai Dương),1930-01-01,nam,Tây Ninh,0,,,,TRUE
+Bạch Công Điệu,1946-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Nguyễn Cảnh Dinh,1934-06-14,nam,Bình Trị Thiên,0,,,,TRUE
+Võ Văn Đinh,1922-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Vũ Định,1925-01-01,nam,Phú Khánh,0,,,,TRUE
+Lâm Thị Định,1938-10-01,Nữ,Hà Bắc,0,,,,TRUE
+Nguyễn Thị Định,1920-03-15,Nữ,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Văn Do,1936-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Hoàng Minh Đỏ,1928-01-01,nam,Lâm Đồng,0,,,,TRUE
+Trần Độ (Tạ Ngọc Phách),1923-01-01,nam,Thái Bình,0,,,,TRUE
+Nguyễn Thị Doan,1947-01-01,Nữ,TP Hà Nội,0,,,,TRUE
+Nguyễn Thanh Doãn (Mười Doãn),1930-01-01,nam,Tiền Giang,0,,,,TRUE
+Ngô Duy Đông,1917-01-16,nam,Hậu Giang,0,,,,TRUE
+Thạch Đông,1930-01-01,nam,Kiên Giang,0,,,,TRUE
+Trần Văn Đông,1948-01-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Phạm Văn Đồng,1906-03-01,nam,TP Hà Nội,0,,,,TRUE
+Trương Đình Đồng,1933-01-01,nam,Hà Bắc,0,,,,TRUE
+Phan Xuân Đợt,1934-01-01,nam,Bến Tre,0,,,,TRUE
+Nguyễn Huy Du,1926-01-01,nam,Thanh Hoá,0,,,,TRUE
+Trần Hữu Dư,1921-01-01,nam,Đồng Nai,0,,,,TRUE
+Giàng Thị Dụ,1947-12-27,nam,Sơn La,0,,,,TRUE
+Lê Duẩn,1907-01-01,nam,TP Hà Nội,0,,,,TRUE
+Trần Hữu Dực,1910-01-05,nam,Bình Trị Thiên,0,,,,TRUE
+Dương Ngọc Đức,1930-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Nguyễn Minh Đức,1925-01-01,nam,Minh Hải,0,,,,TRUE
+Đoàn Lê Dung,1952-01-01,Nữ,Đồng Nai,0,,,,TRUE
+Nguyễn Việt Dũng,1926-08-09,nam,Hà Bắc,0,,,,TRUE
+Văn Tiến Dũng,1917-05-02,nam,TP Hà Nội,0,,,,TRUE
+Nguyễn Xuân Dương,1910-01-01,nam,Thái Bình,0,,,,TRUE
+Phạm Văn Đương (Tám Hùng),1934-01-01,nam,Minh Hải,0,,,,TRUE
+Lê Duyên,1936-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Nguyễn Duyên,1926-01-01,nam,Thái Bình,0,,,,TRUE
+Lê Văn Dỹ,1934-01-01,nam,Long An,0,,,,TRUE
+Yblôk Êban,1921-01-01,nam,Đắc Lắk,0,,,,TRUE
+La Lâm Gia (Bảy Máy),1920-01-01,nam,Cửu Long,0,,,,TRUE
+Nguyễn Duy Gia,1936-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Hoàng Minh Giám,1905-11-02,nam,Hà Sơn Bình,0,,,,TRUE
+Lư Giang (Lê Văn Long),1920-12-14,nam,TP Hà Nội,0,,,,TRUE
+Nguyễn Thị Trà Giang,1942-01-01,Nữ,Nghĩa Bình,0,,,,TRUE
+Nguyễn Kim Giao,1940-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Võ Nguyên Giáp,1911-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Hoàng Văn Ha,1944-03-20,nam,Hải Hưng,0,,,,TRUE
+Nguyễn Ngọc Hà,1931-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Phạm Thị Minh Hà,1950-01-01,Nữ,Hà Tuyên,0,,,,TRUE
+Trần Thái Hà,1951-10-15,nam,Tây Ninh,0,,,,TRUE
+Lò Văn Hạc,1914-02-10,nam,Lai Châu,0,,,,TRUE
+Phạm Minh Hạc,1935-01-01,nam,Vĩnh Phú,0,,,,TRUE
+Đinh Văn Hải,1954-01-01,nam,Hải Hưng,0,,,,TRUE
+Nguyễn Thị Hải,1948-01-01,Nữ,Lâm Đồng,0,,,,TRUE
+Doanh Hằng (Doanh Thăng Hỷ),1925-01-01,nam,Bắc Thái,0,,,,TRUE
+Nguyễn Thị Hằng,1944-01-01,Nữ,Thanh Hoá,0,,,,TRUE
+Trần Hữu Hằng,1929-01-01,nam,Tiền Giang,0,,,,TRUE
+Hòa thượng Thích Thiện Hào (Trương Minh Đạt),1911-02-15,nam,Tiền Giang,0,,,,TRUE
+Đỗ Thị Thu Hiền,1948-01-01,Nữ,Thái Bình,0,,,,TRUE
+Lê Ngọc Hiền,1928-01-01,nam,Cao Bằng,0,,,,TRUE
+Đặng Vũ Hiệp,1928-01-01,nam,Vĩnh Phú,0,,,,TRUE
+Văn Hiệp,1928-01-01,nam,Thuận Hải,0,,,,TRUE
+Nguyễn Thị Hiếu,1940-01-01,Nữ,TP Hà Nội,0,,,,TRUE
+Nguyễn Văn Hiếu,1922-01-01,nam,Minh Hải,0,,,,TRUE
+Nguyễn Văn Hiếu,1941-01-01,nam,An Giang,0,,,,TRUE
+Thân Trung Hiếu,1938-01-01,nam,Đồng Nai,0,,,,TRUE
+Nguyễn Văn Hiệu,1938-07-21,nam,Đồng Nai,0,,,,TRUE
+Trình Thị Hiệu,1936-01-01,Nữ,Nghĩa Bình,0,,,,TRUE
+Lê Hữu Hinh,1932-01-01,nam,Thanh Hoá,0,,,,TRUE
+Trần Phước Hinh,1954-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Nguyễn Ngọc Hồ,1926-01-01,nam,Hoàng Liên Sơn,0,,,,TRUE
+Phạm Thị Hoa,1956-01-01,Nữ,Thanh Hoá,0,,,,TRUE
+Lại Hợp Hòa,1932-01-01,nam,Thái Bình,0,,,,TRUE
+Nguyễn Hòa,1936-12-20,nam,Bến Tre,0,,,,TRUE
+Trần Thị Hòa,1944-05-07,Nữ,Nghĩa Bình,0,,,,TRUE
+Nguyễn Hòa,1927-01-01,nam,Hậu Giang,0,,,,TRUE
+Tô Hoài,1920-01-01,nam,TP Hà Nội,0,,,,TRUE
+Lê Văn Hoan,1931-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Trần Quốc Hoàn,1910-01-23,nam,Nghệ Tĩnh,0,,,,TRUE
+Phạm Hoành,1923-01-01,nam,Quảng Ninh,0,,,,TRUE
+Nguyễn Thị Hợi,1948-08-12,Nữ,Thái Bình,0,,,,TRUE
+Nguyễn Văn Hơn,1929-06-04,nam,An Giang,0,,,,TRUE
+Mai Thị Hồng,1957-01-01,Nữ,Thanh Hoá,0,,,,TRUE
+Phạm Thị Hồng,1940-01-01,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Đỗ Xuân Hợp,1906-07-08,nam,TP Hà Nội,0,,,,TRUE
+Bùi Văn Huấn,1945-01-01,nam,An Giang,0,,,,TRUE
+Hà Thiết Hùng,1929-01-01,nam,Hoàng Liên Sơn,0,,,,TRUE
+Nguyễn Mạnh Hùng,1923-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Phạm Hùng,1912-06-11,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Thành Hưng,1935-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Phạm Hưng,1927-01-15,nam,Hải Hưng,0,,,,TRUE
+Hồ Thị Hương (Ta Doóc),1944-01-01,Nữ,Bình Trị Thiên,0,,,,TRUE
+Nguyễn Thị Hường,1950-01-01,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Phan Thị Hường,1933-01-01,Nữ,Kiên Giang,0,,,,TRUE
+Trần Thị Nhị Hường,1937-03-03,Nữ,TP Hà Nội,0,,,,TRUE
+Đoàn Thị Hữu,1941-01-01,Nữ,Vĩnh Phú,0,,,,TRUE
+Lê Hiền Hữu,1925-01-01,nam,Hải Hưng,0,,,,TRUE
+Tố Hữu,1920-10-04,nam,Thanh Hoá,0,,,,TRUE
+Trần Quang Huy,1922-01-01,nam,Hải Hưng,0,,,,TRUE
+Ka H'Yiêng (H'lan),1939-01-01,Nữ,Đắc Lắk,0,,,,TRUE
+Nguyễn Hữu Ích,1925-01-01,nam,Vĩnh Phú,0,,,,TRUE
+Vù Mí Kẻ (Vù Mí Dính),1930-12-25,nam,Hà Tuyên,0,,,,TRUE
+Mai Thị Kim Kết,1952-01-01,Nữ,Thuận Hải,0,,,,TRUE
+Nguyễn Văn Kha,1921-01-01,nam,Hải Hưng,0,,,,TRUE
+Lê Khắc,1920-01-01,nam,An Giang,0,,,,TRUE
+Lê Khắc (Lê Khắc),1916-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Hồ Văn Khách (Hồ Chí Sơn),1920-01-01,nam,An Giang,0,,,,TRUE
+Phạm Khai,1923-01-01,nam,Hậu Giang,0,,,,TRUE
+Lương Tuấn Khanh,1939-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Đoàn Bá Khánh,1929-01-01,nam,Phú Khánh,0,,,,TRUE
+Trần Khiêm Khánh (Văn Hoàng),1928-01-01,nam,Đồng Tháp,0,,,,TRUE
+Bùi Tuấn Khịch,1949-01-01,nam,Hải Hưng,0,,,,TRUE
+Bùi Thanh Khiết,1924-01-01,nam,Đồng Tháp,0,,,,TRUE
+Trần Đăng Khoa,1907-04-05,nam,Hà Bắc,0,,,,TRUE
+Đặng Thị Khuê,1946-01-01,Nữ,Hải Hưng,0,,,,TRUE
+Đoàn Khuê,1923-10-29,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Mai Hữu Khuê,1925-01-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Trương Như Khuê,1949-01-01,nam,Hậu Giang,0,,,,TRUE
+Nguyễn Minh Khuyên,1949-01-01,nam,An Giang,0,,,,TRUE
+Nguyễn Hữu Khuynh,1950-01-01,nam,TP Hà Nội,0,,,,TRUE
+Trần Bửu Kiếm,1920-01-01,nam,Hậu Giang,0,,,,TRUE
+Phạm Đình Kiên,1934-01-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Hoàng Văn Kiểu,1921-01-01,nam,Lạng Sơn,0,,,,TRUE
+Nguyễn Kim,1934-01-01,nam,TP Hà Nội,0,,,,TRUE
+Nguyễn Đình Kim,1954-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Phạm Văn Kim,1928-01-01,nam,Tiền Giang,0,,,,TRUE
+Trần Hoàn Kim,1952-07-06,nam,Cửu Long,0,,,,TRUE
+Triệu Tiến Kim,1944-01-01,nam,Bắc Thái,0,,,,TRUE
+Ksor Krơn (Nguyễn Văn Sỹ),1930-07-27,nam,Gia Lai-Kon Tum,0,,,,TRUE
+Hồ Ky,1948-02-10,nam,Nghĩa Bình,0,,,,TRUE
+Nông Danh La (Nông Quốc Chính),1939-01-01,nam,Bắc Thái,0,,,,TRUE
+Nguyễn Ngọc Lài,1942-04-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Lam,1922-12-31,nam,Hà Nam Ninh,0,,,,TRUE
+Nguyễn Sĩ Lâm,1904-03-18,nam,Hà Nam Ninh,0,,,,TRUE
+Nguyễn Thanh Lâm,1932-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Thị Lâm,1937-01-01,Nữ,Hà Tuyên,0,,,,TRUE
+Phạm Học Lâm,1930-01-01,nam,Minh Hải,0,,,,TRUE
+Nguyễn Văn Lãm (Nguyễn Sùng Lãm),1926-01-01,nam,Quảng Ninh,0,,,,TRUE
+Bùi Thị Ngọc Lan,1951-01-01,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Hồ Xuân Lan,1942-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Lê Bạch Lan,1937-01-01,nam,Thanh Hoá,0,,,,TRUE
+Nguyễn Thanh Lân,1929-01-01,nam,Kiên Giang,0,,,,TRUE
+Lương Ích Lập,1927-01-01,nam,Cao Bằng,0,,,,TRUE
+Vũ Lập (Nông Văn Pách),1924-07-25,nam,Hoàng Liên Sơn,0,,,,TRUE
+Trịnh Văn Lâu (Tư Cần),1929-01-01,nam,Cửu Long,0,,,,TRUE
+Nguyễn Thành Lê (Lê Thanh Thủy),1920-06-17,nam,TP Hồ Chí Minh,0,,,,TRUE
+Trần Lê,1921-01-01,nam,Thuận Hải,0,,,,TRUE
+Dư Huệ Liên (Dư Hữu Linh),1935-01-01,Nữ,TP Hồ Chí Minh,0,,,,TRUE
+Ngô Liên (Ba Đức),1918-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Phạm Thị Liên,1945-01-01,Nữ,Hà Nam Ninh,0,,,,TRUE
+Trương Thị Liên,1951-01-01,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Võ Thị Liễu (Năm Liễu),1931-01-01,Nữ,Kiên Giang,0,,,,TRUE
+Lê Tấn Lĩnh,1951-01-01,nam,Phú Khánh,0,,,,TRUE
+Nguyễn Đình Lộc,1935-09-13,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Quang Lộc,1938-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Trần Thế Lộc (Bẩy Phong),1934-09-13,nam,An Giang,0,,,,TRUE
+Hoàng Thị Lợi,1953-01-01,Nữ,Lạng Sơn,0,,,,TRUE
+Phạm Lợi,1938-04-08,nam,TP Hà Nội,0,,,,TRUE
+Hồng Long (Nhâm Văn Xiển),1924-01-01,nam,Thái Bình,0,,,,TRUE
+Lê Thành Long,1938-01-01,nam,Tiền Giang,0,,,,TRUE
+Hòa Thượng Thích Thế Long (Phạm Thế Long),1909-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Măng Thị Lúi,1951-01-01,Nữ,Phú Khánh,0,,,,TRUE
+Lê Văn Lương,1912-01-01,nam,TP Hà Nội,0,,,,TRUE
+Thái Hiền Lương,1956-01-01,nam,TP Hà Nội,0,,,,TRUE
+Trần Đức Lương,1937-05-05,nam,Nghĩa Bình,0,,,,TRUE
+Trần Thị Lương (Trần Thị Lương),1946-01-01,Nữ,Hà Nam Ninh,0,,,,TRUE
+Trương Công Lưỡng (Mười Lưỡng),1933-01-01,nam,Minh Hải,0,,,,TRUE
+Trần Thị Lưu,1952-05-06,Nữ,Đồng Nai,0,,,,TRUE
+Đào Đình Luyện,1929-01-05,nam,Hải Hưng,0,,,,TRUE
+Lại Văn Ly,1929-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Trần Kiêm Lý,1913-09-10,nam,TP Hà Nội,0,,,,TRUE
+Hồ Trọng Mai,1927-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Trần Thị Mai,1943-01-01,Nữ,Thanh Hoá,0,,,,TRUE
+Võ Mai,1943-01-01,Nữ,Bến Tre,0,,,,TRUE
+Vũ Thị Mai,1933-01-01,Nữ,Hà Nam Ninh,0,,,,TRUE
+Chu Huy Mân,1913-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Sang Văn Mão,1939-01-01,nam,Đồng Nai,0,,,,TRUE
+Dương Thành Mậu,1934-01-01,nam,Hà Tuyên,0,,,,TRUE
+Lương Thị Mậu,1955-01-01,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Văn Mây,1926-01-01,nam,Sông Bé,0,,,,TRUE
+Bùi Công Minh (Ba Minh),1941-11-22,nam,Cửu Long,0,,,,TRUE
+Hoàng Trường Minh (Hoàng Khải Luận),1922-12-01,nam,Lạng Sơn,0,,,,TRUE
+Linh Mục Huỳnh Công Minh,1941-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Lê Viết Minh,1949-01-01,nam,Thanh Hoá,0,,,,TRUE
+Lý Hán Minh,1945-01-01,nam,Hoàng Liên Sơn,0,,,,TRUE
+Nguyễn Thị Minh,1944-01-01,Nữ,Tây Ninh,0,,,,TRUE
+Nguyễn Thị Hồng Minh,1951-07-02,Nữ,Minh Hải,0,,,,TRUE
+Nguyễn Văn Minh,1954-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Tống Thị Hồng Minh,1949-01-01,Nữ,Vĩnh Phú,0,,,,TRUE
+Trần Văn Mố,1937-01-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Nguyễn Văn Mới (Trình Văn Cứng),1920-01-01,nam,Long An,0,,,,TRUE
+Huỳnh Thanh Mua (Hai Chiến),1925-01-01,nam,Bến Tre,0,,,,TRUE
+Điểu Mun,1951-01-01,nam,Sông Bé,0,,,,TRUE
+Đỗ Mười,1917-02-02,nam,TP Hải Phòng,0,,,,TRUE
+Nguyễn Thị Mỹ,1952-01-01,Nữ,TP Hồ Chí Minh,0,,,,TRUE
+Lê Hoài Nam,1930-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Hoài Nam,1932-01-01,nam,Hậu Giang,0,,,,TRUE
+Bùi Thị Ngà,1945-01-01,Nữ,Hà Sơn Bình,0,,,,TRUE
+Phạm Thị Ngâm,1948-01-01,Nữ,TP Hải Phòng,0,,,,TRUE
+Phan Văn Ngân,1944-01-01,nam,Cửu Long,0,,,,TRUE
+Đinh Quang Nghị,1924-01-01,nam,Thái Bình,0,,,,TRUE
+Lê Thanh Nghị,1911-03-06,nam,Hải Hưng,0,,,,TRUE
+Trần Quang Nghiêm,1930-01-01,nam,Đồng Nai,0,,,,TRUE
+Bùi Đình Nghiên,1940-01-01,nam,Hải Hưng,0,,,,TRUE
+Nguyễn Đình Ngộ,1935-12-20,nam,Bình Trị Thiên,0,,,,TRUE
+Cao Minh Ngoan,1934-01-01,nam,Thanh Hoá,0,,,,TRUE
+Cầm Ngoan,1922-01-01,nam,Sơn La,0,,,,TRUE
+Phan Thị Ngoạn,1948-09-05,Nữ,Hải Hưng,0,,,,TRUE
+Nguyễn Xuân Nguyên (Nguyễn Liên),1922-01-01,nam,Đắc Lắk,0,,,,TRUE
+Đồng Sỹ Nguyên,1923-03-01,nam,Thanh Hoá,0,,,,TRUE
+Đỗ Văn Nguyện,1927-01-01,nam,Sông Bé,0,,,,TRUE
+Lê Thị Minh Nguyệt,1958-01-01,Nữ,TP Hải Phòng,0,,,,TRUE
+Đoàn Thiệu Nhạn,1934-01-01,nam,Đắc Lắk,0,,,,TRUE
+Đoàn Thị Nhu,1925-01-01,Nữ,Hà Nam Ninh,0,,,,TRUE
+Đỗ Hồng Nhung,1942-01-01,nam,Cửu Long,0,,,,TRUE
+Hồ Thị Hồng Nhung,1948-10-10,Nữ,Bến Tre,0,,,,TRUE
+Nguyễn Thị Nhung,1932-10-20,Nữ,TP Hà Nội,0,,,,TRUE
+Hồ Ngọc Nhường,1922-01-01,nam,Phú Khánh,0,,,,TRUE
+Y Ngông NiêkĐăm,1922-08-13,nam,Đắc Lắk,0,,,,TRUE
+Nguyễn Niệm,1927-01-01,nam,Lai Châu,0,,,,TRUE
+Bùn Thị Nin,1957-01-01,Nữ,Hà Sơn Bình,0,,,,TRUE
+Châu Ninh,1932-01-01,nam,An Giang,0,,,,TRUE
+Hà Văn Nội,1936-12-30,nam,Vĩnh Phú,0,,,,TRUE
+Lê Thị Nuôi,1944-01-01,Nữ,Sông Bé,0,,,,TRUE
+Lâm Nuôl,1939-06-13,nam,Minh Hải,0,,,,TRUE
+Cao Trinh Nương,1955-01-01,Nữ,TP Hồ Chí Minh,0,,,,TRUE
+Đinh Núp (Anh hùng Núp),1914-01-01,nam,Gia Lai-Kon Tum,0,,,,TRUE
+Y Pah (Y Một),1939-01-01,Nữ,Gia Lai-Kon Tum,0,,,,TRUE
+Vì Văn Pành,1941-01-01,nam,Sơn La,0,,,,TRUE
+Giàng A Páo,1931-01-01,nam,Lai Châu,0,,,,TRUE
+Nguyễn Hà Phan,1933-02-02,nam,Hậu Giang,0,,,,TRUE
+Cao Thị Phàn,1950-01-01,Nữ,Thái Bình,0,,,,TRUE
+Nguyễn Trọng Phấn,1930-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Huỳnh Tấn Phát,1913-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Chí Phi,1931-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Phan Văn Phinh,1935-01-01,nam,Cửu Long,0,,,,TRUE
+Phạm Phổ,1927-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Phạm Xuân Phôi,1940-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Lê Thị Phối,1937-01-01,Nữ,An Giang,0,,,,TRUE
+Nguyễn Thanh Phong,1929-07-30,nam,Đồng Tháp,0,,,,TRUE
+Nguyễn Như Phong,1923-01-01,nam,Sông Bé,0,,,,TRUE
+Bùi Quốc Phú,1951-01-11,nam,Hà Bắc,0,,,,TRUE
+Dương Thị Phủ,1938-01-01,Nữ,Minh Hải,0,,,,TRUE
+Hồ Bá Phúc (Hồ Bá Phúc),1921-01-01,nam,Hậu Giang,0,,,,TRUE
+Nguyễn Kim Phúc,1958-01-01,Nữ,Hậu Giang,0,,,,TRUE
+Nguyễn Văn Phúc,1927-01-01,nam,Hải Hưng,0,,,,TRUE
+Phan Hữu Phục (Tám Phục),1930-11-15,nam,Cửu Long,0,,,,TRUE
+Bùi Phùng (Bùi Văn Thận),1920-01-01,nam,Hà Bắc,0,,,,TRUE
+Lưu Hữu Phước,1921-01-01,nam,Hậu Giang,0,,,,TRUE
+Nguyễn Minh Phước,1947-01-01,nam,Hậu Giang,0,,,,TRUE
+Đặng Phương,1938-01-01,nam,Bến Tre,0,,,,TRUE
+Trần Phương,1927-01-01,nam,Tiền Giang,0,,,,TRUE
+Trần Hoài Phương,1937-10-10,nam,Thuận Hải,0,,,,TRUE
+Nguyễn Thị Ngọc Phượng,1944-03-10,Nữ,TP Hồ Chí Minh,0,,,,TRUE
+Príu Prăm (Príu Brăm),1931-12-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Bàn Văn Quan,1932-01-01,nam,Hoàng Liên Sơn,0,,,,TRUE
+Vũ Quang,1926-03-18,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Thanh Quất,1928-01-01,nam,Hà Bắc,0,,,,TRUE
+Nguyễn Thị Linh Quy,1928-01-01,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Văn Quỳ,1930-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Nguyễn Quyết (Nguyễn Tiến Văn),1922-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Trần Quỳnh,1920-01-01,nam,Thuận Hải,0,,,,TRUE
+K'va Răng,1939-01-01,nam,Sông Bé,0,,,,TRUE
+Hà Thị Riên,1944-01-01,Nữ,Bình Trị Thiên,0,,,,TRUE
+Trần Sâm,1918-01-01,nam,Đồng Tháp,0,,,,TRUE
+Lý A Sáng,1953-01-01,nam,Hoàng Liên Sơn,0,,,,TRUE
+Hoàng Thị Sáu,1948-01-01,Nữ,Quảng Ninh,0,,,,TRUE
+Nguyễn Hồng Sến,1933-01-01,nam,Cửu Long,0,,,,TRUE
+Hoàng Xuân Sính,1933-01-01,Nữ,Hải Hưng,0,,,,TRUE
+Thạch Minh Sóc,1945-01-01,nam,Hậu Giang,0,,,,TRUE
+Hoàng Thị Sói,1948-01-01,Nữ,Hà Nam Ninh,0,,,,TRUE
+Bùi Thị Sơn,1951-01-01,Nữ,Hà Bắc,0,,,,TRUE
+Bùi Xuân Sơn,1939-02-05,nam,Hà Nam Ninh,0,,,,TRUE
+Lê Sơn,1926-01-01,nam,Lạng Sơn,0,,,,TRUE
+Lê Thanh Sơn (Ba Ngay),1941-01-01,nam,Hậu Giang,0,,,,TRUE
+Lê Trung Sơn (Trung Kiên),1937-11-02,nam,Đồng Tháp,0,,,,TRUE
+Nguyễn Minh Sơn,1945-01-01,nam,Phú Khánh,0,,,,TRUE
+Phạm Thị Sơn,1946-05-18,Nữ,Đồng Nai,0,,,,TRUE
+Pờ Go Sừ,1948-01-01,Nữ,Lai Châu,0,,,,TRUE
+Hà Thị Thu Sương,1940-12-12,Nữ,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Sầm Thị Sương,1955-01-01,Nữ,Hoàng Liên Sơn,0,,,,TRUE
+Trần Suyền,1922-01-01,nam,Phú Khánh,0,,,,TRUE
+Nguyễn Văn Tại,1929-01-01,nam,Vĩnh Phú,0,,,,TRUE
+Nguyễn Thị Tám,1955-01-01,Nữ,Thuận Hải,0,,,,TRUE
+Nguyễn Đức Tâm (Nguyễn Đức Kiêm),1921-01-01,nam,Quảng Ninh,0,,,,TRUE
+Nguyễn Thị Tâm,1956-01-01,Nữ,Vĩnh Phú,0,,,,TRUE
+Hà Kế Tấn,1914-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Lê Trọng Tấn,1914-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Bùi Quang Tạo,1913-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Đào Văn Tập,1927-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Hà Tề,1930-01-01,nam,Hà Tuyên,0,,,,TRUE
+Nguyễn Cơ Thạch,1921-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Hoàng Văn Thái,1915-01-01,nam,Thái Bình,0,,,,TRUE
+Lê Quang Thẩm,1931-06-01,nam,Long An,0,,,,TRUE
+Huỳnh Công Thân (Huỳnh Văn Mến),1923-01-01,nam,Long An,0,,,,TRUE
+Nguyễn Thị Thân,1937-08-14,Nữ,Hà Sơn Bình,0,,,,TRUE
+Đặng Văn Thân,1932-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Hoàng Minh Thắng,1927-10-20,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Nguyễn Văn Thắng,1927-01-01,nam,Tây Ninh,0,,,,TRUE
+Vũ Thắng,1926-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Hồ Thị Kim Thanh (Hồ Thị Truyền),1943-01-01,Nữ,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Phan Minh Thanh,1937-10-12,nam,Tiền Giang,0,,,,TRUE
+Trần Thị Thanh,1946-08-10,Nữ,Nghệ Tĩnh,0,,,,TRUE
+Triệu Đức Thanh,1942-01-01,nam,Hà Tuyên,0,,,,TRUE
+Nguyễn Tấn Thanh,1922-01-01,nam,Kiên Giang,0,,,,TRUE
+Đoàn Duy Thành,1929-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Võ Trung Thành (Năm Vinh),1924-01-01,nam,Gia Lai-Kon Tum,0,,,,TRUE
+Đặng Đức Thành,1953-01-01,nam,Quảng Ninh,0,,,,TRUE
+Bà Ngô Bá Thành (Phạm Thị Thanh Vân),1931-09-25,Nữ,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Thiện Thành,1919-01-01,nam,Cửu Long,0,,,,TRUE
+Trần Đăng Thành,1926-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Lâm Văn Thê,1922-01-01,nam,Đặc khu Vũng Tàu - Côn Đảo,0,,,,TRUE
+Đào Thiện Thi,1920-02-23,nam,Phú Khánh,0,,,,TRUE
+Hoàng Minh Thi,1922-01-01,nam,Thanh Hoá,0,,,,TRUE
+Đặng Thí,1921-01-01,nam,Thanh Hoá,0,,,,TRUE
+Đinh Thiện,1919-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Nguyễn Phước Thiện,1955-01-01,nam,Quảng Nam-Đà Nẵng,0,,,,TRUE
+Kpă Thìn (B'Hâm),1925-01-01,nam,Gia Lai-Kon Tum,0,,,,TRUE
+Nguyễn Trọng Thơ,1923-01-01,nam,Hà Sơn Bình,0,,,,TRUE
+Nguyễn Hữu Thọ (Ba Nghĩa),1910-07-10,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Phước Thọ,1938-01-01,nam,Kiên Giang,0,,,,TRUE
+Nguyễn Thị Thọ,1957-01-01,Nữ,Bắc Thái,0,,,,TRUE
+Mai Chí Thọ,1922-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Đinh Thoang,1940-10-10,nam,Nghĩa Bình,0,,,,TRUE
+Lê Văn Thói,1917-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Sơn Thông (Maha Sơn Thông),1910-01-01,nam,Cửu Long,0,,,,TRUE
+Trần Thế Thông,1930-01-01,nam,Thái Bình,0,,,,TRUE
+Nguyễn Thị Hoài Thu (Nguyễn Thị Yến),1943-11-26,Nữ,Tiền Giang,0,,,,TRUE
+Nguyễn Thụ (Nguyễn Văn Thụ),1934-03-04,nam,TP Hà Nội,0,,,,TRUE
+Võ Sĩ Thừa,1929-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Ca Lê Thuần,1938-04-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Thanh Thuần,1925-01-01,nam,Thuận Hải,0,,,,TRUE
+Trần Thị Thuần,1948-01-01,Nữ,Thái Bình,0,,,,TRUE
+Nguyễn Đức Thuận,1916-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Nguyễn Văn Thuận,1926-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Nguyễn Huy Thúc,1925-01-01,nam,Thái Bình,0,,,,TRUE
+Nguyễn Phú Thưởng,1937-01-01,nam,Quảng Ninh,0,,,,TRUE
+Nguyễn Xuân Thủy,1953-01-01,nam,Quảng Ninh,0,,,,TRUE
+Xuân Thủy (Nguyễn Trọng Nhâm),1912-09-02,nam,Hà Sơn Bình,0,,,,TRUE
+Bùi Khắc Tiến,1947-05-21,nam,Thanh Hoá,0,,,,TRUE
+Nguyễn Văn Tiến,1921-01-01,nam,Bến Tre,0,,,,TRUE
+Phan Tân Tiến,1938-12-12,nam,Hậu Giang,0,,,,TRUE
+Đặng Văn Tiếp,1945-01-01,nam,Đồng Nai,0,,,,TRUE
+Nguyễn Văn Tiếu,1942-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Nguyễn Trung Tín,1926-01-01,nam,Lâm Đồng,0,,,,TRUE
+Nguyễn Văn Tình,1945-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Phan Đức Toàn,1940-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Nguyễn Văn Tôn,1928-07-17,nam,Vĩnh Phú,0,,,,TRUE
+Long Thanh Tòng,1932-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Phạm Sơn Tòng,1933-01-01,nam,Đồng Nai,0,,,,TRUE
+Trần Ngọc Trác,1924-01-01,nam,Thuận Hải,0,,,,TRUE
+Hà Học Trạc,1930-10-12,nam,TP Hà Nội,0,,,,TRUE
+Đinh Xuân Trâm (Trà Giang),1925-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Nguyễn Văn Trân,1917-01-01,nam,Hà Bắc,0,,,,TRUE
+Lê Văn Tri,1922-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Phùng Huy Triện,1935-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Lê Văn Triết,1930-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Duy Trinh,1910-07-16,nam,Nghệ Tĩnh,0,,,,TRUE
+Linh Mục Võ Thành Trinh,1916-01-01,nam,Đồng Tháp,0,,,,TRUE
+Nguyễn Tấn Trịnh,1936-12-20,nam,Thuận Hải,0,,,,TRUE
+Đặng Trịnh,1928-01-01,nam,Thái Bình,0,,,,TRUE
+Nguyễn Ngọc Trìu,1927-08-01,nam,Kiên Giang,0,,,,TRUE
+Nguyễn Tấn Gi Trọng,1913-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Dương Việt Trung (Dương Văn Phương),1932-08-15,nam,Hậu Giang,0,,,,TRUE
+Đàm Quang Trung,1921-01-01,nam,Bắc Thái,0,,,,TRUE
+Lý Chánh Trung,1928-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Quang Trung (Quàng Văn Anh),1926-01-01,nam,Sơn La,0,,,,TRUE
+Trần Nam Trung (Trần Lương),1913-01-01,nam,Nghĩa Bình,0,,,,TRUE
+Trương Công Trung,1919-01-01,nam,Long An,0,,,,TRUE
+Nguyễn Văn Trung,1930-01-01,nam,Đồng Nai,0,,,,TRUE
+Nguyễn Xuân Trường,1922-01-01,nam,Đồng Tháp,0,,,,TRUE
+Vương Hữu Trường,1931-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Đoàn Trọng Truyến,1922-01-15,nam,Thanh Hoá,0,,,,TRUE
+Nguyễn Đình Tứ,1932-10-01,nam,Thanh Hoá,0,,,,TRUE
+Mai Văn Tuân,1923-11-01,nam,Thanh Hoá,0,,,,TRUE
+Vũ Tuân,1922-01-01,nam,Hải Hưng,0,,,,TRUE
+Trần Công Tuấn,1941-01-01,nam,Cửu Long,0,,,,TRUE
+Lê Công Tuất,1946-01-01,nam,Hà Bắc,0,,,,TRUE
+Phan Trọng Tuệ,1917-07-07,nam,Vĩnh Phú,0,,,,TRUE
+Hoàng Tùng,1920-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Tôn Thất Tùng,1912-02-15,nam,TP Hải Phòng,0,,,,TRUE
+Trần Công Tường,1915-08-10,nam,Tiền Giang,0,,,,TRUE
+Lê Văn Tưởng,1941-01-01,nam,Bến Tre,0,,,,TRUE
+Trần Thị Tưởng,1949-01-01,Nữ,Hà Nam Ninh,0,,,,TRUE
+Phùng Văn Tửu,1923-07-22,nam,Vĩnh Phú,0,,,,TRUE
+Bùi Thị Tý,1936-01-01,Nữ,Hà Sơn Bình,0,,,,TRUE
+Trần Tý,1937-01-01,nam,Bắc Thái,0,,,,TRUE
+Hồ Đức Vai,1940-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Hoàng Thanh Vân,1926-01-01,nam,Hà Bắc,0,,,,TRUE
+Ngô Văn Vân,1938-01-01,nam,Minh Hải,0,,,,TRUE
+Nguyễn Thị Vân,1952-01-01,Nữ,Thanh Hoá,0,,,,TRUE
+Nguyễn Thị Hồng Vân,1944-01-01,Nữ,Phú Khánh,0,,,,TRUE
+Trần Vân,1925-01-24,nam,Hải Hưng,0,,,,TRUE
+Võ Thị Ngọc Vân,1934-01-01,Nữ,Hậu Giang,0,,,,TRUE
+Chu Văn,1922-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Đàm Hữu Vấn,1930-01-01,nam,Cao Bằng,0,,,,TRUE
+Đinh Tiến Vạn,1933-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Huỳnh Văn Ve,1927-01-01,nam,Đặc khu Vũng Tàu - Côn Đảo,0,,,,TRUE
+Trần Vĩ,1925-01-01,nam,TP Hà Nội,0,,,,TRUE
+Chế Lan Viên,1920-01-01,nam,Bình Trị Thiên,0,,,,TRUE
+Lăng Đình Viễn,1944-01-01,nam,Lạng Sơn,0,,,,TRUE
+Lê Quang Viễn (Bảy Viễn),1928-01-01,nam,Đồng Tháp,0,,,,TRUE
+Hoàng Quốc Việt,1905-05-28,nam,TP Hà Nội,0,,,,TRUE
+Linh mục Nguyễn Thế Vịnh,1904-06-06,nam,Hà Nam Ninh,0,,,,TRUE
+Trương Nghiệp Vũ,1941-07-10,nam,Nghĩa Bình,0,,,,TRUE
+Đinh Xáng,1915-01-01,nam,TP Hồ Chí Minh,0,,,,TRUE
+Nguyễn Văn Xe,1951-01-01,nam,Đồng Nai,0,,,,TRUE
+Nguyễn Văn Xê,1938-01-01,nam,An Giang,0,,,,TRUE
+Nguyễn Thị Xiêm,1930-01-01,Nữ,Hà Bắc,0,,,,TRUE
+Nguyễn Xiển,1907-07-27,nam,TP Hà Nội,0,,,,TRUE
+Hoàng Thị Xìn,1954-01-01,Nữ,Cao Bằng,0,,,,TRUE
+Phạm Hữu Xoa,1944-01-01,nam,Nghệ Tĩnh,0,,,,TRUE
+Phạm Xong (Phạm Hồng),1926-01-01,nam,Gia Lai-Kon Tum,0,,,,TRUE
+Đặng Hồi Xuân,1929-02-02,nam,TP Hải Phòng,0,,,,TRUE
+Hồ Thị Xuân,1932-05-04,Nữ,Nghĩa Bình,0,,,,TRUE
+Nguyễn Thị Xuân,1946-01-01,Nữ,Vĩnh Phú,0,,,,TRUE
+Võ Tòng Xuân,1940-09-06,nam,An Giang,0,,,,TRUE
+Y Xuôi,1949-05-12,Nữ,Gia Lai-Kon Tum,0,,,,TRUE
+Nguyễn Văn Xuyến,1923-01-01,nam,Long An,0,,,,TRUE
+Nguyễn Đại Ý,1933-01-01,nam,Hà Nam Ninh,0,,,,TRUE
+Nghiêm Xuân Yêm,1913-03-19,nam,TP Hà Nội,0,,,,TRUE
+Lưu Quang Yên,1943-01-01,nam,TP Hải Phòng,0,,,,TRUE
+Nguyễn Thị Yến,1929-01-01,Nữ,TP Hồ Chí Minh,0,,,,TRUE

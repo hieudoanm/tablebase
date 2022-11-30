@@ -1,0 +1,494 @@
+name,dateOfBirth,gender,province,percentage,district,cityOfBirth,degree,active
+Nguyễn Phú Trọng,,,Hà Nội,88.12,Quận Ba Đình. Cầu Giấy,,,TRUE
+Nguyễn Đức Nhanh,,,Hà Nội,67.59,Quận Ba Đình. Cầu Giấy,,,TRUE
+Nguyễn Hồng Sơn,,,Hà Nội,64.31,Quận Ba Đình. Cầu Giấy,,,TRUE
+Ngô Thị Doãn Thanh,,,Hà Nội,81.71,Quận Hai Bà Trưng. Hoàn Kiếm,,,TRUE
+Ngô Anh Dũng,,,Hà Nội,73.31,Quận Hai Bà Trưng. Hoàn Kiếm,,,TRUE
+Nguyễn Viết Thịnh,,,Hà Nội,71.82,Quận Hai Bà Trưng. Hoàn Kiếm,,,TRUE
+Đào Trọng Thi,,,Hà Nội,75.74,Quận Đống Đa. Thanh Xuân,,,TRUE
+Nguyễn Phạm Ý Nhi,,,Hà Nội,66.82,Quận Đống Đa. Thanh Xuân,,,TRUE
+Đặng Huyền Thái,,,Hà Nội,60.83,Quận Đống Đa. Thanh Xuân,,,TRUE
+Nguyễn Minh Hà,,,Hà Nội,68.98,Quận Tây Hồ. Từ Liêm,,,TRUE
+Nguyễn Thị Nguyệt Hường,,,Hà Nội,63.5,Quận Tây Hồ. Từ Liêm,,,TRUE
+Vũ Hồng Anh,,,Hà Nội,57.52,Quận Tây Hồ. Từ Liêm,,,TRUE
+Nguyễn Tiến Dĩnh,,,Hà Nội,72.38,Quận Hoàng Mai. Thanh Trì,,,TRUE
+Đặng Văn Khanh,,,Hà Nội,71.49,Quận Hoàng Mai. Thanh Trì,,,TRUE
+Nguyễn Ngọc Đào,,,Hà Nội,54.49,Quận Hoàng Mai. Thanh Trì,,,TRUE
+Trần Văn Long (tức Hòa thượng Thích Thanh Tứ),,,Hà Nội,76.77,Quận Long Biên. Gia Lâm,,,TRUE
+Nguyễn Thị Hồng Hà,,,Hà Nội,68.17,Quận Long Biên. Gia Lâm,,,TRUE
+Nguyễn Thị Hoa,,,Hà Nội,51.19,Quận Long Biên. Gia Lâm,,,TRUE
+Đỗ Căn,,,Hà Nội,78.05,Sóc Sơn. Đông Anh,,,TRUE
+Phạm Thị Loan,,,Hà Nội,66.27,Sóc Sơn. Đông Anh,,,TRUE
+Trần Thị Quốc Khánh,,,Hà Nội,60.34,Sóc Sơn. Đông Anh,,,TRUE
+Chu Sơn Hà,,,Hà Nội,81.96,Thị xã Sơn Tây. Ba Vì. Phúc Thọ,,,TRUE
+Nguyễn Văn Chi,,,Hà Nội,80.31,Thị xã Sơn Tây. Ba Vì. Phúc Thọ,,,TRUE
+Phạm Thị Hồng Nga (tức Phạm Hồng Nga),,,Hà Nội,77.43,Thị xã Sơn Tây. Ba Vì. Phúc Thọ,,,TRUE
+Nguyễn Đình Quyền,,,Hà Nội,81.53,Thạch Thất. Quốc Oai. Đan Phượng. Hoài Đức,,,TRUE
+Bùi Duy Nhâm,,,Hà Nội,80.21,Thạch Thất. Quốc Oai. Đan Phượng. Hoài Đức,,,TRUE
+Trần Thị Kim Phương (tức Trần Kim Phương),,,Hà Nội,53.82,Thạch Thất. Quốc Oai. Đan Phượng. Hoài Đức,,,TRUE
+Nguyễn Thị Bích Ngọc,,,Hà Nội,81.66,Thành phố Hà Đông. Chương Mỹ. Thanh Oai,,,TRUE
+Hà Văn Hiền,,,Hà Nội,79.51,Thành phố Hà Đông. Chương Mỹ. Thanh Oai,,,TRUE
+Nguyễn Đăng Kính,,,Hà Nội,66.16,Thành phố Hà Đông. Chương Mỹ. Thanh Oai,,,TRUE
+Phạm Khôi Nguyên,,,Hà Nội,80.74,Ứng Hoà. Mỹ Đức. Thường Tín. Phú Xuyên,,,TRUE
+Nguyễn Thị Tuyến,,,Hà Nội,77.72,Ứng Hoà. Mỹ Đức. Thường Tín. Phú Xuyên,,,TRUE
+Tô Văn Thường (tức Tô Thường),,,Hà Nội,76.82,Ứng Hoà. Mỹ Đức. Thường Tín. Phú Xuyên,,,TRUE
+Nguyễn Minh Triết,,,Hồ Chí Minh,89.68,Quận 1. Quận 2. Quận 3,,,TRUE
+Trần Du lịch,,,Hồ Chí Minh,60.21,Quận 1. Quận 2. Quận 3,,,TRUE
+Nguyễn Đăng Trừng,,,Hồ Chí Minh,54.2,Quận 1. Quận 2. Quận 3,,,TRUE
+Trần Đông A,,,Hồ Chí Minh,66.89,Quận 7. Quận 8. Nhà Bè. Cần Giờ,,,TRUE
+Trương Thị Ánh,,,Hồ Chí Minh,54.33,Quận 7. Quận 8. Nhà Bè. Cần Giờ,,,TRUE
+Bùi Hoàng Danh,,,Hồ Chí Minh,51.53,Quận 7. Quận 8. Nhà Bè. Cần Giờ,,,TRUE
+Phạm Phương Thảo,,,Hồ Chí Minh,74.81,Quận 4. Quận 6,,,TRUE
+Tất Thành Cang,,,Hồ Chí Minh,53.53,Quận 4. Quận 6,,,TRUE
+Huỳnh Đảm,,,Hồ Chí Minh,65.3,Quận 5. Quận 10. Quận 11,,,TRUE
+Huỳnh Thành Đạt,,,Hồ Chí Minh,59.11,Quận 5. Quận 10. Quận 11,,,TRUE
+Dao Hà Nữ (tức Dao Nhiễu Linh),,,Hồ Chí Minh,51.9,Quận 5. Quận 10. Quận 11,,,TRUE
+Nguyễn Huy Cận,,,Hồ Chí Minh,54.66,Quận Tân Bình. Tân Phú,,,TRUE
+Nguyễn Việt Dũng,,,Hồ Chí Minh,53.9,Quận Tân Bình. Tân Phú,,,TRUE
+Nguyễn Văn Bé,,,Hồ Chí Minh,50.03,Quận Tân Bình. Tân Phú,,,TRUE
+Trần Hoàng Thám,,,Hồ Chí Minh,60.49,Quận Bình Thạnh. Phú Nhuận,,,TRUE
+Nguyễn Ngọc Hòa,,,Hồ Chí Minh,55.57,Quận Bình Thạnh. Phú Nhuận,,,TRUE
+Nguyễn Thị Thu Cúc,,,Hồ Chí Minh,51.16,Quận Bình Thạnh. Phú Nhuận,,,TRUE
+Lê Thanh Bình,,,Hồ Chí Minh,64.18,Quận 9. Thủ Đức. Gò Vấp,,,TRUE
+Ngô Minh Hồng,,,Hồ Chí Minh,51.56,Quận 9. Thủ Đức. Gò Vấp,,,TRUE
+Lê Thành Tâm,,,Hồ Chí Minh,63.73,Quận 12. Hóc Môn. Củ Chi,,,TRUE
+Trần Văn Hùng,,,Hồ Chí Minh,62.2,Quận 12. Hóc Môn. Củ Chi,,,TRUE
+Huỳnh Thành Lập,,,Hồ Chí Minh,59.85,Quận Bình Tân. Bình Chánh,,,TRUE
+Đặng Ngọc Tùng,,,Hồ Chí Minh,58.87,Quận Bình Tân. Bình Chánh,,,TRUE
+Lê Văn Thành,,,Hải Phòng,65.62,Quận Hồng Bàng. Lê Chân. Thị xã Đồ Sơn. Bạch Long Vỹ,,,TRUE
+Nguyễn Văn Bình,,,Hải Phòng,60.42,Quận Hồng Bàng. Lê Chân. Thị xã Đồ Sơn. Bạch Long Vỹ,,,TRUE
+Nguyễn Hoàng Anh,,,Hải Phòng,76.31,Quận Ngô Quyền. Kiến Thụy. Cát Hải,,,TRUE
+Phan Trọng Khánh,,,Hải Phòng,63.38,Quận Ngô Quyền. Kiến Thụy. Cát Hải,,,TRUE
+Nguyễn Tấn Dũng,,,Hải Phòng,99.07,Quận Kiến An. An Lão. Tiên Lãng. Vĩnh Bảo,,,TRUE
+Trần Ngọc Vinh,,,Hải Phòng,67.64,Quận Kiến An. An Lão. Tiên Lãng. Vĩnh Bảo,,,TRUE
+Lê Thị Mai,,,Hải Phòng,65.24,Quận Kiến An. An Lão. Tiên Lãng. Vĩnh Bảo,,,TRUE
+Nguyễn Văn Hiến,,,Hải Phòng,85.56,Quận Hải An. Thuỷ Nguyên. An Dương,,,TRUE
+Dương Anh Điền,,,Hải Phòng,81.86,Quận Hải An. Thuỷ Nguyên. An Dương,,,TRUE
+Trần Bá Thiều,,,Hải Phòng,81.67,Quận Hải An. Thuỷ Nguyên. An Dương,,,TRUE
+Phạm Gia Khiêm,,,Đà Nẵng,86.44,Quận Hải Châu. Sơn Trà. Ngũ Hành Sơn. đảo Hoàng Sa,,,TRUE
+Huỳnh Nghĩa,,,Đà Nẵng,66.98,Quận Hải Châu. Sơn Trà. Ngũ Hành Sơn. đảo Hoàng Sa,,,TRUE
+Nguyễn Thị Mỹ Hương,,,Đà Nẵng,53.62,Quận Hải Châu. Sơn Trà. Ngũ Hành Sơn. đảo Hoàng Sa,,,TRUE
+Nguyễn Bá Thanh,,,Đà Nẵng,86.99,Quận Thanh Khê. Liên Chiểu. Cẩm Lệ. Hòa Vang,,,TRUE
+Huỳnh Ngọc Sơn,,,Đà Nẵng,82.57,Quận Thanh Khê. Liên Chiểu. Cẩm Lệ. Hòa Vang,,,TRUE
+Nguyễn Thị Kim Thúy,,,Đà Nẵng,65.47,Quận Thanh Khê. Liên Chiểu. Cẩm Lệ. Hòa Vang,,,TRUE
+Nguyễn Tấn Quyên,,,Cần Thơ,70.11,Quận Ninh Kiều. Bình Thuỷ. Cái Răng. Phong Điền,,,TRUE
+Nguyễn Trung Nhân,,,Cần Thơ,65.27,Quận Ninh Kiều. Bình Thuỷ. Cái Răng. Phong Điền,,,TRUE
+Hà Thanh Toàn,,,Cần Thơ,64.29,Quận Ninh Kiều. Bình Thuỷ. Cái Răng. Phong Điền,,,TRUE
+Lê Văn Tâm,,,Cần Thơ,56.2,Quận Ô Môn. Cờ Đỏ,,,TRUE
+Bùi Thị Lệ Phi,,,Cần Thơ,54.7,Quận Ô Môn. Cờ Đỏ,,,TRUE
+Lê Hồng Anh (tức Út Anh),,,Cần Thơ,73.24,Thốt Nốt. Vĩnh Thạnh,,,TRUE
+Huỳnh Văn Tiếp,,,Cần Thơ,63.5,Thốt Nốt. Vĩnh Thạnh,,,TRUE
+Võ Thanh Khiết,,,An Giang,70.89,Thành phố Long Xuyên. Thoại Sơn,,,TRUE
+Trần Văn Độ,,,An Giang,59.37,Thành phố Long Xuyên. Thoại Sơn,,,TRUE
+Lê Bộ Lĩnh,,,An Giang,57.44,Châu Phú. Châu Thành,,,TRUE
+Lê Thị Dung,,,An Giang,56.69,Châu Phú. Châu Thành,,,TRUE
+Nguyễn Tấn Đạt,,,An Giang,72.49,Chợ Mới. Phú Tân,,,TRUE
+Phan Ngọc Trinh,,,An Giang,63.3,Chợ Mới. Phú Tân,,,TRUE
+Bùi Trí Dũng,,,An Giang,59.54,Chợ Mới. Phú Tân,,,TRUE
+Lê Việt Trường,,,An Giang,73.69,Thị xã Châu Đốc. Tân Châu. An Phú. Tịnh Biên. Tri Tôn,,,TRUE
+Mai Thị Ánh Tuyết,,,An Giang,69.7,Thị xã Châu Đốc. Tân Châu. An Phú. Tịnh Biên. Tri Tôn,,,TRUE
+Phạm Thị Hòa,,,An Giang,55.47,Thị xã Châu Đốc. Tân Châu. An Phú. Tịnh Biên. Tri Tôn,,,TRUE
+Nguyễn Văn Cường,,,Bà Rịa-Vũng Tàu,71.41,Thành phố Vũng Tàu. thành phố Bà Rịa. Tân Thành. Côn Đảo,,,TRUE
+Nguyễn Văn Quyền,,,Bà Rịa-Vũng Tàu,64.89,Thành phố Vũng Tàu. thành phố Bà Rịa. Tân Thành. Côn Đảo,,,TRUE
+Nguyễn Thúc Kháng,,,Bà Rịa-Vũng Tàu,64.16,Thành phố Vũng Tàu. thành phố Bà Rịa. Tân Thành. Côn Đảo,,,TRUE
+Nguyễn Hồng Lĩnh,,,Bà Rịa-Vũng Tàu,74.33,Châu Đức. Long Điền. Xuyên Mộc. Đất Đỏ,,,TRUE
+Trần Đình Nhã,,,Bà Rịa-Vũng Tàu,69.6,Châu Đức. Long Điền. Xuyên Mộc. Đất Đỏ,,,TRUE
+Trần Văn Thức,,,Bà Rịa-Vũng Tàu,67.05,Châu Đức. Long Điền. Xuyên Mộc. Đất Đỏ,,,TRUE
+Phạm Văn Minh,,,Bắc Giang,81.21,Thành phố Bắc Giang. Việt Yên. Yên Dũng. Lạng Giang,,,TRUE
+Dương Văn Trọng,,,Bắc Giang,67.12,Thành phố Bắc Giang. Việt Yên. Yên Dũng. Lạng Giang,,,TRUE
+Vũ Tuyên Hoàng,,,Bắc Giang,62.25,Thành phố Bắc Giang. Việt Yên. Yên Dũng. Lạng Giang,,,TRUE
+Nguyễn Quốc Cường,,,Bắc Giang,76.19,Yên Thế. Tân Yên. Hiệp Hoà,,,TRUE
+Hoàng Văn Lợi,,,Bắc Giang,66.75,Yên Thế. Tân Yên. Hiệp Hoà,,,TRUE
+Hoàng Thị Hạnh,,,Bắc Giang,60.54,Yên Thế. Tân Yên. Hiệp Hoà,,,TRUE
+Nguyễn Thiện Nhân,,,Bắc Giang,80.36,Sơn Động. Lục Ngạn. Lục Nam,,,TRUE
+Hoàng Thị Tuân,,,Bắc Giang,60.13,Sơn Động. Lục Ngạn. Lục Nam,,,TRUE
+Dương Đình Hân,,,Bắc Kạn,80.19,Ba Bể. Ngân Sơn. Na Rì. Pác Nặm,,,TRUE
+Bế Xuân Trường,,,Bắc Kạn,72,Ba Bể. Ngân Sơn. Na Rì. Pác Nặm,,,TRUE
+Trần Thị Lộc,,,Bắc Kạn,50.27,Ba Bể. Ngân Sơn. Na Rì. Pác Nặm,,,TRUE
+Phương Thị Thanh,,,Bắc Kạn,76.5,Thị xã Bắc Kạn. Chợ Đồn. Bạch Thông. Chợ Mới,,,TRUE
+Trịnh Tiến Long,,,Bắc Kạn,67.5,Thị xã Bắc Kạn. Chợ Đồn. Bạch Thông. Chợ Mới,,,TRUE
+Trịnh Huy Quách,,,Bắc Kạn,64.64,Thị xã Bắc Kạn. Chợ Đồn. Bạch Thông. Chợ Mới,,,TRUE
+Lê Hùng,,,Bạc Liêu,71.66,Thị xã Bạc Liêu. Vĩnh Lợi. Hoà Bình,,,TRUE
+Lê Quang Huy,,,Bạc Liêu,71.32,Thị xã Bạc Liêu. Vĩnh Lợi. Hoà Bình,,,TRUE
+Trần Thị Hoa Ry,,,Bạc Liêu,66.54,Thị xã Bạc Liêu. Vĩnh Lợi. Hoà Bình,,,TRUE
+Võ Thị Hồng Thoại,,,Bạc Liêu,86.65,Giá Rai. Đông Hải. Hồng Dân. Phước Long,,,TRUE
+Cao Ngọc Xuyên,,,Bạc Liêu,81.48,Giá Rai. Đông Hải. Hồng Dân. Phước Long,,,TRUE
+Cao Thành Văn,,,Bạc Liêu,59.7,Giá Rai. Đông Hải. Hồng Dân. Phước Long,,,TRUE
+Nguyễn Thị Thanh Hòa,,,Bắc Ninh,84.62,Thành phố Bắc Ninh. Yên Phong. Tiên Du. Từ Sơn,,,TRUE
+Nguyễn Văn Chiến,,,Bắc Ninh,77.57,Thành phố Bắc Ninh. Yên Phong. Tiên Du. Từ Sơn,,,TRUE
+Nguyễn Phụ Đông,,,Bắc Ninh,71.92,Thành phố Bắc Ninh. Yên Phong. Tiên Du. Từ Sơn,,,TRUE
+Nguyễn Thế Thảo,,,Bắc Ninh,83.32,Lương Tài. Gia Bình. Thuận Thành. Quế Võ,,,TRUE
+Phương Hữu Việt,,,Bắc Ninh,80.57,Lương Tài. Gia Bình. Thuận Thành. Quế Võ,,,TRUE
+Đỗ Thị Huyền Tâm,,,Bắc Ninh,66.7,Lương Tài. Gia Bình. Thuận Thành. Quế Võ,,,TRUE
+Đặng Thuần Phong,,,Bến Tre,59.6,Thị xã Bến Tre. Châu Thành. Bình Đại,,,TRUE
+Trịnh Thị Thanh Bình,,,Bến Tre,51.9,Thị xã Bến Tre. Châu Thành. Bình Đại,,,TRUE
+Nguyễn Thị Thanh Hà,,,Bến Tre,70.03,Giồng Trôm. Ba Tri,,,TRUE
+Nguyễn Hữu Phước,,,Bến Tre,60.57,Giồng Trôm. Ba Tri,,,TRUE
+Trần Văn Truyền,,,Bến Tre,74.52,Mỏ Cày. Thạnh Phú. Chợ Lách,,,TRUE
+Trần Văn Châu,,,Bến Tre,57.5,Mỏ Cày. Thạnh Phú. Chợ Lách,,,TRUE
+Vũ Hoàng Hà,,,Bình Định,90.04,Thành phố Quy Nhơn. Vân Canh. Tây Sơn. Vĩnh Thạnh. Tuy Phước,,,TRUE
+Phạm Thị Thanh Hương,,,Bình Định,77.74,Thành phố Quy Nhơn. Vân Canh. Tây Sơn. Vĩnh Thạnh. Tuy Phước,,,TRUE
+Trần Văn Bản,,,Bình Định,53.59,Thành phố Quy Nhơn. Vân Canh. Tây Sơn. Vĩnh Thạnh. Tuy Phước,,,TRUE
+Hồ Quốc Dũng,,,Bình Định,88.06,An Nhơn. Phù Cát. Phù Mỹ,,,TRUE
+Nguyễn Viết Lểnh,,,Bình Định,76.96,An Nhơn. Phù Cát. Phù Mỹ,,,TRUE
+Võ Thị Thuỷ,,,Bình Định,60.59,An Nhơn. Phù Cát. Phù Mỹ,,,TRUE
+Nguyễn Thanh Thụy,,,Bình Định,72.06,Hoài Ân. An Lão. Hoài Nhơn,,,TRUE
+Nguyễn Đăng Vang,,,Bình Định,55.09,Hoài Ân. An Lão. Hoài Nhơn,,,TRUE
+Huỳnh Ngọc Đáng,,,Bình Dương,64.48,Thị xã Thủ Dầu Một. Thuận An. Dĩ An,,,TRUE
+Mai Hữu Tín,,,Bình Dương,61.91,Thị xã Thủ Dầu Một. Thuận An. Dĩ An,,,TRUE
+Nguyễn Thị Kim Oanh,,,Bình Dương,61.79,Thị xã Thủ Dầu Một. Thuận An. Dĩ An,,,TRUE
+Mai Thế Trung,,,Bình Dương,78.83,Tân Uyên. Phú Giáo. Bến Cát. Dầu Tiếng,,,TRUE
+Trần Văn Nam,,,Bình Dương,73.71,Tân Uyên. Phú Giáo. Bến Cát. Dầu Tiếng,,,TRUE
+Phạm Quý Tỵ,,,Bình Dương,67.76,Tân Uyên. Phú Giáo. Bến Cát. Dầu Tiếng,,,TRUE
+Võ Quyết Chiến,,,Bình Phước,78.78,Bình Long. Lộc Ninh. Chơn Thành. Bù Đốp,,,TRUE
+Trương Thị Mai,,,Bình Phước,68.38,Bình Long. Lộc Ninh. Chơn Thành. Bù Đốp,,,TRUE
+Điểu Điều,,,Bình Phước,55.29,Bình Long. Lộc Ninh. Chơn Thành. Bù Đốp,,,TRUE
+Ngô Đức Mạnh,,,Bình Phước,77.81,Thị xã Đồng Xoài. Đồng Phú. Bù Đăng. Phước Long,,,TRUE
+Võ Đình Tuyến,,,Bình Phước,72.53,Thị xã Đồng Xoài. Đồng Phú. Bù Đăng. Phước Long,,,TRUE
+Nguyễn Hồng Trà,,,Bình Phước,65.13,Thị xã Đồng Xoài. Đồng Phú. Bù Đăng. Phước Long,,,TRUE
+Đào Xuân Nay,,,Bình Thuận,70.74,Tuy Phong. Bắc Bình. Phú Quý,,,TRUE
+Lương Văn Hải,,,Bình Thuận,54.07,Tuy Phong. Bắc Bình. Phú Quý,,,TRUE
+Huỳnh Văn Tí,,,Bình Thuận,86.05,Thành phố Phan Thiết. Hàm Thuận Bắc. Hàm Thuận Nam. Hàm Tân,,,TRUE
+Hà Minh Huệ,,,Bình Thuận,68.46,Thành phố Phan Thiết. Hàm Thuận Bắc. Hàm Thuận Nam. Hàm Tân,,,TRUE
+Trương Quang Hai,,,Bình Thuận,66.12,Thành phố Phan Thiết. Hàm Thuận Bắc. Hàm Thuận Nam. Hàm Tân,,,TRUE
+Nguyễn Văn Đông,,,Bình Thuận,72.33,Thị xã La Gi. Đức Linh. Tánh Linh,,,TRUE
+Nguyễn Văn Phúc,,,Bình Thuận,65.41,Thị xã La Gi. Đức Linh. Tánh Linh,,,TRUE
+Bùi Công Bửu,,,Cà Mau,77.41,Thành phố Cà Mau. Thới Bình. U Minh,,,TRUE
+Trần Văn,,,Cà Mau,60.14,Thành phố Cà Mau. Thới Bình. U Minh,,,TRUE
+Huỳnh Minh Hiếu,,,Cà Mau,58.72,Thành phố Cà Mau. Thới Bình. U Minh,,,TRUE
+Lý Kim Khánh,,,Cà Mau,68.64,Cái Nước. Phú Tân. Trần Văn Thời,,,TRUE
+Nguyễn Văn Lưu (Phi Hùng),,,Cà Mau,62.43,Cái Nước. Phú Tân. Trần Văn Thời,,,TRUE
+Nguyễn Hữu Phước,,,Cà Mau,83.11,Năm Căn. Đầm Dơi. Ngọc Hiển,,,TRUE
+Đặng Như Lợi,,,Cà Mau,78.35,Năm Căn. Đầm Dơi. Ngọc Hiển,,,TRUE
+Cao Đức Phát,,,Cao Bằng,85.64,Thị xã Cao Bằng. Bảo Lạc. Bảo Lâm. Hà Quảng. Thông Nông. Trà Lĩnh. Phục Hoà,,,TRUE
+Hoàng Thị Bình,,,Cao Bằng,80.97,Thị xã Cao Bằng. Bảo Lạc. Bảo Lâm. Hà Quảng. Thông Nông. Trà Lĩnh. Phục Hoà,,,TRUE
+Đinh Ngọc Lượng,,,Cao Bằng,63.3,Thị xã Cao Bằng. Bảo Lạc. Bảo Lâm. Hà Quảng. Thông Nông. Trà Lĩnh. Phục Hoà,,,TRUE
+Nguyễn Thị Nương,,,Cao Bằng,80.79,Trùng Khánh. Hoà An. Quảng Uyên. Hạ Lang. Thạch An. Nguyên Bình,,,TRUE
+Triệu Sỹ Lầu,,,Cao Bằng,74.87,Trùng Khánh. Hoà An. Quảng Uyên. Hạ Lang. Thạch An. Nguyên Bình,,,TRUE
+Nguyễn Văn Bính,,,Cao Bằng,74.49,Trùng Khánh. Hoà An. Quảng Uyên. Hạ Lang. Thạch An. Nguyên Bình,,,TRUE
+Tòng Thị Phóng,,,Đắk Lắk,80.84,Thành phố Buôn Ma Thuột. Buôn Đôn. Ea Súp. Cư M'gar,,,TRUE
+Đỗ Minh Hảo,,,Đắk Lắk,73.44,Thành phố Buôn Ma Thuột. Buôn Đôn. Ea Súp. Cư M'gar,,,TRUE
+Nguyễn Duy Hữu,,,Đắk Lắk,64.96,Thành phố Buôn Ma Thuột. Buôn Đôn. Ea Súp. Cư M'gar,,,TRUE
+Nguyễn Lân Dũng,,,Đắk Lắk,90.64,Krông Bông. Krông Pak. Lắk. M'Drăk. Krông Ana,,,TRUE
+H`Luộc Ntơr,,,Đắk Lắk,77.01,Krông Bông. Krông Pak. Lắk. M'Drăk. Krông Ana,,,TRUE
+Trần Mạnh Cường,,,Đắk Lắk,76.77,Krông Bông. Krông Pak. Lắk. M'Drăk. Krông Ana,,,TRUE
+Niê Thuật,,,Đắk Lắk,82.13,Ea H'leo. Krông Búk. Krông Năng. Ea Kar,,,TRUE
+Trần Đình Long,,,Đắk Lắk,78.99,Ea H'leo. Krông Búk. Krông Năng. Ea Kar,,,TRUE
+Trương Thị Xê,,,Đắk Lắk,78.51,Ea H'leo. Krông Búk. Krông Năng. Ea Kar,,,TRUE
+Hồ Nghĩa Dũng,,,Đắk Nông,84.72,Thị xã Gia Nghĩa. Tuy Đức. Đắk R`Lấp. Đắk Glong. Đắk Song,,,TRUE
+Bùi Thị Hoà,,,Đắk Nông,83.07,Thị xã Gia Nghĩa. Tuy Đức. Đắk R`Lấp. Đắk Glong. Đắk Song,,,TRUE
+Điểu K'Ré,,,Đắk Nông,78.3,Thị xã Gia Nghĩa. Tuy Đức. Đắk R`Lấp. Đắk Glong. Đắk Song,,,TRUE
+Lương Phan Cừ,,,Đắk Nông,84.06,Đắk Mil. Cư Jút. KRông Nô,,,TRUE
+Võ Văn Đủ,,,Đắk Nông,84.04,Đắk Mil. Cư Jút. KRông Nô,,,TRUE
+Thị Trãi,,,Đắk Nông,70.87,Đắk Mil. Cư Jút. KRông Nô,,,TRUE
+Nghiêm Vũ Khải,,,Điện Biên,93.85,Thị xã Mường Lay. Mường Nhé. Mường Chà. Tủa Chùa. Tuần Giáo,,,TRUE
+Lò Văn Muôn,,,Điện Biên,87.68,Thị xã Mường Lay. Mường Nhé. Mường Chà. Tủa Chùa. Tuần Giáo,,,TRUE
+Trần Thị Dung,,,Điện Biên,87.05,Thị xã Mường Lay. Mường Nhé. Mường Chà. Tủa Chùa. Tuần Giáo,,,TRUE
+Phùng Quang Thanh,,,Điện Biên,95.67,Thành phố Điện Biên Phủ. Điện Biên. Điện Biên Đông. Mường Ảng,,,TRUE
+Mùa A Sơn,,,Điện Biên,93.48,Thành phố Điện Biên Phủ. Điện Biên. Điện Biên Đông. Mường Ảng,,,TRUE
+Vi Thị Hương,,,Điện Biên,72.37,Thành phố Điện Biên Phủ. Điện Biên. Điện Biên Đông. Mường Ảng,,,TRUE
+Huỳnh Tấn Kiệt,,,Đồng Nai,70.23,Thành phố Biên Hoà. Long Thành. Nhơn Trạch,,,TRUE
+Lê Hồng Phương,,,Đồng Nai,65.33,Thành phố Biên Hoà. Long Thành. Nhơn Trạch,,,TRUE
+Triệu Xuân Hòa,,,Đồng Nai,64.74,Thành phố Biên Hoà. Long Thành. Nhơn Trạch,,,TRUE
+Phạm Thị Hải,,,Đồng Nai,72.13,Vĩnh Cửu. Trảng Bom. Thống Nhất,,,TRUE
+Phạm Quốc Anh (Quốc Anh),,,Đồng Nai,69.25,Vĩnh Cửu. Trảng Bom. Thống Nhất,,,TRUE
+Hồ Văn Năm,,,Đồng Nai,65.81,Vĩnh Cửu. Trảng Bom. Thống Nhất,,,TRUE
+Dương Trung Quốc,,,Đồng Nai,67.99,Định Quán. Tân Phú,,,TRUE
+Trương Thị Thu Hằng,,,Đồng Nai,51.36,Định Quán. Tân Phú,,,TRUE
+Lê Thị Thu Ba,,,Đồng Nai,73.94,Thị xã Long Khánh. Xuân Lộc. Cẩm Mỹ,,,TRUE
+Trương Văn Vở,,,Đồng Nai,66.96,Thị xã Long Khánh. Xuân Lộc. Cẩm Mỹ,,,TRUE
+Võ Quốc Trung,,,Đồng Tháp,67.2,Tân Hồng. Hồng Ngự. Tam Nông. Thanh Bình,,,TRUE
+Đỗ Văn Lực,,,Đồng Tháp,62.46,Tân Hồng. Hồng Ngự. Tam Nông. Thanh Bình,,,TRUE
+Nguyễn Kim Hồng,,,Đồng Tháp,60.88,Tân Hồng. Hồng Ngự. Tam Nông. Thanh Bình,,,TRUE
+Ngô Quang Xuân,,,Đồng Tháp,67.55,Thành phố Cao Lãnh. Cao Lãnh. Tháp Mười,,,TRUE
+Huỳnh Thị Hoài Thu,,,Đồng Tháp,54.31,Thành phố Cao Lãnh. Cao Lãnh. Tháp Mười,,,TRUE
+Nguyễn Hữu Nhơn (tức Nguyễn Hoài Bão),,,Đồng Tháp,75.06,Thị xã Sa Đéc. Lấp Vò. Lai Vung. Châu Thành,,,TRUE
+Phan Thị Thu Hà,,,Đồng Tháp,65.31,Thị xã Sa Đéc. Lấp Vò. Lai Vung. Châu Thành,,,TRUE
+Ngô Tự Nam,,,Đồng Tháp,58.2,Thị xã Sa Đéc. Lấp Vò. Lai Vung. Châu Thành,,,TRUE
+Ksor Phước (tức KPă Bình),,,Gia Lai,84.27,Thị xã An Khê. Đak Đoa. Mang Yang. Đak Pơ. Kbang. Kông Chro,,,TRUE
+Nguyễn Danh,,,Gia Lai,73.94,Thị xã An Khê. Đak Đoa. Mang Yang. Đak Pơ. Kbang. Kông Chro,,,TRUE
+Dương Văn Trang,,,Gia Lai,86.86,Thành phố Pleiku. Chư Păh. Ia Grai. Chư Prông. Đức Cơ,,,TRUE
+Hà Sơn Nhin,,,Gia Lai,80.67,Thành phố Pleiku. Chư Păh. Ia Grai. Chư Prông. Đức Cơ,,,TRUE
+Nguyễn Thị Thu Hà,,,Gia Lai,71.42,Thành phố Pleiku. Chư Păh. Ia Grai. Chư Prông. Đức Cơ,,,TRUE
+Hà Công Long,,,Gia Lai,69.99,Thị xã Ayun Pa. Phú Thiện. Krông Pa. Ia Pa. Chư Sê,,,TRUE
+Rcom Sa Duyên,,,Gia Lai,68.45,Thị xã Ayun Pa. Phú Thiện. Krông Pa. Ia Pa. Chư Sê,,,TRUE
+Nguyễn Văn Chiền,,,Hà Giang,95.14,Thị xã Hà Giang. Mèo Vạc. Đồng Văn. Yên Minh. Quản Bạ. Bắc Mê,,,TRUE
+Củng Thị Mẩy,,,Hà Giang,87.88,Thị xã Hà Giang. Mèo Vạc. Đồng Văn. Yên Minh. Quản Bạ. Bắc Mê,,,TRUE
+Thào Hồng Sơn,,,Hà Giang,87.15,Thị xã Hà Giang. Mèo Vạc. Đồng Văn. Yên Minh. Quản Bạ. Bắc Mê,,,TRUE
+Triệu Mùi Nái,,,Hà Giang,94.15,Vị Xuyên. Bắc Quang. Quang Bình. Hoàng Su Phì. Xín Mần,,,TRUE
+Hoàng Minh Nhất,,,Hà Giang,92.83,Vị Xuyên. Bắc Quang. Quang Bình. Hoàng Su Phì. Xín Mần,,,TRUE
+Bàn Đức Vinh,,,Hà Giang,75.47,Vị Xuyên. Bắc Quang. Quang Bình. Hoàng Su Phì. Xín Mần,,,TRUE
+Trần Tiến Cảnh,,,Hà Nam,85.75,Thị xã Phủ Lý. Lý Nhân. Bình Lục,,,TRUE
+Nguyễn Thị Doan,,,Hà Nam,85.61,Thị xã Phủ Lý. Lý Nhân. Bình Lục,,,TRUE
+Trần Thị Hồng,,,Hà Nam,67.09,Thị xã Phủ Lý. Lý Nhân. Bình Lục,,,TRUE
+Kiều Hữu Bình,,,Hà Nam,81.99,Duy Tiên. Kim Bảng. Thanh Liêm,,,TRUE
+Trần Văn Hổ (tức Trần Hổ),,,Hà Nam,81.15,Duy Tiên. Kim Bảng. Thanh Liêm,,,TRUE
+Lê Minh Hồng,,,Hà Nam,79.97,Duy Tiên. Kim Bảng. Thanh Liêm,,,TRUE
+Nguyễn Sinh Hùng,,,Hà Tĩnh,97.06,Thị xã Hà Tĩnh. Kỳ Anh. Cẩm Xuyên. Hương Khê,,,TRUE
+Trần Tiến Dũng,,,Hà Tĩnh,93.08,Thị xã Hà Tĩnh. Kỳ Anh. Cẩm Xuyên. Hương Khê,,,TRUE
+Nguyễn Thị Vân,,,Hà Tĩnh,82.73,Thị xã Hà Tĩnh. Kỳ Anh. Cẩm Xuyên. Hương Khê,,,TRUE
+Nguyễn Thị Kim Tiến,,,Hà Tĩnh,95.61,Thạch Hà. Can Lộc. Nghi Xuân. Lộc Hà,,,TRUE
+Nguyễn Nhật,,,Hà Tĩnh,87.97,Thạch Hà. Can Lộc. Nghi Xuân. Lộc Hà,,,TRUE
+Trần Đình Đàn,,,Hà Tĩnh,87.43,Thị xã Hồng Lĩnh. Đức Thọ. Hương Sơn. Vũ Quang,,,TRUE
+Nguyễn Thanh Tân,,,Hà Tĩnh,87.01,Thị xã Hồng Lĩnh. Đức Thọ. Hương Sơn. Vũ Quang,,,TRUE
+Nguyễn Văn Nguyên,,,Hải Dương,83.88,Chí Linh. Nam Sách. Kim Thành. Kinh Môn,,,TRUE
+Nguyễn Thị Nga,,,Hải Dương,76.24,Chí Linh. Nam Sách. Kim Thành. Kinh Môn,,,TRUE
+Trần Thế Vượng,,,Hải Dương,75.55,Chí Linh. Nam Sách. Kim Thành. Kinh Môn,,,TRUE
+Nguyễn Thị Kim Ngân,,,Hải Dương,88.42,Thành phố Hải Dương. Thanh Hà. Tứ Kỳ. Cẩm Giàng,,,TRUE
+Lê Đình Khanh,,,Hải Dương,78.01,Thành phố Hải Dương. Thanh Hà. Tứ Kỳ. Cẩm Giàng,,,TRUE
+Nguyễn Văn Hợp,,,Hải Dương,74.2,Thành phố Hải Dương. Thanh Hà. Tứ Kỳ. Cẩm Giàng,,,TRUE
+Vũ Văn Hiền,,,Hải Dương,88.29,Gia Lộc. Ninh Giang. Thanh Miện. Bình Giang,,,TRUE
+Nguyễn Danh Trình,,,Hải Dương,84.03,Gia Lộc. Ninh Giang. Thanh Miện. Bình Giang,,,TRUE
+Hoàng Thị Hảo,,,Hải Dương,69.74,Gia Lộc. Ninh Giang. Thanh Miện. Bình Giang,,,TRUE
+Trần Hồng Việt,,,Hậu Giang,73.81,Thị xã Vị Thanh. Vị Thuỷ. Châu Thành. Châu Thành A,,,TRUE
+Vũ Văn Hiến,,,Hậu Giang,70.8,Thị xã Vị Thanh. Vị Thuỷ. Châu Thành. Châu Thành A,,,TRUE
+Phạm Sơn Hà,,,Hậu Giang,59.48,Thị xã Vị Thanh. Vị Thuỷ. Châu Thành. Châu Thành A,,,TRUE
+Huỳnh Minh Chắc,,,Hậu Giang,76.85,Thị xã Ngã Bảy. Phụng Hiệp. Long Mỹ,,,TRUE
+Nguyễn Hồng Diện,,,Hậu Giang,68.59,Thị xã Ngã Bảy. Phụng Hiệp. Long Mỹ,,,TRUE
+Mai Xuân Hùng,,,Hậu Giang,58.72,Thị xã Ngã Bảy. Phụng Hiệp. Long Mỹ,,,TRUE
+Trương Quang Khánh,,,Hoà Bình,80.69,Thành phố Hoà Bình. Đà Bắc. Kim Bôi. Lương Sơn. Kỳ Sơn,,,TRUE
+Bùi Văn Duôi,,,Hoà Bình,73.22,Thành phố Hoà Bình. Đà Bắc. Kim Bôi. Lương Sơn. Kỳ Sơn,,,TRUE
+Trần Việt Hưng,,,Hoà Bình,55.77,Thành phố Hoà Bình. Đà Bắc. Kim Bôi. Lương Sơn. Kỳ Sơn,,,TRUE
+Bùi Thị Bình,,,Hoà Bình,88.68,Lạc Sơn. Mai Châu. Tân Lạc. Yên Thuỷ. Lạc Thuỷ. Cao Phong,,,TRUE
+Bùi Văn Tỉnh,,,Hoà Bình,87.81,Lạc Sơn. Mai Châu. Tân Lạc. Yên Thuỷ. Lạc Thuỷ. Cao Phong,,,TRUE
+Nguyễn Đình Phách,,,Hưng Yên,84.48,Thị xã Hưng Yên. Tiên Lữ. Phù Cừ. Ân Thi,,,TRUE
+Lê Văn Hưng,,,Hưng Yên,81.97,Thị xã Hưng Yên. Tiên Lữ. Phù Cừ. Ân Thi,,,TRUE
+Nguyễn Thị Vân Yến,,,Hưng Yên,77.58,Thị xã Hưng Yên. Tiên Lữ. Phù Cừ. Ân Thi,,,TRUE
+Lê Doãn Hợp,,,Hưng Yên,82.65,Yên Mỹ. Kim Động. Mỹ Hào,,,TRUE
+Vũ Quang Hải,,,Hưng Yên,77.33,Yên Mỹ. Kim Động. Mỹ Hào,,,TRUE
+Phạm Quang Hợi,,,Hưng Yên,83.57,Văn Lâm. Văn Giang. Khoái Châu,,,TRUE
+Vũ Thị Thu Hà,,,Hưng Yên,68.77,Văn Lâm. Văn Giang. Khoái Châu,,,TRUE
+Vũ Viết Ngoạn,,,Khánh Hoà,60.12,Vạn Ninh. Ninh Hoà,,,TRUE
+Lê Minh Hiền,,,Khánh Hoà,58.82,Vạn Ninh. Ninh Hoà,,,TRUE
+Mai Trực,,,Khánh Hoà,65.63,Thành phố Nha Trang,,,TRUE
+Nguyễn Văn Ba,,,Khánh Hoà,52.06,Thành phố Nha Trang,,,TRUE
+Nguyễn Tấn Tuân,,,Khánh Hoà,76.05,Thị xã Cam Ranh. Diên Khánh. Khánh Vĩnh. Khánh Sơn. Trường Sa,,,TRUE
+Lê Hữu Đức,,,Khánh Hoà,73.5,Thị xã Cam Ranh. Diên Khánh. Khánh Vĩnh. Khánh Sơn. Trường Sa,,,TRUE
+Bo Bo Thị Yến,,,Khánh Hoà,62.22,Thị xã Cam Ranh. Diên Khánh. Khánh Vĩnh. Khánh Sơn. Trường Sa,,,TRUE
+Bùi Tuyết Minh,,,Kiên Giang,86.69,Tân Hiệp. Châu Thành. Giồng Riềng. Gò Quao,,,TRUE
+Bùi Đặng Dũng,,,Kiên Giang,80.64,Tân Hiệp. Châu Thành. Giồng Riềng. Gò Quao,,,TRUE
+Danh Nhưỡng (tức Hòa thượng Danh Nhưỡng),,,Kiên Giang,75.05,Tân Hiệp. Châu Thành. Giồng Riềng. Gò Quao,,,TRUE
+Danh Út,,,Kiên Giang,81.9,An Biên. An Minh. Vĩnh Thuận. U Minh Thượng,,,TRUE
+Nguyễn Văn Luật,,,Kiên Giang,70.99,An Biên. An Minh. Vĩnh Thuận. U Minh Thượng,,,TRUE
+Bùi Quang Bền,,,Kiên Giang,78.62,Thành phố Rạch Giá. thị xã Hà Tiên. Kiên Lương. Hòn Đất. Phú Quốc. Kiên Hải,,,TRUE
+Nguyễn Thị Kim Bé,,,Kiên Giang,69.7,Thành phố Rạch Giá. thị xã Hà Tiên. Kiên Lương. Hòn Đất. Phú Quốc. Kiên Hải,,,TRUE
+Đinh Xuân Thảo,,,Kiên Giang,69.63,Thành phố Rạch Giá. thị xã Hà Tiên. Kiên Lương. Hòn Đất. Phú Quốc. Kiên Hải,,,TRUE
+Nguyễn Kim Khoa,,,Kon Tum,79.91,Thị xã Kon Tum. Kon Rẫy. Kon Plông. Sa Thầy,,,TRUE
+Y Vêng,,,Kon Tum,79.08,Thị xã Kon Tum. Kon Rẫy. Kon Plông. Sa Thầy,,,TRUE
+Quách Cao Yềm,,,Kon Tum,67.21,Thị xã Kon Tum. Kon Rẫy. Kon Plông. Sa Thầy,,,TRUE
+Hoàng Hữu Năng,,,Kon Tum,91.69,Đắk Hà. Đắk Tô. Tu Mơ Rông. Ngọc Hồi. Đắk Glei,,,TRUE
+Nguyễn Vinh Hà,,,Kon Tum,91.48,Đắk Hà. Đắk Tô. Tu Mơ Rông. Ngọc Hồi. Đắk Glei,,,TRUE
+Y Ngọc,,,Kon Tum,76.54,Đắk Hà. Đắk Tô. Tu Mơ Rông. Ngọc Hồi. Đắk Glei,,,TRUE
+Giàng Páo Mỷ,,,Lai Châu,88.08,Thị xã Lai Châu. Than Uyên. Tam Đường,,,TRUE
+Trần Quốc Vượng,,,Lai Châu,87.78,Thị xã Lai Châu. Than Uyên. Tam Đường,,,TRUE
+Tống Văn Thoóng,,,Lai Châu,84.06,Thị xã Lai Châu. Than Uyên. Tam Đường,,,TRUE
+Đặng Văn Chiến,,,Lai Châu,93.61,Phong Thổ. Sìn Hồ. Mường Tè,,,TRUE
+Chu Lê Chinh,,,Lai Châu,87.46,Phong Thổ. Sìn Hồ. Mường Tè,,,TRUE
+Lò Thị Phương,,,Lai Châu,76.42,Phong Thổ. Sìn Hồ. Mường Tè,,,TRUE
+Lê Văn Học,,,Lâm Đồng,80.37,Thành phố Đà Lạt. Lạc Dương. Đơn Dương. Đức Trọng,,,TRUE
+Nguyễn Bá Thuyền,,,Lâm Đồng,77.75,Thành phố Đà Lạt. Lạc Dương. Đơn Dương. Đức Trọng,,,TRUE
+Võ Minh Phương,,,Lâm Đồng,73.33,Lâm Hà. Di Linh. Đam Rông,,,TRUE
+Ya- Duck,,,Lâm Đồng,62.97,Lâm Hà. Di Linh. Đam Rông,,,TRUE
+Lê Thanh Phong,,,Lâm Đồng,82.79,Thị xã Bảo Lộc. Bảo Lâm. Đạ Huoai. Đạ Tẻh. Cát Tiên,,,TRUE
+Đặng Thị Nga,,,Lâm Đồng,60.32,Thị xã Bảo Lộc. Bảo Lâm. Đạ Huoai. Đạ Tẻh. Cát Tiên,,,TRUE
+Trần Thị Hoa Sinh,,,Lạng Sơn,89.02,Hữu Lũng. Chi Lăng. Văn Quan. Bình Gia. Bắc Sơn,,,TRUE
+Dương Hiền,,,Lạng Sơn,74.83,Hữu Lũng. Chi Lăng. Văn Quan. Bình Gia. Bắc Sơn,,,TRUE
+Nguyễn Văn Son,,,Lạng Sơn,66.08,Hữu Lũng. Chi Lăng. Văn Quan. Bình Gia. Bắc Sơn,,,TRUE
+Phùng Thanh Kiểm,,,Lạng Sơn,82.77,Thành phố Lạng Sơn. Tràng Định. Văn Lãng. Cao Lộc. Lộc Bình. Đình Lập,,,TRUE
+Nguyễn Minh Thuyết,,,Lạng Sơn,70.5,Thành phố Lạng Sơn. Tràng Định. Văn Lãng. Cao Lộc. Lộc Bình. Đình Lập,,,TRUE
+Hoàng Thị Hương,,,Lạng Sơn,66.44,Thành phố Lạng Sơn. Tràng Định. Văn Lãng. Cao Lộc. Lộc Bình. Đình Lập,,,TRUE
+Ngô Văn Hùng,,,Lào Cai,86.51,Thành phố Lào Cai. Bát Xát. Sa Pa. Văn Bàn,,,TRUE
+Sùng Chúng,,,Lào Cai,82.9,Thành phố Lào Cai. Bát Xát. Sa Pa. Văn Bàn,,,TRUE
+Dương Thị Thu Hà,,,Lào Cai,77.59,Thành phố Lào Cai. Bát Xát. Sa Pa. Văn Bàn,,,TRUE
+Giàng Seo Phử,,,Lào Cai,93.41,Bảo Thắng. Bảo Yên. Bắc Hà. Si Ma Cai. Mường Khương,,,TRUE
+Nguyễn Thị Lan,,,Lào Cai,83.66,Bảo Thắng. Bảo Yên. Bắc Hà. Si Ma Cai. Mường Khương,,,TRUE
+Giàng Vu Thè,,,Lào Cai,73.66,Bảo Thắng. Bảo Yên. Bắc Hà. Si Ma Cai. Mường Khương,,,TRUE
+Đặng Văn Xướng,,,Long An,72.57,Đức Hoà. Cần Đước. Cần Giuộc,,,TRUE
+Trương Hòa Bình (tức Nguyễn Văn Bình – Sáu Đạt),,,Long An,71.45,Đức Hoà. Cần Đước. Cần Giuộc,,,TRUE
+Trương Văn Nọ,,,Long An,60.68,Đức Hoà. Cần Đước. Cần Giuộc,,,TRUE
+Nguyễn Thị Thủy Khiêm,,,Long An,71.53,Thị xã Tân An. Châu Thành. Tân Trụ. Bến Lức. Thủ Thừa,,,TRUE
+Đỗ Hữu Lâm,,,Long An,68.87,Thị xã Tân An. Châu Thành. Tân Trụ. Bến Lức. Thủ Thừa,,,TRUE
+Võ Thị Dễ,,,Long An,65.66,Thị xã Tân An. Châu Thành. Tân Trụ. Bến Lức. Thủ Thừa,,,TRUE
+Lê Thanh Liêm,,,Long An,55.13,Đức Huệ. Thạnh Hoá. Tân Thạnh. Mộc Hoá. Vĩnh Hưng. Tân Hưng,,,TRUE
+Trần Minh Mẫn,,,Long An,51.39,Đức Huệ. Thạnh Hoá. Tân Thạnh. Mộc Hoá. Vĩnh Hưng. Tân Hưng,,,TRUE
+Chu Văn Đạt,,,Nam Định,83.25,Thành phố Nam Định. Mỹ Lộc. Ý Yên. Vụ Bản,,,TRUE
+Nguyễn Hữu Đồng,,,Nam Định,80.72,Thành phố Nam Định. Mỹ Lộc. Ý Yên. Vụ Bản,,,TRUE
+Trần Thị Hằng,,,Nam Định,52.39,Thành phố Nam Định. Mỹ Lộc. Ý Yên. Vụ Bản,,,TRUE
+Vũ Văn Ninh,,,Nam Định,87.89,Nam Trực. Nghĩa Hưng. Trực Ninh,,,TRUE
+Nguyễn Anh Tuấn,,,Nam Định,86.6,Nam Trực. Nghĩa Hưng. Trực Ninh,,,TRUE
+Phan Văn Vĩnh,,,Nam Định,83.04,Nam Trực. Nghĩa Hưng. Trực Ninh,,,TRUE
+Trần Văn Tuấn,,,Nam Định,83.81,Xuân Trường. Giao Thuỷ. Hải Hậu,,,TRUE
+Linh mục Lê Ngọc Hoàn,,,Nam Định,78.5,Xuân Trường. Giao Thuỷ. Hải Hậu,,,TRUE
+Trần Thị Phương Hoa,,,Nam Định,72.01,Xuân Trường. Giao Thuỷ. Hải Hậu,,,TRUE
+Nguyễn Hữu Cường,,,Nghệ An,93.21,Kỳ Sơn. Tương Dương. Con Cuông. Anh Sơn. Đô Lương,,,TRUE
+Cụt Thị Hợi,,,Nghệ An,87.94,Kỳ Sơn. Tương Dương. Con Cuông. Anh Sơn. Đô Lương,,,TRUE
+Nguyễn Hữu Nhị,,,Nghệ An,72.66,Kỳ Sơn. Tương Dương. Con Cuông. Anh Sơn. Đô Lương,,,TRUE
+Thái Thị An Chung,,,Nghệ An,86.08,Quế Phong. Quỳ Châu. Quỳ Hợp. Nghĩa Đàn. Tân Kỳ,,,TRUE
+Hoàng Văn Minh,,,Nghệ An,85.79,Quế Phong. Quỳ Châu. Quỳ Hợp. Nghĩa Đàn. Tân Kỳ,,,TRUE
+Vi Thị Tuyết,,,Nghệ An,75.19,Quế Phong. Quỳ Châu. Quỳ Hợp. Nghĩa Đàn. Tân Kỳ,,,TRUE
+Hồ Đức Việt,,,Nghệ An,89.72,Yên Thành. Quỳnh Lưu,,,TRUE
+Hoàng Trần Ky,,,Nghệ An,85.97,Yên Thành. Quỳnh Lưu,,,TRUE
+Nguyễn Hữu Quang,,,Nghệ An,80.3,Yên Thành. Quỳnh Lưu,,,TRUE
+Phan Đình Trạc,,,Nghệ An,85.01,Thành phố Vinh. Thanh Chương. Nam Đàn. Hưng Nguyên,,,TRUE
+Trần Văn Hằng,,,Nghệ An,82.15,Thành phố Vinh. Thanh Chương. Nam Đàn. Hưng Nguyên,,,TRUE
+Nguyễn Minh Hồng,,,Nghệ An,75.72,Thành phố Vinh. Thanh Chương. Nam Đàn. Hưng Nguyên,,,TRUE
+Phan Trung Lý,,,Nghệ An,87.1,Thị xã Cửa Lò. Diễn Châu. Nghi Lộc,,,TRUE
+Nguyễn Hồng Nhị,,,Nghệ An,79.64,Thị xã Cửa Lò. Diễn Châu. Nghi Lộc,,,TRUE
+Phạm Văn Hà,,,Nghệ An,78.07,Thị xã Cửa Lò. Diễn Châu. Nghi Lộc,,,TRUE
+Đinh Văn Hùng,,,Ninh Bình,87.85,Thị xã Ninh Bình. Nho Quan. Gia Viễn. Hoa Lư,,,TRUE
+Đinh Trịnh Hải,,,Ninh Bình,86.71,Thị xã Ninh Bình. Nho Quan. Gia Viễn. Hoa Lư,,,TRUE
+Đinh Thị Ngoan,,,Ninh Bình,80.34,Thị xã Ninh Bình. Nho Quan. Gia Viễn. Hoa Lư,,,TRUE
+Nguyễn Thị Hồng Minh,,,Ninh Bình,88.22,Thành phố Tam Điệp. Kim Sơn. Yên Khánh. Yên Mô,,,TRUE
+Phạm Minh Tuyên,,,Ninh Bình,87.24,Thành phố Tam Điệp. Kim Sơn. Yên Khánh. Yên Mô,,,TRUE
+Bùi Đắc Luyên,,,Ninh Bình,78.99,Thành phố Tam Điệp. Kim Sơn. Yên Khánh. Yên Mô,,,TRUE
+Hoàng Ngọc Thái,,,Ninh Thuận,76.25,Thành phố Phan Rang-Tháp Chàm. Ninh Sơn. Bác Ái,,,TRUE
+Nguyễn Thị Mai,,,Ninh Thuận,61.64,Thành phố Phan Rang-Tháp Chàm. Ninh Sơn. Bác Ái,,,TRUE
+Nguyễn Đình Liêu,,,Ninh Thuận,61.16,Thành phố Phan Rang-Tháp Chàm. Ninh Sơn. Bác Ái,,,TRUE
+Hồ Trọng Ngũ,,,Ninh Thuận,71.09,Ninh Hải. Ninh Phước. Thuận Bắc,,,TRUE
+Nguyễn Ngọc Minh,,,Ninh Thuận,64.12,Ninh Hải. Ninh Phước. Thuận Bắc,,,TRUE
+Đàng Thị Mỹ Hương,,,Ninh Thuận,62.61,Ninh Hải. Ninh Phước. Thuận Bắc,,,TRUE
+Nguyễn Khắc Nghiên,,,Phú Thọ,88.79,Thành phố Việt Trì. Tam Nông. Thanh Sơn. Thanh Thuỷ. Yên Lập,,,TRUE
+Phùng Văn Toàn,,,Phú Thọ,78.01,Thành phố Việt Trì. Tam Nông. Thanh Sơn. Thanh Thuỷ. Yên Lập,,,TRUE
+Hà Tuấn Hải,,,Phú Thọ,65.37,Thành phố Việt Trì. Tam Nông. Thanh Sơn. Thanh Thuỷ. Yên Lập,,,TRUE
+Vũ Xuân Hồng,,,Phú Thọ,76.43,Thị xã Phú Thọ. Đoan Hùng. Lâm Thao. Phù Ninh,,,TRUE
+Nguyễn Thị Thanh Huyền,,,Phú Thọ,62.07,Thị xã Phú Thọ. Đoan Hùng. Lâm Thao. Phù Ninh,,,TRUE
+Lê Thị Yến,,,Phú Thọ,77.42,Thanh Ba. Hạ Hoà. Cẩm Khê,,,TRUE
+Vi Trọng Lễ,,,Phú Thọ,73.21,Thanh Ba. Hạ Hoà. Cẩm Khê,,,TRUE
+Võ Tiến Trung,,,Phú Yên,75.08,Phú Hòa. Đông Hòa. Tây Hòa. Sơn Hòa. Sông Hinh,,,TRUE
+Bá Thanh Kia,,,Phú Yên,62.95,Phú Hòa. Đông Hòa. Tây Hòa. Sơn Hòa. Sông Hinh,,,TRUE
+Trần Hữu Thế,,,Phú Yên,57.89,Phú Hòa. Đông Hòa. Tây Hòa. Sơn Hòa. Sông Hinh,,,TRUE
+Trịnh Thị Nga,,,Phú Yên,73.12,Thành phố Tuy Hoà. Tuy An. Sông Cầu. Đồng Xuân,,,TRUE
+Đinh Văn Nhã,,,Phú Yên,71.5,Thành phố Tuy Hoà. Tuy An. Sông Cầu. Đồng Xuân,,,TRUE
+Võ Minh Thức,,,Phú Yên,57.92,Thành phố Tuy Hoà. Tuy An. Sông Cầu. Đồng Xuân,,,TRUE
+Lương Ngọc Bính,,,Quảng Bình,91.67,Minh Hoá. Tuyên Hoá. Quảng Trạch. Bố Trạch,,,TRUE
+Nguyễn Quốc Trị,,,Quảng Bình,90.19,Minh Hoá. Tuyên Hoá. Quảng Trạch. Bố Trạch,,,TRUE
+Nguyễn Văn Pha,,,Quảng Bình,84.66,Minh Hoá. Tuyên Hoá. Quảng Trạch. Bố Trạch,,,TRUE
+Hà Hùng Cường,,,Quảng Bình,91.06,Thành phố Đồng Hới. Quảng Ninh. Lệ Thuỷ,,,TRUE
+Nguyễn Văn Nhượng,,,Quảng Bình,75.47,Thành phố Đồng Hới. Quảng Ninh. Lệ Thuỷ,,,TRUE
+Nguyễn Thị Minh Lợi,,,Quảng Bình,75.28,Thành phố Đồng Hới. Quảng Ninh. Lệ Thuỷ,,,TRUE
+Nguyễn Quy Nhơn,,,Quảng Nam,80.38,Điện Bàn. Đại Lộc. Đông Giang. Tây Giang. Nam Giang,,,TRUE
+Nguyễn Văn Thuận,,,Quảng Nam,75.03,Điện Bàn. Đại Lộc. Đông Giang. Tây Giang. Nam Giang,,,TRUE
+Nguyễn Văn Sỹ,,,Quảng Nam,80.41,Thị xã Hội An. Duy Xuyên. Quế Sơn. Thăng Bình,,,TRUE
+Nguyễn Tiến Quân,,,Quảng Nam,73.94,Thị xã Hội An. Duy Xuyên. Quế Sơn. Thăng Bình,,,TRUE
+Ngô Văn Minh,,,Quảng Nam,73.02,Thị xã Hội An. Duy Xuyên. Quế Sơn. Thăng Bình,,,TRUE
+Vũ Thị Phương Anh,,,Quảng Nam,87.09,Thành phố Tam Kỳ. Hiệp Đức. Phước Sơn. Núi Thành. Tiên Phước. Nam Trà My. Bắc Trà My. Phú Ninh,,,TRUE
+Nguyễn Tấn Trịnh (tức Quang Nam),,,Quảng Nam,81.79,Thành phố Tam Kỳ. Hiệp Đức. Phước Sơn. Núi Thành. Tiên Phước. Nam Trà My. Bắc Trà My. Phú Ninh,,,TRUE
+Đinh Mươk,,,Quảng Nam,66.15,Thành phố Tam Kỳ. Hiệp Đức. Phước Sơn. Núi Thành. Tiên Phước. Nam Trà My. Bắc Trà My. Phú Ninh,,,TRUE
+Nguyễn Đức Hiền,,,Quảng Ngãi,87.71,Bình Sơn. Sơn Tịnh. Trà Bồng. Tây Trà. Sơn Tây. Sơn Hà,,,TRUE
+Phạm Minh Toản,,,Quảng Ngãi,87.27,Bình Sơn. Sơn Tịnh. Trà Bồng. Tây Trà. Sơn Tây. Sơn Hà,,,TRUE
+Đinh Thị Phương Lan,,,Quảng Ngãi,74.77,Bình Sơn. Sơn Tịnh. Trà Bồng. Tây Trà. Sơn Tây. Sơn Hà,,,TRUE
+Nguyễn Hồng Sơn,,,Quảng Ngãi,73.95,Thành phố Quảng Ngãi. Tư Nghĩa. Nghĩa Hành. Lý Sơn,,,TRUE
+Mã Điền Cư,,,Quảng Ngãi,67.67,Thành phố Quảng Ngãi. Tư Nghĩa. Nghĩa Hành. Lý Sơn,,,TRUE
+Võ Tuấn Nhân,,,Quảng Ngãi,72.36,Mộ Đức. Đức Phổ. Ba Tơ. Minh Long,,,TRUE
+Đinh Thị Biểu,,,Quảng Ngãi,60.72,Mộ Đức. Đức Phổ. Ba Tơ. Minh Long,,,TRUE
+Nguyễn Văn Quynh,,,Quảng Ninh,78.04,Thành phố Hạ Long. Cẩm Phả. Uông Bí,,,TRUE
+Đỗ Thị Lan,,,Quảng Ninh,60.88,Thành phố Hạ Long. Cẩm Phả. Uông Bí,,,TRUE
+Phạm Hồng Tài,,,Quảng Ninh,60.26,Thành phố Hạ Long. Cẩm Phả. Uông Bí,,,TRUE
+Nguyễn Đức Kiên,,,Quảng Ninh,72.49,Đông Triều. Yên Hưng. Hoành Bồ,,,TRUE
+Phạm Lễ Chi,,,Quảng Ninh,67.13,Đông Triều. Yên Hưng. Hoành Bồ,,,TRUE
+Ngô Thị Minh,,,Quảng Ninh,86.34,Thị xã Móng Cái. Vân Đồn. Cô Tô. Tiên Yên. Đầm Hà. Hải Hà. Bình Liêu. Ba Chẽ,,,TRUE
+Triệu Đình Sinh,,,Quảng Ninh,70.99,Thị xã Móng Cái. Vân Đồn. Cô Tô. Tiên Yên. Đầm Hà. Hải Hà. Bình Liêu. Ba Chẽ,,,TRUE
+Phạm Đức Châu,,,Quảng Trị,89.44,Vĩnh Linh. Gio Linh. Cam Lộ. Đa Krông. Hướng Hoá. Cồn Cỏ,,,TRUE
+Cao Xuân Hồng,,,Quảng Trị,86.69,Vĩnh Linh. Gio Linh. Cam Lộ. Đa Krông. Hướng Hoá. Cồn Cỏ,,,TRUE
+Ly Kiều Vân,,,Quảng Trị,61.57,Vĩnh Linh. Gio Linh. Cam Lộ. Đa Krông. Hướng Hoá. Cồn Cỏ,,,TRUE
+Lê Bá Nguyên,,,Quảng Trị,74.65,Thị xã Đông Hà. Quảng Trị. Triệu Phong. Hải Lăng,,,TRUE
+Lê Như Tiến,,,Quảng Trị,70.67,Thị xã Đông Hà. Quảng Trị. Triệu Phong. Hải Lăng,,,TRUE
+Hoàng Văn Em,,,Quảng Trị,60.53,Thị xã Đông Hà. Quảng Trị. Triệu Phong. Hải Lăng,,,TRUE
+Võ Minh Chiến,,,Sóc Trăng,77.89,Thành phố Sóc Trăng. Mỹ Tú. Thạnh Trị. Ngã Năm,,,TRUE
+Uông Chu Lưu,,,Sóc Trăng,69.17,Thành phố Sóc Trăng. Mỹ Tú. Thạnh Trị. Ngã Năm,,,TRUE
+Hứa Chu Khem,,,Sóc Trăng,66.47,Thành phố Sóc Trăng. Mỹ Tú. Thạnh Trị. Ngã Năm,,,TRUE
+Hồ Thị Cẩm Đào,,,Sóc Trăng,69.36,Kế Sách. Long Phú. Cù Lao Dung,,,TRUE
+Nguyễn Đức Kiên,,,Sóc Trăng,62.97,Kế Sách. Long Phú. Cù Lao Dung,,,TRUE
+Nguyễn Văn Thống,,,Sóc Trăng,78.11,Mỹ Xuyên. Vĩnh Châu,,,TRUE
+Thạch Kim Sêng (tức Ba Sêng),,,Sóc Trăng,69.04,Mỹ Xuyên. Vĩnh Châu,,,TRUE
+Thào Xuân Sùng,,,Sơn La,91.05,Thị xã Sơn La. Thuận Châu. Quỳnh Nhai. Mường La. Sông Mã. Sốp Cộp,,,TRUE
+Quàng Thị Xuyến,,,Sơn La,76.06,Thị xã Sơn La. Thuận Châu. Quỳnh Nhai. Mường La. Sông Mã. Sốp Cộp,,,TRUE
+Cầm Chí Kiên,,,Sơn La,73.21,Thị xã Sơn La. Thuận Châu. Quỳnh Nhai. Mường La. Sông Mã. Sốp Cộp,,,TRUE
+Nông Quốc Tuấn,,,Sơn La,88.99,Mai Sơn. Yên Châu. Mộc Châu. Phù Yên. Bắc Yên,,,TRUE
+Võ Trọng Việt,,,Sơn La,86.65,Mai Sơn. Yên Châu. Mộc Châu. Phù Yên. Bắc Yên,,,TRUE
+Phùng Đức Dinh,,,Sơn La,55.84,Mai Sơn. Yên Châu. Mộc Châu. Phù Yên. Bắc Yên,,,TRUE
+Nguyễn Thị Thu Thủy,,,Tây Ninh,74.17,Trảng Bàng. Bến Cầu. Gò Dầu. Châu Thành,,,TRUE
+Nguyễn Đình Xuân,,,Tây Ninh,64.3,Trảng Bàng. Bến Cầu. Gò Dầu. Châu Thành,,,TRUE
+Nguyễn Thành Tâm,,,Tây Ninh,57.61,Trảng Bàng. Bến Cầu. Gò Dầu. Châu Thành,,,TRUE
+Nguyễn Thị Bạch Mai,,,Tây Ninh,58.1,Thị xã Tây Ninh. Hoà Thành. Tân Biên. Tân Châu. Dương Minh Châu,,,TRUE
+Đặng Vũ Minh,,,Tây Ninh,51.46,Thị xã Tây Ninh. Hoà Thành. Tân Biên. Tân Châu. Dương Minh Châu,,,TRUE
+Nguyễn Thái Hùng,,,Thái Bình,85.34,Hưng Hà. Quỳnh Phụ. Vũ Thư,,,TRUE
+Vũ Thị Diện,,,Thái Bình,64.23,Hưng Hà. Quỳnh Phụ. Vũ Thư,,,TRUE
+Cao Sĩ Kiêm,,,Thái Bình,59.37,Hưng Hà. Quỳnh Phụ. Vũ Thư,,,TRUE
+Vũ Tiến Lộc,,,Thái Bình,82.84,Đông Hưng. Thái Thụy,,,TRUE
+Trần Văn Mừng,,,Thái Bình,76.99,Đông Hưng. Thái Thụy,,,TRUE
+Phạm Xuân Thường,,,Thái Bình,62.85,Đông Hưng. Thái Thụy,,,TRUE
+Nguyễn Hạnh Phúc,,,Thái Bình,88.97,Thành phố Thái Bình. Kiến Xương. Tiền Hải,,,TRUE
+Lê Quốc Dung,,,Thái Bình,82.86,Thành phố Thái Bình. Kiến Xương. Tiền Hải,,,TRUE
+Tạ Ngọc Tấn,,,Thái Bình,77.98,Thành phố Thái Bình. Kiến Xương. Tiền Hải,,,TRUE
+Lê Thị Nga,,,Thái Nguyên,64.52,Định Hoá. Phú Lương. Đại Từ,,,TRUE
+Đỗ Mạnh Hùng,,,Thái Nguyên,64.03,Định Hoá. Phú Lương. Đại Từ,,,TRUE
+Nông Đức Mạnh,,,Thái Nguyên,91.35,Thành phố Thái Nguyên. Võ Nhai. Đồng Hỷ,,,TRUE
+Phạm Mạnh Hùng,,,Thái Nguyên,70.88,Thành phố Thái Nguyên. Võ Nhai. Đồng Hỷ,,,TRUE
+Phan Văn Tường,,,Thái Nguyên,59.84,Thành phố Thái Nguyên. Võ Nhai. Đồng Hỷ,,,TRUE
+Nguyễn Văn Vượng,,,Thái Nguyên,78.74,Thị xã Sông Công. Phú Bình. Phổ Yên,,,TRUE
+Nguyễn Văn Thời,,,Thái Nguyên,57.94,Thị xã Sông Công. Phú Bình. Phổ Yên,,,TRUE
+Lê Quang Bình,,,Thanh Hoá,87.92,Thành phố Thanh Hoá. thị xã Sầm Sơn. Hoằng Hoá. Đông Sơn,,,TRUE
+Lê Văn Cuông,,,Thanh Hoá,83.46,Thành phố Thanh Hoá. thị xã Sầm Sơn. Hoằng Hoá. Đông Sơn,,,TRUE
+Nguyễn Thị Lý,,,Thanh Hoá,53.33,Thành phố Thanh Hoá. thị xã Sầm Sơn. Hoằng Hoá. Đông Sơn,,,TRUE
+Nguyễn Đình Phùng,,,Thanh Hoá,81.48,Thị xã Bỉm Sơn. Hà Trung. Nga Sơn. Hậu Lộc,,,TRUE
+Nguyễn Anh Liên (tức Nguyễn Lào),,,Thanh Hoá,72.93,Thị xã Bỉm Sơn. Hà Trung. Nga Sơn. Hậu Lộc,,,TRUE
+Tô Huy Rứa,,,Thanh Hoá,91.89,Quảng Xương. Nông Cống. Tĩnh Gia,,,TRUE
+Lê Hồng Sơn,,,Thanh Hoá,86.29,Quảng Xương. Nông Cống. Tĩnh Gia,,,TRUE
+Vũ Duy Hòa,,,Thanh Hoá,85.23,Quảng Xương. Nông Cống. Tĩnh Gia,,,TRUE
+Lê Ngọc Hân,,,Thanh Hoá,91.97,Vĩnh Lộc. Thiệu Hoá. Yên Định. Thạch Thành. Cẩm Thủy,,,TRUE
+Võ Hồng Phúc,,,Thanh Hoá,88.26,Vĩnh Lộc. Thiệu Hoá. Yên Định. Thạch Thành. Cẩm Thủy,,,TRUE
+Trương Văn Khoa,,,Thanh Hoá,79.82,Vĩnh Lộc. Thiệu Hoá. Yên Định. Thạch Thành. Cẩm Thủy,,,TRUE
+Nguyễn Văn Phát,,,Thanh Hoá,79.3,Triệu Sơn. Thọ Xuân. Như Xuân. Như Thanh. Thường Xuân,,,TRUE
+Dương Ngọc Ngưu,,,Thanh Hoá,78.09,Triệu Sơn. Thọ Xuân. Như Xuân. Như Thanh. Thường Xuân,,,TRUE
+Trịnh Thị Giới,,,Thanh Hoá,62.59,Triệu Sơn. Thọ Xuân. Như Xuân. Như Thanh. Thường Xuân,,,TRUE
+Đinh Tiên Phong,,,Thanh Hoá,86.78,Ngọc Lặc. Lang Chánh. Bá Thước. Quan Hoá. Quan Sơn. Mường Lát,,,TRUE
+Bùi Sỹ Lợi,,,Thanh Hoá,86.28,Ngọc Lặc. Lang Chánh. Bá Thước. Quan Hoá. Quan Sơn. Mường Lát,,,TRUE
+Phạm Thị Hoa,,,Thanh Hoá,55.41,Ngọc Lặc. Lang Chánh. Bá Thước. Quan Hoá. Quan Sơn. Mường Lát,,,TRUE
+Nguyễn Ngọc Thiện,,,Thừa Thiên-Huế,81.52,Phong Điền. Quảng Điền. Hương Trà. A Lưới,,,TRUE
+Nguyễn Thanh Toàn,,,Thừa Thiên-Huế,77.91,Phong Điền. Quảng Điền. Hương Trà. A Lưới,,,TRUE
+Nguyễn Văn Toàn,,,Thừa Thiên-Huế,79.16,Thành phố Huế. Hương Thuỷ,,,TRUE
+Nguyễn Hội (tức Hòa thượng Thích Chơn Thiện),,,Thừa Thiên-Huế,76.56,Thành phố Huế. Hương Thuỷ,,,TRUE
+Nguyễn Thị Thu Hồng,,,Thừa Thiên-Huế,69.62,Thành phố Huế. Hương Thuỷ,,,TRUE
+Phan Xuân Dũng,,,Thừa Thiên-Huế,76.9,Phú Vang. Phú Lộc. Nam Đông,,,TRUE
+Đồng Hữu Mạo,,,Thừa Thiên-Huế,68.37,Phú Vang. Phú Lộc. Nam Đông,,,TRUE
+Lê Văn Dũng (tức Nguyễn Văn Nới),,,Tiền Giang,79.82,Cái Bè. Cai Lậy,,,TRUE
+Trần Văn Tấn,,,Tiền Giang,76.59,Cái Bè. Cai Lậy,,,TRUE
+Nguyễn Thị Sáng,,,Tiền Giang,58.04,Cái Bè. Cai Lậy,,,TRUE
+Nguyễn Hữu Trí,,,Tiền Giang,74.4,Thành phố Mỹ Tho. Tân Phước. Châu Thành,,,TRUE
+Lê Dũng (tức Lê Văn Tươi),,,Tiền Giang,59.38,Thành phố Mỹ Tho. Tân Phước. Châu Thành,,,TRUE
+Nguyễn Văn Tiên,,,Tiền Giang,58.84,Thành phố Mỹ Tho. Tân Phước. Châu Thành,,,TRUE
+Nguyễn Hữu Chí,,,Tiền Giang,79.89,Thị xã Gò Công. Chợ Gạo. Gò Công Tây. Gò Công Đông,,,TRUE
+Nguyễn Hữu Hùng,,,Tiền Giang,69.49,Thị xã Gò Công. Chợ Gạo. Gò Công Tây. Gò Công Đông,,,TRUE
+Võ Thị Thuý Loan,,,Tiền Giang,52.27,Thị xã Gò Công. Chợ Gạo. Gò Công Tây. Gò Công Đông,,,TRUE
+Nguyễn Thái Bình,,,Trà Vinh,87.62,Thị xã Trà Vinh. Càng Long. Cầu Kè. Tiểu Cần,,,TRUE
+Nguyễn Thị Khá,,,Trà Vinh,72.43,Thị xã Trà Vinh. Càng Long. Cầu Kè. Tiểu Cần,,,TRUE
+Thạch Thị Dân,,,Trà Vinh,52.22,Thị xã Trà Vinh. Càng Long. Cầu Kè. Tiểu Cần,,,TRUE
+Huỳnh Phước Long,,,Trà Vinh,78.5,Trà Cú. Duyên Hải. Châu Thành. Cầu Ngang,,,TRUE
+Dương Kim Anh,,,Trà Vinh,74.46,Trà Cú. Duyên Hải. Châu Thành. Cầu Ngang,,,TRUE
+Sơn Tám,,,Trà Vinh,56.17,Trà Cú. Duyên Hải. Châu Thành. Cầu Ngang,,,TRUE
+Phan Thị Mỹ Bình,,,Tuyên Quang,72.26,Thị xã Tuyên Quang. Na Hang. Chiêm Hoá. Hàm Yên,,,TRUE
+Nguyễn Sáng Vang,,,Tuyên Quang,71.53,Thị xã Tuyên Quang. Na Hang. Chiêm Hoá. Hàm Yên,,,TRUE
+Đinh Thế Huynh,,,Tuyên Quang,70.15,Thị xã Tuyên Quang. Na Hang. Chiêm Hoá. Hàm Yên,,,TRUE
+Hà Thị Khích (tức Hà Thị Khiết),,,Tuyên Quang,73.85,Yên Sơn. Sơn Dương,,,TRUE
+Nguyễn Văn Sơn,,,Tuyên Quang,70.78,Yên Sơn. Sơn Dương,,,TRUE
+Trương Xuân Quý,,,Tuyên Quang,64.59,Yên Sơn. Sơn Dương,,,TRUE
+Phan Đức Hưởng,,,Vĩnh Long,69.52,Thị xã Vĩnh Long. Long Hồ. Tam Bình. Mang Thít,,,TRUE
+Võ Văn Thưởng,,,Vĩnh Long,66.73,Thị xã Vĩnh Long. Long Hồ. Tam Bình. Mang Thít,,,TRUE
+Lê Văn Điệt,,,Vĩnh Long,60.04,Thị xã Vĩnh Long. Long Hồ. Tam Bình. Mang Thít,,,TRUE
+Võ Văn Liêm (tức Bảy Liêm),,,Vĩnh Long,78.32,Bình Minh. Trà Ôn. Vũng Liêm,,,TRUE
+Trần Văn Kiệt,,,Vĩnh Long,68.73,Bình Minh. Trà Ôn. Vũng Liêm,,,TRUE
+Hồ Thị Thu Hằng,,,Vĩnh Long,54.38,Bình Minh. Trà Ôn. Vũng Liêm,,,TRUE
+Ngô Văn Dụ,,,Vĩnh Phúc,89.88,Lập Thạch. Tam Dương. Tam Đảo,,,TRUE
+Lưu Thị Chi Lan,,,Vĩnh Phúc,65.96,Lập Thạch. Tam Dương. Tam Đảo,,,TRUE
+Trịnh Đình Dũng,,,Vĩnh Phúc,88.95,Thành phố Vĩnh Yên. thị xã Phúc Yên. Bình Xuyên. Mê Linh,,,TRUE
+Lê Thị Nguyệt,,,Vĩnh Phúc,79.41,Thành phố Vĩnh Yên. thị xã Phúc Yên. Bình Xuyên. Mê Linh,,,TRUE
+Trần Hanh (tức Trần Huy Hanh),,,Vĩnh Phúc,75.77,Thành phố Vĩnh Yên. thị xã Phúc Yên. Bình Xuyên. Mê Linh,,,TRUE
+Nguyễn Xuân Thuyết,,,Vĩnh Phúc,77.96,Yên Lạc. Vĩnh Tường,,,TRUE
+Hoàng Văn Toàn,,,Vĩnh Phúc,66.11,Yên Lạc. Vĩnh Tường,,,TRUE
+Phùng Quốc Hiển,,,Yên Bái,87.12,Thành phố Yên Bái. Yên Bình. Văn Yên. Lục Yên,,,TRUE
+Sùng Thị Chư,,,Yên Bái,84.27,Thành phố Yên Bái. Yên Bình. Văn Yên. Lục Yên,,,TRUE
+Nguyễn Văn Tuyết,,,Yên Bái,77.55,Thành phố Yên Bái. Yên Bình. Văn Yên. Lục Yên,,,TRUE
+Giàng A Chu,,,Yên Bái,85.23,Thị xã Nghĩa Lộ. Văn Chấn. Trạm Tấu. Mù Cang Chải. Trấn Yên,,,TRUE
+Hoàng Thương Lượng,,,Yên Bái,84.44,Thị xã Nghĩa Lộ. Văn Chấn. Trạm Tấu. Mù Cang Chải. Trấn Yên,,,TRUE
+Triệu Thị Bình,,,Yên Bái,74.56,Thị xã Nghĩa Lộ. Văn Chấn. Trạm Tấu. Mù Cang Chải. Trấn Yên,,,TRUE
