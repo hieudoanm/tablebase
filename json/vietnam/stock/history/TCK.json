@@ -1,202 +1,202 @@
 [
     {
-        "open": "6",
-        "close": "6",
         "volume": "500",
-        "symbol": "TCK",
-        "timestamp": "1526947200",
-        "low": "6",
         "date": "2018-05-22",
-        "high": "6"
-    },
-    {
+        "symbol": "TCK",
+        "high": "6",
+        "timestamp": "1526947200",
         "open": "6",
-        "close": "6",
-        "volume": "800",
-        "symbol": "TCK",
-        "timestamp": "1527724800",
         "low": "6",
+        "close": "6"
+    },
+    {
+        "volume": "800",
         "date": "2018-05-31",
-        "high": "6"
+        "symbol": "TCK",
+        "high": "6",
+        "timestamp": "1527724800",
+        "open": "6",
+        "low": "6",
+        "close": "6"
     },
     {
-        "open": "5.1",
-        "close": "5.1",
         "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1528329600",
-        "low": "5.1",
         "date": "2018-06-07",
-        "high": "5.1"
+        "symbol": "TCK",
+        "high": "5.1",
+        "timestamp": "1528329600",
+        "open": "5.1",
+        "low": "5.1",
+        "close": "5.1"
     },
     {
-        "open": "4.4",
-        "close": "5.1",
         "volume": "1100",
-        "symbol": "TCK",
-        "timestamp": "1528416000",
-        "low": "4.4",
         "date": "2018-06-08",
-        "high": "5.1"
+        "symbol": "TCK",
+        "high": "5.1",
+        "timestamp": "1528416000",
+        "open": "4.4",
+        "low": "4.4",
+        "close": "5.1"
     },
     {
-        "open": "4.3",
-        "close": "4.3",
         "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1528675200",
-        "low": "4.3",
         "date": "2018-06-11",
-        "high": "4.3"
+        "symbol": "TCK",
+        "high": "4.3",
+        "timestamp": "1528675200",
+        "open": "4.3",
+        "low": "4.3",
+        "close": "4.3"
     },
     {
-        "open": "3.7",
-        "close": "3.7",
         "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1528761600",
-        "low": "3.7",
         "date": "2018-06-12",
-        "high": "3.7"
+        "symbol": "TCK",
+        "high": "3.7",
+        "timestamp": "1528761600",
+        "open": "3.7",
+        "low": "3.7",
+        "close": "3.7"
     },
     {
-        "open": "3.2",
-        "close": "3.2",
         "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1528934400",
-        "low": "3.2",
         "date": "2018-06-14",
-        "high": "3.2"
-    },
-    {
-        "open": "2.8",
-        "close": "2.8",
-        "volume": "100",
         "symbol": "TCK",
-        "timestamp": "1529280000",
-        "low": "2.8",
-        "date": "2018-06-18",
-        "high": "2.8"
-    },
-    {
+        "high": "3.2",
+        "timestamp": "1528934400",
         "open": "3.2",
-        "close": "3.2",
-        "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1533686400",
         "low": "3.2",
-        "date": "2018-08-08",
-        "high": "3.2"
+        "close": "3.2"
     },
     {
-        "open": "3.6",
-        "close": "3.6",
-        "volume": "900",
-        "symbol": "TCK",
-        "timestamp": "1534809600",
-        "low": "3.6",
-        "date": "2018-08-21",
-        "high": "3.6"
-    },
-    {
-        "open": "4.1",
-        "close": "4.1",
         "volume": "100",
+        "date": "2018-06-18",
         "symbol": "TCK",
-        "timestamp": "1534896000",
-        "low": "4.1",
-        "date": "2018-08-22",
-        "high": "4.1"
-    },
-    {
-        "open": "4.7",
-        "close": "4.7",
-        "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1534982400",
-        "low": "4.7",
-        "date": "2018-08-23",
-        "high": "4.7"
-    },
-    {
-        "open": "5.4",
-        "close": "5.4",
-        "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1535068800",
-        "low": "5.4",
-        "date": "2018-08-24",
-        "high": "5.4"
-    },
-    {
-        "open": "5.8",
-        "close": "5.8",
-        "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1535328000",
-        "low": "5.8",
-        "date": "2018-08-27",
-        "high": "5.8"
-    },
-    {
-        "open": "6.1",
-        "close": "6.1",
-        "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1535414400",
-        "low": "6.1",
-        "date": "2018-08-28",
-        "high": "6.1"
-    },
-    {
-        "open": "6.2",
-        "close": "6.2",
-        "volume": "100",
-        "symbol": "TCK",
-        "timestamp": "1535500800",
-        "low": "6.2",
-        "date": "2018-08-29",
-        "high": "6.2"
-    },
-    {
-        "open": "5.4",
-        "close": "5.4",
-        "volume": "200",
-        "symbol": "TCK",
-        "timestamp": "1536105600",
-        "low": "5.4",
-        "date": "2018-09-05",
-        "high": "5.4"
-    },
-    {
-        "open": "4.6",
-        "close": "4.6",
-        "volume": "300",
-        "symbol": "TCK",
-        "timestamp": "1536710400",
-        "low": "4.6",
-        "date": "2018-09-12",
-        "high": "4.6"
-    },
-    {
+        "high": "2.8",
+        "timestamp": "1529280000",
         "open": "2.8",
-        "close": "2.8",
-        "volume": "2000",
-        "symbol": "TCK",
-        "timestamp": "1589500800",
         "low": "2.8",
-        "date": "2020-05-15",
-        "high": "2.8"
+        "close": "2.8"
     },
     {
-        "open": "3.9",
-        "close": "3.9",
         "volume": "100",
+        "date": "2018-08-08",
         "symbol": "TCK",
-        "timestamp": "1612483200",
-        "low": "3.9",
+        "high": "3.2",
+        "timestamp": "1533686400",
+        "open": "3.2",
+        "low": "3.2",
+        "close": "3.2"
+    },
+    {
+        "volume": "900",
+        "date": "2018-08-21",
+        "symbol": "TCK",
+        "high": "3.6",
+        "timestamp": "1534809600",
+        "open": "3.6",
+        "low": "3.6",
+        "close": "3.6"
+    },
+    {
+        "volume": "100",
+        "date": "2018-08-22",
+        "symbol": "TCK",
+        "high": "4.1",
+        "timestamp": "1534896000",
+        "open": "4.1",
+        "low": "4.1",
+        "close": "4.1"
+    },
+    {
+        "volume": "100",
+        "date": "2018-08-23",
+        "symbol": "TCK",
+        "high": "4.7",
+        "timestamp": "1534982400",
+        "open": "4.7",
+        "low": "4.7",
+        "close": "4.7"
+    },
+    {
+        "volume": "100",
+        "date": "2018-08-24",
+        "symbol": "TCK",
+        "high": "5.4",
+        "timestamp": "1535068800",
+        "open": "5.4",
+        "low": "5.4",
+        "close": "5.4"
+    },
+    {
+        "volume": "100",
+        "date": "2018-08-27",
+        "symbol": "TCK",
+        "high": "5.8",
+        "timestamp": "1535328000",
+        "open": "5.8",
+        "low": "5.8",
+        "close": "5.8"
+    },
+    {
+        "volume": "100",
+        "date": "2018-08-28",
+        "symbol": "TCK",
+        "high": "6.1",
+        "timestamp": "1535414400",
+        "open": "6.1",
+        "low": "6.1",
+        "close": "6.1"
+    },
+    {
+        "volume": "100",
+        "date": "2018-08-29",
+        "symbol": "TCK",
+        "high": "6.2",
+        "timestamp": "1535500800",
+        "open": "6.2",
+        "low": "6.2",
+        "close": "6.2"
+    },
+    {
+        "volume": "200",
+        "date": "2018-09-05",
+        "symbol": "TCK",
+        "high": "5.4",
+        "timestamp": "1536105600",
+        "open": "5.4",
+        "low": "5.4",
+        "close": "5.4"
+    },
+    {
+        "volume": "300",
+        "date": "2018-09-12",
+        "symbol": "TCK",
+        "high": "4.6",
+        "timestamp": "1536710400",
+        "open": "4.6",
+        "low": "4.6",
+        "close": "4.6"
+    },
+    {
+        "volume": "2000",
+        "date": "2020-05-15",
+        "symbol": "TCK",
+        "high": "2.8",
+        "timestamp": "1589500800",
+        "open": "2.8",
+        "low": "2.8",
+        "close": "2.8"
+    },
+    {
+        "volume": "100",
         "date": "2021-02-05",
-        "high": "3.9"
+        "symbol": "TCK",
+        "high": "3.9",
+        "timestamp": "1612483200",
+        "open": "3.9",
+        "low": "3.9",
+        "close": "3.9"
     }
 ]

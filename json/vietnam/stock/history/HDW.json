@@ -1,2522 +1,2552 @@
 [
     {
-        "open": "8.1",
-        "close": "10.5",
-        "date": "2017-11-03",
         "volume": "2700",
+        "date": "2017-11-03",
         "symbol": "HDW",
+        "high": "10.5",
         "timestamp": "1509667200",
+        "open": "8.1",
         "low": "8.1",
-        "high": "10.5"
+        "close": "10.5"
     },
     {
-        "open": "7.12",
-        "close": "8.25",
+        "volume": "2100",
         "date": "2017-11-06",
-        "volume": "2100",
         "symbol": "HDW",
+        "high": "8.25",
         "timestamp": "1509926400",
+        "open": "7.12",
         "low": "7.12",
-        "high": "8.25"
+        "close": "8.25"
     },
     {
-        "open": "7.87",
-        "close": "7.87",
+        "volume": "3100",
         "date": "2017-11-07",
-        "volume": "3100",
         "symbol": "HDW",
+        "high": "7.87",
         "timestamp": "1510012800",
+        "open": "7.87",
         "low": "7.5",
-        "high": "7.87"
+        "close": "7.87"
     },
     {
-        "open": "7.5",
-        "close": "7.5",
+        "volume": "1100",
         "date": "2017-11-09",
-        "volume": "1100",
         "symbol": "HDW",
+        "high": "7.5",
         "timestamp": "1510185600",
+        "open": "7.5",
         "low": "7.5",
-        "high": "7.5"
+        "close": "7.5"
     },
     {
-        "open": "6.75",
-        "close": "6.75",
+        "volume": "1000",
         "date": "2017-11-10",
-        "volume": "1000",
         "symbol": "HDW",
+        "high": "6.75",
         "timestamp": "1510272000",
+        "open": "6.75",
         "low": "6.75",
-        "high": "6.75"
+        "close": "6.75"
     },
     {
-        "open": "6.37",
-        "close": "6",
+        "volume": "3200",
         "date": "2017-11-13",
-        "volume": "3200",
         "symbol": "HDW",
+        "high": "6.37",
         "timestamp": "1510531200",
-        "low": "6",
-        "high": "6.37"
-    },
-    {
-        "open": "5.25",
-        "close": "5.25",
-        "date": "2017-11-14",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1510617600",
-        "low": "5.25",
-        "high": "5.25"
-    },
-    {
-        "open": "5.47",
-        "close": "5.47",
-        "date": "2017-11-15",
-        "volume": "1600",
-        "symbol": "HDW",
-        "timestamp": "1510704000",
-        "low": "5.47",
-        "high": "5.47"
-    },
-    {
-        "open": "4.95",
-        "close": "4.95",
-        "date": "2017-11-27",
-        "volume": "3000",
-        "symbol": "HDW",
-        "timestamp": "1511740800",
-        "low": "4.95",
-        "high": "4.95"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2017-11-28",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1511827200",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.62",
-        "close": "6",
-        "date": "2017-12-04",
-        "volume": "700",
-        "symbol": "HDW",
-        "timestamp": "1512345600",
-        "low": "5.62",
-        "high": "6"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2017-12-06",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1512518400",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2017-12-08",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1512691200",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.25",
-        "close": "5.25",
-        "date": "2017-12-25",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1514160000",
-        "low": "5.25",
-        "high": "5.25"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2017-12-28",
-        "volume": "900",
-        "symbol": "HDW",
-        "timestamp": "1514419200",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "6",
-        "close": "6",
-        "date": "2018-01-11",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1515628800",
-        "low": "6",
-        "high": "6"
-    },
-    {
-        "open": "6",
-        "close": "6",
-        "date": "2018-03-30",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1522368000",
-        "low": "6",
-        "high": "6"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2018-04-05",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1522886400",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2018-04-10",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1523318400",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2018-04-16",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1523836800",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2018-04-20",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1524182400",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.62",
-        "close": "5.62",
-        "date": "2018-05-03",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1525305600",
-        "low": "5.62",
-        "high": "5.62"
-    },
-    {
-        "open": "5.77",
-        "close": "6",
-        "date": "2018-05-04",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1525392000",
-        "low": "5.77",
-        "high": "6"
-    },
-    {
-        "open": "5.62",
-        "close": "5.85",
-        "date": "2018-05-07",
-        "volume": "400",
-        "symbol": "HDW",
-        "timestamp": "1525651200",
-        "low": "5.62",
-        "high": "5.85"
-    },
-    {
-        "open": "6",
-        "close": "6",
-        "date": "2018-05-09",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1525824000",
-        "low": "6",
-        "high": "6"
-    },
-    {
-        "open": "6",
-        "close": "6",
-        "date": "2018-05-15",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1526342400",
-        "low": "6",
-        "high": "6"
-    },
-    {
         "open": "6.37",
-        "close": "6.37",
+        "low": "6",
+        "close": "6"
+    },
+    {
+        "volume": "1000",
+        "date": "2017-11-14",
+        "symbol": "HDW",
+        "high": "5.25",
+        "timestamp": "1510617600",
+        "open": "5.25",
+        "low": "5.25",
+        "close": "5.25"
+    },
+    {
+        "volume": "1600",
+        "date": "2017-11-15",
+        "symbol": "HDW",
+        "high": "5.47",
+        "timestamp": "1510704000",
+        "open": "5.47",
+        "low": "5.47",
+        "close": "5.47"
+    },
+    {
+        "volume": "3000",
+        "date": "2017-11-27",
+        "symbol": "HDW",
+        "high": "4.95",
+        "timestamp": "1511740800",
+        "open": "4.95",
+        "low": "4.95",
+        "close": "4.95"
+    },
+    {
+        "volume": "100",
+        "date": "2017-11-28",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1511827200",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "700",
+        "date": "2017-12-04",
+        "symbol": "HDW",
+        "high": "6",
+        "timestamp": "1512345600",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "6"
+    },
+    {
+        "volume": "300",
+        "date": "2017-12-06",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1512518400",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "1000",
+        "date": "2017-12-08",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1512691200",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "100",
+        "date": "2017-12-25",
+        "symbol": "HDW",
+        "high": "5.25",
+        "timestamp": "1514160000",
+        "open": "5.25",
+        "low": "5.25",
+        "close": "5.25"
+    },
+    {
+        "volume": "900",
+        "date": "2017-12-28",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1514419200",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "1000",
+        "date": "2018-01-11",
+        "symbol": "HDW",
+        "high": "6",
+        "timestamp": "1515628800",
+        "open": "6",
+        "low": "6",
+        "close": "6"
+    },
+    {
+        "volume": "300",
+        "date": "2018-03-30",
+        "symbol": "HDW",
+        "high": "6",
+        "timestamp": "1522368000",
+        "open": "6",
+        "low": "6",
+        "close": "6"
+    },
+    {
+        "volume": "100",
+        "date": "2018-04-05",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1522886400",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "1000",
+        "date": "2018-04-10",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1523318400",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "100",
+        "date": "2018-04-16",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1523836800",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "300",
+        "date": "2018-04-20",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1524182400",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "100",
+        "date": "2018-05-03",
+        "symbol": "HDW",
+        "high": "5.62",
+        "timestamp": "1525305600",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.62"
+    },
+    {
+        "volume": "500",
+        "date": "2018-05-04",
+        "symbol": "HDW",
+        "high": "6",
+        "timestamp": "1525392000",
+        "open": "5.77",
+        "low": "5.77",
+        "close": "6"
+    },
+    {
+        "volume": "400",
+        "date": "2018-05-07",
+        "symbol": "HDW",
+        "high": "5.85",
+        "timestamp": "1525651200",
+        "open": "5.62",
+        "low": "5.62",
+        "close": "5.85"
+    },
+    {
+        "volume": "500",
+        "date": "2018-05-09",
+        "symbol": "HDW",
+        "high": "6",
+        "timestamp": "1525824000",
+        "open": "6",
+        "low": "6",
+        "close": "6"
+    },
+    {
+        "volume": "1000",
+        "date": "2018-05-15",
+        "symbol": "HDW",
+        "high": "6",
+        "timestamp": "1526342400",
+        "open": "6",
+        "low": "6",
+        "close": "6"
+    },
+    {
+        "volume": "1000",
         "date": "2018-05-24",
-        "volume": "1000",
         "symbol": "HDW",
+        "high": "6.37",
         "timestamp": "1527120000",
+        "open": "6.37",
         "low": "6.37",
-        "high": "6.37"
+        "close": "6.37"
     },
     {
-        "open": "6.75",
-        "close": "6.75",
+        "volume": "1000",
         "date": "2018-05-25",
-        "volume": "1000",
         "symbol": "HDW",
+        "high": "6.75",
         "timestamp": "1527206400",
-        "low": "6.75",
-        "high": "6.75"
-    },
-    {
         "open": "6.75",
-        "close": "7.12",
-        "date": "2018-05-29",
-        "volume": "950",
-        "symbol": "HDW",
-        "timestamp": "1527552000",
         "low": "6.75",
-        "high": "7.12"
+        "close": "6.75"
     },
     {
-        "open": "7.13",
-        "close": "7.13",
+        "volume": "950",
+        "date": "2018-05-29",
+        "symbol": "HDW",
+        "high": "7.12",
+        "timestamp": "1527552000",
+        "open": "6.75",
+        "low": "6.75",
+        "close": "7.12"
+    },
+    {
+        "volume": "100",
         "date": "2018-05-30",
-        "volume": "100",
         "symbol": "HDW",
+        "high": "7.13",
         "timestamp": "1527638400",
-        "low": "7.13",
-        "high": "7.13"
-    },
-    {
         "open": "7.13",
-        "close": "7.13",
-        "date": "2018-06-04",
-        "volume": "800",
-        "symbol": "HDW",
-        "timestamp": "1528070400",
         "low": "7.13",
-        "high": "7.13"
+        "close": "7.13"
     },
     {
-        "open": "7.52",
-        "close": "7.52",
+        "volume": "800",
+        "date": "2018-06-04",
+        "symbol": "HDW",
+        "high": "7.13",
+        "timestamp": "1528070400",
+        "open": "7.13",
+        "low": "7.13",
+        "close": "7.13"
+    },
+    {
+        "volume": "1000",
         "date": "2018-06-07",
-        "volume": "1000",
         "symbol": "HDW",
+        "high": "7.52",
         "timestamp": "1528329600",
+        "open": "7.52",
         "low": "7.52",
-        "high": "7.52"
+        "close": "7.52"
     },
     {
-        "open": "7.52",
-        "close": "8.63",
-        "date": "2018-06-15",
         "volume": "1264",
+        "date": "2018-06-15",
         "symbol": "HDW",
+        "high": "8.63",
         "timestamp": "1529020800",
+        "open": "7.52",
         "low": "7.52",
-        "high": "8.63"
+        "close": "8.63"
     },
     {
-        "open": "7.52",
-        "close": "7.52",
-        "date": "2018-06-20",
         "volume": "1979",
+        "date": "2018-06-20",
         "symbol": "HDW",
+        "high": "7.52",
         "timestamp": "1529452800",
+        "open": "7.52",
         "low": "7.52",
-        "high": "7.52"
+        "close": "7.52"
     },
     {
-        "open": "7.92",
-        "close": "7.92",
+        "volume": "900",
         "date": "2018-06-26",
-        "volume": "900",
         "symbol": "HDW",
+        "high": "7.92",
         "timestamp": "1529971200",
+        "open": "7.92",
         "low": "7.92",
-        "high": "7.92"
+        "close": "7.92"
     },
     {
-        "open": "7.52",
-        "close": "7.52",
+        "volume": "400",
         "date": "2018-06-29",
-        "volume": "400",
         "symbol": "HDW",
+        "high": "7.52",
         "timestamp": "1530230400",
+        "open": "7.52",
         "low": "7.52",
-        "high": "7.52"
+        "close": "7.52"
     },
     {
-        "open": "7.52",
-        "close": "7.52",
+        "volume": "2000",
         "date": "2018-07-02",
-        "volume": "2000",
         "symbol": "HDW",
+        "high": "7.52",
         "timestamp": "1530489600",
+        "open": "7.52",
         "low": "7.52",
-        "high": "7.52"
+        "close": "7.52"
     },
     {
-        "open": "7.52",
-        "close": "7.52",
-        "date": "2018-07-06",
         "volume": "3600",
+        "date": "2018-07-06",
         "symbol": "HDW",
+        "high": "7.52",
         "timestamp": "1530835200",
+        "open": "7.52",
         "low": "7.52",
-        "high": "7.52"
+        "close": "7.52"
     },
     {
-        "open": "7.52",
-        "close": "7.52",
+        "volume": "3000",
         "date": "2018-07-10",
-        "volume": "3000",
         "symbol": "HDW",
+        "high": "7.52",
         "timestamp": "1531180800",
+        "open": "7.52",
         "low": "7.52",
-        "high": "7.52"
+        "close": "7.52"
     },
     {
-        "open": "7.52",
-        "close": "7.52",
-        "date": "2018-07-11",
         "volume": "250",
+        "date": "2018-07-11",
         "symbol": "HDW",
+        "high": "7.52",
         "timestamp": "1531267200",
-        "low": "7.52",
-        "high": "7.52"
-    },
-    {
-        "open": "7.84",
-        "close": "7.84",
-        "date": "2018-07-16",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1531699200",
-        "low": "7.84",
-        "high": "7.84"
-    },
-    {
         "open": "7.52",
-        "close": "7.52",
-        "date": "2018-07-17",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1531785600",
         "low": "7.52",
-        "high": "7.52"
+        "close": "7.52"
     },
     {
-        "open": "7.68",
-        "close": "7.68",
-        "date": "2018-07-27",
+        "volume": "500",
+        "date": "2018-07-16",
+        "symbol": "HDW",
+        "high": "7.84",
+        "timestamp": "1531699200",
+        "open": "7.84",
+        "low": "7.84",
+        "close": "7.84"
+    },
+    {
+        "volume": "100",
+        "date": "2018-07-17",
+        "symbol": "HDW",
+        "high": "7.52",
+        "timestamp": "1531785600",
+        "open": "7.52",
+        "low": "7.52",
+        "close": "7.52"
+    },
+    {
         "volume": "1009",
+        "date": "2018-07-27",
         "symbol": "HDW",
+        "high": "7.68",
         "timestamp": "1532649600",
+        "open": "7.68",
         "low": "7.68",
-        "high": "7.68"
+        "close": "7.68"
     },
     {
-        "open": "7.68",
-        "close": "7.76",
-        "date": "2018-07-31",
         "volume": "3402",
+        "date": "2018-07-31",
         "symbol": "HDW",
+        "high": "7.76",
         "timestamp": "1532995200",
-        "low": "7.68",
-        "high": "7.76"
-    },
-    {
         "open": "7.68",
-        "close": "7.68",
-        "date": "2018-08-01",
-        "volume": "553",
-        "symbol": "HDW",
-        "timestamp": "1533081600",
         "low": "7.68",
-        "high": "7.68"
+        "close": "7.76"
     },
     {
-        "open": "7.76",
-        "close": "7.76",
+        "volume": "553",
+        "date": "2018-08-01",
+        "symbol": "HDW",
+        "high": "7.68",
+        "timestamp": "1533081600",
+        "open": "7.68",
+        "low": "7.68",
+        "close": "7.68"
+    },
+    {
+        "volume": "500",
         "date": "2018-08-06",
-        "volume": "500",
         "symbol": "HDW",
+        "high": "7.76",
         "timestamp": "1533513600",
+        "open": "7.76",
         "low": "7.76",
-        "high": "7.76"
+        "close": "7.76"
     },
     {
-        "open": "7.6",
-        "close": "7.6",
+        "volume": "100",
         "date": "2018-08-07",
-        "volume": "100",
         "symbol": "HDW",
+        "high": "7.6",
         "timestamp": "1533600000",
+        "open": "7.6",
         "low": "7.6",
-        "high": "7.6"
+        "close": "7.6"
     },
     {
-        "open": "7.44",
-        "close": "7.44",
+        "volume": "100",
         "date": "2018-08-13",
-        "volume": "100",
         "symbol": "HDW",
+        "high": "7.44",
         "timestamp": "1534118400",
-        "low": "7.44",
-        "high": "7.44"
-    },
-    {
         "open": "7.44",
-        "close": "7.44",
-        "date": "2018-10-01",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1538352000",
         "low": "7.44",
-        "high": "7.44"
+        "close": "7.44"
     },
     {
-        "open": "9.5",
-        "close": "9.66",
+        "volume": "1000",
+        "date": "2018-10-01",
+        "symbol": "HDW",
+        "high": "7.44",
+        "timestamp": "1538352000",
+        "open": "7.44",
+        "low": "7.44",
+        "close": "7.44"
+    },
+    {
+        "volume": "500",
         "date": "2018-12-07",
-        "volume": "500",
         "symbol": "HDW",
+        "high": "9.66",
         "timestamp": "1544140800",
+        "open": "9.5",
         "low": "9.5",
-        "high": "9.66"
+        "close": "9.66"
     },
     {
-        "open": "5.94",
-        "close": "5.94",
+        "volume": "3300",
         "date": "2019-01-18",
-        "volume": "3300",
         "symbol": "HDW",
+        "high": "5.94",
         "timestamp": "1547769600",
+        "open": "5.94",
         "low": "5.94",
-        "high": "5.94"
+        "close": "5.94"
     },
     {
-        "open": "6.81",
-        "close": "6.81",
+        "volume": "2600",
         "date": "2019-02-26",
-        "volume": "2600",
         "symbol": "HDW",
+        "high": "6.81",
         "timestamp": "1551139200",
+        "open": "6.81",
         "low": "6.81",
-        "high": "6.81"
+        "close": "6.81"
     },
     {
-        "open": "7.76",
-        "close": "7.76",
+        "volume": "100",
         "date": "2019-02-28",
-        "volume": "100",
         "symbol": "HDW",
+        "high": "7.76",
         "timestamp": "1551312000",
-        "low": "7.76",
-        "high": "7.76"
-    },
-    {
         "open": "7.76",
-        "close": "7.76",
-        "date": "2019-03-04",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1551657600",
         "low": "7.76",
-        "high": "7.76"
+        "close": "7.76"
     },
     {
-        "open": "8.87",
-        "close": "8.87",
-        "date": "2019-03-05",
+        "volume": "100",
+        "date": "2019-03-04",
+        "symbol": "HDW",
+        "high": "7.76",
+        "timestamp": "1551657600",
+        "open": "7.76",
+        "low": "7.76",
+        "close": "7.76"
+    },
+    {
         "volume": "3200",
+        "date": "2019-03-05",
         "symbol": "HDW",
+        "high": "8.87",
         "timestamp": "1551744000",
+        "open": "8.87",
         "low": "8.87",
-        "high": "8.87"
+        "close": "8.87"
     },
     {
-        "open": "8.71",
-        "close": "8.71",
+        "volume": "1000",
         "date": "2019-03-18",
-        "volume": "1000",
         "symbol": "HDW",
+        "high": "8.71",
         "timestamp": "1552867200",
+        "open": "8.71",
         "low": "8.71",
-        "high": "8.71"
+        "close": "8.71"
     },
     {
-        "open": "9.5",
-        "close": "9.5",
+        "volume": "100",
         "date": "2019-05-23",
-        "volume": "100",
         "symbol": "HDW",
+        "high": "9.5",
         "timestamp": "1558569600",
+        "open": "9.5",
         "low": "9.5",
-        "high": "9.5"
+        "close": "9.5"
     },
     {
-        "open": "8.39",
-        "close": "8.39",
+        "volume": "2000",
         "date": "2019-05-27",
-        "volume": "2000",
         "symbol": "HDW",
+        "high": "8.39",
         "timestamp": "1558915200",
+        "open": "8.39",
         "low": "8.39",
-        "high": "8.39"
+        "close": "8.39"
     },
     {
-        "open": "9.74",
-        "close": "9.74",
+        "volume": "1000",
         "date": "2019-07-23",
-        "volume": "1000",
         "symbol": "HDW",
+        "high": "9.74",
         "timestamp": "1563840000",
+        "open": "9.74",
         "low": "9.74",
-        "high": "9.74"
+        "close": "9.74"
     },
     {
-        "open": "9.5",
-        "close": "9.5",
+        "volume": "500",
         "date": "2019-07-30",
-        "volume": "500",
         "symbol": "HDW",
+        "high": "9.5",
         "timestamp": "1564444800",
+        "open": "9.5",
         "low": "9.5",
-        "high": "9.5"
+        "close": "9.5"
     },
     {
-        "open": "9.5",
-        "close": "9.5",
+        "volume": "500",
         "date": "2019-08-05",
-        "volume": "500",
         "symbol": "HDW",
+        "high": "9.5",
         "timestamp": "1564963200",
-        "low": "9.5",
-        "high": "9.5"
-    },
-    {
         "open": "9.5",
-        "close": "9.5",
-        "date": "2019-08-07",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1565136000",
         "low": "9.5",
-        "high": "9.5"
+        "close": "9.5"
     },
     {
-        "open": "9.65",
-        "close": "9.65",
+        "volume": "100",
+        "date": "2019-08-07",
+        "symbol": "HDW",
+        "high": "9.5",
+        "timestamp": "1565136000",
+        "open": "9.5",
+        "low": "9.5",
+        "close": "9.5"
+    },
+    {
+        "volume": "200",
         "date": "2019-08-12",
-        "volume": "200",
         "symbol": "HDW",
+        "high": "9.65",
         "timestamp": "1565568000",
-        "low": "9.65",
-        "high": "9.65"
-    },
-    {
-        "open": "10.32",
-        "close": "10.32",
-        "date": "2019-08-13",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1565654400",
-        "low": "10.32",
-        "high": "10.32"
-    },
-    {
-        "open": "10.07",
-        "close": "10.07",
-        "date": "2019-08-14",
-        "volume": "1400",
-        "symbol": "HDW",
-        "timestamp": "1565740800",
-        "low": "10.07",
-        "high": "10.07"
-    },
-    {
-        "open": "10.07",
-        "close": "10.07",
-        "date": "2019-08-23",
-        "volume": "1100",
-        "symbol": "HDW",
-        "timestamp": "1566518400",
-        "low": "10.07",
-        "high": "10.07"
-    },
-    {
-        "open": "10.24",
-        "close": "10.24",
-        "date": "2019-08-30",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1567123200",
-        "low": "10.24",
-        "high": "10.24"
-    },
-    {
-        "open": "10.49",
-        "close": "10.49",
-        "date": "2019-09-04",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1567555200",
-        "low": "10.49",
-        "high": "10.49"
-    },
-    {
-        "open": "10.57",
-        "close": "10.57",
-        "date": "2019-09-05",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1567641600",
-        "low": "10.57",
-        "high": "10.57"
-    },
-    {
-        "open": "10.57",
-        "close": "10.57",
-        "date": "2019-09-11",
-        "volume": "1500",
-        "symbol": "HDW",
-        "timestamp": "1568160000",
-        "low": "10.57",
-        "high": "10.57"
-    },
-    {
-        "open": "10.49",
-        "close": "10.57",
-        "date": "2019-09-16",
-        "volume": "2600",
-        "symbol": "HDW",
-        "timestamp": "1568592000",
-        "low": "10.49",
-        "high": "10.57"
-    },
-    {
-        "open": "10.24",
-        "close": "10.24",
-        "date": "2019-09-19",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1568851200",
-        "low": "10.24",
-        "high": "10.24"
-    },
-    {
-        "open": "10.57",
-        "close": "10.57",
-        "date": "2019-09-20",
-        "volume": "2000",
-        "symbol": "HDW",
-        "timestamp": "1568937600",
-        "low": "10.57",
-        "high": "10.57"
-    },
-    {
-        "open": "10.15",
-        "close": "10.15",
-        "date": "2019-09-23",
-        "volume": "1400",
-        "symbol": "HDW",
-        "timestamp": "1569196800",
-        "low": "10.15",
-        "high": "10.15"
-    },
-    {
-        "open": "10.74",
-        "close": "10.74",
-        "date": "2019-09-27",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1569542400",
-        "low": "10.74",
-        "high": "10.74"
-    },
-    {
-        "open": "10.74",
-        "close": "10.74",
-        "date": "2019-10-14",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1571011200",
-        "low": "10.74",
-        "high": "10.74"
-    },
-    {
-        "open": "10.49",
-        "close": "10.49",
-        "date": "2019-10-15",
-        "volume": "600",
-        "symbol": "HDW",
-        "timestamp": "1571097600",
-        "low": "10.49",
-        "high": "10.49"
-    },
-    {
-        "open": "10.49",
-        "close": "10.49",
-        "date": "2019-10-17",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1571270400",
-        "low": "10.49",
-        "high": "10.49"
-    },
-    {
         "open": "9.65",
-        "close": "9.65",
-        "date": "2019-10-29",
-        "volume": "600",
-        "symbol": "HDW",
-        "timestamp": "1572307200",
         "low": "9.65",
-        "high": "9.65"
+        "close": "9.65"
     },
     {
-        "open": "10.49",
-        "close": "10.49",
-        "date": "2020-01-16",
-        "volume": "900",
-        "symbol": "HDW",
-        "timestamp": "1579132800",
-        "low": "10.49",
-        "high": "10.49"
-    },
-    {
-        "open": "10.49",
-        "close": "10.49",
-        "date": "2020-02-03",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1580688000",
-        "low": "10.49",
-        "high": "10.49"
-    },
-    {
-        "open": "10.49",
-        "close": "10.49",
-        "date": "2020-03-31",
-        "volume": "700",
-        "symbol": "HDW",
-        "timestamp": "1585612800",
-        "low": "10.49",
-        "high": "10.49"
-    },
-    {
-        "open": "10.07",
-        "close": "10.07",
-        "date": "2020-04-07",
-        "volume": "10000",
-        "symbol": "HDW",
-        "timestamp": "1586217600",
-        "low": "10.07",
-        "high": "10.07"
-    },
-    {
-        "open": "9.82",
-        "close": "9.82",
-        "date": "2020-04-08",
-        "volume": "1200",
-        "symbol": "HDW",
-        "timestamp": "1586304000",
-        "low": "9.82",
-        "high": "9.82"
-    },
-    {
-        "open": "9.82",
-        "close": "10.07",
-        "date": "2020-04-22",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1587513600",
-        "low": "9.82",
-        "high": "10.07"
-    },
-    {
-        "open": "10.07",
-        "close": "10.07",
-        "date": "2020-04-23",
-        "volume": "2300",
-        "symbol": "HDW",
-        "timestamp": "1587600000",
-        "low": "10.07",
-        "high": "10.07"
-    },
-    {
-        "open": "9.23",
-        "close": "9.23",
-        "date": "2020-04-24",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1587686400",
-        "low": "9.23",
-        "high": "9.23"
-    },
-    {
-        "open": "9.48",
-        "close": "10.49",
-        "date": "2020-06-12",
-        "volume": "10700",
-        "symbol": "HDW",
-        "timestamp": "1591920000",
-        "low": "9.48",
-        "high": "10.49"
-    },
-    {
-        "open": "8.9",
-        "close": "8.9",
-        "date": "2020-06-23",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1592870400",
-        "low": "8.9",
-        "high": "8.9"
-    },
-    {
-        "open": "10.15",
-        "close": "7.64",
-        "date": "2020-06-29",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1593388800",
-        "low": "7.64",
-        "high": "10.15"
-    },
-    {
-        "open": "10.15",
-        "close": "10.15",
-        "date": "2020-07-06",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1593993600",
-        "low": "10.15",
-        "high": "10.15"
-    },
-    {
-        "open": "10.15",
-        "close": "10.07",
-        "date": "2020-07-28",
-        "volume": "4000",
-        "symbol": "HDW",
-        "timestamp": "1595894400",
-        "low": "10.07",
-        "high": "10.15"
-    },
-    {
-        "open": "10.49",
-        "close": "10.49",
-        "date": "2020-09-07",
-        "volume": "2100",
-        "symbol": "HDW",
-        "timestamp": "1599436800",
-        "low": "10.49",
-        "high": "10.49"
-    },
-    {
-        "open": "10.25",
-        "close": "10.25",
-        "date": "2020-09-23",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1600819200",
-        "low": "10.25",
-        "high": "10.25"
-    },
-    {
-        "open": "10.7",
-        "close": "10.7",
-        "date": "2020-09-24",
-        "volume": "2000",
-        "symbol": "HDW",
-        "timestamp": "1600905600",
-        "low": "10.7",
-        "high": "10.7"
-    },
-    {
-        "open": "10.7",
-        "close": "10.7",
-        "date": "2020-09-25",
-        "volume": "2200",
-        "symbol": "HDW",
-        "timestamp": "1600992000",
-        "low": "10.7",
-        "high": "10.7"
-    },
-    {
-        "open": "10.7",
-        "close": "10.25",
-        "date": "2020-09-28",
-        "volume": "2100",
-        "symbol": "HDW",
-        "timestamp": "1601251200",
-        "low": "10.25",
-        "high": "10.7"
-    },
-    {
-        "open": "9.09",
-        "close": "9.09",
-        "date": "2020-09-30",
-        "volume": "12800",
-        "symbol": "HDW",
-        "timestamp": "1601424000",
-        "low": "9.09",
-        "high": "9.09"
-    },
-    {
-        "open": "10.25",
-        "close": "10.25",
-        "date": "2020-10-15",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1602720000",
-        "low": "10.25",
-        "high": "10.25"
-    },
-    {
-        "open": "11.59",
-        "close": "11.59",
-        "date": "2020-10-19",
-        "volume": "5600",
-        "symbol": "HDW",
-        "timestamp": "1603065600",
-        "low": "11.59",
-        "high": "11.59"
-    },
-    {
-        "open": "10.34",
-        "close": "10.34",
-        "date": "2020-11-06",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1604620800",
-        "low": "10.34",
-        "high": "10.34"
-    },
-    {
-        "open": "10.34",
-        "close": "10.34",
-        "date": "2020-11-16",
-        "volume": "600",
-        "symbol": "HDW",
-        "timestamp": "1605484800",
-        "low": "10.34",
-        "high": "10.34"
-    },
-    {
-        "open": "10.7",
-        "close": "10.7",
-        "date": "2021-01-22",
-        "volume": "10000",
-        "symbol": "HDW",
-        "timestamp": "1611273600",
-        "low": "10.7",
-        "high": "10.7"
-    },
-    {
-        "open": "11.59",
-        "close": "11.59",
-        "date": "2021-01-25",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1611532800",
-        "low": "11.59",
-        "high": "11.59"
-    },
-    {
-        "open": "11.14",
-        "close": "11.14",
-        "date": "2021-01-26",
-        "volume": "5000",
-        "symbol": "HDW",
-        "timestamp": "1611619200",
-        "low": "11.14",
-        "high": "11.14"
-    },
-    {
-        "open": "10.7",
-        "close": "10.7",
-        "date": "2021-01-28",
         "volume": "300",
+        "date": "2019-08-13",
         "symbol": "HDW",
-        "timestamp": "1611792000",
-        "low": "10.7",
-        "high": "10.7"
+        "high": "10.32",
+        "timestamp": "1565654400",
+        "open": "10.32",
+        "low": "10.32",
+        "close": "10.32"
     },
     {
-        "open": "9.09",
-        "close": "9.09",
-        "date": "2021-02-09",
-        "volume": "100",
+        "volume": "1400",
+        "date": "2019-08-14",
         "symbol": "HDW",
-        "timestamp": "1612828800",
-        "low": "9.09",
-        "high": "9.09"
+        "high": "10.07",
+        "timestamp": "1565740800",
+        "open": "10.07",
+        "low": "10.07",
+        "close": "10.07"
     },
     {
-        "open": "10.43",
-        "close": "10.43",
-        "date": "2021-03-04",
-        "volume": "100",
+        "volume": "1100",
+        "date": "2019-08-23",
         "symbol": "HDW",
-        "timestamp": "1614816000",
-        "low": "10.43",
-        "high": "10.43"
+        "high": "10.07",
+        "timestamp": "1566518400",
+        "open": "10.07",
+        "low": "10.07",
+        "close": "10.07"
     },
     {
-        "open": "11.59",
-        "close": "11.59",
-        "date": "2021-03-08",
-        "volume": "6000",
+        "volume": "1000",
+        "date": "2019-08-30",
         "symbol": "HDW",
-        "timestamp": "1615161600",
-        "low": "11.59",
-        "high": "11.59"
+        "high": "10.24",
+        "timestamp": "1567123200",
+        "open": "10.24",
+        "low": "10.24",
+        "close": "10.24"
     },
     {
-        "open": "11.59",
-        "close": "11.59",
-        "date": "2021-03-10",
-        "volume": "2000",
-        "symbol": "HDW",
-        "timestamp": "1615334400",
-        "low": "11.59",
-        "high": "11.59"
-    },
-    {
-        "open": "12.48",
-        "close": "12.48",
-        "date": "2021-03-23",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1616457600",
-        "low": "12.48",
-        "high": "12.48"
-    },
-    {
-        "open": "12.48",
-        "close": "11.59",
-        "date": "2021-03-29",
-        "volume": "7000",
-        "symbol": "HDW",
-        "timestamp": "1616976000",
-        "low": "11.59",
-        "high": "12.48"
-    },
-    {
-        "open": "12.48",
-        "close": "12.48",
-        "date": "2021-04-05",
-        "volume": "2400",
-        "symbol": "HDW",
-        "timestamp": "1617580800",
-        "low": "12.48",
-        "high": "12.48"
-    },
-    {
-        "open": "10.7",
-        "close": "10.7",
-        "date": "2021-04-15",
-        "volume": "2400",
-        "symbol": "HDW",
-        "timestamp": "1618444800",
-        "low": "10.7",
-        "high": "10.7"
-    },
-    {
-        "open": "10.43",
-        "close": "10.43",
-        "date": "2021-04-22",
-        "volume": "2800",
-        "symbol": "HDW",
-        "timestamp": "1619049600",
-        "low": "10.43",
-        "high": "10.43"
-    },
-    {
-        "open": "11.85",
-        "close": "11.85",
-        "date": "2021-04-28",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1619568000",
-        "low": "11.85",
-        "high": "11.85"
-    },
-    {
-        "open": "13.55",
-        "close": "13.55",
-        "date": "2021-05-19",
-        "volume": "400",
-        "symbol": "HDW",
-        "timestamp": "1621382400",
-        "low": "13.55",
-        "high": "13.55"
-    },
-    {
-        "open": "13.55",
-        "close": "13.55",
-        "date": "2021-05-20",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1621468800",
-        "low": "13.55",
-        "high": "13.55"
-    },
-    {
-        "open": "14.26",
-        "close": "14.26",
-        "date": "2021-06-09",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1623196800",
-        "low": "14.26",
-        "high": "14.26"
-    },
-    {
-        "open": "13.81",
-        "close": "13.37",
-        "date": "2021-06-10",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1623283200",
-        "low": "13.37",
-        "high": "13.81"
-    },
-    {
-        "open": "13.46",
-        "close": "13.46",
-        "date": "2021-06-11",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1623369600",
-        "low": "13.46",
-        "high": "13.46"
-    },
-    {
-        "open": "13.28",
-        "close": "13.28",
-        "date": "2021-06-14",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1623628800",
-        "low": "13.28",
-        "high": "13.28"
-    },
-    {
-        "open": "14.44",
-        "close": "13.81",
-        "date": "2021-06-16",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1623801600",
-        "low": "13.81",
-        "high": "14.44"
-    },
-    {
-        "open": "14.26",
-        "close": "13.81",
-        "date": "2021-06-21",
-        "volume": "5000",
-        "symbol": "HDW",
-        "timestamp": "1624233600",
-        "low": "13.81",
-        "high": "14.26"
-    },
-    {
-        "open": "13.9",
-        "close": "13.9",
-        "date": "2021-06-24",
-        "volume": "800",
-        "symbol": "HDW",
-        "timestamp": "1624492800",
-        "low": "13.9",
-        "high": "13.9"
-    },
-    {
-        "open": "13.81",
-        "close": "13.81",
-        "date": "2021-07-01",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1625097600",
-        "low": "13.81",
-        "high": "13.81"
-    },
-    {
-        "open": "13.81",
-        "close": "12.48",
-        "date": "2021-07-21",
-        "volume": "2000",
-        "symbol": "HDW",
-        "timestamp": "1626825600",
-        "low": "12.48",
-        "high": "13.81"
-    },
-    {
-        "open": "11.59",
-        "close": "11.59",
-        "date": "2021-07-23",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1626998400",
-        "low": "11.59",
-        "high": "11.59"
-    },
-    {
-        "open": "12.48",
-        "close": "12.48",
-        "date": "2021-07-29",
-        "volume": "2000",
-        "symbol": "HDW",
-        "timestamp": "1627516800",
-        "low": "12.48",
-        "high": "12.48"
-    },
-    {
-        "open": "12.48",
-        "close": "12.48",
-        "date": "2021-08-17",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1629158400",
-        "low": "12.48",
-        "high": "12.48"
-    },
-    {
-        "open": "12.03",
-        "close": "12.03",
-        "date": "2021-08-18",
         "volume": "500",
+        "date": "2019-09-04",
         "symbol": "HDW",
-        "timestamp": "1629244800",
-        "low": "12.03",
-        "high": "12.03"
+        "high": "10.49",
+        "timestamp": "1567555200",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.49"
     },
     {
-        "open": "12.12",
-        "close": "12.12",
-        "date": "2021-08-19",
-        "volume": "1900",
-        "symbol": "HDW",
-        "timestamp": "1629331200",
-        "low": "12.12",
-        "high": "12.12"
-    },
-    {
-        "open": "12.03",
-        "close": "12.03",
-        "date": "2021-08-20",
-        "volume": "700",
-        "symbol": "HDW",
-        "timestamp": "1629417600",
-        "low": "12.03",
-        "high": "12.03"
-    },
-    {
-        "open": "12.03",
-        "close": "12.03",
-        "date": "2021-08-23",
         "volume": "1000",
+        "date": "2019-09-05",
         "symbol": "HDW",
-        "timestamp": "1629676800",
-        "low": "12.03",
-        "high": "12.03"
+        "high": "10.57",
+        "timestamp": "1567641600",
+        "open": "10.57",
+        "low": "10.57",
+        "close": "10.57"
     },
     {
-        "open": "12.92",
-        "close": "12.92",
-        "date": "2021-08-25",
-        "volume": "100",
+        "volume": "1500",
+        "date": "2019-09-11",
         "symbol": "HDW",
-        "timestamp": "1629849600",
-        "low": "12.92",
-        "high": "12.92"
+        "high": "10.57",
+        "timestamp": "1568160000",
+        "open": "10.57",
+        "low": "10.57",
+        "close": "10.57"
     },
     {
-        "open": "12.92",
-        "close": "12.92",
-        "date": "2021-08-27",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1630022400",
-        "low": "12.92",
-        "high": "12.92"
-    },
-    {
-        "open": "12.92",
-        "close": "12.92",
-        "date": "2021-09-06",
-        "volume": "2500",
-        "symbol": "HDW",
-        "timestamp": "1630886400",
-        "low": "12.92",
-        "high": "12.92"
-    },
-    {
-        "open": "12.92",
-        "close": "13.81",
-        "date": "2021-09-07",
-        "volume": "4500",
-        "symbol": "HDW",
-        "timestamp": "1630972800",
-        "low": "12.92",
-        "high": "13.81"
-    },
-    {
-        "open": "13.64",
-        "close": "13.64",
-        "date": "2021-09-08",
-        "volume": "3000",
-        "symbol": "HDW",
-        "timestamp": "1631059200",
-        "low": "13.64",
-        "high": "13.64"
-    },
-    {
-        "open": "12.48",
-        "close": "13.64",
-        "date": "2021-09-13",
-        "volume": "1200",
-        "symbol": "HDW",
-        "timestamp": "1631491200",
-        "low": "12.48",
-        "high": "13.64"
-    },
-    {
-        "open": "12.61",
-        "close": "12.61",
-        "date": "2021-09-23",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1632355200",
-        "low": "12.61",
-        "high": "12.61"
-    },
-    {
-        "open": "13.64",
-        "close": "13.64",
-        "date": "2021-09-24",
-        "volume": "4400",
-        "symbol": "HDW",
-        "timestamp": "1632441600",
-        "low": "13.64",
-        "high": "13.64"
-    },
-    {
-        "open": "13.64",
-        "close": "13.64",
-        "date": "2021-09-27",
-        "volume": "1200",
-        "symbol": "HDW",
-        "timestamp": "1632700800",
-        "low": "13.64",
-        "high": "13.64"
-    },
-    {
-        "open": "12.7",
-        "close": "12.79",
-        "date": "2021-09-28",
-        "volume": "11200",
-        "symbol": "HDW",
-        "timestamp": "1632787200",
-        "low": "12.7",
-        "high": "13.64"
-    },
-    {
-        "open": "12.79",
-        "close": "12.89",
-        "date": "2021-09-29",
-        "volume": "14900",
-        "symbol": "HDW",
-        "timestamp": "1632873600",
-        "low": "12.79",
-        "high": "12.89"
-    },
-    {
-        "open": "13.17",
-        "close": "13.17",
-        "date": "2021-09-30",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1632960000",
-        "low": "13.17",
-        "high": "13.17"
-    },
-    {
-        "open": "13.45",
-        "close": "13.45",
-        "date": "2021-10-05",
-        "volume": "400",
-        "symbol": "HDW",
-        "timestamp": "1633392000",
-        "low": "13.45",
-        "high": "13.45"
-    },
-    {
-        "open": "13.45",
-        "close": "13.45",
-        "date": "2021-10-06",
-        "volume": "2400",
-        "symbol": "HDW",
-        "timestamp": "1633478400",
-        "low": "13.45",
-        "high": "13.45"
-    },
-    {
-        "open": "13.17",
-        "close": "13.17",
-        "date": "2021-10-18",
-        "volume": "800",
-        "symbol": "HDW",
-        "timestamp": "1634515200",
-        "low": "13.17",
-        "high": "13.17"
-    },
-    {
-        "open": "13.64",
-        "close": "13.64",
-        "date": "2021-10-20",
-        "volume": "1600",
-        "symbol": "HDW",
-        "timestamp": "1634688000",
-        "low": "13.64",
-        "high": "13.64"
-    },
-    {
-        "open": "13.64",
-        "close": "13.64",
-        "date": "2021-10-26",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1635206400",
-        "low": "13.64",
-        "high": "13.64"
-    },
-    {
-        "open": "13.36",
-        "close": "13.26",
-        "date": "2021-10-27",
-        "volume": "7400",
-        "symbol": "HDW",
-        "timestamp": "1635292800",
-        "low": "13.26",
-        "high": "13.45"
-    },
-    {
-        "open": "13.17",
-        "close": "13.17",
-        "date": "2021-10-29",
-        "volume": "4000",
-        "symbol": "HDW",
-        "timestamp": "1635465600",
-        "low": "13.17",
-        "high": "13.17"
-    },
-    {
-        "open": "13.26",
-        "close": "13.26",
-        "date": "2021-11-03",
-        "volume": "5500",
-        "symbol": "HDW",
-        "timestamp": "1635897600",
-        "low": "13.26",
-        "high": "13.26"
-    },
-    {
-        "open": "13.36",
-        "close": "13.17",
-        "date": "2021-11-05",
-        "volume": "4000",
-        "symbol": "HDW",
-        "timestamp": "1636070400",
-        "low": "13.17",
-        "high": "13.36"
-    },
-    {
-        "open": "13.36",
-        "close": "13.64",
-        "date": "2021-11-08",
         "volume": "2600",
+        "date": "2019-09-16",
         "symbol": "HDW",
-        "timestamp": "1636329600",
-        "low": "13.36",
-        "high": "13.64"
+        "high": "10.57",
+        "timestamp": "1568592000",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.57"
     },
     {
-        "open": "13.64",
-        "close": "13.26",
-        "date": "2021-11-09",
-        "volume": "1100",
-        "symbol": "HDW",
-        "timestamp": "1636416000",
-        "low": "13.26",
-        "high": "13.64"
-    },
-    {
-        "open": "13.26",
-        "close": "13.17",
-        "date": "2021-11-10",
-        "volume": "7000",
-        "symbol": "HDW",
-        "timestamp": "1636502400",
-        "low": "13.17",
-        "high": "13.26"
-    },
-    {
-        "open": "13.64",
-        "close": "13.17",
-        "date": "2021-11-11",
-        "volume": "3100",
-        "symbol": "HDW",
-        "timestamp": "1636588800",
-        "low": "13.17",
-        "high": "13.64"
-    },
-    {
-        "open": "13.26",
-        "close": "13.26",
-        "date": "2021-11-12",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1636675200",
-        "low": "13.26",
-        "high": "13.26"
-    },
-    {
-        "open": "13.26",
-        "close": "13.64",
-        "date": "2021-11-15",
-        "volume": "900",
-        "symbol": "HDW",
-        "timestamp": "1636934400",
-        "low": "13.26",
-        "high": "13.64"
-    },
-    {
-        "open": "13.64",
-        "close": "13.45",
-        "date": "2021-11-16",
-        "volume": "1300",
-        "symbol": "HDW",
-        "timestamp": "1637020800",
-        "low": "13.45",
-        "high": "13.64"
-    },
-    {
-        "open": "13.45",
-        "close": "13.45",
-        "date": "2021-11-17",
-        "volume": "3800",
-        "symbol": "HDW",
-        "timestamp": "1637107200",
-        "low": "13.45",
-        "high": "13.45"
-    },
-    {
-        "open": "13.45",
-        "close": "14.86",
-        "date": "2021-11-18",
-        "volume": "14300",
-        "symbol": "HDW",
-        "timestamp": "1637193600",
-        "low": "13.45",
-        "high": "14.86"
-    },
-    {
-        "open": "13.45",
-        "close": "13.45",
-        "date": "2021-11-22",
-        "volume": "700",
-        "symbol": "HDW",
-        "timestamp": "1637539200",
-        "low": "13.45",
-        "high": "13.45"
-    },
-    {
-        "open": "14.49",
-        "close": "14.96",
-        "date": "2021-11-23",
-        "volume": "1100",
-        "symbol": "HDW",
-        "timestamp": "1637625600",
-        "low": "14.11",
-        "high": "14.96"
-    },
-    {
-        "open": "14.02",
-        "close": "14.02",
-        "date": "2021-11-24",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1637712000",
-        "low": "14.02",
-        "high": "14.02"
-    },
-    {
-        "open": "13.64",
-        "close": "13.64",
-        "date": "2021-11-25",
         "volume": "500",
+        "date": "2019-09-19",
         "symbol": "HDW",
-        "timestamp": "1637798400",
-        "low": "13.64",
-        "high": "13.64"
+        "high": "10.24",
+        "timestamp": "1568851200",
+        "open": "10.24",
+        "low": "10.24",
+        "close": "10.24"
     },
     {
-        "open": "13.55",
-        "close": "13.45",
-        "date": "2021-11-26",
-        "volume": "10000",
-        "symbol": "HDW",
-        "timestamp": "1637884800",
-        "low": "13.45",
-        "high": "13.64"
-    },
-    {
-        "open": "13.17",
-        "close": "14.58",
-        "date": "2021-11-29",
-        "volume": "1100",
-        "symbol": "HDW",
-        "timestamp": "1638144000",
-        "low": "13.17",
-        "high": "14.58"
-    },
-    {
-        "open": "13.73",
-        "close": "13.45",
-        "date": "2021-11-30",
-        "volume": "6700",
-        "symbol": "HDW",
-        "timestamp": "1638230400",
-        "low": "13.45",
-        "high": "13.73"
-    },
-    {
-        "open": "13.92",
-        "close": "13.55",
-        "date": "2021-12-01",
-        "volume": "1500",
-        "symbol": "HDW",
-        "timestamp": "1638316800",
-        "low": "13.55",
-        "high": "13.92"
-    },
-    {
-        "open": "13.83",
-        "close": "13.92",
-        "date": "2021-12-02",
-        "volume": "1100",
-        "symbol": "HDW",
-        "timestamp": "1638403200",
-        "low": "13.45",
-        "high": "13.92"
-    },
-    {
-        "open": "13.45",
-        "close": "13.45",
-        "date": "2021-12-03",
-        "volume": "3300",
-        "symbol": "HDW",
-        "timestamp": "1638489600",
-        "low": "13.45",
-        "high": "13.45"
-    },
-    {
-        "open": "13.45",
-        "close": "13.45",
-        "date": "2021-12-06",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1638748800",
-        "low": "13.45",
-        "high": "13.45"
-    },
-    {
-        "open": "13.36",
-        "close": "13.36",
-        "date": "2021-12-07",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1638835200",
-        "low": "13.36",
-        "high": "13.36"
-    },
-    {
-        "open": "14.11",
-        "close": "13.64",
-        "date": "2021-12-09",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1639008000",
-        "low": "13.64",
-        "high": "14.11"
-    },
-    {
-        "open": "13.92",
-        "close": "13.92",
-        "date": "2021-12-10",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1639094400",
-        "low": "13.92",
-        "high": "13.92"
-    },
-    {
-        "open": "14.39",
-        "close": "13.55",
-        "date": "2021-12-13",
-        "volume": "8800",
-        "symbol": "HDW",
-        "timestamp": "1639353600",
-        "low": "13.55",
-        "high": "14.39"
-    },
-    {
-        "open": "13.73",
-        "close": "13.73",
-        "date": "2021-12-15",
-        "volume": "5400",
-        "symbol": "HDW",
-        "timestamp": "1639526400",
-        "low": "13.73",
-        "high": "13.73"
-    },
-    {
-        "open": "13.73",
-        "close": "13.73",
-        "date": "2021-12-16",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1639612800",
-        "low": "13.73",
-        "high": "13.73"
-    },
-    {
-        "open": "13.73",
-        "close": "13.64",
-        "date": "2021-12-17",
-        "volume": "4300",
-        "symbol": "HDW",
-        "timestamp": "1639699200",
-        "low": "13.64",
-        "high": "13.73"
-    },
-    {
-        "open": "13.73",
-        "close": "13.73",
-        "date": "2021-12-20",
         "volume": "2000",
+        "date": "2019-09-20",
         "symbol": "HDW",
-        "timestamp": "1639958400",
-        "low": "13.73",
-        "high": "13.73"
+        "high": "10.57",
+        "timestamp": "1568937600",
+        "open": "10.57",
+        "low": "10.57",
+        "close": "10.57"
     },
     {
-        "open": "13.73",
-        "close": "14.02",
-        "date": "2021-12-21",
-        "volume": "6000",
+        "volume": "1400",
+        "date": "2019-09-23",
         "symbol": "HDW",
-        "timestamp": "1640044800",
-        "low": "13.73",
-        "high": "14.02"
+        "high": "10.15",
+        "timestamp": "1569196800",
+        "open": "10.15",
+        "low": "10.15",
+        "close": "10.15"
     },
     {
-        "open": "14.39",
-        "close": "13.73",
-        "date": "2021-12-22",
-        "volume": "1900",
+        "volume": "1000",
+        "date": "2019-09-27",
         "symbol": "HDW",
-        "timestamp": "1640131200",
-        "low": "13.73",
-        "high": "14.39"
+        "high": "10.74",
+        "timestamp": "1569542400",
+        "open": "10.74",
+        "low": "10.74",
+        "close": "10.74"
     },
     {
-        "open": "13.73",
-        "close": "13.73",
-        "date": "2021-12-24",
-        "volume": "100",
+        "volume": "1000",
+        "date": "2019-10-14",
         "symbol": "HDW",
-        "timestamp": "1640304000",
-        "low": "13.73",
-        "high": "13.73"
+        "high": "10.74",
+        "timestamp": "1571011200",
+        "open": "10.74",
+        "low": "10.74",
+        "close": "10.74"
     },
     {
-        "open": "14.3",
-        "close": "14.58",
-        "date": "2021-12-27",
-        "volume": "6800",
+        "volume": "600",
+        "date": "2019-10-15",
         "symbol": "HDW",
-        "timestamp": "1640563200",
-        "low": "14.11",
-        "high": "14.58"
+        "high": "10.49",
+        "timestamp": "1571097600",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.49"
     },
     {
-        "open": "14.39",
-        "close": "14.49",
-        "date": "2022-01-04",
+        "volume": "1000",
+        "date": "2019-10-17",
+        "symbol": "HDW",
+        "high": "10.49",
+        "timestamp": "1571270400",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.49"
+    },
+    {
+        "volume": "600",
+        "date": "2019-10-29",
+        "symbol": "HDW",
+        "high": "9.65",
+        "timestamp": "1572307200",
+        "open": "9.65",
+        "low": "9.65",
+        "close": "9.65"
+    },
+    {
+        "volume": "900",
+        "date": "2020-01-16",
+        "symbol": "HDW",
+        "high": "10.49",
+        "timestamp": "1579132800",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.49"
+    },
+    {
         "volume": "500",
+        "date": "2020-02-03",
         "symbol": "HDW",
-        "timestamp": "1641254400",
-        "low": "14.39",
-        "high": "14.49"
+        "high": "10.49",
+        "timestamp": "1580688000",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.49"
     },
     {
-        "open": "14.39",
-        "close": "14.39",
-        "date": "2022-01-05",
+        "volume": "700",
+        "date": "2020-03-31",
+        "symbol": "HDW",
+        "high": "10.49",
+        "timestamp": "1585612800",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.49"
+    },
+    {
+        "volume": "10000",
+        "date": "2020-04-07",
+        "symbol": "HDW",
+        "high": "10.07",
+        "timestamp": "1586217600",
+        "open": "10.07",
+        "low": "10.07",
+        "close": "10.07"
+    },
+    {
+        "volume": "1200",
+        "date": "2020-04-08",
+        "symbol": "HDW",
+        "high": "9.82",
+        "timestamp": "1586304000",
+        "open": "9.82",
+        "low": "9.82",
+        "close": "9.82"
+    },
+    {
         "volume": "200",
+        "date": "2020-04-22",
         "symbol": "HDW",
-        "timestamp": "1641340800",
-        "low": "14.39",
-        "high": "14.39"
+        "high": "10.07",
+        "timestamp": "1587513600",
+        "open": "9.82",
+        "low": "9.82",
+        "close": "10.07"
     },
     {
-        "open": "13.64",
-        "close": "14.11",
-        "date": "2022-01-06",
+        "volume": "2300",
+        "date": "2020-04-23",
+        "symbol": "HDW",
+        "high": "10.07",
+        "timestamp": "1587600000",
+        "open": "10.07",
+        "low": "10.07",
+        "close": "10.07"
+    },
+    {
+        "volume": "100",
+        "date": "2020-04-24",
+        "symbol": "HDW",
+        "high": "9.23",
+        "timestamp": "1587686400",
+        "open": "9.23",
+        "low": "9.23",
+        "close": "9.23"
+    },
+    {
+        "volume": "10700",
+        "date": "2020-06-12",
+        "symbol": "HDW",
+        "high": "10.49",
+        "timestamp": "1591920000",
+        "open": "9.48",
+        "low": "9.48",
+        "close": "10.49"
+    },
+    {
+        "volume": "100",
+        "date": "2020-06-23",
+        "symbol": "HDW",
+        "high": "8.9",
+        "timestamp": "1592870400",
+        "open": "8.9",
+        "low": "8.9",
+        "close": "8.9"
+    },
+    {
+        "volume": "200",
+        "date": "2020-06-29",
+        "symbol": "HDW",
+        "high": "10.15",
+        "timestamp": "1593388800",
+        "open": "10.15",
+        "low": "7.64",
+        "close": "7.64"
+    },
+    {
+        "volume": "500",
+        "date": "2020-07-06",
+        "symbol": "HDW",
+        "high": "10.15",
+        "timestamp": "1593993600",
+        "open": "10.15",
+        "low": "10.15",
+        "close": "10.15"
+    },
+    {
+        "volume": "4000",
+        "date": "2020-07-28",
+        "symbol": "HDW",
+        "high": "10.15",
+        "timestamp": "1595894400",
+        "open": "10.15",
+        "low": "10.07",
+        "close": "10.07"
+    },
+    {
         "volume": "2100",
+        "date": "2020-09-07",
         "symbol": "HDW",
-        "timestamp": "1641427200",
-        "low": "13.64",
-        "high": "14.11"
+        "high": "10.49",
+        "timestamp": "1599436800",
+        "open": "10.49",
+        "low": "10.49",
+        "close": "10.49"
     },
     {
-        "open": "14.11",
-        "close": "14.58",
-        "date": "2022-01-10",
-        "volume": "2500",
-        "symbol": "HDW",
-        "timestamp": "1641772800",
-        "low": "14.11",
-        "high": "14.58"
-    },
-    {
-        "open": "14.39",
-        "close": "14.49",
-        "date": "2022-01-12",
         "volume": "1000",
+        "date": "2020-09-23",
         "symbol": "HDW",
-        "timestamp": "1641945600",
-        "low": "14.39",
-        "high": "14.49"
+        "high": "10.25",
+        "timestamp": "1600819200",
+        "open": "10.25",
+        "low": "10.25",
+        "close": "10.25"
     },
     {
-        "open": "14.49",
-        "close": "14.11",
-        "date": "2022-01-14",
-        "volume": "200",
+        "volume": "2000",
+        "date": "2020-09-24",
         "symbol": "HDW",
-        "timestamp": "1642118400",
-        "low": "14.11",
-        "high": "14.49"
+        "high": "10.7",
+        "timestamp": "1600905600",
+        "open": "10.7",
+        "low": "10.7",
+        "close": "10.7"
     },
     {
-        "open": "12.7",
-        "close": "12.79",
-        "date": "2022-01-24",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1642982400",
-        "low": "12.7",
-        "high": "12.79"
-    },
-    {
-        "open": "12.98",
-        "close": "12.98",
-        "date": "2022-01-28",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1643328000",
-        "low": "12.98",
-        "high": "12.98"
-    },
-    {
-        "open": "13.17",
-        "close": "13.17",
-        "date": "2022-02-15",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1644883200",
-        "low": "13.17",
-        "high": "13.17"
-    },
-    {
-        "open": "13.36",
-        "close": "13.36",
-        "date": "2022-02-16",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1644969600",
-        "low": "13.36",
-        "high": "13.36"
-    },
-    {
-        "open": "14.11",
-        "close": "13.36",
-        "date": "2022-02-17",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1645056000",
-        "low": "13.36",
-        "high": "14.11"
-    },
-    {
-        "open": "13.92",
-        "close": "13.92",
-        "date": "2022-02-21",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1645401600",
-        "low": "13.92",
-        "high": "13.92"
-    },
-    {
-        "open": "14.11",
-        "close": "14.11",
-        "date": "2022-02-22",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1645488000",
-        "low": "14.11",
-        "high": "14.11"
-    },
-    {
-        "open": "14.11",
-        "close": "15.05",
-        "date": "2022-02-23",
-        "volume": "1500",
-        "symbol": "HDW",
-        "timestamp": "1645574400",
-        "low": "14.11",
-        "high": "15.05"
-    },
-    {
-        "open": "13.36",
-        "close": "13.36",
-        "date": "2022-02-25",
-        "volume": "400",
-        "symbol": "HDW",
-        "timestamp": "1645747200",
-        "low": "13.36",
-        "high": "13.36"
-    },
-    {
-        "open": "14.86",
-        "close": "14.49",
-        "date": "2022-02-28",
-        "volume": "1200",
-        "symbol": "HDW",
-        "timestamp": "1646006400",
-        "low": "14.49",
-        "high": "14.86"
-    },
-    {
-        "open": "14.68",
-        "close": "14.68",
-        "date": "2022-03-01",
-        "volume": "700",
-        "symbol": "HDW",
-        "timestamp": "1646092800",
-        "low": "14.68",
-        "high": "14.68"
-    },
-    {
-        "open": "13.64",
-        "close": "13.64",
-        "date": "2022-03-02",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1646179200",
-        "low": "13.64",
-        "high": "13.64"
-    },
-    {
-        "open": "14.11",
-        "close": "14.11",
-        "date": "2022-03-03",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1646265600",
-        "low": "14.11",
-        "high": "14.11"
-    },
-    {
-        "open": "14.86",
-        "close": "14.86",
-        "date": "2022-03-04",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1646352000",
-        "low": "14.86",
-        "high": "14.86"
-    },
-    {
-        "open": "13.73",
-        "close": "14.96",
-        "date": "2022-03-07",
-        "volume": "900",
-        "symbol": "HDW",
-        "timestamp": "1646611200",
-        "low": "13.73",
-        "high": "14.96"
-    },
-    {
-        "open": "14.11",
-        "close": "14.11",
-        "date": "2022-03-10",
-        "volume": "400",
-        "symbol": "HDW",
-        "timestamp": "1646870400",
-        "low": "14.11",
-        "high": "14.11"
-    },
-    {
-        "open": "13.83",
-        "close": "13.83",
-        "date": "2022-03-16",
-        "volume": "400",
-        "symbol": "HDW",
-        "timestamp": "1647388800",
-        "low": "13.83",
-        "high": "13.83"
-    },
-    {
-        "open": "13.83",
-        "close": "13.83",
-        "date": "2022-03-24",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1648080000",
-        "low": "13.83",
-        "high": "13.83"
-    },
-    {
-        "open": "13.73",
-        "close": "13.73",
-        "date": "2022-03-25",
-        "volume": "500",
-        "symbol": "HDW",
-        "timestamp": "1648166400",
-        "low": "13.73",
-        "high": "13.73"
-    },
-    {
-        "open": "13.73",
-        "close": "13.83",
-        "date": "2022-03-29",
-        "volume": "700",
-        "symbol": "HDW",
-        "timestamp": "1648512000",
-        "low": "13.73",
-        "high": "13.83"
-    },
-    {
-        "open": "13.36",
-        "close": "13.36",
-        "date": "2022-04-04",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1649030400",
-        "low": "13.36",
-        "high": "13.36"
-    },
-    {
-        "open": "14.11",
-        "close": "13.73",
-        "date": "2022-04-06",
-        "volume": "800",
-        "symbol": "HDW",
-        "timestamp": "1649203200",
-        "low": "13.73",
-        "high": "14.58"
-    },
-    {
-        "open": "13.45",
-        "close": "13.45",
-        "date": "2022-04-07",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1649289600",
-        "low": "13.45",
-        "high": "13.45"
-    },
-    {
-        "open": "14.11",
-        "close": "14.11",
-        "date": "2022-04-18",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1650240000",
-        "low": "14.11",
-        "high": "14.11"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-04-19",
-        "volume": "1500",
-        "symbol": "HDW",
-        "timestamp": "1650326400",
-        "low": "14.58",
-        "high": "14.58"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-04-21",
-        "volume": "1300",
-        "symbol": "HDW",
-        "timestamp": "1650499200",
-        "low": "14.58",
-        "high": "14.58"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-04-26",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1650931200",
-        "low": "14.58",
-        "high": "14.58"
-    },
-    {
-        "open": "14.11",
-        "close": "14.11",
-        "date": "2022-05-04",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1651622400",
-        "low": "14.11",
-        "high": "14.11"
-    },
-    {
-        "open": "14.11",
-        "close": "14.11",
-        "date": "2022-05-06",
-        "volume": "1000",
-        "symbol": "HDW",
-        "timestamp": "1651795200",
-        "low": "14.11",
-        "high": "14.11"
-    },
-    {
-        "open": "14.58",
-        "close": "14.21",
-        "date": "2022-05-09",
-        "volume": "6800",
-        "symbol": "HDW",
-        "timestamp": "1652054400",
-        "low": "14.21",
-        "high": "14.58"
-    },
-    {
-        "open": "14.49",
-        "close": "14.58",
-        "date": "2022-05-11",
-        "volume": "900",
-        "symbol": "HDW",
-        "timestamp": "1652227200",
-        "low": "14.49",
-        "high": "14.58"
-    },
-    {
-        "open": "14.58",
-        "close": "13.64",
-        "date": "2022-05-13",
-        "volume": "5200",
-        "symbol": "HDW",
-        "timestamp": "1652400000",
-        "low": "13.64",
-        "high": "14.77"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-05-17",
-        "volume": "19500",
-        "symbol": "HDW",
-        "timestamp": "1652745600",
-        "low": "14.49",
-        "high": "14.58"
-    },
-    {
-        "open": "14.58",
-        "close": "14.11",
-        "date": "2022-05-18",
-        "volume": "1600",
-        "symbol": "HDW",
-        "timestamp": "1652832000",
-        "low": "14.11",
-        "high": "14.58"
-    },
-    {
-        "open": "14.49",
-        "close": "14.49",
-        "date": "2022-05-31",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1653955200",
-        "low": "14.49",
-        "high": "14.49"
-    },
-    {
-        "open": "15.05",
-        "close": "15.05",
-        "date": "2022-06-16",
-        "volume": "1100",
-        "symbol": "HDW",
-        "timestamp": "1655337600",
-        "low": "15.05",
-        "high": "15.05"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-06-20",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1655683200",
-        "low": "14.58",
-        "high": "14.58"
-    },
-    {
-        "open": "14.11",
-        "close": "14.11",
-        "date": "2022-06-22",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1655856000",
-        "low": "14.11",
-        "high": "14.11"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-08-10",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1660089600",
-        "low": "14.58",
-        "high": "14.58"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-08-16",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1660608000",
-        "low": "14.58",
-        "high": "14.58"
-    },
-    {
-        "open": "14.58",
-        "close": "14.58",
-        "date": "2022-08-18",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1660780800",
-        "low": "14.58",
-        "high": "14.58"
-    },
-    {
-        "open": "15.99",
-        "close": "14.58",
-        "date": "2022-08-24",
-        "volume": "300",
-        "symbol": "HDW",
-        "timestamp": "1661299200",
-        "low": "14.58",
-        "high": "15.99"
-    },
-    {
-        "open": "14.68",
-        "close": "14.68",
-        "date": "2022-08-29",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1661731200",
-        "low": "14.68",
-        "high": "14.68"
-    },
-    {
-        "open": "14.77",
-        "close": "14.77",
-        "date": "2022-08-31",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1661904000",
-        "low": "14.77",
-        "high": "14.77"
-    },
-    {
-        "open": "15.9",
-        "close": "15.9",
-        "date": "2022-09-12",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1662940800",
-        "low": "15.9",
-        "high": "15.9"
-    },
-    {
-        "open": "15.71",
-        "close": "15.52",
-        "date": "2022-09-14",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1663113600",
-        "low": "15.52",
-        "high": "15.71"
-    },
-    {
-        "open": "15.9",
-        "close": "15.9",
-        "date": "2022-09-16",
-        "volume": "200",
-        "symbol": "HDW",
-        "timestamp": "1663286400",
-        "low": "15.9",
-        "high": "15.9"
-    },
-    {
-        "open": "14",
-        "close": "14",
-        "date": "2022-09-22",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1663804800",
-        "low": "14",
-        "high": "14"
-    },
-    {
-        "open": "14",
-        "close": "14",
-        "date": "2022-09-28",
-        "volume": "100",
-        "symbol": "HDW",
-        "timestamp": "1664323200",
-        "low": "14",
-        "high": "14"
-    },
-    {
-        "open": "14",
-        "close": "14",
-        "date": "2022-10-04",
-        "volume": "1500",
-        "symbol": "HDW",
-        "timestamp": "1664841600",
-        "low": "14",
-        "high": "14"
-    },
-    {
-        "open": "14",
-        "close": "14",
-        "date": "2022-10-06",
         "volume": "2200",
+        "date": "2020-09-25",
         "symbol": "HDW",
-        "timestamp": "1665014400",
-        "low": "14",
-        "high": "14"
+        "high": "10.7",
+        "timestamp": "1600992000",
+        "open": "10.7",
+        "low": "10.7",
+        "close": "10.7"
     },
     {
-        "open": "14",
-        "close": "14",
-        "date": "2022-10-07",
+        "volume": "2100",
+        "date": "2020-09-28",
+        "symbol": "HDW",
+        "high": "10.7",
+        "timestamp": "1601251200",
+        "open": "10.7",
+        "low": "10.25",
+        "close": "10.25"
+    },
+    {
+        "volume": "12800",
+        "date": "2020-09-30",
+        "symbol": "HDW",
+        "high": "9.09",
+        "timestamp": "1601424000",
+        "open": "9.09",
+        "low": "9.09",
+        "close": "9.09"
+    },
+    {
+        "volume": "500",
+        "date": "2020-10-15",
+        "symbol": "HDW",
+        "high": "10.25",
+        "timestamp": "1602720000",
+        "open": "10.25",
+        "low": "10.25",
+        "close": "10.25"
+    },
+    {
+        "volume": "5600",
+        "date": "2020-10-19",
+        "symbol": "HDW",
+        "high": "11.59",
+        "timestamp": "1603065600",
+        "open": "11.59",
+        "low": "11.59",
+        "close": "11.59"
+    },
+    {
+        "volume": "100",
+        "date": "2020-11-06",
+        "symbol": "HDW",
+        "high": "10.34",
+        "timestamp": "1604620800",
+        "open": "10.34",
+        "low": "10.34",
+        "close": "10.34"
+    },
+    {
+        "volume": "600",
+        "date": "2020-11-16",
+        "symbol": "HDW",
+        "high": "10.34",
+        "timestamp": "1605484800",
+        "open": "10.34",
+        "low": "10.34",
+        "close": "10.34"
+    },
+    {
+        "volume": "10000",
+        "date": "2021-01-22",
+        "symbol": "HDW",
+        "high": "10.7",
+        "timestamp": "1611273600",
+        "open": "10.7",
+        "low": "10.7",
+        "close": "10.7"
+    },
+    {
+        "volume": "200",
+        "date": "2021-01-25",
+        "symbol": "HDW",
+        "high": "11.59",
+        "timestamp": "1611532800",
+        "open": "11.59",
+        "low": "11.59",
+        "close": "11.59"
+    },
+    {
+        "volume": "5000",
+        "date": "2021-01-26",
+        "symbol": "HDW",
+        "high": "11.14",
+        "timestamp": "1611619200",
+        "open": "11.14",
+        "low": "11.14",
+        "close": "11.14"
+    },
+    {
+        "volume": "300",
+        "date": "2021-01-28",
+        "symbol": "HDW",
+        "high": "10.7",
+        "timestamp": "1611792000",
+        "open": "10.7",
+        "low": "10.7",
+        "close": "10.7"
+    },
+    {
+        "volume": "100",
+        "date": "2021-02-09",
+        "symbol": "HDW",
+        "high": "9.09",
+        "timestamp": "1612828800",
+        "open": "9.09",
+        "low": "9.09",
+        "close": "9.09"
+    },
+    {
+        "volume": "100",
+        "date": "2021-03-04",
+        "symbol": "HDW",
+        "high": "10.43",
+        "timestamp": "1614816000",
+        "open": "10.43",
+        "low": "10.43",
+        "close": "10.43"
+    },
+    {
+        "volume": "6000",
+        "date": "2021-03-08",
+        "symbol": "HDW",
+        "high": "11.59",
+        "timestamp": "1615161600",
+        "open": "11.59",
+        "low": "11.59",
+        "close": "11.59"
+    },
+    {
+        "volume": "2000",
+        "date": "2021-03-10",
+        "symbol": "HDW",
+        "high": "11.59",
+        "timestamp": "1615334400",
+        "open": "11.59",
+        "low": "11.59",
+        "close": "11.59"
+    },
+    {
+        "volume": "100",
+        "date": "2021-03-23",
+        "symbol": "HDW",
+        "high": "12.48",
+        "timestamp": "1616457600",
+        "open": "12.48",
+        "low": "12.48",
+        "close": "12.48"
+    },
+    {
+        "volume": "7000",
+        "date": "2021-03-29",
+        "symbol": "HDW",
+        "high": "12.48",
+        "timestamp": "1616976000",
+        "open": "12.48",
+        "low": "11.59",
+        "close": "11.59"
+    },
+    {
+        "volume": "2400",
+        "date": "2021-04-05",
+        "symbol": "HDW",
+        "high": "12.48",
+        "timestamp": "1617580800",
+        "open": "12.48",
+        "low": "12.48",
+        "close": "12.48"
+    },
+    {
+        "volume": "2400",
+        "date": "2021-04-15",
+        "symbol": "HDW",
+        "high": "10.7",
+        "timestamp": "1618444800",
+        "open": "10.7",
+        "low": "10.7",
+        "close": "10.7"
+    },
+    {
+        "volume": "2800",
+        "date": "2021-04-22",
+        "symbol": "HDW",
+        "high": "10.43",
+        "timestamp": "1619049600",
+        "open": "10.43",
+        "low": "10.43",
+        "close": "10.43"
+    },
+    {
+        "volume": "100",
+        "date": "2021-04-28",
+        "symbol": "HDW",
+        "high": "11.85",
+        "timestamp": "1619568000",
+        "open": "11.85",
+        "low": "11.85",
+        "close": "11.85"
+    },
+    {
+        "volume": "400",
+        "date": "2021-05-19",
+        "symbol": "HDW",
+        "high": "13.55",
+        "timestamp": "1621382400",
+        "open": "13.55",
+        "low": "13.55",
+        "close": "13.55"
+    },
+    {
+        "volume": "100",
+        "date": "2021-05-20",
+        "symbol": "HDW",
+        "high": "13.55",
+        "timestamp": "1621468800",
+        "open": "13.55",
+        "low": "13.55",
+        "close": "13.55"
+    },
+    {
+        "volume": "100",
+        "date": "2021-06-09",
+        "symbol": "HDW",
+        "high": "14.26",
+        "timestamp": "1623196800",
+        "open": "14.26",
+        "low": "14.26",
+        "close": "14.26"
+    },
+    {
+        "volume": "300",
+        "date": "2021-06-10",
+        "symbol": "HDW",
+        "high": "13.81",
+        "timestamp": "1623283200",
+        "open": "13.81",
+        "low": "13.37",
+        "close": "13.37"
+    },
+    {
+        "volume": "100",
+        "date": "2021-06-11",
+        "symbol": "HDW",
+        "high": "13.46",
+        "timestamp": "1623369600",
+        "open": "13.46",
+        "low": "13.46",
+        "close": "13.46"
+    },
+    {
+        "volume": "200",
+        "date": "2021-06-14",
+        "symbol": "HDW",
+        "high": "13.28",
+        "timestamp": "1623628800",
+        "open": "13.28",
+        "low": "13.28",
+        "close": "13.28"
+    },
+    {
+        "volume": "200",
+        "date": "2021-06-16",
+        "symbol": "HDW",
+        "high": "14.44",
+        "timestamp": "1623801600",
+        "open": "14.44",
+        "low": "13.81",
+        "close": "13.81"
+    },
+    {
+        "volume": "5000",
+        "date": "2021-06-21",
+        "symbol": "HDW",
+        "high": "14.26",
+        "timestamp": "1624233600",
+        "open": "14.26",
+        "low": "13.81",
+        "close": "13.81"
+    },
+    {
+        "volume": "800",
+        "date": "2021-06-24",
+        "symbol": "HDW",
+        "high": "13.9",
+        "timestamp": "1624492800",
+        "open": "13.9",
+        "low": "13.9",
+        "close": "13.9"
+    },
+    {
+        "volume": "200",
+        "date": "2021-07-01",
+        "symbol": "HDW",
+        "high": "13.81",
+        "timestamp": "1625097600",
+        "open": "13.81",
+        "low": "13.81",
+        "close": "13.81"
+    },
+    {
+        "volume": "2000",
+        "date": "2021-07-21",
+        "symbol": "HDW",
+        "high": "13.81",
+        "timestamp": "1626825600",
+        "open": "13.81",
+        "low": "12.48",
+        "close": "12.48"
+    },
+    {
+        "volume": "100",
+        "date": "2021-07-23",
+        "symbol": "HDW",
+        "high": "11.59",
+        "timestamp": "1626998400",
+        "open": "11.59",
+        "low": "11.59",
+        "close": "11.59"
+    },
+    {
+        "volume": "2000",
+        "date": "2021-07-29",
+        "symbol": "HDW",
+        "high": "12.48",
+        "timestamp": "1627516800",
+        "open": "12.48",
+        "low": "12.48",
+        "close": "12.48"
+    },
+    {
+        "volume": "100",
+        "date": "2021-08-17",
+        "symbol": "HDW",
+        "high": "12.48",
+        "timestamp": "1629158400",
+        "open": "12.48",
+        "low": "12.48",
+        "close": "12.48"
+    },
+    {
+        "volume": "500",
+        "date": "2021-08-18",
+        "symbol": "HDW",
+        "high": "12.03",
+        "timestamp": "1629244800",
+        "open": "12.03",
+        "low": "12.03",
+        "close": "12.03"
+    },
+    {
+        "volume": "1900",
+        "date": "2021-08-19",
+        "symbol": "HDW",
+        "high": "12.12",
+        "timestamp": "1629331200",
+        "open": "12.12",
+        "low": "12.12",
+        "close": "12.12"
+    },
+    {
+        "volume": "700",
+        "date": "2021-08-20",
+        "symbol": "HDW",
+        "high": "12.03",
+        "timestamp": "1629417600",
+        "open": "12.03",
+        "low": "12.03",
+        "close": "12.03"
+    },
+    {
         "volume": "1000",
+        "date": "2021-08-23",
         "symbol": "HDW",
-        "timestamp": "1665100800",
-        "low": "14",
-        "high": "14"
+        "high": "12.03",
+        "timestamp": "1629676800",
+        "open": "12.03",
+        "low": "12.03",
+        "close": "12.03"
     },
     {
-        "open": "13.5",
-        "close": "13.5",
-        "date": "2022-10-11",
-        "volume": "1300",
+        "volume": "100",
+        "date": "2021-08-25",
         "symbol": "HDW",
-        "timestamp": "1665446400",
-        "low": "13.5",
-        "high": "13.5"
+        "high": "12.92",
+        "timestamp": "1629849600",
+        "open": "12.92",
+        "low": "12.92",
+        "close": "12.92"
     },
     {
-        "open": "13.5",
-        "close": "13.5",
-        "date": "2022-10-12",
+        "volume": "1000",
+        "date": "2021-08-27",
+        "symbol": "HDW",
+        "high": "12.92",
+        "timestamp": "1630022400",
+        "open": "12.92",
+        "low": "12.92",
+        "close": "12.92"
+    },
+    {
+        "volume": "2500",
+        "date": "2021-09-06",
+        "symbol": "HDW",
+        "high": "12.92",
+        "timestamp": "1630886400",
+        "open": "12.92",
+        "low": "12.92",
+        "close": "12.92"
+    },
+    {
+        "volume": "4500",
+        "date": "2021-09-07",
+        "symbol": "HDW",
+        "high": "13.81",
+        "timestamp": "1630972800",
+        "open": "12.92",
+        "low": "12.92",
+        "close": "13.81"
+    },
+    {
+        "volume": "3000",
+        "date": "2021-09-08",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1631059200",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
         "volume": "1200",
+        "date": "2021-09-13",
         "symbol": "HDW",
-        "timestamp": "1665532800",
-        "low": "13.5",
-        "high": "13.5"
+        "high": "13.64",
+        "timestamp": "1631491200",
+        "open": "12.48",
+        "low": "12.48",
+        "close": "13.64"
     },
     {
+        "volume": "100",
+        "date": "2021-09-23",
+        "symbol": "HDW",
+        "high": "12.61",
+        "timestamp": "1632355200",
+        "open": "12.61",
+        "low": "12.61",
+        "close": "12.61"
+    },
+    {
+        "volume": "4400",
+        "date": "2021-09-24",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1632441600",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "1200",
+        "date": "2021-09-27",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1632700800",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "11200",
+        "date": "2021-09-28",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1632787200",
+        "open": "12.7",
+        "low": "12.7",
+        "close": "12.79"
+    },
+    {
+        "volume": "14900",
+        "date": "2021-09-29",
+        "symbol": "HDW",
+        "high": "12.89",
+        "timestamp": "1632873600",
+        "open": "12.79",
+        "low": "12.79",
+        "close": "12.89"
+    },
+    {
+        "volume": "100",
+        "date": "2021-09-30",
+        "symbol": "HDW",
+        "high": "13.17",
+        "timestamp": "1632960000",
+        "open": "13.17",
+        "low": "13.17",
+        "close": "13.17"
+    },
+    {
+        "volume": "400",
+        "date": "2021-10-05",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1633392000",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "2400",
+        "date": "2021-10-06",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1633478400",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "800",
+        "date": "2021-10-18",
+        "symbol": "HDW",
+        "high": "13.17",
+        "timestamp": "1634515200",
+        "open": "13.17",
+        "low": "13.17",
+        "close": "13.17"
+    },
+    {
+        "volume": "1600",
+        "date": "2021-10-20",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1634688000",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "1000",
+        "date": "2021-10-26",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1635206400",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "7400",
+        "date": "2021-10-27",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1635292800",
+        "open": "13.36",
+        "low": "13.26",
+        "close": "13.26"
+    },
+    {
+        "volume": "4000",
+        "date": "2021-10-29",
+        "symbol": "HDW",
+        "high": "13.17",
+        "timestamp": "1635465600",
+        "open": "13.17",
+        "low": "13.17",
+        "close": "13.17"
+    },
+    {
+        "volume": "5500",
+        "date": "2021-11-03",
+        "symbol": "HDW",
+        "high": "13.26",
+        "timestamp": "1635897600",
+        "open": "13.26",
+        "low": "13.26",
+        "close": "13.26"
+    },
+    {
+        "volume": "4000",
+        "date": "2021-11-05",
+        "symbol": "HDW",
+        "high": "13.36",
+        "timestamp": "1636070400",
+        "open": "13.36",
+        "low": "13.17",
+        "close": "13.17"
+    },
+    {
+        "volume": "2600",
+        "date": "2021-11-08",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1636329600",
+        "open": "13.36",
+        "low": "13.36",
+        "close": "13.64"
+    },
+    {
+        "volume": "1100",
+        "date": "2021-11-09",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1636416000",
+        "open": "13.64",
+        "low": "13.26",
+        "close": "13.26"
+    },
+    {
+        "volume": "7000",
+        "date": "2021-11-10",
+        "symbol": "HDW",
+        "high": "13.26",
+        "timestamp": "1636502400",
+        "open": "13.26",
+        "low": "13.17",
+        "close": "13.17"
+    },
+    {
+        "volume": "3100",
+        "date": "2021-11-11",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1636588800",
+        "open": "13.64",
+        "low": "13.17",
+        "close": "13.17"
+    },
+    {
+        "volume": "1000",
+        "date": "2021-11-12",
+        "symbol": "HDW",
+        "high": "13.26",
+        "timestamp": "1636675200",
+        "open": "13.26",
+        "low": "13.26",
+        "close": "13.26"
+    },
+    {
+        "volume": "900",
+        "date": "2021-11-15",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1636934400",
+        "open": "13.26",
+        "low": "13.26",
+        "close": "13.64"
+    },
+    {
+        "volume": "1300",
+        "date": "2021-11-16",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1637020800",
+        "open": "13.64",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "3800",
+        "date": "2021-11-17",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1637107200",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "14300",
+        "date": "2021-11-18",
+        "symbol": "HDW",
+        "high": "14.86",
+        "timestamp": "1637193600",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "14.86"
+    },
+    {
+        "volume": "700",
+        "date": "2021-11-22",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1637539200",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "1100",
+        "date": "2021-11-23",
+        "symbol": "HDW",
+        "high": "14.96",
+        "timestamp": "1637625600",
+        "open": "14.49",
+        "low": "14.11",
+        "close": "14.96"
+    },
+    {
+        "volume": "100",
+        "date": "2021-11-24",
+        "symbol": "HDW",
+        "high": "14.02",
+        "timestamp": "1637712000",
+        "open": "14.02",
+        "low": "14.02",
+        "close": "14.02"
+    },
+    {
+        "volume": "500",
+        "date": "2021-11-25",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1637798400",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "10000",
+        "date": "2021-11-26",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1637884800",
+        "open": "13.55",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "1100",
+        "date": "2021-11-29",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1638144000",
+        "open": "13.17",
+        "low": "13.17",
+        "close": "14.58"
+    },
+    {
+        "volume": "6700",
+        "date": "2021-11-30",
+        "symbol": "HDW",
+        "high": "13.73",
+        "timestamp": "1638230400",
+        "open": "13.73",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "1500",
+        "date": "2021-12-01",
+        "symbol": "HDW",
+        "high": "13.92",
+        "timestamp": "1638316800",
+        "open": "13.92",
+        "low": "13.55",
+        "close": "13.55"
+    },
+    {
+        "volume": "1100",
+        "date": "2021-12-02",
+        "symbol": "HDW",
+        "high": "13.92",
+        "timestamp": "1638403200",
+        "open": "13.83",
+        "low": "13.45",
+        "close": "13.92"
+    },
+    {
+        "volume": "3300",
+        "date": "2021-12-03",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1638489600",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "100",
+        "date": "2021-12-06",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1638748800",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "100",
+        "date": "2021-12-07",
+        "symbol": "HDW",
+        "high": "13.36",
+        "timestamp": "1638835200",
+        "open": "13.36",
+        "low": "13.36",
+        "close": "13.36"
+    },
+    {
+        "volume": "200",
+        "date": "2021-12-09",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1639008000",
+        "open": "14.11",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "100",
+        "date": "2021-12-10",
+        "symbol": "HDW",
+        "high": "13.92",
+        "timestamp": "1639094400",
+        "open": "13.92",
+        "low": "13.92",
+        "close": "13.92"
+    },
+    {
+        "volume": "8800",
+        "date": "2021-12-13",
+        "symbol": "HDW",
+        "high": "14.39",
+        "timestamp": "1639353600",
+        "open": "14.39",
+        "low": "13.55",
+        "close": "13.55"
+    },
+    {
+        "volume": "5400",
+        "date": "2021-12-15",
+        "symbol": "HDW",
+        "high": "13.73",
+        "timestamp": "1639526400",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "13.73"
+    },
+    {
+        "volume": "100",
+        "date": "2021-12-16",
+        "symbol": "HDW",
+        "high": "13.73",
+        "timestamp": "1639612800",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "13.73"
+    },
+    {
+        "volume": "4300",
+        "date": "2021-12-17",
+        "symbol": "HDW",
+        "high": "13.73",
+        "timestamp": "1639699200",
+        "open": "13.73",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "2000",
+        "date": "2021-12-20",
+        "symbol": "HDW",
+        "high": "13.73",
+        "timestamp": "1639958400",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "13.73"
+    },
+    {
+        "volume": "6000",
+        "date": "2021-12-21",
+        "symbol": "HDW",
+        "high": "14.02",
+        "timestamp": "1640044800",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "14.02"
+    },
+    {
+        "volume": "1900",
+        "date": "2021-12-22",
+        "symbol": "HDW",
+        "high": "14.39",
+        "timestamp": "1640131200",
+        "open": "14.39",
+        "low": "13.73",
+        "close": "13.73"
+    },
+    {
+        "volume": "100",
+        "date": "2021-12-24",
+        "symbol": "HDW",
+        "high": "13.73",
+        "timestamp": "1640304000",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "13.73"
+    },
+    {
+        "volume": "6800",
+        "date": "2021-12-27",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1640563200",
+        "open": "14.3",
+        "low": "14.11",
+        "close": "14.58"
+    },
+    {
+        "volume": "500",
+        "date": "2022-01-04",
+        "symbol": "HDW",
+        "high": "14.49",
+        "timestamp": "1641254400",
+        "open": "14.39",
+        "low": "14.39",
+        "close": "14.49"
+    },
+    {
+        "volume": "200",
+        "date": "2022-01-05",
+        "symbol": "HDW",
+        "high": "14.39",
+        "timestamp": "1641340800",
+        "open": "14.39",
+        "low": "14.39",
+        "close": "14.39"
+    },
+    {
+        "volume": "2100",
+        "date": "2022-01-06",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1641427200",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "14.11"
+    },
+    {
+        "volume": "2500",
+        "date": "2022-01-10",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1641772800",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.58"
+    },
+    {
+        "volume": "1000",
+        "date": "2022-01-12",
+        "symbol": "HDW",
+        "high": "14.49",
+        "timestamp": "1641945600",
+        "open": "14.39",
+        "low": "14.39",
+        "close": "14.49"
+    },
+    {
+        "volume": "200",
+        "date": "2022-01-14",
+        "symbol": "HDW",
+        "high": "14.49",
+        "timestamp": "1642118400",
+        "open": "14.49",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "200",
+        "date": "2022-01-24",
+        "symbol": "HDW",
+        "high": "12.79",
+        "timestamp": "1642982400",
+        "open": "12.7",
+        "low": "12.7",
+        "close": "12.79"
+    },
+    {
+        "volume": "100",
+        "date": "2022-01-28",
+        "symbol": "HDW",
+        "high": "12.98",
+        "timestamp": "1643328000",
+        "open": "12.98",
+        "low": "12.98",
+        "close": "12.98"
+    },
+    {
+        "volume": "500",
+        "date": "2022-02-15",
+        "symbol": "HDW",
+        "high": "13.17",
+        "timestamp": "1644883200",
+        "open": "13.17",
+        "low": "13.17",
+        "close": "13.17"
+    },
+    {
+        "volume": "500",
+        "date": "2022-02-16",
+        "symbol": "HDW",
+        "high": "13.36",
+        "timestamp": "1644969600",
+        "open": "13.36",
+        "low": "13.36",
+        "close": "13.36"
+    },
+    {
+        "volume": "200",
+        "date": "2022-02-17",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1645056000",
+        "open": "14.11",
+        "low": "13.36",
+        "close": "13.36"
+    },
+    {
+        "volume": "100",
+        "date": "2022-02-21",
+        "symbol": "HDW",
+        "high": "13.92",
+        "timestamp": "1645401600",
+        "open": "13.92",
+        "low": "13.92",
+        "close": "13.92"
+    },
+    {
+        "volume": "100",
+        "date": "2022-02-22",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1645488000",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "1500",
+        "date": "2022-02-23",
+        "symbol": "HDW",
+        "high": "15.05",
+        "timestamp": "1645574400",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "15.05"
+    },
+    {
+        "volume": "400",
+        "date": "2022-02-25",
+        "symbol": "HDW",
+        "high": "13.36",
+        "timestamp": "1645747200",
+        "open": "13.36",
+        "low": "13.36",
+        "close": "13.36"
+    },
+    {
+        "volume": "1200",
+        "date": "2022-02-28",
+        "symbol": "HDW",
+        "high": "14.86",
+        "timestamp": "1646006400",
+        "open": "14.86",
+        "low": "14.49",
+        "close": "14.49"
+    },
+    {
+        "volume": "700",
+        "date": "2022-03-01",
+        "symbol": "HDW",
+        "high": "14.68",
+        "timestamp": "1646092800",
+        "open": "14.68",
+        "low": "14.68",
+        "close": "14.68"
+    },
+    {
+        "volume": "100",
+        "date": "2022-03-02",
+        "symbol": "HDW",
+        "high": "13.64",
+        "timestamp": "1646179200",
+        "open": "13.64",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "300",
+        "date": "2022-03-03",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1646265600",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "100",
+        "date": "2022-03-04",
+        "symbol": "HDW",
+        "high": "14.86",
+        "timestamp": "1646352000",
+        "open": "14.86",
+        "low": "14.86",
+        "close": "14.86"
+    },
+    {
+        "volume": "900",
+        "date": "2022-03-07",
+        "symbol": "HDW",
+        "high": "14.96",
+        "timestamp": "1646611200",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "14.96"
+    },
+    {
+        "volume": "400",
+        "date": "2022-03-10",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1646870400",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "400",
+        "date": "2022-03-16",
+        "symbol": "HDW",
+        "high": "13.83",
+        "timestamp": "1647388800",
+        "open": "13.83",
+        "low": "13.83",
+        "close": "13.83"
+    },
+    {
+        "volume": "100",
+        "date": "2022-03-24",
+        "symbol": "HDW",
+        "high": "13.83",
+        "timestamp": "1648080000",
+        "open": "13.83",
+        "low": "13.83",
+        "close": "13.83"
+    },
+    {
+        "volume": "500",
+        "date": "2022-03-25",
+        "symbol": "HDW",
+        "high": "13.73",
+        "timestamp": "1648166400",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "13.73"
+    },
+    {
+        "volume": "700",
+        "date": "2022-03-29",
+        "symbol": "HDW",
+        "high": "13.83",
+        "timestamp": "1648512000",
+        "open": "13.73",
+        "low": "13.73",
+        "close": "13.83"
+    },
+    {
+        "volume": "100",
+        "date": "2022-04-04",
+        "symbol": "HDW",
+        "high": "13.36",
+        "timestamp": "1649030400",
+        "open": "13.36",
+        "low": "13.36",
+        "close": "13.36"
+    },
+    {
+        "volume": "800",
+        "date": "2022-04-06",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1649203200",
+        "open": "14.11",
+        "low": "13.73",
+        "close": "13.73"
+    },
+    {
+        "volume": "100",
+        "date": "2022-04-07",
+        "symbol": "HDW",
+        "high": "13.45",
+        "timestamp": "1649289600",
+        "open": "13.45",
+        "low": "13.45",
+        "close": "13.45"
+    },
+    {
+        "volume": "1000",
+        "date": "2022-04-18",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1650240000",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "1500",
+        "date": "2022-04-19",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1650326400",
+        "open": "14.58",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "1300",
+        "date": "2022-04-21",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1650499200",
+        "open": "14.58",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "200",
+        "date": "2022-04-26",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1650931200",
+        "open": "14.58",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "100",
+        "date": "2022-05-04",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1651622400",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "1000",
+        "date": "2022-05-06",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1651795200",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "6800",
+        "date": "2022-05-09",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1652054400",
+        "open": "14.58",
+        "low": "14.21",
+        "close": "14.21"
+    },
+    {
+        "volume": "900",
+        "date": "2022-05-11",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1652227200",
+        "open": "14.49",
+        "low": "14.49",
+        "close": "14.58"
+    },
+    {
+        "volume": "5200",
+        "date": "2022-05-13",
+        "symbol": "HDW",
+        "high": "14.77",
+        "timestamp": "1652400000",
+        "open": "14.58",
+        "low": "13.64",
+        "close": "13.64"
+    },
+    {
+        "volume": "19500",
+        "date": "2022-05-17",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1652745600",
+        "open": "14.58",
+        "low": "14.49",
+        "close": "14.58"
+    },
+    {
+        "volume": "1600",
+        "date": "2022-05-18",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1652832000",
+        "open": "14.58",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "100",
+        "date": "2022-05-31",
+        "symbol": "HDW",
+        "high": "14.49",
+        "timestamp": "1653955200",
+        "open": "14.49",
+        "low": "14.49",
+        "close": "14.49"
+    },
+    {
+        "volume": "1100",
+        "date": "2022-06-16",
+        "symbol": "HDW",
+        "high": "15.05",
+        "timestamp": "1655337600",
+        "open": "15.05",
+        "low": "15.05",
+        "close": "15.05"
+    },
+    {
+        "volume": "300",
+        "date": "2022-06-20",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1655683200",
+        "open": "14.58",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "200",
+        "date": "2022-06-22",
+        "symbol": "HDW",
+        "high": "14.11",
+        "timestamp": "1655856000",
+        "open": "14.11",
+        "low": "14.11",
+        "close": "14.11"
+    },
+    {
+        "volume": "200",
+        "date": "2022-08-10",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1660089600",
+        "open": "14.58",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "100",
+        "date": "2022-08-16",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1660608000",
+        "open": "14.58",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "200",
+        "date": "2022-08-18",
+        "symbol": "HDW",
+        "high": "14.58",
+        "timestamp": "1660780800",
+        "open": "14.58",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "300",
+        "date": "2022-08-24",
+        "symbol": "HDW",
+        "high": "15.99",
+        "timestamp": "1661299200",
+        "open": "15.99",
+        "low": "14.58",
+        "close": "14.58"
+    },
+    {
+        "volume": "100",
+        "date": "2022-08-29",
+        "symbol": "HDW",
+        "high": "14.68",
+        "timestamp": "1661731200",
+        "open": "14.68",
+        "low": "14.68",
+        "close": "14.68"
+    },
+    {
+        "volume": "100",
+        "date": "2022-08-31",
+        "symbol": "HDW",
+        "high": "14.77",
+        "timestamp": "1661904000",
+        "open": "14.77",
+        "low": "14.77",
+        "close": "14.77"
+    },
+    {
+        "volume": "100",
+        "date": "2022-09-12",
+        "symbol": "HDW",
+        "high": "15.9",
+        "timestamp": "1662940800",
+        "open": "15.9",
+        "low": "15.9",
+        "close": "15.9"
+    },
+    {
+        "volume": "200",
+        "date": "2022-09-14",
+        "symbol": "HDW",
+        "high": "15.71",
+        "timestamp": "1663113600",
+        "open": "15.71",
+        "low": "15.52",
+        "close": "15.52"
+    },
+    {
+        "volume": "200",
+        "date": "2022-09-16",
+        "symbol": "HDW",
+        "high": "15.9",
+        "timestamp": "1663286400",
+        "open": "15.9",
+        "low": "15.9",
+        "close": "15.9"
+    },
+    {
+        "volume": "100",
+        "date": "2022-09-22",
+        "symbol": "HDW",
+        "high": "14",
+        "timestamp": "1663804800",
+        "open": "14",
+        "low": "14",
+        "close": "14"
+    },
+    {
+        "volume": "100",
+        "date": "2022-09-28",
+        "symbol": "HDW",
+        "high": "14",
+        "timestamp": "1664323200",
+        "open": "14",
+        "low": "14",
+        "close": "14"
+    },
+    {
+        "volume": "1500",
+        "date": "2022-10-04",
+        "symbol": "HDW",
+        "high": "14",
+        "timestamp": "1664841600",
+        "open": "14",
+        "low": "14",
+        "close": "14"
+    },
+    {
+        "volume": "2200",
+        "date": "2022-10-06",
+        "symbol": "HDW",
+        "high": "14",
+        "timestamp": "1665014400",
+        "open": "14",
+        "low": "14",
+        "close": "14"
+    },
+    {
+        "volume": "1000",
+        "date": "2022-10-07",
+        "symbol": "HDW",
+        "high": "14",
+        "timestamp": "1665100800",
+        "open": "14",
+        "low": "14",
+        "close": "14"
+    },
+    {
+        "volume": "1300",
+        "date": "2022-10-11",
+        "symbol": "HDW",
+        "high": "13.5",
+        "timestamp": "1665446400",
         "open": "13.5",
-        "close": "13.5",
-        "date": "2022-10-17",
+        "low": "13.5",
+        "close": "13.5"
+    },
+    {
+        "volume": "1200",
+        "date": "2022-10-12",
+        "symbol": "HDW",
+        "high": "13.5",
+        "timestamp": "1665532800",
+        "open": "13.5",
+        "low": "13.5",
+        "close": "13.5"
+    },
+    {
         "volume": "7800.0",
+        "date": "2022-10-17",
         "symbol": "HDW",
+        "high": "13.5",
         "timestamp": "1665964800.0",
+        "open": "13.5",
         "low": "13.2",
-        "high": "13.5"
+        "close": "13.5"
     },
     {
-        "open": "13.0",
-        "close": "13.0",
+        "volume": "1000.0",
         "date": "2022-10-21",
-        "volume": "1000.0",
         "symbol": "HDW",
+        "high": "13.0",
         "timestamp": "1666310400.0",
+        "open": "13.0",
         "low": "13.0",
-        "high": "13.0"
+        "close": "13.0"
     },
     {
-        "open": "13.0",
-        "close": "13.0",
-        "date": "2022-10-24",
         "volume": "1000.0",
+        "date": "2022-10-24",
         "symbol": "HDW",
+        "high": "13.0",
         "timestamp": "1666569600.0",
+        "open": "13.0",
         "low": "13.0",
-        "high": "13.0"
+        "close": "13.0"
     },
     {
-        "open": "13.0",
-        "close": "13.0",
-        "date": "2022-10-28",
         "volume": "1100.0",
+        "date": "2022-10-28",
         "symbol": "HDW",
+        "high": "13.0",
         "timestamp": "1666915200.0",
+        "open": "13.0",
         "low": "13.0",
-        "high": "13.0"
+        "close": "13.0"
     },
     {
-        "open": "13.0",
-        "close": "13.5",
-        "date": "2022-10-31",
         "volume": "6000.0",
+        "date": "2022-10-31",
         "symbol": "HDW",
+        "high": "13.5",
         "timestamp": "1667174400.0",
+        "open": "13.0",
         "low": "13.0",
-        "high": "13.5"
+        "close": "13.5"
+    },
+    {
+        "volume": "3000.0",
+        "date": "2022-11-11",
+        "symbol": "HDW",
+        "high": "13.0",
+        "timestamp": "1668124800.0",
+        "open": "13.0",
+        "low": "13.0",
+        "close": "13.0"
+    },
+    {
+        "volume": "1600.0",
+        "date": "2022-11-14",
+        "symbol": "HDW",
+        "high": "13.0",
+        "timestamp": "1668384000.0",
+        "open": "13.0",
+        "low": "13.0",
+        "close": "13.0"
+    },
+    {
+        "volume": "12100.0",
+        "date": "2022-11-15",
+        "symbol": "HDW",
+        "high": "13.0",
+        "timestamp": "1668470400.0",
+        "open": "13.0",
+        "low": "13.0",
+        "close": "13.0"
     }
 ]

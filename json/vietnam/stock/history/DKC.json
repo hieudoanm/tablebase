@@ -1,312 +1,312 @@
 [
     {
-        "open": "8.99",
-        "close": "8.99",
+        "volume": "100",
         "date": "2020-12-03",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "8.99",
         "timestamp": "1606953600",
+        "open": "8.99",
         "low": "8.99",
-        "high": "8.99"
+        "close": "8.99"
     },
     {
-        "open": "10.3",
-        "close": "10.3",
+        "volume": "100",
         "date": "2020-12-04",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "10.3",
         "timestamp": "1607040000",
+        "open": "10.3",
         "low": "10.3",
-        "high": "10.3"
+        "close": "10.3"
     },
     {
-        "open": "11.79",
-        "close": "11.79",
+        "volume": "100",
         "date": "2020-12-08",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "11.79",
         "timestamp": "1607385600",
+        "open": "11.79",
         "low": "11.79",
-        "high": "11.79"
+        "close": "11.79"
     },
     {
-        "open": "13.33",
-        "close": "13.33",
+        "volume": "200",
         "date": "2020-12-09",
-        "volume": "200",
         "symbol": "DKC",
+        "high": "13.33",
         "timestamp": "1607472000",
+        "open": "13.33",
         "low": "13.33",
-        "high": "13.33"
+        "close": "13.33"
     },
     {
-        "open": "15.3",
-        "close": "15.3",
+        "volume": "200",
         "date": "2020-12-15",
-        "volume": "200",
         "symbol": "DKC",
+        "high": "15.3",
         "timestamp": "1607990400",
-        "low": "15.3",
-        "high": "15.3"
-    },
-    {
         "open": "15.3",
-        "close": "15.3",
-        "date": "2021-01-06",
-        "volume": "100",
-        "symbol": "DKC",
-        "timestamp": "1609891200",
         "low": "15.3",
-        "high": "15.3"
+        "close": "15.3"
     },
     {
-        "open": "17.56",
-        "close": "17.56",
-        "date": "2021-01-07",
+        "volume": "100",
+        "date": "2021-01-06",
+        "symbol": "DKC",
+        "high": "15.3",
+        "timestamp": "1609891200",
+        "open": "15.3",
+        "low": "15.3",
+        "close": "15.3"
+    },
+    {
         "volume": "803000",
+        "date": "2021-01-07",
         "symbol": "DKC",
+        "high": "17.56",
         "timestamp": "1609977600",
+        "open": "17.56",
         "low": "17.56",
-        "high": "17.56"
+        "close": "17.56"
     },
     {
-        "open": "15.18",
-        "close": "15.18",
-        "date": "2021-01-13",
         "volume": "300",
+        "date": "2021-01-13",
         "symbol": "DKC",
+        "high": "15.18",
         "timestamp": "1610496000",
+        "open": "15.18",
         "low": "15.18",
-        "high": "15.18"
+        "close": "15.18"
     },
     {
-        "open": "13.21",
-        "close": "13.21",
-        "date": "2021-01-14",
         "volume": "200",
+        "date": "2021-01-14",
         "symbol": "DKC",
+        "high": "13.21",
         "timestamp": "1610582400",
+        "open": "13.21",
         "low": "13.21",
-        "high": "13.21"
+        "close": "13.21"
     },
     {
-        "open": "11.84",
-        "close": "11.84",
+        "volume": "100",
         "date": "2021-01-15",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "11.84",
         "timestamp": "1610668800",
+        "open": "11.84",
         "low": "11.84",
-        "high": "11.84"
+        "close": "11.84"
     },
     {
-        "open": "10.24",
-        "close": "10.24",
+        "volume": "100",
         "date": "2021-01-18",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "10.24",
         "timestamp": "1610928000",
+        "open": "10.24",
         "low": "10.24",
-        "high": "10.24"
+        "close": "10.24"
     },
     {
-        "open": "9.11",
-        "close": "9.11",
-        "date": "2021-01-19",
         "volume": "400",
+        "date": "2021-01-19",
         "symbol": "DKC",
+        "high": "9.11",
         "timestamp": "1611014400",
+        "open": "9.11",
         "low": "9.11",
-        "high": "9.11"
+        "close": "9.11"
     },
     {
-        "open": "8.81",
-        "close": "8.81",
+        "volume": "100",
         "date": "2021-01-20",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "8.81",
         "timestamp": "1611100800",
+        "open": "8.81",
         "low": "8.81",
-        "high": "8.81"
+        "close": "8.81"
     },
     {
-        "open": "7.5",
-        "close": "7.5",
-        "date": "2021-01-21",
         "volume": "500",
+        "date": "2021-01-21",
         "symbol": "DKC",
+        "high": "7.5",
         "timestamp": "1611187200",
+        "open": "7.5",
         "low": "7.5",
-        "high": "7.5"
+        "close": "7.5"
     },
     {
-        "open": "6.9",
-        "close": "6.9",
-        "date": "2021-01-22",
         "volume": "800",
+        "date": "2021-01-22",
         "symbol": "DKC",
+        "high": "6.9",
         "timestamp": "1611273600",
+        "open": "6.9",
         "low": "6.9",
-        "high": "6.9"
+        "close": "6.9"
     },
     {
-        "open": "6.55",
-        "close": "6.55",
-        "date": "2021-02-02",
         "volume": "1700",
+        "date": "2021-02-02",
         "symbol": "DKC",
+        "high": "6.55",
         "timestamp": "1612224000",
+        "open": "6.55",
         "low": "6.55",
-        "high": "6.55"
+        "close": "6.55"
     },
     {
-        "open": "6.55",
-        "close": "6.55",
-        "date": "2021-02-17",
         "volume": "3300",
+        "date": "2021-02-17",
         "symbol": "DKC",
+        "high": "6.55",
         "timestamp": "1613520000",
+        "open": "6.55",
         "low": "6.55",
-        "high": "6.55"
+        "close": "6.55"
     },
     {
-        "open": "6.55",
-        "close": "6.55",
+        "volume": "3000",
         "date": "2021-03-10",
-        "volume": "3000",
         "symbol": "DKC",
+        "high": "6.55",
         "timestamp": "1615334400",
+        "open": "6.55",
         "low": "6.55",
-        "high": "6.55"
+        "close": "6.55"
     },
     {
-        "open": "5.95",
-        "close": "5.95",
-        "date": "2021-07-22",
         "volume": "2900",
+        "date": "2021-07-22",
         "symbol": "DKC",
+        "high": "5.95",
         "timestamp": "1626912000",
+        "open": "5.95",
         "low": "5.95",
-        "high": "5.95"
+        "close": "5.95"
     },
     {
-        "open": "6.55",
-        "close": "6.55",
-        "date": "2021-09-17",
         "volume": "1100",
+        "date": "2021-09-17",
         "symbol": "DKC",
+        "high": "6.55",
         "timestamp": "1631836800",
-        "low": "6.55",
-        "high": "6.55"
-    },
-    {
         "open": "6.55",
-        "close": "6.55",
-        "date": "2021-09-20",
-        "volume": "3000",
-        "symbol": "DKC",
-        "timestamp": "1632096000",
         "low": "6.55",
-        "high": "6.55"
+        "close": "6.55"
     },
     {
-        "open": "5.71",
-        "close": "5.71",
+        "volume": "3000",
+        "date": "2021-09-20",
+        "symbol": "DKC",
+        "high": "6.55",
+        "timestamp": "1632096000",
+        "open": "6.55",
+        "low": "6.55",
+        "close": "6.55"
+    },
+    {
+        "volume": "100",
         "date": "2021-09-23",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "5.71",
         "timestamp": "1632355200",
+        "open": "5.71",
         "low": "5.71",
-        "high": "5.71"
+        "close": "5.71"
     },
     {
-        "open": "4.88",
-        "close": "4.88",
+        "volume": "100",
         "date": "2021-09-27",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "4.88",
         "timestamp": "1632700800",
+        "open": "4.88",
         "low": "4.88",
-        "high": "4.88"
+        "close": "4.88"
     },
     {
-        "open": "4.17",
-        "close": "4.17",
+        "volume": "100",
         "date": "2021-09-28",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "4.17",
         "timestamp": "1632787200",
+        "open": "4.17",
         "low": "4.17",
-        "high": "4.17"
+        "close": "4.17"
     },
     {
-        "open": "3.57",
-        "close": "3.57",
+        "volume": "100",
         "date": "2021-09-29",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "3.57",
         "timestamp": "1632873600",
+        "open": "3.57",
         "low": "3.57",
-        "high": "3.57"
+        "close": "3.57"
     },
     {
-        "open": "3.15",
-        "close": "3.15",
+        "volume": "100",
         "date": "2021-09-30",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "3.15",
         "timestamp": "1632960000",
+        "open": "3.15",
         "low": "3.15",
-        "high": "3.15"
+        "close": "3.15"
     },
     {
-        "open": "2.74",
-        "close": "2.74",
+        "volume": "100",
         "date": "2021-10-07",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "2.74",
         "timestamp": "1633564800",
+        "open": "2.74",
         "low": "2.74",
-        "high": "2.74"
+        "close": "2.74"
     },
     {
-        "open": "2.56",
-        "close": "2.56",
+        "volume": "100",
         "date": "2021-10-12",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "2.56",
         "timestamp": "1633996800",
+        "open": "2.56",
         "low": "2.56",
-        "high": "2.56"
+        "close": "2.56"
     },
     {
-        "open": "2.26",
-        "close": "2.26",
+        "volume": "100",
         "date": "2021-10-19",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "2.26",
         "timestamp": "1634601600",
+        "open": "2.26",
         "low": "2.26",
-        "high": "2.26"
+        "close": "2.26"
     },
     {
-        "open": "1.96",
-        "close": "1.96",
+        "volume": "100",
         "date": "2021-11-05",
-        "volume": "100",
         "symbol": "DKC",
+        "high": "1.96",
         "timestamp": "1636070400",
+        "open": "1.96",
         "low": "1.96",
-        "high": "1.96"
+        "close": "1.96"
     },
     {
-        "open": "1.25",
-        "close": "1.25",
-        "date": "2022-02-15",
         "volume": "100",
+        "date": "2022-02-15",
         "symbol": "DKC",
+        "high": "1.25",
         "timestamp": "1644883200",
+        "open": "1.25",
         "low": "1.25",
-        "high": "1.25"
+        "close": "1.25"
     }
 ]

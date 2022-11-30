@@ -1,52 +1,52 @@
 [
     {
-        "open": "11",
-        "close": "11",
-        "date": "2019-01-28",
         "volume": "450000",
+        "date": "2019-01-28",
         "symbol": "GLC",
+        "high": "11",
         "timestamp": "1548633600",
+        "open": "11",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "10.2",
-        "close": "10.2",
-        "date": "2019-01-29",
         "volume": "3000",
+        "date": "2019-01-29",
         "symbol": "GLC",
+        "high": "10.2",
         "timestamp": "1548720000",
+        "open": "10.2",
         "low": "10.2",
-        "high": "10.2"
+        "close": "10.2"
     },
     {
-        "open": "11.7",
-        "close": "11.7",
-        "date": "2019-01-31",
         "volume": "7125000",
+        "date": "2019-01-31",
         "symbol": "GLC",
+        "high": "11.7",
         "timestamp": "1548892800",
+        "open": "11.7",
         "low": "11.7",
-        "high": "11.7"
+        "close": "11.7"
     },
     {
-        "open": "10",
-        "close": "10",
-        "date": "2019-06-07",
         "volume": "675000",
+        "date": "2019-06-07",
         "symbol": "GLC",
+        "high": "10",
         "timestamp": "1559865600",
+        "open": "10",
         "low": "10",
-        "high": "10"
+        "close": "10"
     },
     {
-        "open": "10",
-        "close": "10",
-        "date": "2021-07-01",
         "volume": "100",
+        "date": "2021-07-01",
         "symbol": "GLC",
+        "high": "10",
         "timestamp": "1625097600",
+        "open": "10",
         "low": "10",
-        "high": "10"
+        "close": "10"
     }
 ]

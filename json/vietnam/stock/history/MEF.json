@@ -1,112 +1,112 @@
 [
     {
-        "open": "0.57",
-        "close": "0.57",
         "volume": "100",
-        "symbol": "MEF",
-        "timestamp": "1330041600",
-        "low": "0.57",
         "date": "2012-02-24",
-        "high": "0.57"
+        "symbol": "MEF",
+        "high": "0.57",
+        "timestamp": "1330041600",
+        "open": "0.57",
+        "low": "0.57",
+        "close": "0.57"
     },
     {
-        "open": "0.51",
-        "close": "0.51",
         "volume": "200",
-        "symbol": "MEF",
-        "timestamp": "1330300800",
-        "low": "0.51",
         "date": "2012-02-27",
-        "high": "0.51"
+        "symbol": "MEF",
+        "high": "0.51",
+        "timestamp": "1330300800",
+        "open": "0.51",
+        "low": "0.51",
+        "close": "0.51"
     },
     {
-        "open": "0.46",
-        "close": "0.46",
         "volume": "100",
-        "symbol": "MEF",
-        "timestamp": "1330387200",
-        "low": "0.46",
         "date": "2012-02-28",
-        "high": "0.46"
+        "symbol": "MEF",
+        "high": "0.46",
+        "timestamp": "1330387200",
+        "open": "0.46",
+        "low": "0.46",
+        "close": "0.46"
     },
     {
-        "open": "0.42",
-        "close": "0.42",
         "volume": "100",
-        "symbol": "MEF",
-        "timestamp": "1330473600",
-        "low": "0.42",
         "date": "2012-02-29",
-        "high": "0.42"
+        "symbol": "MEF",
+        "high": "0.42",
+        "timestamp": "1330473600",
+        "open": "0.42",
+        "low": "0.42",
+        "close": "0.42"
     },
     {
-        "open": "0.39",
-        "close": "0.39",
         "volume": "200",
-        "symbol": "MEF",
-        "timestamp": "1330560000",
-        "low": "0.39",
         "date": "2012-03-01",
-        "high": "0.39"
+        "symbol": "MEF",
+        "high": "0.39",
+        "timestamp": "1330560000",
+        "open": "0.39",
+        "low": "0.39",
+        "close": "0.39"
     },
     {
-        "open": "0.36",
-        "close": "0.36",
         "volume": "200",
-        "symbol": "MEF",
-        "timestamp": "1330646400",
-        "low": "0.36",
         "date": "2012-03-02",
-        "high": "0.36"
-    },
-    {
+        "symbol": "MEF",
+        "high": "0.36",
+        "timestamp": "1330646400",
         "open": "0.36",
-        "close": "0.36",
-        "volume": "32300",
-        "symbol": "MEF",
-        "timestamp": "1330992000",
         "low": "0.36",
+        "close": "0.36"
+    },
+    {
+        "volume": "32300",
         "date": "2012-03-06",
-        "high": "0.36"
+        "symbol": "MEF",
+        "high": "0.36",
+        "timestamp": "1330992000",
+        "open": "0.36",
+        "low": "0.36",
+        "close": "0.36"
     },
     {
-        "open": "0.13",
-        "close": "0.13",
         "volume": "10000",
-        "symbol": "MEF",
-        "timestamp": "1338508800",
-        "low": "0.13",
         "date": "2012-06-01",
-        "high": "0.13"
+        "symbol": "MEF",
+        "high": "0.13",
+        "timestamp": "1338508800",
+        "open": "0.13",
+        "low": "0.13",
+        "close": "0.13"
     },
     {
-        "open": "0.9",
-        "close": "0.9",
         "volume": "100",
-        "symbol": "MEF",
-        "timestamp": "1437523200",
-        "low": "0.9",
         "date": "2015-07-22",
-        "high": "0.9"
+        "symbol": "MEF",
+        "high": "0.9",
+        "timestamp": "1437523200",
+        "open": "0.9",
+        "low": "0.9",
+        "close": "0.9"
     },
     {
-        "open": "1.2",
-        "close": "1.2",
         "volume": "100",
-        "symbol": "MEF",
-        "timestamp": "1512691200",
-        "low": "1.2",
         "date": "2017-12-08",
-        "high": "1.2"
+        "symbol": "MEF",
+        "high": "1.2",
+        "timestamp": "1512691200",
+        "open": "1.2",
+        "low": "1.2",
+        "close": "1.2"
     },
     {
-        "open": "1.6",
-        "close": "1.6",
         "volume": "100",
-        "symbol": "MEF",
-        "timestamp": "1556755200",
-        "low": "1.6",
         "date": "2019-05-02",
-        "high": "1.6"
+        "symbol": "MEF",
+        "high": "1.6",
+        "timestamp": "1556755200",
+        "open": "1.6",
+        "low": "1.6",
+        "close": "1.6"
     }
 ]

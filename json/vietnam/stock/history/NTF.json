@@ -1,362 +1,362 @@
 [
     {
-        "open": "21",
-        "close": "21",
         "volume": "1100",
-        "symbol": "NTF",
-        "timestamp": "1565740800",
-        "low": "21",
         "date": "2019-08-14",
-        "high": "21"
+        "symbol": "NTF",
+        "high": "21",
+        "timestamp": "1565740800",
+        "open": "21",
+        "low": "21",
+        "close": "21"
     },
     {
-        "open": "21",
-        "close": "21",
         "volume": "1900",
-        "symbol": "NTF",
-        "timestamp": "1566345600",
-        "low": "21",
         "date": "2019-08-21",
-        "high": "21"
+        "symbol": "NTF",
+        "high": "21",
+        "timestamp": "1566345600",
+        "open": "21",
+        "low": "21",
+        "close": "21"
     },
     {
-        "open": "21",
-        "close": "21",
         "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1573430400",
-        "low": "21",
         "date": "2019-11-11",
-        "high": "21"
-    },
-    {
-        "open": "24.1",
-        "close": "24",
-        "volume": "4400",
         "symbol": "NTF",
-        "timestamp": "1574726400",
-        "low": "24",
-        "date": "2019-11-26",
-        "high": "24.1"
-    },
-    {
-        "open": "25",
-        "close": "27",
-        "volume": "2800",
-        "symbol": "NTF",
-        "timestamp": "1576540800",
-        "low": "25",
-        "date": "2019-12-17",
-        "high": "27"
-    },
-    {
-        "open": "29",
-        "close": "29",
-        "volume": "5000",
-        "symbol": "NTF",
-        "timestamp": "1576627200",
-        "low": "29",
-        "date": "2019-12-18",
-        "high": "29"
-    },
-    {
-        "open": "29",
-        "close": "29",
-        "volume": "1800",
-        "symbol": "NTF",
-        "timestamp": "1577145600",
-        "low": "29",
-        "date": "2019-12-24",
-        "high": "29"
-    },
-    {
-        "open": "33",
-        "close": "33",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1577318400",
-        "low": "33",
-        "date": "2019-12-26",
-        "high": "33"
-    },
-    {
-        "open": "37.5",
-        "close": "37.5",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1577404800",
-        "low": "37.5",
-        "date": "2019-12-27",
-        "high": "37.5"
-    },
-    {
-        "open": "42.8",
-        "close": "42.8",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1577664000",
-        "low": "42.8",
-        "date": "2019-12-30",
-        "high": "42.8"
-    },
-    {
-        "open": "49",
-        "close": "49",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1577750400",
-        "low": "49",
-        "date": "2019-12-31",
-        "high": "49"
-    },
-    {
-        "open": "30",
-        "close": "30",
-        "volume": "180000",
-        "symbol": "NTF",
-        "timestamp": "1584403200",
-        "low": "30",
-        "date": "2020-03-17",
-        "high": "30"
-    },
-    {
-        "open": "25",
-        "close": "25",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1601942400",
-        "low": "25",
-        "date": "2020-10-06",
-        "high": "25"
-    },
-    {
-        "open": "25",
-        "close": "25",
-        "volume": "1000",
-        "symbol": "NTF",
-        "timestamp": "1615852800",
-        "low": "25",
-        "date": "2021-03-16",
-        "high": "25"
-    },
-    {
-        "open": "30",
-        "close": "30",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1623974400",
-        "low": "30",
-        "date": "2021-06-18",
-        "high": "30"
-    },
-    {
-        "open": "25.5",
-        "close": "25.5",
-        "volume": "1000",
-        "symbol": "NTF",
-        "timestamp": "1625702400",
-        "low": "25.5",
-        "date": "2021-07-08",
-        "high": "25.5"
-    },
-    {
-        "open": "29.3",
-        "close": "29.3",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1626048000",
-        "low": "29.3",
-        "date": "2021-07-12",
-        "high": "29.3"
-    },
-    {
-        "open": "33.6",
-        "close": "33.6",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1626134400",
-        "low": "33.6",
-        "date": "2021-07-13",
-        "high": "33.6"
-    },
-    {
-        "open": "34.4",
-        "close": "34.4",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1626220800",
-        "low": "34.4",
-        "date": "2021-07-14",
-        "high": "34.4"
-    },
-    {
-        "open": "39.5",
-        "close": "35",
-        "volume": "1100",
-        "symbol": "NTF",
-        "timestamp": "1626307200",
-        "low": "35",
-        "date": "2021-07-15",
-        "high": "39.5"
-    },
-    {
-        "open": "40.7",
-        "close": "40.7",
-        "volume": "2200",
-        "symbol": "NTF",
-        "timestamp": "1626393600",
-        "low": "40.7",
-        "date": "2021-07-16",
-        "high": "40.7"
-    },
-    {
-        "open": "30",
-        "close": "30",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1635379200",
-        "low": "30",
-        "date": "2021-10-28",
-        "high": "30"
-    },
-    {
-        "open": "30",
-        "close": "25.6",
-        "volume": "2900",
-        "symbol": "NTF",
-        "timestamp": "1635465600",
-        "low": "25.5",
-        "date": "2021-10-29",
-        "high": "30"
-    },
-    {
-        "open": "25.7",
-        "close": "25.7",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1635811200",
-        "low": "25.7",
-        "date": "2021-11-02",
-        "high": "25.7"
-    },
-    {
-        "open": "25.6",
-        "close": "25.6",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1635897600",
-        "low": "25.6",
-        "date": "2021-11-03",
-        "high": "25.6"
-    },
-    {
-        "open": "22",
-        "close": "22",
-        "volume": "1000",
-        "symbol": "NTF",
-        "timestamp": "1636502400",
-        "low": "22",
-        "date": "2021-11-10",
-        "high": "22"
-    },
-    {
-        "open": "22",
-        "close": "22",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1637193600",
-        "low": "22",
-        "date": "2021-11-18",
-        "high": "22"
-    },
-    {
-        "open": "18.7",
-        "close": "18.7",
-        "volume": "3000",
-        "symbol": "NTF",
-        "timestamp": "1638835200",
-        "low": "18.7",
-        "date": "2021-12-07",
-        "high": "18.7"
-    },
-    {
-        "open": "18.7",
-        "close": "18.7",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1641340800",
-        "low": "18.7",
-        "date": "2022-01-05",
-        "high": "18.7"
-    },
-    {
-        "open": "18.7",
-        "close": "18.7",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1642032000",
-        "low": "18.7",
-        "date": "2022-01-13",
-        "high": "18.7"
-    },
-    {
-        "open": "18.7",
-        "close": "18.7",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1656288000",
-        "low": "18.7",
-        "date": "2022-06-27",
-        "high": "18.7"
-    },
-    {
-        "open": "18.7",
-        "close": "18.7",
-        "volume": "908125",
-        "symbol": "NTF",
-        "timestamp": "1656374400",
-        "low": "18.7",
-        "date": "2022-06-28",
-        "high": "18.7"
-    },
-    {
-        "open": "21.5",
-        "close": "21.5",
-        "volume": "900",
-        "symbol": "NTF",
-        "timestamp": "1658448000",
-        "low": "21.5",
-        "date": "2022-07-22",
-        "high": "21.5"
-    },
-    {
-        "open": "24.7",
-        "close": "24.7",
-        "volume": "100",
-        "symbol": "NTF",
-        "timestamp": "1658793600",
-        "low": "24.7",
-        "date": "2022-07-26",
-        "high": "24.7"
-    },
-    {
-        "open": "24.7",
-        "close": "24.7",
-        "volume": "1418580",
-        "symbol": "NTF",
-        "timestamp": "1659312000",
-        "low": "24.7",
-        "date": "2022-08-01",
-        "high": "24.7"
-    },
-    {
+        "high": "21",
+        "timestamp": "1573430400",
         "open": "21",
-        "close": "21",
-        "volume": "1800",
-        "symbol": "NTF",
-        "timestamp": "1660780800",
         "low": "21",
+        "close": "21"
+    },
+    {
+        "volume": "4400",
+        "date": "2019-11-26",
+        "symbol": "NTF",
+        "high": "24.1",
+        "timestamp": "1574726400",
+        "open": "24.1",
+        "low": "24",
+        "close": "24"
+    },
+    {
+        "volume": "2800",
+        "date": "2019-12-17",
+        "symbol": "NTF",
+        "high": "27",
+        "timestamp": "1576540800",
+        "open": "25",
+        "low": "25",
+        "close": "27"
+    },
+    {
+        "volume": "5000",
+        "date": "2019-12-18",
+        "symbol": "NTF",
+        "high": "29",
+        "timestamp": "1576627200",
+        "open": "29",
+        "low": "29",
+        "close": "29"
+    },
+    {
+        "volume": "1800",
+        "date": "2019-12-24",
+        "symbol": "NTF",
+        "high": "29",
+        "timestamp": "1577145600",
+        "open": "29",
+        "low": "29",
+        "close": "29"
+    },
+    {
+        "volume": "100",
+        "date": "2019-12-26",
+        "symbol": "NTF",
+        "high": "33",
+        "timestamp": "1577318400",
+        "open": "33",
+        "low": "33",
+        "close": "33"
+    },
+    {
+        "volume": "100",
+        "date": "2019-12-27",
+        "symbol": "NTF",
+        "high": "37.5",
+        "timestamp": "1577404800",
+        "open": "37.5",
+        "low": "37.5",
+        "close": "37.5"
+    },
+    {
+        "volume": "100",
+        "date": "2019-12-30",
+        "symbol": "NTF",
+        "high": "42.8",
+        "timestamp": "1577664000",
+        "open": "42.8",
+        "low": "42.8",
+        "close": "42.8"
+    },
+    {
+        "volume": "100",
+        "date": "2019-12-31",
+        "symbol": "NTF",
+        "high": "49",
+        "timestamp": "1577750400",
+        "open": "49",
+        "low": "49",
+        "close": "49"
+    },
+    {
+        "volume": "180000",
+        "date": "2020-03-17",
+        "symbol": "NTF",
+        "high": "30",
+        "timestamp": "1584403200",
+        "open": "30",
+        "low": "30",
+        "close": "30"
+    },
+    {
+        "volume": "100",
+        "date": "2020-10-06",
+        "symbol": "NTF",
+        "high": "25",
+        "timestamp": "1601942400",
+        "open": "25",
+        "low": "25",
+        "close": "25"
+    },
+    {
+        "volume": "1000",
+        "date": "2021-03-16",
+        "symbol": "NTF",
+        "high": "25",
+        "timestamp": "1615852800",
+        "open": "25",
+        "low": "25",
+        "close": "25"
+    },
+    {
+        "volume": "100",
+        "date": "2021-06-18",
+        "symbol": "NTF",
+        "high": "30",
+        "timestamp": "1623974400",
+        "open": "30",
+        "low": "30",
+        "close": "30"
+    },
+    {
+        "volume": "1000",
+        "date": "2021-07-08",
+        "symbol": "NTF",
+        "high": "25.5",
+        "timestamp": "1625702400",
+        "open": "25.5",
+        "low": "25.5",
+        "close": "25.5"
+    },
+    {
+        "volume": "100",
+        "date": "2021-07-12",
+        "symbol": "NTF",
+        "high": "29.3",
+        "timestamp": "1626048000",
+        "open": "29.3",
+        "low": "29.3",
+        "close": "29.3"
+    },
+    {
+        "volume": "100",
+        "date": "2021-07-13",
+        "symbol": "NTF",
+        "high": "33.6",
+        "timestamp": "1626134400",
+        "open": "33.6",
+        "low": "33.6",
+        "close": "33.6"
+    },
+    {
+        "volume": "100",
+        "date": "2021-07-14",
+        "symbol": "NTF",
+        "high": "34.4",
+        "timestamp": "1626220800",
+        "open": "34.4",
+        "low": "34.4",
+        "close": "34.4"
+    },
+    {
+        "volume": "1100",
+        "date": "2021-07-15",
+        "symbol": "NTF",
+        "high": "39.5",
+        "timestamp": "1626307200",
+        "open": "39.5",
+        "low": "35",
+        "close": "35"
+    },
+    {
+        "volume": "2200",
+        "date": "2021-07-16",
+        "symbol": "NTF",
+        "high": "40.7",
+        "timestamp": "1626393600",
+        "open": "40.7",
+        "low": "40.7",
+        "close": "40.7"
+    },
+    {
+        "volume": "100",
+        "date": "2021-10-28",
+        "symbol": "NTF",
+        "high": "30",
+        "timestamp": "1635379200",
+        "open": "30",
+        "low": "30",
+        "close": "30"
+    },
+    {
+        "volume": "2900",
+        "date": "2021-10-29",
+        "symbol": "NTF",
+        "high": "30",
+        "timestamp": "1635465600",
+        "open": "30",
+        "low": "25.5",
+        "close": "25.6"
+    },
+    {
+        "volume": "100",
+        "date": "2021-11-02",
+        "symbol": "NTF",
+        "high": "25.7",
+        "timestamp": "1635811200",
+        "open": "25.7",
+        "low": "25.7",
+        "close": "25.7"
+    },
+    {
+        "volume": "100",
+        "date": "2021-11-03",
+        "symbol": "NTF",
+        "high": "25.6",
+        "timestamp": "1635897600",
+        "open": "25.6",
+        "low": "25.6",
+        "close": "25.6"
+    },
+    {
+        "volume": "1000",
+        "date": "2021-11-10",
+        "symbol": "NTF",
+        "high": "22",
+        "timestamp": "1636502400",
+        "open": "22",
+        "low": "22",
+        "close": "22"
+    },
+    {
+        "volume": "100",
+        "date": "2021-11-18",
+        "symbol": "NTF",
+        "high": "22",
+        "timestamp": "1637193600",
+        "open": "22",
+        "low": "22",
+        "close": "22"
+    },
+    {
+        "volume": "3000",
+        "date": "2021-12-07",
+        "symbol": "NTF",
+        "high": "18.7",
+        "timestamp": "1638835200",
+        "open": "18.7",
+        "low": "18.7",
+        "close": "18.7"
+    },
+    {
+        "volume": "100",
+        "date": "2022-01-05",
+        "symbol": "NTF",
+        "high": "18.7",
+        "timestamp": "1641340800",
+        "open": "18.7",
+        "low": "18.7",
+        "close": "18.7"
+    },
+    {
+        "volume": "100",
+        "date": "2022-01-13",
+        "symbol": "NTF",
+        "high": "18.7",
+        "timestamp": "1642032000",
+        "open": "18.7",
+        "low": "18.7",
+        "close": "18.7"
+    },
+    {
+        "volume": "100",
+        "date": "2022-06-27",
+        "symbol": "NTF",
+        "high": "18.7",
+        "timestamp": "1656288000",
+        "open": "18.7",
+        "low": "18.7",
+        "close": "18.7"
+    },
+    {
+        "volume": "908125",
+        "date": "2022-06-28",
+        "symbol": "NTF",
+        "high": "18.7",
+        "timestamp": "1656374400",
+        "open": "18.7",
+        "low": "18.7",
+        "close": "18.7"
+    },
+    {
+        "volume": "900",
+        "date": "2022-07-22",
+        "symbol": "NTF",
+        "high": "21.5",
+        "timestamp": "1658448000",
+        "open": "21.5",
+        "low": "21.5",
+        "close": "21.5"
+    },
+    {
+        "volume": "100",
+        "date": "2022-07-26",
+        "symbol": "NTF",
+        "high": "24.7",
+        "timestamp": "1658793600",
+        "open": "24.7",
+        "low": "24.7",
+        "close": "24.7"
+    },
+    {
+        "volume": "1418580",
+        "date": "2022-08-01",
+        "symbol": "NTF",
+        "high": "24.7",
+        "timestamp": "1659312000",
+        "open": "24.7",
+        "low": "24.7",
+        "close": "24.7"
+    },
+    {
+        "volume": "1800",
         "date": "2022-08-18",
-        "high": "21"
+        "symbol": "NTF",
+        "high": "21",
+        "timestamp": "1660780800",
+        "open": "21",
+        "low": "21",
+        "close": "21"
     }
 ]

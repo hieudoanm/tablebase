@@ -1,62 +1,62 @@
 [
     {
-        "open": "12.03",
-        "close": "12.03",
+        "volume": "100",
         "date": "2019-10-21",
-        "volume": "100",
         "symbol": "BHG",
+        "high": "12.03",
         "timestamp": "1571616000",
+        "open": "12.03",
         "low": "12.03",
-        "high": "12.03"
+        "close": "12.03"
     },
     {
-        "open": "10.24",
-        "close": "10.24",
-        "date": "2021-02-03",
         "volume": "140000",
+        "date": "2021-02-03",
         "symbol": "BHG",
+        "high": "10.24",
         "timestamp": "1612310400",
+        "open": "10.24",
         "low": "10.24",
-        "high": "10.24"
+        "close": "10.24"
     },
     {
-        "open": "11",
-        "close": "11",
+        "volume": "100",
         "date": "2021-11-26",
-        "volume": "100",
         "symbol": "BHG",
+        "high": "11",
         "timestamp": "1637884800",
+        "open": "11",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "10.5",
-        "close": "10.5",
-        "date": "2021-11-30",
         "volume": "200",
+        "date": "2021-11-30",
         "symbol": "BHG",
+        "high": "10.5",
         "timestamp": "1638230400",
+        "open": "10.5",
         "low": "10.5",
-        "high": "10.5"
+        "close": "10.5"
     },
     {
-        "open": "11.9",
-        "close": "11.9",
+        "volume": "100",
         "date": "2021-12-03",
-        "volume": "100",
         "symbol": "BHG",
+        "high": "11.9",
         "timestamp": "1638489600",
+        "open": "11.9",
         "low": "11.9",
-        "high": "11.9"
+        "close": "11.9"
     },
     {
-        "open": "13.5",
-        "close": "13.5",
-        "date": "2021-12-14",
         "volume": "100",
+        "date": "2021-12-14",
         "symbol": "BHG",
+        "high": "13.5",
         "timestamp": "1639440000",
+        "open": "13.5",
         "low": "13.5",
-        "high": "13.5"
+        "close": "13.5"
     }
 ]

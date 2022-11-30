@@ -1,2142 +1,2302 @@
 [
     {
-        "open": "13.01",
-        "close": "13.01",
         "volume": "75900",
-        "symbol": "NXT",
-        "timestamp": "1639008000",
-        "low": "11.85",
         "date": "2021-12-09",
-        "high": "13.01"
-    },
-    {
-        "open": "14.64",
-        "close": "14.64",
-        "volume": "44700",
         "symbol": "NXT",
-        "timestamp": "1639094400",
-        "low": "14.64",
-        "date": "2021-12-10",
-        "high": "14.64"
-    },
-    {
-        "open": "16.8",
-        "close": "16.8",
-        "volume": "37400",
-        "symbol": "NXT",
-        "timestamp": "1639353600",
-        "low": "16.8",
-        "date": "2021-12-13",
-        "high": "16.8"
-    },
-    {
-        "open": "19.28",
-        "close": "19.28",
-        "volume": "29100",
-        "symbol": "NXT",
-        "timestamp": "1639440000",
-        "low": "16.73",
-        "date": "2021-12-14",
-        "high": "19.28"
-    },
-    {
-        "open": "21.84",
-        "close": "16.26",
-        "volume": "38000",
-        "symbol": "NXT",
-        "timestamp": "1639526400",
-        "low": "16.26",
-        "date": "2021-12-15",
-        "high": "21.84"
-    },
-    {
-        "open": "17.19",
-        "close": "17.19",
-        "volume": "400",
-        "symbol": "NXT",
-        "timestamp": "1639699200",
-        "low": "17.19",
-        "date": "2021-12-17",
-        "high": "17.19"
-    },
-    {
-        "open": "14.64",
-        "close": "14.64",
-        "volume": "300",
-        "symbol": "NXT",
-        "timestamp": "1639958400",
-        "low": "14.64",
-        "date": "2021-12-20",
-        "high": "14.64"
-    },
-    {
-        "open": "12.47",
-        "close": "12.47",
-        "volume": "2600",
-        "symbol": "NXT",
-        "timestamp": "1640044800",
-        "low": "12.47",
-        "date": "2021-12-21",
-        "high": "12.47"
-    },
-    {
-        "open": "10.61",
-        "close": "12.47",
-        "volume": "282700",
-        "symbol": "NXT",
-        "timestamp": "1640131200",
-        "low": "10.61",
-        "date": "2021-12-22",
-        "high": "13.01"
-    },
-    {
-        "open": "12.47",
-        "close": "11.23",
-        "volume": "74300",
-        "symbol": "NXT",
-        "timestamp": "1640217600",
-        "low": "10.84",
-        "date": "2021-12-23",
-        "high": "12.47"
-    },
-    {
-        "open": "12.31",
-        "close": "10.45",
-        "volume": "35400",
-        "symbol": "NXT",
-        "timestamp": "1640304000",
-        "low": "9.91",
-        "date": "2021-12-24",
-        "high": "12.39"
-    },
-    {
-        "open": "8.67",
-        "close": "10.22",
-        "volume": "169400",
-        "symbol": "NXT",
-        "timestamp": "1640563200",
-        "low": "8.67",
-        "date": "2021-12-27",
-        "high": "10.22"
-    },
-    {
-        "open": "10.22",
-        "close": "9.91",
-        "volume": "25800",
-        "symbol": "NXT",
-        "timestamp": "1640649600",
-        "low": "8.75",
-        "date": "2021-12-28",
-        "high": "10.22"
-    },
-    {
-        "open": "9.91",
-        "close": "8.75",
-        "volume": "24300",
-        "symbol": "NXT",
-        "timestamp": "1640736000",
-        "low": "8.6",
-        "date": "2021-12-29",
-        "high": "9.91"
-    },
-    {
-        "open": "8.6",
-        "close": "9.21",
-        "volume": "33300",
-        "symbol": "NXT",
-        "timestamp": "1640822400",
-        "low": "8.44",
-        "date": "2021-12-30",
-        "high": "9.21"
-    },
-    {
-        "open": "8.67",
-        "close": "8.91",
-        "volume": "31300",
-        "symbol": "NXT",
-        "timestamp": "1640908800",
-        "low": "8.52",
-        "date": "2021-12-31",
-        "high": "8.98"
-    },
-    {
-        "open": "9.21",
-        "close": "9.37",
-        "volume": "15300",
-        "symbol": "NXT",
-        "timestamp": "1641254400",
-        "low": "9.14",
-        "date": "2022-01-04",
-        "high": "9.53"
-    },
-    {
-        "open": "8.91",
-        "close": "8.91",
-        "volume": "12100",
-        "symbol": "NXT",
-        "timestamp": "1641340800",
-        "low": "8.91",
-        "date": "2022-01-05",
-        "high": "8.98"
-    },
-    {
-        "open": "8.91",
-        "close": "9.29",
-        "volume": "6400",
-        "symbol": "NXT",
-        "timestamp": "1641427200",
-        "low": "8.91",
-        "date": "2022-01-06",
-        "high": "9.29"
-    },
-    {
-        "open": "8.98",
-        "close": "8.98",
-        "volume": "11900",
-        "symbol": "NXT",
-        "timestamp": "1641513600",
-        "low": "8.83",
-        "date": "2022-01-07",
-        "high": "9.06"
-    },
-    {
-        "open": "8.91",
-        "close": "8.91",
-        "volume": "16800",
-        "symbol": "NXT",
-        "timestamp": "1641772800",
-        "low": "8.67",
-        "date": "2022-01-10",
-        "high": "9.21"
-    },
-    {
-        "open": "8.91",
-        "close": "9.21",
-        "volume": "7100",
-        "symbol": "NXT",
-        "timestamp": "1641859200",
-        "low": "8.83",
-        "date": "2022-01-11",
-        "high": "9.21"
-    },
-    {
-        "open": "8.91",
-        "close": "9.14",
-        "volume": "12100",
-        "symbol": "NXT",
-        "timestamp": "1641945600",
-        "low": "8.91",
-        "date": "2022-01-12",
-        "high": "9.14"
-    },
-    {
-        "open": "9.06",
-        "close": "9.06",
-        "volume": "4900",
-        "symbol": "NXT",
-        "timestamp": "1642032000",
-        "low": "8.98",
-        "date": "2022-01-13",
-        "high": "9.06"
-    },
-    {
-        "open": "8.98",
-        "close": "8.91",
-        "volume": "4800",
-        "symbol": "NXT",
-        "timestamp": "1642118400",
-        "low": "8.91",
-        "date": "2022-01-14",
-        "high": "8.98"
-    },
-    {
-        "open": "9.06",
-        "close": "9.06",
-        "volume": "6700",
-        "symbol": "NXT",
-        "timestamp": "1642377600",
-        "low": "8.98",
-        "date": "2022-01-17",
-        "high": "9.06"
-    },
-    {
-        "open": "8.98",
-        "close": "9.06",
-        "volume": "5001",
-        "symbol": "NXT",
-        "timestamp": "1642464000",
-        "low": "8.91",
-        "date": "2022-01-18",
-        "high": "9.06"
-    },
-    {
-        "open": "8.98",
-        "close": "9.14",
-        "volume": "3300",
-        "symbol": "NXT",
-        "timestamp": "1642550400",
-        "low": "8.98",
-        "date": "2022-01-19",
-        "high": "9.14"
-    },
-    {
-        "open": "9.06",
-        "close": "8.98",
-        "volume": "10500",
-        "symbol": "NXT",
-        "timestamp": "1642636800",
-        "low": "8.91",
-        "date": "2022-01-20",
-        "high": "9.06"
-    },
-    {
-        "open": "9.06",
-        "close": "9.06",
-        "volume": "5910",
-        "symbol": "NXT",
-        "timestamp": "1642723200",
-        "low": "9.06",
-        "date": "2022-01-21",
-        "high": "9.06"
-    },
-    {
-        "open": "9.06",
-        "close": "9.06",
-        "volume": "7800",
-        "symbol": "NXT",
-        "timestamp": "1642982400",
-        "low": "9.06",
-        "date": "2022-01-24",
-        "high": "9.06"
-    },
-    {
-        "open": "9.06",
-        "close": "9.06",
-        "volume": "6700",
-        "symbol": "NXT",
-        "timestamp": "1643068800",
-        "low": "8.98",
-        "date": "2022-01-25",
-        "high": "9.29"
-    },
-    {
-        "open": "9.06",
-        "close": "9.06",
-        "volume": "1339",
-        "symbol": "NXT",
-        "timestamp": "1643155200",
-        "low": "9.06",
-        "date": "2022-01-26",
-        "high": "9.06"
-    },
-    {
-        "open": "10.38",
-        "close": "9.14",
-        "volume": "4900",
-        "symbol": "NXT",
-        "timestamp": "1643241600",
-        "low": "8.98",
-        "date": "2022-01-27",
-        "high": "10.38"
-    },
-    {
-        "open": "9.14",
-        "close": "9.14",
-        "volume": "3800",
-        "symbol": "NXT",
-        "timestamp": "1643328000",
-        "low": "9.14",
-        "date": "2022-01-28",
-        "high": "9.29"
-    },
-    {
-        "open": "9.29",
-        "close": "9.29",
-        "volume": "100",
-        "symbol": "NXT",
-        "timestamp": "1644192000",
-        "low": "9.29",
-        "date": "2022-02-07",
-        "high": "9.29"
-    },
-    {
-        "open": "9.21",
-        "close": "9.14",
-        "volume": "2200",
-        "symbol": "NXT",
-        "timestamp": "1644278400",
-        "low": "9.14",
-        "date": "2022-02-08",
-        "high": "9.21"
-    },
-    {
-        "open": "9.21",
-        "close": "9.21",
-        "volume": "1300",
-        "symbol": "NXT",
-        "timestamp": "1644364800",
-        "low": "9.21",
-        "date": "2022-02-09",
-        "high": "9.21"
-    },
-    {
-        "open": "9.21",
-        "close": "9.21",
-        "volume": "2200",
-        "symbol": "NXT",
-        "timestamp": "1644451200",
-        "low": "9.21",
-        "date": "2022-02-10",
-        "high": "9.21"
-    },
-    {
-        "open": "9.21",
-        "close": "9.06",
-        "volume": "6000",
-        "symbol": "NXT",
-        "timestamp": "1644537600",
-        "low": "9.06",
-        "date": "2022-02-11",
-        "high": "9.21"
-    },
-    {
-        "open": "9.14",
-        "close": "9.14",
-        "volume": "6000",
-        "symbol": "NXT",
-        "timestamp": "1644796800",
-        "low": "9.06",
-        "date": "2022-02-14",
-        "high": "9.29"
-    },
-    {
-        "open": "9.14",
-        "close": "9.14",
-        "volume": "2200",
-        "symbol": "NXT",
-        "timestamp": "1644883200",
-        "low": "9.14",
-        "date": "2022-02-15",
-        "high": "9.29"
-    },
-    {
-        "open": "9.14",
-        "close": "9.14",
-        "volume": "9800",
-        "symbol": "NXT",
-        "timestamp": "1644969600",
-        "low": "8.98",
-        "date": "2022-02-16",
-        "high": "9.14"
-    },
-    {
-        "open": "9.21",
-        "close": "9.06",
-        "volume": "4100",
-        "symbol": "NXT",
-        "timestamp": "1645056000",
-        "low": "9.06",
-        "date": "2022-02-17",
-        "high": "9.21"
-    },
-    {
-        "open": "9.14",
-        "close": "9.14",
-        "volume": "2100",
-        "symbol": "NXT",
-        "timestamp": "1645488000",
-        "low": "9.14",
-        "date": "2022-02-22",
-        "high": "9.14"
-    },
-    {
-        "open": "9.29",
-        "close": "9.84",
-        "volume": "52400",
-        "symbol": "NXT",
-        "timestamp": "1645574400",
-        "low": "9.29",
-        "date": "2022-02-23",
-        "high": "9.91"
-    },
-    {
-        "open": "9.68",
-        "close": "9.84",
-        "volume": "14000",
-        "symbol": "NXT",
-        "timestamp": "1645660800",
-        "low": "9.68",
-        "date": "2022-02-24",
-        "high": "9.91"
-    },
-    {
-        "open": "9.84",
-        "close": "9.84",
-        "volume": "1800",
-        "symbol": "NXT",
-        "timestamp": "1645747200",
-        "low": "9.84",
-        "date": "2022-02-25",
-        "high": "9.84"
-    },
-    {
-        "open": "9.84",
-        "close": "9.76",
-        "volume": "10600",
-        "symbol": "NXT",
-        "timestamp": "1646006400",
-        "low": "9.76",
-        "date": "2022-02-28",
-        "high": "9.84"
-    },
-    {
-        "open": "9.84",
-        "close": "9.84",
-        "volume": "4502",
-        "symbol": "NXT",
-        "timestamp": "1646092800",
-        "low": "9.76",
-        "date": "2022-03-01",
-        "high": "9.84"
-    },
-    {
-        "open": "9.84",
-        "close": "9.91",
-        "volume": "1500",
-        "symbol": "NXT",
-        "timestamp": "1646179200",
-        "low": "9.84",
-        "date": "2022-03-02",
-        "high": "9.91"
-    },
-    {
-        "open": "9.84",
-        "close": "9.84",
-        "volume": "5300",
-        "symbol": "NXT",
-        "timestamp": "1646265600",
-        "low": "9.84",
-        "date": "2022-03-03",
-        "high": "9.84"
-    },
-    {
-        "open": "9.84",
-        "close": "9.84",
-        "volume": "4600",
-        "symbol": "NXT",
-        "timestamp": "1646352000",
-        "low": "9.84",
-        "date": "2022-03-04",
-        "high": "9.84"
-    },
-    {
-        "open": "9.84",
-        "close": "9.91",
-        "volume": "3700",
-        "symbol": "NXT",
-        "timestamp": "1646611200",
-        "low": "9.84",
-        "date": "2022-03-07",
-        "high": "9.91"
-    },
-    {
-        "open": "9.99",
-        "close": "9.91",
-        "volume": "6600",
-        "symbol": "NXT",
-        "timestamp": "1646697600",
-        "low": "9.91",
-        "date": "2022-03-08",
-        "high": "10.07"
-    },
-    {
-        "open": "9.99",
-        "close": "9.99",
-        "volume": "4700",
-        "symbol": "NXT",
-        "timestamp": "1646956800",
-        "low": "9.91",
-        "date": "2022-03-11",
-        "high": "9.99"
-    },
-    {
-        "open": "9.99",
-        "close": "9.99",
-        "volume": "3500",
-        "symbol": "NXT",
-        "timestamp": "1647216000",
-        "low": "9.91",
-        "date": "2022-03-14",
-        "high": "9.99"
-    },
-    {
-        "open": "9.99",
-        "close": "9.99",
-        "volume": "1200",
-        "symbol": "NXT",
-        "timestamp": "1647475200",
-        "low": "9.99",
-        "date": "2022-03-17",
-        "high": "9.99"
-    },
-    {
-        "open": "9.99",
-        "close": "9.99",
-        "volume": "15800",
-        "symbol": "NXT",
-        "timestamp": "1647820800",
-        "low": "9.91",
-        "date": "2022-03-21",
-        "high": "9.99"
-    },
-    {
-        "open": "9.99",
-        "close": "9.99",
-        "volume": "3500",
-        "symbol": "NXT",
-        "timestamp": "1647907200",
-        "low": "9.91",
-        "date": "2022-03-22",
-        "high": "9.99"
-    },
-    {
-        "open": "9.99",
-        "close": "9.99",
-        "volume": "200",
-        "symbol": "NXT",
-        "timestamp": "1647993600",
-        "low": "9.99",
-        "date": "2022-03-23",
-        "high": "9.99"
-    },
-    {
-        "open": "9.99",
-        "close": "9.99",
-        "volume": "13000",
-        "symbol": "NXT",
-        "timestamp": "1648080000",
-        "low": "9.99",
-        "date": "2022-03-24",
-        "high": "9.99"
-    },
-    {
-        "open": "9.99",
-        "close": "10.07",
-        "volume": "6100",
-        "symbol": "NXT",
-        "timestamp": "1648425600",
-        "low": "9.99",
-        "date": "2022-03-28",
-        "high": "10.07"
-    },
-    {
-        "open": "10.07",
-        "close": "10.3",
-        "volume": "10700",
-        "symbol": "NXT",
-        "timestamp": "1648598400",
-        "low": "9.99",
-        "date": "2022-03-30",
-        "high": "10.3"
-    },
-    {
-        "open": "10.3",
-        "close": "11.62",
-        "volume": "75900",
-        "symbol": "NXT",
-        "timestamp": "1648684800",
-        "low": "10.3",
-        "date": "2022-03-31",
-        "high": "11.62"
-    },
-    {
-        "open": "12.54",
-        "close": "12.54",
-        "volume": "30700",
-        "symbol": "NXT",
-        "timestamp": "1648771200",
-        "low": "12.39",
-        "date": "2022-04-01",
-        "high": "12.54"
-    },
-    {
-        "open": "13.94",
-        "close": "12.54",
-        "volume": "55400",
-        "symbol": "NXT",
-        "timestamp": "1649030400",
-        "low": "12.54",
-        "date": "2022-04-04",
-        "high": "14.4"
-    },
-    {
-        "open": "12.78",
-        "close": "11.85",
-        "volume": "11500",
-        "symbol": "NXT",
-        "timestamp": "1649116800",
+        "high": "13.01",
+        "timestamp": "1639008000",
+        "open": "13.01",
         "low": "11.85",
-        "date": "2022-04-05",
-        "high": "12.78"
+        "close": "13.01"
     },
     {
-        "open": "10.38",
-        "close": "10.38",
-        "volume": "47700",
+        "volume": "44700",
+        "date": "2021-12-10",
         "symbol": "NXT",
-        "timestamp": "1649203200",
-        "low": "10.38",
-        "date": "2022-04-06",
-        "high": "12"
+        "high": "14.64",
+        "timestamp": "1639094400",
+        "open": "14.64",
+        "low": "14.64",
+        "close": "14.64"
     },
     {
-        "open": "10.22",
-        "close": "10.38",
-        "volume": "7500",
+        "volume": "37400",
+        "date": "2021-12-13",
         "symbol": "NXT",
-        "timestamp": "1649289600",
-        "low": "10.22",
-        "date": "2022-04-07",
-        "high": "10.92"
-    },
-    {
-        "open": "10.38",
-        "close": "10.38",
-        "volume": "12700",
-        "symbol": "NXT",
-        "timestamp": "1649376000",
-        "low": "10.38",
-        "date": "2022-04-08",
-        "high": "10.38"
-    },
-    {
-        "open": "10.38",
-        "close": "10.45",
-        "volume": "1800",
-        "symbol": "NXT",
-        "timestamp": "1649721600",
-        "low": "10.38",
-        "date": "2022-04-12",
-        "high": "10.76"
-    },
-    {
-        "open": "10.76",
-        "close": "10.76",
-        "volume": "7100",
-        "symbol": "NXT",
-        "timestamp": "1649808000",
-        "low": "10.53",
-        "date": "2022-04-13",
-        "high": "10.92"
-    },
-    {
-        "open": "10.61",
-        "close": "11.15",
-        "volume": "14900",
-        "symbol": "NXT",
-        "timestamp": "1649894400",
-        "low": "10.38",
-        "date": "2022-04-14",
-        "high": "11.15"
-    },
-    {
-        "open": "10.84",
-        "close": "10.69",
-        "volume": "13400",
-        "symbol": "NXT",
-        "timestamp": "1649980800",
-        "low": "10.69",
-        "date": "2022-04-15",
-        "high": "11.15"
-    },
-    {
-        "open": "11.15",
-        "close": "11",
-        "volume": "1600",
-        "symbol": "NXT",
-        "timestamp": "1650240000",
-        "low": "10.84",
-        "date": "2022-04-18",
-        "high": "11.15"
-    },
-    {
-        "open": "10.84",
-        "close": "11.31",
-        "volume": "15100",
-        "symbol": "NXT",
-        "timestamp": "1650326400",
-        "low": "10.76",
-        "date": "2022-04-19",
-        "high": "11.31"
-    },
-    {
-        "open": "10.92",
-        "close": "10.92",
-        "volume": "1700",
-        "symbol": "NXT",
-        "timestamp": "1650412800",
-        "low": "10.92",
-        "date": "2022-04-20",
-        "high": "11.23"
-    },
-    {
-        "open": "11",
-        "close": "11.38",
-        "volume": "4000",
-        "symbol": "NXT",
-        "timestamp": "1650499200",
-        "low": "11",
-        "date": "2022-04-21",
-        "high": "11.38"
-    },
-    {
-        "open": "11.38",
-        "close": "11.54",
-        "volume": "6101",
-        "symbol": "NXT",
-        "timestamp": "1650585600",
-        "low": "11.38",
-        "date": "2022-04-22",
-        "high": "11.54"
-    },
-    {
-        "open": "11.54",
-        "close": "10.07",
-        "volume": "28900",
-        "symbol": "NXT",
-        "timestamp": "1650844800",
-        "low": "10.07",
-        "date": "2022-04-25",
-        "high": "11.62"
-    },
-    {
-        "open": "10.69",
-        "close": "10.53",
-        "volume": "6500",
-        "symbol": "NXT",
-        "timestamp": "1650931200",
-        "low": "10.53",
-        "date": "2022-04-26",
-        "high": "10.69"
-    },
-    {
-        "open": "10.61",
-        "close": "10.53",
-        "volume": "4200",
-        "symbol": "NXT",
-        "timestamp": "1651017600",
-        "low": "10.53",
-        "date": "2022-04-27",
-        "high": "11.23"
-    },
-    {
-        "open": "10.76",
-        "close": "11.31",
-        "volume": "5400",
-        "symbol": "NXT",
-        "timestamp": "1651104000",
-        "low": "10.69",
-        "date": "2022-04-28",
-        "high": "11.31"
-    },
-    {
-        "open": "11.23",
-        "close": "11.38",
-        "volume": "3300",
-        "symbol": "NXT",
-        "timestamp": "1651190400",
-        "low": "11.23",
-        "date": "2022-04-29",
-        "high": "11.38"
-    },
-    {
-        "open": "11.46",
-        "close": "10.84",
-        "volume": "7100",
-        "symbol": "NXT",
-        "timestamp": "1651622400",
-        "low": "10.84",
-        "date": "2022-05-04",
-        "high": "11.46"
-    },
-    {
-        "open": "11.07",
-        "close": "10.69",
-        "volume": "12500",
-        "symbol": "NXT",
-        "timestamp": "1651708800",
-        "low": "10.69",
-        "date": "2022-05-05",
-        "high": "11.54"
-    },
-    {
-        "open": "11.46",
-        "close": "10.92",
-        "volume": "10800",
-        "symbol": "NXT",
-        "timestamp": "1651795200",
-        "low": "10.92",
-        "date": "2022-05-06",
-        "high": "11.54"
-    },
-    {
-        "open": "11.07",
-        "close": "10.92",
-        "volume": "3600",
-        "symbol": "NXT",
-        "timestamp": "1652054400",
-        "low": "10.92",
-        "date": "2022-05-09",
-        "high": "11.07"
-    },
-    {
-        "open": "11.07",
-        "close": "10.61",
-        "volume": "8500",
-        "symbol": "NXT",
-        "timestamp": "1652140800",
-        "low": "10.61",
-        "date": "2022-05-10",
-        "high": "11.07"
-    },
-    {
-        "open": "10.92",
-        "close": "10.84",
-        "volume": "3100",
-        "symbol": "NXT",
-        "timestamp": "1652227200",
-        "low": "10.84",
-        "date": "2022-05-11",
-        "high": "10.92"
-    },
-    {
-        "open": "10.92",
-        "close": "10.45",
-        "volume": "7800",
-        "symbol": "NXT",
-        "timestamp": "1652313600",
-        "low": "10.45",
-        "date": "2022-05-12",
-        "high": "10.92"
-    },
-    {
-        "open": "10.76",
-        "close": "10.45",
-        "volume": "7600",
-        "symbol": "NXT",
-        "timestamp": "1652400000",
-        "low": "10.45",
-        "date": "2022-05-13",
-        "high": "10.76"
-    },
-    {
-        "open": "10.92",
-        "close": "10.69",
-        "volume": "6336",
-        "symbol": "NXT",
-        "timestamp": "1652659200",
-        "low": "10.69",
-        "date": "2022-05-16",
-        "high": "10.92"
-    },
-    {
-        "open": "10.84",
-        "close": "10.69",
-        "volume": "5500",
-        "symbol": "NXT",
-        "timestamp": "1652745600",
-        "low": "10.69",
-        "date": "2022-05-17",
-        "high": "10.84"
-    },
-    {
-        "open": "10.76",
-        "close": "10.76",
-        "volume": "8100",
-        "symbol": "NXT",
-        "timestamp": "1652832000",
-        "low": "10.45",
-        "date": "2022-05-18",
-        "high": "10.76"
-    },
-    {
-        "open": "10.61",
-        "close": "10.07",
-        "volume": "11400",
-        "symbol": "NXT",
-        "timestamp": "1652918400",
-        "low": "10.07",
-        "date": "2022-05-19",
-        "high": "10.61"
-    },
-    {
-        "open": "10.3",
-        "close": "10.22",
-        "volume": "3100",
-        "symbol": "NXT",
-        "timestamp": "1653004800",
-        "low": "10.22",
-        "date": "2022-05-20",
-        "high": "10.3"
-    },
-    {
-        "open": "10.45",
-        "close": "10.3",
-        "volume": "4700",
-        "symbol": "NXT",
-        "timestamp": "1653264000",
-        "low": "10.3",
-        "date": "2022-05-23",
-        "high": "10.45"
-    },
-    {
-        "open": "10.38",
-        "close": "10.3",
-        "volume": "3500",
-        "symbol": "NXT",
-        "timestamp": "1653350400",
-        "low": "10.3",
-        "date": "2022-05-24",
-        "high": "10.38"
-    },
-    {
-        "open": "10.38",
-        "close": "10.07",
-        "volume": "3300",
-        "symbol": "NXT",
-        "timestamp": "1653436800",
-        "low": "10.07",
-        "date": "2022-05-25",
-        "high": "10.38"
-    },
-    {
-        "open": "10.45",
-        "close": "10.22",
-        "volume": "2600",
-        "symbol": "NXT",
-        "timestamp": "1653523200",
-        "low": "10.22",
-        "date": "2022-05-26",
-        "high": "10.45"
-    },
-    {
-        "open": "10.45",
-        "close": "10.84",
-        "volume": "5200",
-        "symbol": "NXT",
-        "timestamp": "1653609600",
-        "low": "10.45",
-        "date": "2022-05-27",
-        "high": "10.84"
-    },
-    {
-        "open": "10.84",
-        "close": "10.45",
-        "volume": "4800",
-        "symbol": "NXT",
-        "timestamp": "1653868800",
-        "low": "10.45",
-        "date": "2022-05-30",
-        "high": "11.23"
-    },
-    {
-        "open": "10.61",
-        "close": "10.45",
-        "volume": "4100",
-        "symbol": "NXT",
-        "timestamp": "1654041600",
-        "low": "10.45",
-        "date": "2022-06-01",
-        "high": "10.61"
-    },
-    {
-        "open": "10.53",
-        "close": "10.53",
-        "volume": "2000",
-        "symbol": "NXT",
-        "timestamp": "1654128000",
-        "low": "10.53",
-        "date": "2022-06-02",
-        "high": "10.53"
-    },
-    {
-        "open": "10.53",
-        "close": "10.38",
-        "volume": "3200",
-        "symbol": "NXT",
-        "timestamp": "1654214400",
-        "low": "10.38",
-        "date": "2022-06-03",
-        "high": "10.53"
-    },
-    {
-        "open": "10.53",
-        "close": "10.53",
-        "volume": "1700",
-        "symbol": "NXT",
-        "timestamp": "1654473600",
-        "low": "10.53",
-        "date": "2022-06-06",
-        "high": "10.53"
-    },
-    {
-        "open": "10.53",
-        "close": "10.53",
-        "volume": "2000",
-        "symbol": "NXT",
-        "timestamp": "1654560000",
-        "low": "10.53",
-        "date": "2022-06-07",
-        "high": "10.53"
-    },
-    {
-        "open": "10.53",
-        "close": "10.84",
-        "volume": "1500",
-        "symbol": "NXT",
-        "timestamp": "1654646400",
-        "low": "10.22",
-        "date": "2022-06-08",
-        "high": "10.84"
-    },
-    {
-        "open": "10.61",
-        "close": "11.23",
-        "volume": "3000",
-        "symbol": "NXT",
-        "timestamp": "1654732800",
-        "low": "10.61",
-        "date": "2022-06-09",
-        "high": "11.23"
-    },
-    {
-        "open": "11.07",
-        "close": "10.76",
-        "volume": "2500",
-        "symbol": "NXT",
-        "timestamp": "1654819200",
-        "low": "10.76",
-        "date": "2022-06-10",
-        "high": "11.07"
-    },
-    {
-        "open": "10.84",
-        "close": "10.69",
-        "volume": "2100",
-        "symbol": "NXT",
-        "timestamp": "1655078400",
-        "low": "10.69",
-        "date": "2022-06-13",
-        "high": "10.84"
-    },
-    {
-        "open": "10.84",
-        "close": "10.84",
-        "volume": "1300",
-        "symbol": "NXT",
-        "timestamp": "1655164800",
-        "low": "10.84",
-        "date": "2022-06-14",
-        "high": "10.84"
-    },
-    {
-        "open": "10.92",
-        "close": "11.23",
-        "volume": "700",
-        "symbol": "NXT",
-        "timestamp": "1655251200",
-        "low": "10.92",
-        "date": "2022-06-15",
-        "high": "11.23"
-    },
-    {
-        "open": "11",
-        "close": "11.38",
-        "volume": "2101",
-        "symbol": "NXT",
-        "timestamp": "1655337600",
-        "low": "11",
-        "date": "2022-06-16",
-        "high": "11.38"
-    },
-    {
-        "open": "11.23",
-        "close": "10.84",
-        "volume": "1200",
-        "symbol": "NXT",
-        "timestamp": "1655424000",
-        "low": "10.84",
-        "date": "2022-06-17",
-        "high": "11.23"
-    },
-    {
-        "open": "11.15",
-        "close": "11.15",
-        "volume": "2000",
-        "symbol": "NXT",
-        "timestamp": "1655683200",
-        "low": "11.15",
-        "date": "2022-06-20",
-        "high": "11.15"
-    },
-    {
-        "open": "11.15",
-        "close": "11.46",
-        "volume": "1600",
-        "symbol": "NXT",
-        "timestamp": "1655769600",
-        "low": "11.15",
-        "date": "2022-06-21",
-        "high": "11.46"
-    },
-    {
-        "open": "11.23",
-        "close": "11.07",
-        "volume": "2300",
-        "symbol": "NXT",
-        "timestamp": "1655856000",
-        "low": "11.07",
-        "date": "2022-06-22",
-        "high": "11.23"
-    },
-    {
-        "open": "11.23",
-        "close": "10.84",
-        "volume": "4000",
-        "symbol": "NXT",
-        "timestamp": "1655942400",
-        "low": "10.84",
-        "date": "2022-06-23",
-        "high": "11.38"
-    },
-    {
-        "open": "10.84",
-        "close": "10.84",
-        "volume": "1000",
-        "symbol": "NXT",
-        "timestamp": "1656028800",
-        "low": "10.84",
-        "date": "2022-06-24",
-        "high": "10.84"
-    },
-    {
-        "open": "10.84",
-        "close": "10.76",
-        "volume": "2700",
-        "symbol": "NXT",
-        "timestamp": "1656288000",
-        "low": "10.76",
-        "date": "2022-06-27",
-        "high": "11.23"
-    },
-    {
-        "open": "10.84",
-        "close": "10.84",
-        "volume": "1300",
-        "symbol": "NXT",
-        "timestamp": "1656374400",
-        "low": "10.84",
-        "date": "2022-06-28",
-        "high": "10.84"
-    },
-    {
-        "open": "10.84",
-        "close": "10.84",
-        "volume": "1000",
-        "symbol": "NXT",
-        "timestamp": "1656460800",
-        "low": "10.84",
-        "date": "2022-06-29",
-        "high": "10.84"
-    },
-    {
-        "open": "10.69",
-        "close": "10.53",
-        "volume": "2200",
-        "symbol": "NXT",
-        "timestamp": "1656547200",
-        "low": "10.53",
-        "date": "2022-06-30",
-        "high": "10.69"
-    },
-    {
-        "open": "10.84",
-        "close": "11.77",
-        "volume": "15700",
-        "symbol": "NXT",
-        "timestamp": "1656633600",
-        "low": "10.84",
-        "date": "2022-07-01",
-        "high": "12"
-    },
-    {
-        "open": "11.77",
-        "close": "12.62",
-        "volume": "24400",
-        "symbol": "NXT",
-        "timestamp": "1656892800",
-        "low": "11.77",
-        "date": "2022-07-04",
-        "high": "12.62"
-    },
-    {
-        "open": "12.47",
-        "close": "13.55",
-        "volume": "39600",
-        "symbol": "NXT",
-        "timestamp": "1656979200",
-        "low": "12.31",
-        "date": "2022-07-05",
-        "high": "13.55"
-    },
-    {
-        "open": "13.55",
-        "close": "15.02",
-        "volume": "57000",
-        "symbol": "NXT",
-        "timestamp": "1657065600",
-        "low": "13.55",
-        "date": "2022-07-06",
-        "high": "15.02"
-    },
-    {
-        "open": "15.18",
-        "close": "15.49",
-        "volume": "33700",
-        "symbol": "NXT",
-        "timestamp": "1657152000",
-        "low": "14.56",
-        "date": "2022-07-07",
-        "high": "16.11"
-    },
-    {
-        "open": "15.26",
-        "close": "14.71",
-        "volume": "6100",
-        "symbol": "NXT",
-        "timestamp": "1657238400",
-        "low": "14.71",
-        "date": "2022-07-08",
-        "high": "15.26"
-    },
-    {
-        "open": "15.02",
-        "close": "14.33",
-        "volume": "38300",
-        "symbol": "NXT",
-        "timestamp": "1657497600",
-        "low": "14.25",
-        "date": "2022-07-11",
-        "high": "15.02"
-    },
-    {
-        "open": "14.4",
-        "close": "13.78",
-        "volume": "34000",
-        "symbol": "NXT",
-        "timestamp": "1657584000",
-        "low": "13.78",
-        "date": "2022-07-12",
-        "high": "14.4"
-    },
-    {
-        "open": "13.94",
-        "close": "14.25",
-        "volume": "6900",
-        "symbol": "NXT",
-        "timestamp": "1657670400",
-        "low": "13.94",
-        "date": "2022-07-13",
-        "high": "14.25"
-    },
-    {
-        "open": "14.02",
-        "close": "14.02",
-        "volume": "5100",
-        "symbol": "NXT",
-        "timestamp": "1657756800",
-        "low": "13.78",
-        "date": "2022-07-14",
-        "high": "14.33"
-    },
-    {
-        "open": "14.02",
-        "close": "14.48",
-        "volume": "23200",
-        "symbol": "NXT",
-        "timestamp": "1657843200",
-        "low": "14.02",
-        "date": "2022-07-15",
-        "high": "14.48"
-    },
-    {
-        "open": "14.33",
-        "close": "14.33",
-        "volume": "2100",
-        "symbol": "NXT",
-        "timestamp": "1658102400",
-        "low": "14.02",
-        "date": "2022-07-18",
-        "high": "14.33"
-    },
-    {
-        "open": "14.17",
-        "close": "13.94",
-        "volume": "14000",
-        "symbol": "NXT",
-        "timestamp": "1658188800",
-        "low": "13.78",
-        "date": "2022-07-19",
-        "high": "14.33"
-    },
-    {
-        "open": "14.02",
-        "close": "14.4",
-        "volume": "23600",
-        "symbol": "NXT",
-        "timestamp": "1658275200",
-        "low": "14.02",
-        "date": "2022-07-20",
-        "high": "14.4"
-    },
-    {
-        "open": "14.33",
-        "close": "14.56",
-        "volume": "16700",
-        "symbol": "NXT",
-        "timestamp": "1658361600",
-        "low": "14.09",
-        "date": "2022-07-21",
-        "high": "14.71"
-    },
-    {
-        "open": "14.48",
-        "close": "14.71",
-        "volume": "28200",
-        "symbol": "NXT",
-        "timestamp": "1658448000",
-        "low": "14.48",
-        "date": "2022-07-22",
-        "high": "15.02"
-    },
-    {
-        "open": "14.87",
-        "close": "14.64",
-        "volume": "18800",
-        "symbol": "NXT",
-        "timestamp": "1658707200",
-        "low": "14.56",
-        "date": "2022-07-25",
-        "high": "14.87"
-    },
-    {
-        "open": "14.71",
-        "close": "14.48",
-        "volume": "23100",
-        "symbol": "NXT",
-        "timestamp": "1658793600",
-        "low": "14.33",
-        "date": "2022-07-26",
-        "high": "14.71"
-    },
-    {
-        "open": "14.56",
-        "close": "14.33",
-        "volume": "16300",
-        "symbol": "NXT",
-        "timestamp": "1658880000",
-        "low": "14.33",
-        "date": "2022-07-27",
-        "high": "14.56"
-    },
-    {
-        "open": "14.33",
-        "close": "14.33",
-        "volume": "19100",
-        "symbol": "NXT",
-        "timestamp": "1658966400",
-        "low": "14.33",
-        "date": "2022-07-28",
-        "high": "14.71"
-    },
-    {
-        "open": "14.4",
-        "close": "14.17",
-        "volume": "31100",
-        "symbol": "NXT",
-        "timestamp": "1659052800",
-        "low": "14.09",
-        "date": "2022-07-29",
-        "high": "14.56"
-    },
-    {
-        "open": "14.17",
-        "close": "14.09",
-        "volume": "17400",
-        "symbol": "NXT",
-        "timestamp": "1659312000",
-        "low": "14.09",
-        "date": "2022-08-01",
-        "high": "14.17"
-    },
-    {
-        "open": "14.1",
-        "close": "14",
-        "volume": "22600",
-        "symbol": "NXT",
-        "timestamp": "1659398400",
-        "low": "14",
-        "date": "2022-08-02",
-        "high": "14.3"
-    },
-    {
-        "open": "14.1",
-        "close": "13.9",
-        "volume": "33900",
-        "symbol": "NXT",
-        "timestamp": "1659484800",
-        "low": "13.5",
-        "date": "2022-08-03",
-        "high": "14.2"
-    },
-    {
-        "open": "14",
-        "close": "14.1",
-        "volume": "20300",
-        "symbol": "NXT",
-        "timestamp": "1659571200",
-        "low": "13.8",
-        "date": "2022-08-04",
-        "high": "14.3"
-    },
-    {
-        "open": "14",
-        "close": "14.3",
-        "volume": "23500",
-        "symbol": "NXT",
-        "timestamp": "1659657600",
-        "low": "14",
-        "date": "2022-08-05",
-        "high": "14.3"
-    },
-    {
-        "open": "14.3",
-        "close": "14.6",
-        "volume": "25800",
-        "symbol": "NXT",
-        "timestamp": "1659916800",
-        "low": "14.1",
-        "date": "2022-08-08",
-        "high": "14.6"
-    },
-    {
-        "open": "14.5",
-        "close": "14.5",
-        "volume": "17100",
-        "symbol": "NXT",
-        "timestamp": "1660003200",
-        "low": "14.5",
-        "date": "2022-08-09",
-        "high": "14.6"
-    },
-    {
-        "open": "14.5",
-        "close": "15.1",
-        "volume": "39700",
-        "symbol": "NXT",
-        "timestamp": "1660089600",
-        "low": "14.5",
-        "date": "2022-08-10",
-        "high": "15.4"
-    },
-    {
-        "open": "15.1",
-        "close": "14.9",
-        "volume": "16000",
-        "symbol": "NXT",
-        "timestamp": "1660176000",
-        "low": "14.9",
-        "date": "2022-08-11",
-        "high": "15.1"
-    },
-    {
-        "open": "14.9",
-        "close": "15.1",
-        "volume": "19615",
-        "symbol": "NXT",
-        "timestamp": "1660262400",
-        "low": "14.9",
-        "date": "2022-08-12",
-        "high": "15.3"
-    },
-    {
-        "open": "15.1",
-        "close": "17",
-        "volume": "48400",
-        "symbol": "NXT",
-        "timestamp": "1660521600",
-        "low": "15.1",
-        "date": "2022-08-15",
-        "high": "17"
-    },
-    {
+        "high": "16.8",
+        "timestamp": "1639353600",
         "open": "16.8",
-        "close": "18.4",
-        "volume": "55100",
-        "symbol": "NXT",
-        "timestamp": "1660608000",
-        "low": "16.7",
-        "date": "2022-08-16",
-        "high": "18.6"
-    },
-    {
-        "open": "18.3",
-        "close": "20.2",
-        "volume": "61500",
-        "symbol": "NXT",
-        "timestamp": "1660694400",
-        "low": "18.3",
-        "date": "2022-08-17",
-        "high": "20.3"
-    },
-    {
-        "open": "19.9",
-        "close": "20.7",
-        "volume": "65930",
-        "symbol": "NXT",
-        "timestamp": "1660780800",
-        "low": "19.7",
-        "date": "2022-08-18",
-        "high": "21.5"
-    },
-    {
-        "open": "19.9",
-        "close": "18.7",
-        "volume": "22000",
-        "symbol": "NXT",
-        "timestamp": "1660867200",
-        "low": "18.5",
-        "date": "2022-08-19",
-        "high": "20.2"
-    },
-    {
-        "open": "18.7",
-        "close": "18",
-        "volume": "28600",
-        "symbol": "NXT",
-        "timestamp": "1661126400",
-        "low": "17.5",
-        "date": "2022-08-22",
-        "high": "18.7"
-    },
-    {
-        "open": "17.6",
-        "close": "17",
-        "volume": "18300",
-        "symbol": "NXT",
-        "timestamp": "1661212800",
         "low": "16.8",
-        "date": "2022-08-23",
-        "high": "18"
+        "close": "16.8"
     },
     {
-        "open": "17.1",
-        "close": "16.8",
-        "volume": "22800",
-        "symbol": "NXT",
-        "timestamp": "1661299200",
-        "low": "16.4",
-        "date": "2022-08-24",
-        "high": "17.1"
-    },
-    {
-        "open": "16.5",
-        "close": "16.4",
-        "volume": "27100",
-        "symbol": "NXT",
-        "timestamp": "1661385600",
-        "low": "16",
-        "date": "2022-08-25",
-        "high": "16.8"
-    },
-    {
-        "open": "16",
-        "close": "16",
-        "volume": "20600",
-        "symbol": "NXT",
-        "timestamp": "1661472000",
-        "low": "16",
-        "date": "2022-08-26",
-        "high": "16.4"
-    },
-    {
-        "open": "16.2",
-        "close": "17.1",
-        "volume": "40200",
-        "symbol": "NXT",
-        "timestamp": "1661731200",
-        "low": "16.2",
-        "date": "2022-08-29",
-        "high": "17.5"
-    },
-    {
-        "open": "17",
-        "close": "18",
-        "volume": "27800",
-        "symbol": "NXT",
-        "timestamp": "1661817600",
-        "low": "17",
-        "date": "2022-08-30",
-        "high": "18"
-    },
-    {
-        "open": "17.8",
-        "close": "16.9",
-        "volume": "16200",
-        "symbol": "NXT",
-        "timestamp": "1661904000",
-        "low": "16.4",
-        "date": "2022-08-31",
-        "high": "18"
-    },
-    {
-        "open": "17",
-        "close": "16.6",
-        "volume": "19100",
-        "symbol": "NXT",
-        "timestamp": "1662336000",
-        "low": "16",
-        "date": "2022-09-05",
-        "high": "17"
-    },
-    {
-        "open": "16.2",
-        "close": "16.6",
-        "volume": "26500",
-        "symbol": "NXT",
-        "timestamp": "1662422400",
-        "low": "16.2",
-        "date": "2022-09-06",
-        "high": "16.7"
-    },
-    {
-        "open": "16.5",
-        "close": "16.6",
-        "volume": "17000",
-        "symbol": "NXT",
-        "timestamp": "1662508800",
-        "low": "16.2",
-        "date": "2022-09-07",
-        "high": "16.8"
-    },
-    {
-        "open": "16.6",
-        "close": "17",
-        "volume": "21900",
-        "symbol": "NXT",
-        "timestamp": "1662595200",
-        "low": "16.6",
-        "date": "2022-09-08",
-        "high": "17.3"
-    },
-    {
-        "open": "16.8",
-        "close": "16.7",
-        "volume": "18100",
-        "symbol": "NXT",
-        "timestamp": "1662681600",
-        "low": "16.4",
-        "date": "2022-09-09",
-        "high": "16.8"
-    },
-    {
-        "open": "16.6",
-        "close": "16.7",
-        "volume": "26400",
-        "symbol": "NXT",
-        "timestamp": "1662940800",
-        "low": "16.6",
-        "date": "2022-09-12",
-        "high": "17"
-    },
-    {
-        "open": "16.8",
-        "close": "17",
-        "volume": "21600",
-        "symbol": "NXT",
-        "timestamp": "1663027200",
-        "low": "16.8",
-        "date": "2022-09-13",
-        "high": "17.2"
-    },
-    {
-        "open": "16.9",
-        "close": "16.9",
-        "volume": "16500",
-        "symbol": "NXT",
-        "timestamp": "1663113600",
-        "low": "16.6",
-        "date": "2022-09-14",
-        "high": "17"
-    },
-    {
-        "open": "16.8",
-        "close": "16.6",
-        "volume": "25100",
-        "symbol": "NXT",
-        "timestamp": "1663200000",
-        "low": "16.6",
-        "date": "2022-09-15",
-        "high": "17.2"
-    },
-    {
-        "open": "16.8",
-        "close": "16.5",
         "volume": "29100",
+        "date": "2021-12-14",
         "symbol": "NXT",
-        "timestamp": "1663286400",
-        "low": "16.2",
-        "date": "2022-09-16",
-        "high": "16.8"
+        "high": "19.28",
+        "timestamp": "1639440000",
+        "open": "19.28",
+        "low": "16.73",
+        "close": "19.28"
     },
     {
-        "open": "16.5",
-        "close": "16.4",
-        "volume": "20800",
-        "symbol": "NXT",
-        "timestamp": "1663545600",
-        "low": "15.7",
-        "date": "2022-09-19",
-        "high": "16.7"
-    },
-    {
-        "open": "16.2",
-        "close": "16.4",
-        "volume": "15500",
-        "symbol": "NXT",
-        "timestamp": "1663632000",
-        "low": "16.2",
-        "date": "2022-09-20",
-        "high": "16.5"
-    },
-    {
-        "open": "16.3",
-        "close": "16.5",
-        "volume": "24000",
-        "symbol": "NXT",
-        "timestamp": "1663718400",
-        "low": "16.3",
-        "date": "2022-09-21",
-        "high": "16.8"
-    },
-    {
-        "open": "16.5",
-        "close": "16.8",
-        "volume": "20700",
-        "symbol": "NXT",
-        "timestamp": "1663804800",
-        "low": "16.5",
-        "date": "2022-09-22",
-        "high": "17"
-    },
-    {
-        "open": "16.7",
-        "close": "16.3",
-        "volume": "15300",
-        "symbol": "NXT",
-        "timestamp": "1663891200",
-        "low": "16.3",
-        "date": "2022-09-23",
-        "high": "16.7"
-    },
-    {
-        "open": "16.5",
-        "close": "16.3",
-        "volume": "31600",
-        "symbol": "NXT",
-        "timestamp": "1664150400",
-        "low": "16",
-        "date": "2022-09-26",
-        "high": "16.5"
-    },
-    {
-        "open": "16.3",
-        "close": "16.3",
-        "volume": "19200",
-        "symbol": "NXT",
-        "timestamp": "1664236800",
-        "low": "16.3",
-        "date": "2022-09-27",
-        "high": "16.5"
-    },
-    {
-        "open": "16.4",
-        "close": "16.8",
-        "volume": "24800",
-        "symbol": "NXT",
-        "timestamp": "1664323200",
-        "low": "16.4",
-        "date": "2022-09-28",
-        "high": "16.8"
-    },
-    {
-        "open": "16.4",
-        "close": "16.6",
-        "volume": "20100",
-        "symbol": "NXT",
-        "timestamp": "1664409600",
-        "low": "16.4",
-        "date": "2022-09-29",
-        "high": "16.8"
-    },
-    {
-        "open": "16.7",
-        "close": "16.8",
-        "volume": "24800",
-        "symbol": "NXT",
-        "timestamp": "1664496000",
-        "low": "16.7",
-        "date": "2022-09-30",
-        "high": "17.1"
-    },
-    {
-        "open": "16.9",
-        "close": "16.6",
-        "volume": "32300",
-        "symbol": "NXT",
-        "timestamp": "1664755200",
-        "low": "16.5",
-        "date": "2022-10-03",
-        "high": "17.1"
-    },
-    {
-        "open": "16.8",
-        "close": "16.4",
-        "volume": "20600",
-        "symbol": "NXT",
-        "timestamp": "1664841600",
-        "low": "16",
-        "date": "2022-10-04",
-        "high": "16.8"
-    },
-    {
-        "open": "16.3",
-        "close": "16.5",
-        "volume": "25800",
-        "symbol": "NXT",
-        "timestamp": "1664928000",
-        "low": "15.9",
-        "date": "2022-10-05",
-        "high": "16.5"
-    },
-    {
-        "open": "16.4",
-        "close": "16.5",
-        "volume": "17100",
-        "symbol": "NXT",
-        "timestamp": "1665014400",
-        "low": "16.2",
-        "date": "2022-10-06",
-        "high": "16.6"
-    },
-    {
-        "open": "16.5",
-        "close": "16.7",
-        "volume": "13400",
-        "symbol": "NXT",
-        "timestamp": "1665100800",
-        "low": "16.3",
-        "date": "2022-10-07",
-        "high": "16.7"
-    },
-    {
-        "open": "16.6",
-        "close": "16.9",
-        "volume": "26300",
-        "symbol": "NXT",
-        "timestamp": "1665360000",
-        "low": "16.6",
-        "date": "2022-10-10",
-        "high": "17"
-    },
-    {
-        "open": "16.9",
-        "close": "17.4",
-        "volume": "40200",
-        "symbol": "NXT",
-        "timestamp": "1665446400",
-        "low": "16.9",
-        "date": "2022-10-11",
-        "high": "17.6"
-    },
-    {
-        "open": "17.3",
-        "close": "17.3",
-        "volume": "26200",
-        "symbol": "NXT",
-        "timestamp": "1665532800",
-        "low": "17.2",
-        "date": "2022-10-12",
-        "high": "17.6"
-    },
-    {
-        "open": "17.4",
-        "close": "18.3",
         "volume": "38000",
+        "date": "2021-12-15",
         "symbol": "NXT",
-        "timestamp": "1665619200",
-        "low": "17.4",
-        "date": "2022-10-13",
-        "high": "18.3"
+        "high": "21.84",
+        "timestamp": "1639526400",
+        "open": "21.84",
+        "low": "16.26",
+        "close": "16.26"
     },
     {
+        "volume": "400",
+        "date": "2021-12-17",
+        "symbol": "NXT",
+        "high": "17.19",
+        "timestamp": "1639699200",
+        "open": "17.19",
+        "low": "17.19",
+        "close": "17.19"
+    },
+    {
+        "volume": "300",
+        "date": "2021-12-20",
+        "symbol": "NXT",
+        "high": "14.64",
+        "timestamp": "1639958400",
+        "open": "14.64",
+        "low": "14.64",
+        "close": "14.64"
+    },
+    {
+        "volume": "2600",
+        "date": "2021-12-21",
+        "symbol": "NXT",
+        "high": "12.47",
+        "timestamp": "1640044800",
+        "open": "12.47",
+        "low": "12.47",
+        "close": "12.47"
+    },
+    {
+        "volume": "282700",
+        "date": "2021-12-22",
+        "symbol": "NXT",
+        "high": "13.01",
+        "timestamp": "1640131200",
+        "open": "10.61",
+        "low": "10.61",
+        "close": "12.47"
+    },
+    {
+        "volume": "74300",
+        "date": "2021-12-23",
+        "symbol": "NXT",
+        "high": "12.47",
+        "timestamp": "1640217600",
+        "open": "12.47",
+        "low": "10.84",
+        "close": "11.23"
+    },
+    {
+        "volume": "35400",
+        "date": "2021-12-24",
+        "symbol": "NXT",
+        "high": "12.39",
+        "timestamp": "1640304000",
+        "open": "12.31",
+        "low": "9.91",
+        "close": "10.45"
+    },
+    {
+        "volume": "169400",
+        "date": "2021-12-27",
+        "symbol": "NXT",
+        "high": "10.22",
+        "timestamp": "1640563200",
+        "open": "8.67",
+        "low": "8.67",
+        "close": "10.22"
+    },
+    {
+        "volume": "25800",
+        "date": "2021-12-28",
+        "symbol": "NXT",
+        "high": "10.22",
+        "timestamp": "1640649600",
+        "open": "10.22",
+        "low": "8.75",
+        "close": "9.91"
+    },
+    {
+        "volume": "24300",
+        "date": "2021-12-29",
+        "symbol": "NXT",
+        "high": "9.91",
+        "timestamp": "1640736000",
+        "open": "9.91",
+        "low": "8.6",
+        "close": "8.75"
+    },
+    {
+        "volume": "33300",
+        "date": "2021-12-30",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1640822400",
+        "open": "8.6",
+        "low": "8.44",
+        "close": "9.21"
+    },
+    {
+        "volume": "31300",
+        "date": "2021-12-31",
+        "symbol": "NXT",
+        "high": "8.98",
+        "timestamp": "1640908800",
+        "open": "8.67",
+        "low": "8.52",
+        "close": "8.91"
+    },
+    {
+        "volume": "15300",
+        "date": "2022-01-04",
+        "symbol": "NXT",
+        "high": "9.53",
+        "timestamp": "1641254400",
+        "open": "9.21",
+        "low": "9.14",
+        "close": "9.37"
+    },
+    {
+        "volume": "12100",
+        "date": "2022-01-05",
+        "symbol": "NXT",
+        "high": "8.98",
+        "timestamp": "1641340800",
+        "open": "8.91",
+        "low": "8.91",
+        "close": "8.91"
+    },
+    {
+        "volume": "6400",
+        "date": "2022-01-06",
+        "symbol": "NXT",
+        "high": "9.29",
+        "timestamp": "1641427200",
+        "open": "8.91",
+        "low": "8.91",
+        "close": "9.29"
+    },
+    {
+        "volume": "11900",
+        "date": "2022-01-07",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1641513600",
+        "open": "8.98",
+        "low": "8.83",
+        "close": "8.98"
+    },
+    {
+        "volume": "16800",
+        "date": "2022-01-10",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1641772800",
+        "open": "8.91",
+        "low": "8.67",
+        "close": "8.91"
+    },
+    {
+        "volume": "7100",
+        "date": "2022-01-11",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1641859200",
+        "open": "8.91",
+        "low": "8.83",
+        "close": "9.21"
+    },
+    {
+        "volume": "12100",
+        "date": "2022-01-12",
+        "symbol": "NXT",
+        "high": "9.14",
+        "timestamp": "1641945600",
+        "open": "8.91",
+        "low": "8.91",
+        "close": "9.14"
+    },
+    {
+        "volume": "4900",
+        "date": "2022-01-13",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1642032000",
+        "open": "9.06",
+        "low": "8.98",
+        "close": "9.06"
+    },
+    {
+        "volume": "4800",
+        "date": "2022-01-14",
+        "symbol": "NXT",
+        "high": "8.98",
+        "timestamp": "1642118400",
+        "open": "8.98",
+        "low": "8.91",
+        "close": "8.91"
+    },
+    {
+        "volume": "6700",
+        "date": "2022-01-17",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1642377600",
+        "open": "9.06",
+        "low": "8.98",
+        "close": "9.06"
+    },
+    {
+        "volume": "5001",
+        "date": "2022-01-18",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1642464000",
+        "open": "8.98",
+        "low": "8.91",
+        "close": "9.06"
+    },
+    {
+        "volume": "3300",
+        "date": "2022-01-19",
+        "symbol": "NXT",
+        "high": "9.14",
+        "timestamp": "1642550400",
+        "open": "8.98",
+        "low": "8.98",
+        "close": "9.14"
+    },
+    {
+        "volume": "10500",
+        "date": "2022-01-20",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1642636800",
+        "open": "9.06",
+        "low": "8.91",
+        "close": "8.98"
+    },
+    {
+        "volume": "5910",
+        "date": "2022-01-21",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1642723200",
+        "open": "9.06",
+        "low": "9.06",
+        "close": "9.06"
+    },
+    {
+        "volume": "7800",
+        "date": "2022-01-24",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1642982400",
+        "open": "9.06",
+        "low": "9.06",
+        "close": "9.06"
+    },
+    {
+        "volume": "6700",
+        "date": "2022-01-25",
+        "symbol": "NXT",
+        "high": "9.29",
+        "timestamp": "1643068800",
+        "open": "9.06",
+        "low": "8.98",
+        "close": "9.06"
+    },
+    {
+        "volume": "1339",
+        "date": "2022-01-26",
+        "symbol": "NXT",
+        "high": "9.06",
+        "timestamp": "1643155200",
+        "open": "9.06",
+        "low": "9.06",
+        "close": "9.06"
+    },
+    {
+        "volume": "4900",
+        "date": "2022-01-27",
+        "symbol": "NXT",
+        "high": "10.38",
+        "timestamp": "1643241600",
+        "open": "10.38",
+        "low": "8.98",
+        "close": "9.14"
+    },
+    {
+        "volume": "3800",
+        "date": "2022-01-28",
+        "symbol": "NXT",
+        "high": "9.29",
+        "timestamp": "1643328000",
+        "open": "9.14",
+        "low": "9.14",
+        "close": "9.14"
+    },
+    {
+        "volume": "100",
+        "date": "2022-02-07",
+        "symbol": "NXT",
+        "high": "9.29",
+        "timestamp": "1644192000",
+        "open": "9.29",
+        "low": "9.29",
+        "close": "9.29"
+    },
+    {
+        "volume": "2200",
+        "date": "2022-02-08",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1644278400",
+        "open": "9.21",
+        "low": "9.14",
+        "close": "9.14"
+    },
+    {
+        "volume": "1300",
+        "date": "2022-02-09",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1644364800",
+        "open": "9.21",
+        "low": "9.21",
+        "close": "9.21"
+    },
+    {
+        "volume": "2200",
+        "date": "2022-02-10",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1644451200",
+        "open": "9.21",
+        "low": "9.21",
+        "close": "9.21"
+    },
+    {
+        "volume": "6000",
+        "date": "2022-02-11",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1644537600",
+        "open": "9.21",
+        "low": "9.06",
+        "close": "9.06"
+    },
+    {
+        "volume": "6000",
+        "date": "2022-02-14",
+        "symbol": "NXT",
+        "high": "9.29",
+        "timestamp": "1644796800",
+        "open": "9.14",
+        "low": "9.06",
+        "close": "9.14"
+    },
+    {
+        "volume": "2200",
+        "date": "2022-02-15",
+        "symbol": "NXT",
+        "high": "9.29",
+        "timestamp": "1644883200",
+        "open": "9.14",
+        "low": "9.14",
+        "close": "9.14"
+    },
+    {
+        "volume": "9800",
+        "date": "2022-02-16",
+        "symbol": "NXT",
+        "high": "9.14",
+        "timestamp": "1644969600",
+        "open": "9.14",
+        "low": "8.98",
+        "close": "9.14"
+    },
+    {
+        "volume": "4100",
+        "date": "2022-02-17",
+        "symbol": "NXT",
+        "high": "9.21",
+        "timestamp": "1645056000",
+        "open": "9.21",
+        "low": "9.06",
+        "close": "9.06"
+    },
+    {
+        "volume": "2100",
+        "date": "2022-02-22",
+        "symbol": "NXT",
+        "high": "9.14",
+        "timestamp": "1645488000",
+        "open": "9.14",
+        "low": "9.14",
+        "close": "9.14"
+    },
+    {
+        "volume": "52400",
+        "date": "2022-02-23",
+        "symbol": "NXT",
+        "high": "9.91",
+        "timestamp": "1645574400",
+        "open": "9.29",
+        "low": "9.29",
+        "close": "9.84"
+    },
+    {
+        "volume": "14000",
+        "date": "2022-02-24",
+        "symbol": "NXT",
+        "high": "9.91",
+        "timestamp": "1645660800",
+        "open": "9.68",
+        "low": "9.68",
+        "close": "9.84"
+    },
+    {
+        "volume": "1800",
+        "date": "2022-02-25",
+        "symbol": "NXT",
+        "high": "9.84",
+        "timestamp": "1645747200",
+        "open": "9.84",
+        "low": "9.84",
+        "close": "9.84"
+    },
+    {
+        "volume": "10600",
+        "date": "2022-02-28",
+        "symbol": "NXT",
+        "high": "9.84",
+        "timestamp": "1646006400",
+        "open": "9.84",
+        "low": "9.76",
+        "close": "9.76"
+    },
+    {
+        "volume": "4502",
+        "date": "2022-03-01",
+        "symbol": "NXT",
+        "high": "9.84",
+        "timestamp": "1646092800",
+        "open": "9.84",
+        "low": "9.76",
+        "close": "9.84"
+    },
+    {
+        "volume": "1500",
+        "date": "2022-03-02",
+        "symbol": "NXT",
+        "high": "9.91",
+        "timestamp": "1646179200",
+        "open": "9.84",
+        "low": "9.84",
+        "close": "9.91"
+    },
+    {
+        "volume": "5300",
+        "date": "2022-03-03",
+        "symbol": "NXT",
+        "high": "9.84",
+        "timestamp": "1646265600",
+        "open": "9.84",
+        "low": "9.84",
+        "close": "9.84"
+    },
+    {
+        "volume": "4600",
+        "date": "2022-03-04",
+        "symbol": "NXT",
+        "high": "9.84",
+        "timestamp": "1646352000",
+        "open": "9.84",
+        "low": "9.84",
+        "close": "9.84"
+    },
+    {
+        "volume": "3700",
+        "date": "2022-03-07",
+        "symbol": "NXT",
+        "high": "9.91",
+        "timestamp": "1646611200",
+        "open": "9.84",
+        "low": "9.84",
+        "close": "9.91"
+    },
+    {
+        "volume": "6600",
+        "date": "2022-03-08",
+        "symbol": "NXT",
+        "high": "10.07",
+        "timestamp": "1646697600",
+        "open": "9.99",
+        "low": "9.91",
+        "close": "9.91"
+    },
+    {
+        "volume": "4700",
+        "date": "2022-03-11",
+        "symbol": "NXT",
+        "high": "9.99",
+        "timestamp": "1646956800",
+        "open": "9.99",
+        "low": "9.91",
+        "close": "9.99"
+    },
+    {
+        "volume": "3500",
+        "date": "2022-03-14",
+        "symbol": "NXT",
+        "high": "9.99",
+        "timestamp": "1647216000",
+        "open": "9.99",
+        "low": "9.91",
+        "close": "9.99"
+    },
+    {
+        "volume": "1200",
+        "date": "2022-03-17",
+        "symbol": "NXT",
+        "high": "9.99",
+        "timestamp": "1647475200",
+        "open": "9.99",
+        "low": "9.99",
+        "close": "9.99"
+    },
+    {
+        "volume": "15800",
+        "date": "2022-03-21",
+        "symbol": "NXT",
+        "high": "9.99",
+        "timestamp": "1647820800",
+        "open": "9.99",
+        "low": "9.91",
+        "close": "9.99"
+    },
+    {
+        "volume": "3500",
+        "date": "2022-03-22",
+        "symbol": "NXT",
+        "high": "9.99",
+        "timestamp": "1647907200",
+        "open": "9.99",
+        "low": "9.91",
+        "close": "9.99"
+    },
+    {
+        "volume": "200",
+        "date": "2022-03-23",
+        "symbol": "NXT",
+        "high": "9.99",
+        "timestamp": "1647993600",
+        "open": "9.99",
+        "low": "9.99",
+        "close": "9.99"
+    },
+    {
+        "volume": "13000",
+        "date": "2022-03-24",
+        "symbol": "NXT",
+        "high": "9.99",
+        "timestamp": "1648080000",
+        "open": "9.99",
+        "low": "9.99",
+        "close": "9.99"
+    },
+    {
+        "volume": "6100",
+        "date": "2022-03-28",
+        "symbol": "NXT",
+        "high": "10.07",
+        "timestamp": "1648425600",
+        "open": "9.99",
+        "low": "9.99",
+        "close": "10.07"
+    },
+    {
+        "volume": "10700",
+        "date": "2022-03-30",
+        "symbol": "NXT",
+        "high": "10.3",
+        "timestamp": "1648598400",
+        "open": "10.07",
+        "low": "9.99",
+        "close": "10.3"
+    },
+    {
+        "volume": "75900",
+        "date": "2022-03-31",
+        "symbol": "NXT",
+        "high": "11.62",
+        "timestamp": "1648684800",
+        "open": "10.3",
+        "low": "10.3",
+        "close": "11.62"
+    },
+    {
+        "volume": "30700",
+        "date": "2022-04-01",
+        "symbol": "NXT",
+        "high": "12.54",
+        "timestamp": "1648771200",
+        "open": "12.54",
+        "low": "12.39",
+        "close": "12.54"
+    },
+    {
+        "volume": "55400",
+        "date": "2022-04-04",
+        "symbol": "NXT",
+        "high": "14.4",
+        "timestamp": "1649030400",
+        "open": "13.94",
+        "low": "12.54",
+        "close": "12.54"
+    },
+    {
+        "volume": "11500",
+        "date": "2022-04-05",
+        "symbol": "NXT",
+        "high": "12.78",
+        "timestamp": "1649116800",
+        "open": "12.78",
+        "low": "11.85",
+        "close": "11.85"
+    },
+    {
+        "volume": "47700",
+        "date": "2022-04-06",
+        "symbol": "NXT",
+        "high": "12",
+        "timestamp": "1649203200",
+        "open": "10.38",
+        "low": "10.38",
+        "close": "10.38"
+    },
+    {
+        "volume": "7500",
+        "date": "2022-04-07",
+        "symbol": "NXT",
+        "high": "10.92",
+        "timestamp": "1649289600",
+        "open": "10.22",
+        "low": "10.22",
+        "close": "10.38"
+    },
+    {
+        "volume": "12700",
+        "date": "2022-04-08",
+        "symbol": "NXT",
+        "high": "10.38",
+        "timestamp": "1649376000",
+        "open": "10.38",
+        "low": "10.38",
+        "close": "10.38"
+    },
+    {
+        "volume": "1800",
+        "date": "2022-04-12",
+        "symbol": "NXT",
+        "high": "10.76",
+        "timestamp": "1649721600",
+        "open": "10.38",
+        "low": "10.38",
+        "close": "10.45"
+    },
+    {
+        "volume": "7100",
+        "date": "2022-04-13",
+        "symbol": "NXT",
+        "high": "10.92",
+        "timestamp": "1649808000",
+        "open": "10.76",
+        "low": "10.53",
+        "close": "10.76"
+    },
+    {
+        "volume": "14900",
+        "date": "2022-04-14",
+        "symbol": "NXT",
+        "high": "11.15",
+        "timestamp": "1649894400",
+        "open": "10.61",
+        "low": "10.38",
+        "close": "11.15"
+    },
+    {
+        "volume": "13400",
+        "date": "2022-04-15",
+        "symbol": "NXT",
+        "high": "11.15",
+        "timestamp": "1649980800",
+        "open": "10.84",
+        "low": "10.69",
+        "close": "10.69"
+    },
+    {
+        "volume": "1600",
+        "date": "2022-04-18",
+        "symbol": "NXT",
+        "high": "11.15",
+        "timestamp": "1650240000",
+        "open": "11.15",
+        "low": "10.84",
+        "close": "11"
+    },
+    {
+        "volume": "15100",
+        "date": "2022-04-19",
+        "symbol": "NXT",
+        "high": "11.31",
+        "timestamp": "1650326400",
+        "open": "10.84",
+        "low": "10.76",
+        "close": "11.31"
+    },
+    {
+        "volume": "1700",
+        "date": "2022-04-20",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1650412800",
+        "open": "10.92",
+        "low": "10.92",
+        "close": "10.92"
+    },
+    {
+        "volume": "4000",
+        "date": "2022-04-21",
+        "symbol": "NXT",
+        "high": "11.38",
+        "timestamp": "1650499200",
+        "open": "11",
+        "low": "11",
+        "close": "11.38"
+    },
+    {
+        "volume": "6101",
+        "date": "2022-04-22",
+        "symbol": "NXT",
+        "high": "11.54",
+        "timestamp": "1650585600",
+        "open": "11.38",
+        "low": "11.38",
+        "close": "11.54"
+    },
+    {
+        "volume": "28900",
+        "date": "2022-04-25",
+        "symbol": "NXT",
+        "high": "11.62",
+        "timestamp": "1650844800",
+        "open": "11.54",
+        "low": "10.07",
+        "close": "10.07"
+    },
+    {
+        "volume": "6500",
+        "date": "2022-04-26",
+        "symbol": "NXT",
+        "high": "10.69",
+        "timestamp": "1650931200",
+        "open": "10.69",
+        "low": "10.53",
+        "close": "10.53"
+    },
+    {
+        "volume": "4200",
+        "date": "2022-04-27",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1651017600",
+        "open": "10.61",
+        "low": "10.53",
+        "close": "10.53"
+    },
+    {
+        "volume": "5400",
+        "date": "2022-04-28",
+        "symbol": "NXT",
+        "high": "11.31",
+        "timestamp": "1651104000",
+        "open": "10.76",
+        "low": "10.69",
+        "close": "11.31"
+    },
+    {
+        "volume": "3300",
+        "date": "2022-04-29",
+        "symbol": "NXT",
+        "high": "11.38",
+        "timestamp": "1651190400",
+        "open": "11.23",
+        "low": "11.23",
+        "close": "11.38"
+    },
+    {
+        "volume": "7100",
+        "date": "2022-05-04",
+        "symbol": "NXT",
+        "high": "11.46",
+        "timestamp": "1651622400",
+        "open": "11.46",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "12500",
+        "date": "2022-05-05",
+        "symbol": "NXT",
+        "high": "11.54",
+        "timestamp": "1651708800",
+        "open": "11.07",
+        "low": "10.69",
+        "close": "10.69"
+    },
+    {
+        "volume": "10800",
+        "date": "2022-05-06",
+        "symbol": "NXT",
+        "high": "11.54",
+        "timestamp": "1651795200",
+        "open": "11.46",
+        "low": "10.92",
+        "close": "10.92"
+    },
+    {
+        "volume": "3600",
+        "date": "2022-05-09",
+        "symbol": "NXT",
+        "high": "11.07",
+        "timestamp": "1652054400",
+        "open": "11.07",
+        "low": "10.92",
+        "close": "10.92"
+    },
+    {
+        "volume": "8500",
+        "date": "2022-05-10",
+        "symbol": "NXT",
+        "high": "11.07",
+        "timestamp": "1652140800",
+        "open": "11.07",
+        "low": "10.61",
+        "close": "10.61"
+    },
+    {
+        "volume": "3100",
+        "date": "2022-05-11",
+        "symbol": "NXT",
+        "high": "10.92",
+        "timestamp": "1652227200",
+        "open": "10.92",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "7800",
+        "date": "2022-05-12",
+        "symbol": "NXT",
+        "high": "10.92",
+        "timestamp": "1652313600",
+        "open": "10.92",
+        "low": "10.45",
+        "close": "10.45"
+    },
+    {
+        "volume": "7600",
+        "date": "2022-05-13",
+        "symbol": "NXT",
+        "high": "10.76",
+        "timestamp": "1652400000",
+        "open": "10.76",
+        "low": "10.45",
+        "close": "10.45"
+    },
+    {
+        "volume": "6336",
+        "date": "2022-05-16",
+        "symbol": "NXT",
+        "high": "10.92",
+        "timestamp": "1652659200",
+        "open": "10.92",
+        "low": "10.69",
+        "close": "10.69"
+    },
+    {
+        "volume": "5500",
+        "date": "2022-05-17",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1652745600",
+        "open": "10.84",
+        "low": "10.69",
+        "close": "10.69"
+    },
+    {
+        "volume": "8100",
+        "date": "2022-05-18",
+        "symbol": "NXT",
+        "high": "10.76",
+        "timestamp": "1652832000",
+        "open": "10.76",
+        "low": "10.45",
+        "close": "10.76"
+    },
+    {
+        "volume": "11400",
+        "date": "2022-05-19",
+        "symbol": "NXT",
+        "high": "10.61",
+        "timestamp": "1652918400",
+        "open": "10.61",
+        "low": "10.07",
+        "close": "10.07"
+    },
+    {
+        "volume": "3100",
+        "date": "2022-05-20",
+        "symbol": "NXT",
+        "high": "10.3",
+        "timestamp": "1653004800",
+        "open": "10.3",
+        "low": "10.22",
+        "close": "10.22"
+    },
+    {
+        "volume": "4700",
+        "date": "2022-05-23",
+        "symbol": "NXT",
+        "high": "10.45",
+        "timestamp": "1653264000",
+        "open": "10.45",
+        "low": "10.3",
+        "close": "10.3"
+    },
+    {
+        "volume": "3500",
+        "date": "2022-05-24",
+        "symbol": "NXT",
+        "high": "10.38",
+        "timestamp": "1653350400",
+        "open": "10.38",
+        "low": "10.3",
+        "close": "10.3"
+    },
+    {
+        "volume": "3300",
+        "date": "2022-05-25",
+        "symbol": "NXT",
+        "high": "10.38",
+        "timestamp": "1653436800",
+        "open": "10.38",
+        "low": "10.07",
+        "close": "10.07"
+    },
+    {
+        "volume": "2600",
+        "date": "2022-05-26",
+        "symbol": "NXT",
+        "high": "10.45",
+        "timestamp": "1653523200",
+        "open": "10.45",
+        "low": "10.22",
+        "close": "10.22"
+    },
+    {
+        "volume": "5200",
+        "date": "2022-05-27",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1653609600",
+        "open": "10.45",
+        "low": "10.45",
+        "close": "10.84"
+    },
+    {
+        "volume": "4800",
+        "date": "2022-05-30",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1653868800",
+        "open": "10.84",
+        "low": "10.45",
+        "close": "10.45"
+    },
+    {
+        "volume": "4100",
+        "date": "2022-06-01",
+        "symbol": "NXT",
+        "high": "10.61",
+        "timestamp": "1654041600",
+        "open": "10.61",
+        "low": "10.45",
+        "close": "10.45"
+    },
+    {
+        "volume": "2000",
+        "date": "2022-06-02",
+        "symbol": "NXT",
+        "high": "10.53",
+        "timestamp": "1654128000",
+        "open": "10.53",
+        "low": "10.53",
+        "close": "10.53"
+    },
+    {
+        "volume": "3200",
+        "date": "2022-06-03",
+        "symbol": "NXT",
+        "high": "10.53",
+        "timestamp": "1654214400",
+        "open": "10.53",
+        "low": "10.38",
+        "close": "10.38"
+    },
+    {
+        "volume": "1700",
+        "date": "2022-06-06",
+        "symbol": "NXT",
+        "high": "10.53",
+        "timestamp": "1654473600",
+        "open": "10.53",
+        "low": "10.53",
+        "close": "10.53"
+    },
+    {
+        "volume": "2000",
+        "date": "2022-06-07",
+        "symbol": "NXT",
+        "high": "10.53",
+        "timestamp": "1654560000",
+        "open": "10.53",
+        "low": "10.53",
+        "close": "10.53"
+    },
+    {
+        "volume": "1500",
+        "date": "2022-06-08",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1654646400",
+        "open": "10.53",
+        "low": "10.22",
+        "close": "10.84"
+    },
+    {
+        "volume": "3000",
+        "date": "2022-06-09",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1654732800",
+        "open": "10.61",
+        "low": "10.61",
+        "close": "11.23"
+    },
+    {
+        "volume": "2500",
+        "date": "2022-06-10",
+        "symbol": "NXT",
+        "high": "11.07",
+        "timestamp": "1654819200",
+        "open": "11.07",
+        "low": "10.76",
+        "close": "10.76"
+    },
+    {
+        "volume": "2100",
+        "date": "2022-06-13",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1655078400",
+        "open": "10.84",
+        "low": "10.69",
+        "close": "10.69"
+    },
+    {
+        "volume": "1300",
+        "date": "2022-06-14",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1655164800",
+        "open": "10.84",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "700",
+        "date": "2022-06-15",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1655251200",
+        "open": "10.92",
+        "low": "10.92",
+        "close": "11.23"
+    },
+    {
+        "volume": "2101",
+        "date": "2022-06-16",
+        "symbol": "NXT",
+        "high": "11.38",
+        "timestamp": "1655337600",
+        "open": "11",
+        "low": "11",
+        "close": "11.38"
+    },
+    {
+        "volume": "1200",
+        "date": "2022-06-17",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1655424000",
+        "open": "11.23",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "2000",
+        "date": "2022-06-20",
+        "symbol": "NXT",
+        "high": "11.15",
+        "timestamp": "1655683200",
+        "open": "11.15",
+        "low": "11.15",
+        "close": "11.15"
+    },
+    {
+        "volume": "1600",
+        "date": "2022-06-21",
+        "symbol": "NXT",
+        "high": "11.46",
+        "timestamp": "1655769600",
+        "open": "11.15",
+        "low": "11.15",
+        "close": "11.46"
+    },
+    {
+        "volume": "2300",
+        "date": "2022-06-22",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1655856000",
+        "open": "11.23",
+        "low": "11.07",
+        "close": "11.07"
+    },
+    {
+        "volume": "4000",
+        "date": "2022-06-23",
+        "symbol": "NXT",
+        "high": "11.38",
+        "timestamp": "1655942400",
+        "open": "11.23",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "1000",
+        "date": "2022-06-24",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1656028800",
+        "open": "10.84",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "2700",
+        "date": "2022-06-27",
+        "symbol": "NXT",
+        "high": "11.23",
+        "timestamp": "1656288000",
+        "open": "10.84",
+        "low": "10.76",
+        "close": "10.76"
+    },
+    {
+        "volume": "1300",
+        "date": "2022-06-28",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1656374400",
+        "open": "10.84",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "1000",
+        "date": "2022-06-29",
+        "symbol": "NXT",
+        "high": "10.84",
+        "timestamp": "1656460800",
+        "open": "10.84",
+        "low": "10.84",
+        "close": "10.84"
+    },
+    {
+        "volume": "2200",
+        "date": "2022-06-30",
+        "symbol": "NXT",
+        "high": "10.69",
+        "timestamp": "1656547200",
+        "open": "10.69",
+        "low": "10.53",
+        "close": "10.53"
+    },
+    {
+        "volume": "15700",
+        "date": "2022-07-01",
+        "symbol": "NXT",
+        "high": "12",
+        "timestamp": "1656633600",
+        "open": "10.84",
+        "low": "10.84",
+        "close": "11.77"
+    },
+    {
+        "volume": "24400",
+        "date": "2022-07-04",
+        "symbol": "NXT",
+        "high": "12.62",
+        "timestamp": "1656892800",
+        "open": "11.77",
+        "low": "11.77",
+        "close": "12.62"
+    },
+    {
+        "volume": "39600",
+        "date": "2022-07-05",
+        "symbol": "NXT",
+        "high": "13.55",
+        "timestamp": "1656979200",
+        "open": "12.47",
+        "low": "12.31",
+        "close": "13.55"
+    },
+    {
+        "volume": "57000",
+        "date": "2022-07-06",
+        "symbol": "NXT",
+        "high": "15.02",
+        "timestamp": "1657065600",
+        "open": "13.55",
+        "low": "13.55",
+        "close": "15.02"
+    },
+    {
+        "volume": "33700",
+        "date": "2022-07-07",
+        "symbol": "NXT",
+        "high": "16.11",
+        "timestamp": "1657152000",
+        "open": "15.18",
+        "low": "14.56",
+        "close": "15.49"
+    },
+    {
+        "volume": "6100",
+        "date": "2022-07-08",
+        "symbol": "NXT",
+        "high": "15.26",
+        "timestamp": "1657238400",
+        "open": "15.26",
+        "low": "14.71",
+        "close": "14.71"
+    },
+    {
+        "volume": "38300",
+        "date": "2022-07-11",
+        "symbol": "NXT",
+        "high": "15.02",
+        "timestamp": "1657497600",
+        "open": "15.02",
+        "low": "14.25",
+        "close": "14.33"
+    },
+    {
+        "volume": "34000",
+        "date": "2022-07-12",
+        "symbol": "NXT",
+        "high": "14.4",
+        "timestamp": "1657584000",
+        "open": "14.4",
+        "low": "13.78",
+        "close": "13.78"
+    },
+    {
+        "volume": "6900",
+        "date": "2022-07-13",
+        "symbol": "NXT",
+        "high": "14.25",
+        "timestamp": "1657670400",
+        "open": "13.94",
+        "low": "13.94",
+        "close": "14.25"
+    },
+    {
+        "volume": "5100",
+        "date": "2022-07-14",
+        "symbol": "NXT",
+        "high": "14.33",
+        "timestamp": "1657756800",
+        "open": "14.02",
+        "low": "13.78",
+        "close": "14.02"
+    },
+    {
+        "volume": "23200",
+        "date": "2022-07-15",
+        "symbol": "NXT",
+        "high": "14.48",
+        "timestamp": "1657843200",
+        "open": "14.02",
+        "low": "14.02",
+        "close": "14.48"
+    },
+    {
+        "volume": "2100",
+        "date": "2022-07-18",
+        "symbol": "NXT",
+        "high": "14.33",
+        "timestamp": "1658102400",
+        "open": "14.33",
+        "low": "14.02",
+        "close": "14.33"
+    },
+    {
+        "volume": "14000",
+        "date": "2022-07-19",
+        "symbol": "NXT",
+        "high": "14.33",
+        "timestamp": "1658188800",
+        "open": "14.17",
+        "low": "13.78",
+        "close": "13.94"
+    },
+    {
+        "volume": "23600",
+        "date": "2022-07-20",
+        "symbol": "NXT",
+        "high": "14.4",
+        "timestamp": "1658275200",
+        "open": "14.02",
+        "low": "14.02",
+        "close": "14.4"
+    },
+    {
+        "volume": "16700",
+        "date": "2022-07-21",
+        "symbol": "NXT",
+        "high": "14.71",
+        "timestamp": "1658361600",
+        "open": "14.33",
+        "low": "14.09",
+        "close": "14.56"
+    },
+    {
+        "volume": "28200",
+        "date": "2022-07-22",
+        "symbol": "NXT",
+        "high": "15.02",
+        "timestamp": "1658448000",
+        "open": "14.48",
+        "low": "14.48",
+        "close": "14.71"
+    },
+    {
+        "volume": "18800",
+        "date": "2022-07-25",
+        "symbol": "NXT",
+        "high": "14.87",
+        "timestamp": "1658707200",
+        "open": "14.87",
+        "low": "14.56",
+        "close": "14.64"
+    },
+    {
+        "volume": "23100",
+        "date": "2022-07-26",
+        "symbol": "NXT",
+        "high": "14.71",
+        "timestamp": "1658793600",
+        "open": "14.71",
+        "low": "14.33",
+        "close": "14.48"
+    },
+    {
+        "volume": "16300",
+        "date": "2022-07-27",
+        "symbol": "NXT",
+        "high": "14.56",
+        "timestamp": "1658880000",
+        "open": "14.56",
+        "low": "14.33",
+        "close": "14.33"
+    },
+    {
+        "volume": "19100",
+        "date": "2022-07-28",
+        "symbol": "NXT",
+        "high": "14.71",
+        "timestamp": "1658966400",
+        "open": "14.33",
+        "low": "14.33",
+        "close": "14.33"
+    },
+    {
+        "volume": "31100",
+        "date": "2022-07-29",
+        "symbol": "NXT",
+        "high": "14.56",
+        "timestamp": "1659052800",
+        "open": "14.4",
+        "low": "14.09",
+        "close": "14.17"
+    },
+    {
+        "volume": "17400",
+        "date": "2022-08-01",
+        "symbol": "NXT",
+        "high": "14.17",
+        "timestamp": "1659312000",
+        "open": "14.17",
+        "low": "14.09",
+        "close": "14.09"
+    },
+    {
+        "volume": "22600",
+        "date": "2022-08-02",
+        "symbol": "NXT",
+        "high": "14.3",
+        "timestamp": "1659398400",
+        "open": "14.1",
+        "low": "14",
+        "close": "14"
+    },
+    {
+        "volume": "33900",
+        "date": "2022-08-03",
+        "symbol": "NXT",
+        "high": "14.2",
+        "timestamp": "1659484800",
+        "open": "14.1",
+        "low": "13.5",
+        "close": "13.9"
+    },
+    {
+        "volume": "20300",
+        "date": "2022-08-04",
+        "symbol": "NXT",
+        "high": "14.3",
+        "timestamp": "1659571200",
+        "open": "14",
+        "low": "13.8",
+        "close": "14.1"
+    },
+    {
+        "volume": "23500",
+        "date": "2022-08-05",
+        "symbol": "NXT",
+        "high": "14.3",
+        "timestamp": "1659657600",
+        "open": "14",
+        "low": "14",
+        "close": "14.3"
+    },
+    {
+        "volume": "25800",
+        "date": "2022-08-08",
+        "symbol": "NXT",
+        "high": "14.6",
+        "timestamp": "1659916800",
+        "open": "14.3",
+        "low": "14.1",
+        "close": "14.6"
+    },
+    {
+        "volume": "17100",
+        "date": "2022-08-09",
+        "symbol": "NXT",
+        "high": "14.6",
+        "timestamp": "1660003200",
+        "open": "14.5",
+        "low": "14.5",
+        "close": "14.5"
+    },
+    {
+        "volume": "39700",
+        "date": "2022-08-10",
+        "symbol": "NXT",
+        "high": "15.4",
+        "timestamp": "1660089600",
+        "open": "14.5",
+        "low": "14.5",
+        "close": "15.1"
+    },
+    {
+        "volume": "16000",
+        "date": "2022-08-11",
+        "symbol": "NXT",
+        "high": "15.1",
+        "timestamp": "1660176000",
+        "open": "15.1",
+        "low": "14.9",
+        "close": "14.9"
+    },
+    {
+        "volume": "19615",
+        "date": "2022-08-12",
+        "symbol": "NXT",
+        "high": "15.3",
+        "timestamp": "1660262400",
+        "open": "14.9",
+        "low": "14.9",
+        "close": "15.1"
+    },
+    {
+        "volume": "48400",
+        "date": "2022-08-15",
+        "symbol": "NXT",
+        "high": "17",
+        "timestamp": "1660521600",
+        "open": "15.1",
+        "low": "15.1",
+        "close": "17"
+    },
+    {
+        "volume": "55100",
+        "date": "2022-08-16",
+        "symbol": "NXT",
+        "high": "18.6",
+        "timestamp": "1660608000",
+        "open": "16.8",
+        "low": "16.7",
+        "close": "18.4"
+    },
+    {
+        "volume": "61500",
+        "date": "2022-08-17",
+        "symbol": "NXT",
+        "high": "20.3",
+        "timestamp": "1660694400",
         "open": "18.3",
-        "close": "18.5",
-        "volume": "32500",
-        "symbol": "NXT",
-        "timestamp": "1665705600",
-        "low": "18.1",
-        "date": "2022-10-14",
-        "high": "18.8"
+        "low": "18.3",
+        "close": "20.2"
     },
     {
-        "open": "18.3",
-        "close": "18.0",
-        "volume": "29300.0",
+        "volume": "65930",
+        "date": "2022-08-18",
         "symbol": "NXT",
-        "timestamp": "1665964800.0",
-        "low": "17.4",
-        "date": "2022-10-17",
-        "high": "18.6"
+        "high": "21.5",
+        "timestamp": "1660780800",
+        "open": "19.9",
+        "low": "19.7",
+        "close": "20.7"
     },
     {
-        "open": "18.1",
-        "close": "17.5",
-        "volume": "18900.0",
+        "volume": "22000",
+        "date": "2022-08-19",
         "symbol": "NXT",
-        "timestamp": "1666051200.0",
-        "low": "17.1",
-        "date": "2022-10-18",
-        "high": "18.1"
+        "high": "20.2",
+        "timestamp": "1660867200",
+        "open": "19.9",
+        "low": "18.5",
+        "close": "18.7"
     },
     {
+        "volume": "28600",
+        "date": "2022-08-22",
+        "symbol": "NXT",
+        "high": "18.7",
+        "timestamp": "1661126400",
+        "open": "18.7",
+        "low": "17.5",
+        "close": "18"
+    },
+    {
+        "volume": "18300",
+        "date": "2022-08-23",
+        "symbol": "NXT",
+        "high": "18",
+        "timestamp": "1661212800",
         "open": "17.6",
-        "close": "17.0",
-        "volume": "23000.0",
-        "symbol": "NXT",
-        "timestamp": "1666137600.0",
-        "low": "16.5",
-        "date": "2022-10-19",
-        "high": "17.7"
+        "low": "16.8",
+        "close": "17"
     },
     {
-        "open": "17.0",
-        "close": "16.5",
-        "volume": "26800.0",
+        "volume": "22800",
+        "date": "2022-08-24",
         "symbol": "NXT",
-        "timestamp": "1666224000.0",
-        "low": "16.0",
-        "date": "2022-10-20",
-        "high": "17.0"
-    },
-    {
-        "open": "16.4",
-        "close": "16.4",
-        "volume": "16300.0",
-        "symbol": "NXT",
-        "timestamp": "1666310400.0",
-        "low": "16.1",
-        "date": "2022-10-21",
-        "high": "16.5"
-    },
-    {
-        "open": "16.4",
-        "close": "16.8",
-        "volume": "20600.0",
-        "symbol": "NXT",
-        "timestamp": "1666569600.0",
+        "high": "17.1",
+        "timestamp": "1661299200",
+        "open": "17.1",
         "low": "16.4",
-        "date": "2022-10-24",
-        "high": "17.2"
+        "close": "16.8"
     },
     {
-        "open": "16.7",
-        "close": "16.8",
-        "volume": "13200.0",
+        "volume": "27100",
+        "date": "2022-08-25",
         "symbol": "NXT",
-        "timestamp": "1666656000.0",
-        "low": "16.6",
-        "date": "2022-10-25",
-        "high": "17.0"
-    },
-    {
-        "open": "16.7",
-        "close": "16.4",
-        "volume": "23200.0",
-        "symbol": "NXT",
-        "timestamp": "1666742400.0",
-        "low": "16.1",
-        "date": "2022-10-26",
-        "high": "16.7"
-    },
-    {
-        "open": "16.2",
-        "close": "16.4",
-        "volume": "15800.0",
-        "symbol": "NXT",
-        "timestamp": "1666828800.0",
-        "low": "16.0",
-        "date": "2022-10-27",
-        "high": "16.5"
-    },
-    {
-        "open": "16.3",
-        "close": "16.1",
-        "volume": "20800.0",
-        "symbol": "NXT",
-        "timestamp": "1666915200.0",
-        "low": "16.1",
-        "date": "2022-10-28",
-        "high": "16.5"
-    },
-    {
-        "open": "16.3",
-        "close": "16.5",
-        "volume": "17600.0",
-        "symbol": "NXT",
-        "timestamp": "1667174400.0",
-        "low": "16.0",
-        "date": "2022-10-31",
-        "high": "16.5"
-    },
-    {
-        "open": "16.3",
-        "close": "16.6",
-        "volume": "23100.0",
-        "symbol": "NXT",
-        "timestamp": "1667260800.0",
-        "low": "16.3",
-        "date": "2022-11-01",
-        "high": "16.8"
-    },
-    {
+        "high": "16.8",
+        "timestamp": "1661385600",
         "open": "16.5",
-        "close": "16.0",
-        "volume": "20200.0",
-        "symbol": "NXT",
-        "timestamp": "1667347200.0",
-        "low": "16.0",
-        "date": "2022-11-02",
-        "high": "16.7"
+        "low": "16",
+        "close": "16.4"
     },
     {
-        "open": "16.1",
-        "close": "16.3",
-        "volume": "13700.0",
+        "volume": "20600",
+        "date": "2022-08-26",
         "symbol": "NXT",
-        "timestamp": "1667433600.0",
+        "high": "16.4",
+        "timestamp": "1661472000",
+        "open": "16",
+        "low": "16",
+        "close": "16"
+    },
+    {
+        "volume": "40200",
+        "date": "2022-08-29",
+        "symbol": "NXT",
+        "high": "17.5",
+        "timestamp": "1661731200",
+        "open": "16.2",
+        "low": "16.2",
+        "close": "17.1"
+    },
+    {
+        "volume": "27800",
+        "date": "2022-08-30",
+        "symbol": "NXT",
+        "high": "18",
+        "timestamp": "1661817600",
+        "open": "17",
+        "low": "17",
+        "close": "18"
+    },
+    {
+        "volume": "16200",
+        "date": "2022-08-31",
+        "symbol": "NXT",
+        "high": "18",
+        "timestamp": "1661904000",
+        "open": "17.8",
+        "low": "16.4",
+        "close": "16.9"
+    },
+    {
+        "volume": "19100",
+        "date": "2022-09-05",
+        "symbol": "NXT",
+        "high": "17",
+        "timestamp": "1662336000",
+        "open": "17",
+        "low": "16",
+        "close": "16.6"
+    },
+    {
+        "volume": "26500",
+        "date": "2022-09-06",
+        "symbol": "NXT",
+        "high": "16.7",
+        "timestamp": "1662422400",
+        "open": "16.2",
+        "low": "16.2",
+        "close": "16.6"
+    },
+    {
+        "volume": "17000",
+        "date": "2022-09-07",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1662508800",
+        "open": "16.5",
+        "low": "16.2",
+        "close": "16.6"
+    },
+    {
+        "volume": "21900",
+        "date": "2022-09-08",
+        "symbol": "NXT",
+        "high": "17.3",
+        "timestamp": "1662595200",
+        "open": "16.6",
+        "low": "16.6",
+        "close": "17"
+    },
+    {
+        "volume": "18100",
+        "date": "2022-09-09",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1662681600",
+        "open": "16.8",
+        "low": "16.4",
+        "close": "16.7"
+    },
+    {
+        "volume": "26400",
+        "date": "2022-09-12",
+        "symbol": "NXT",
+        "high": "17",
+        "timestamp": "1662940800",
+        "open": "16.6",
+        "low": "16.6",
+        "close": "16.7"
+    },
+    {
+        "volume": "21600",
+        "date": "2022-09-13",
+        "symbol": "NXT",
+        "high": "17.2",
+        "timestamp": "1663027200",
+        "open": "16.8",
+        "low": "16.8",
+        "close": "17"
+    },
+    {
+        "volume": "16500",
+        "date": "2022-09-14",
+        "symbol": "NXT",
+        "high": "17",
+        "timestamp": "1663113600",
+        "open": "16.9",
+        "low": "16.6",
+        "close": "16.9"
+    },
+    {
+        "volume": "25100",
+        "date": "2022-09-15",
+        "symbol": "NXT",
+        "high": "17.2",
+        "timestamp": "1663200000",
+        "open": "16.8",
+        "low": "16.6",
+        "close": "16.6"
+    },
+    {
+        "volume": "29100",
+        "date": "2022-09-16",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1663286400",
+        "open": "16.8",
+        "low": "16.2",
+        "close": "16.5"
+    },
+    {
+        "volume": "20800",
+        "date": "2022-09-19",
+        "symbol": "NXT",
+        "high": "16.7",
+        "timestamp": "1663545600",
+        "open": "16.5",
+        "low": "15.7",
+        "close": "16.4"
+    },
+    {
+        "volume": "15500",
+        "date": "2022-09-20",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1663632000",
+        "open": "16.2",
+        "low": "16.2",
+        "close": "16.4"
+    },
+    {
+        "volume": "24000",
+        "date": "2022-09-21",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1663718400",
+        "open": "16.3",
+        "low": "16.3",
+        "close": "16.5"
+    },
+    {
+        "volume": "20700",
+        "date": "2022-09-22",
+        "symbol": "NXT",
+        "high": "17",
+        "timestamp": "1663804800",
+        "open": "16.5",
+        "low": "16.5",
+        "close": "16.8"
+    },
+    {
+        "volume": "15300",
+        "date": "2022-09-23",
+        "symbol": "NXT",
+        "high": "16.7",
+        "timestamp": "1663891200",
+        "open": "16.7",
+        "low": "16.3",
+        "close": "16.3"
+    },
+    {
+        "volume": "31600",
+        "date": "2022-09-26",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1664150400",
+        "open": "16.5",
+        "low": "16",
+        "close": "16.3"
+    },
+    {
+        "volume": "19200",
+        "date": "2022-09-27",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1664236800",
+        "open": "16.3",
+        "low": "16.3",
+        "close": "16.3"
+    },
+    {
+        "volume": "24800",
+        "date": "2022-09-28",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1664323200",
+        "open": "16.4",
+        "low": "16.4",
+        "close": "16.8"
+    },
+    {
+        "volume": "20100",
+        "date": "2022-09-29",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1664409600",
+        "open": "16.4",
+        "low": "16.4",
+        "close": "16.6"
+    },
+    {
+        "volume": "24800",
+        "date": "2022-09-30",
+        "symbol": "NXT",
+        "high": "17.1",
+        "timestamp": "1664496000",
+        "open": "16.7",
+        "low": "16.7",
+        "close": "16.8"
+    },
+    {
+        "volume": "32300",
+        "date": "2022-10-03",
+        "symbol": "NXT",
+        "high": "17.1",
+        "timestamp": "1664755200",
+        "open": "16.9",
+        "low": "16.5",
+        "close": "16.6"
+    },
+    {
+        "volume": "20600",
+        "date": "2022-10-04",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1664841600",
+        "open": "16.8",
+        "low": "16",
+        "close": "16.4"
+    },
+    {
+        "volume": "25800",
+        "date": "2022-10-05",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1664928000",
+        "open": "16.3",
+        "low": "15.9",
+        "close": "16.5"
+    },
+    {
+        "volume": "17100",
+        "date": "2022-10-06",
+        "symbol": "NXT",
+        "high": "16.6",
+        "timestamp": "1665014400",
+        "open": "16.4",
+        "low": "16.2",
+        "close": "16.5"
+    },
+    {
+        "volume": "13400",
+        "date": "2022-10-07",
+        "symbol": "NXT",
+        "high": "16.7",
+        "timestamp": "1665100800",
+        "open": "16.5",
+        "low": "16.3",
+        "close": "16.7"
+    },
+    {
+        "volume": "26300",
+        "date": "2022-10-10",
+        "symbol": "NXT",
+        "high": "17",
+        "timestamp": "1665360000",
+        "open": "16.6",
+        "low": "16.6",
+        "close": "16.9"
+    },
+    {
+        "volume": "40200",
+        "date": "2022-10-11",
+        "symbol": "NXT",
+        "high": "17.6",
+        "timestamp": "1665446400",
+        "open": "16.9",
+        "low": "16.9",
+        "close": "17.4"
+    },
+    {
+        "volume": "26200",
+        "date": "2022-10-12",
+        "symbol": "NXT",
+        "high": "17.6",
+        "timestamp": "1665532800",
+        "open": "17.3",
+        "low": "17.2",
+        "close": "17.3"
+    },
+    {
+        "volume": "38000",
+        "date": "2022-10-13",
+        "symbol": "NXT",
+        "high": "18.3",
+        "timestamp": "1665619200",
+        "open": "17.4",
+        "low": "17.4",
+        "close": "18.3"
+    },
+    {
+        "volume": "32500",
+        "date": "2022-10-14",
+        "symbol": "NXT",
+        "high": "18.8",
+        "timestamp": "1665705600",
+        "open": "18.3",
+        "low": "18.1",
+        "close": "18.5"
+    },
+    {
+        "volume": "29300.0",
+        "date": "2022-10-17",
+        "symbol": "NXT",
+        "high": "18.6",
+        "timestamp": "1665964800.0",
+        "open": "18.3",
+        "low": "17.4",
+        "close": "18.0"
+    },
+    {
+        "volume": "18900.0",
+        "date": "2022-10-18",
+        "symbol": "NXT",
+        "high": "18.1",
+        "timestamp": "1666051200.0",
+        "open": "18.1",
+        "low": "17.1",
+        "close": "17.5"
+    },
+    {
+        "volume": "23000.0",
+        "date": "2022-10-19",
+        "symbol": "NXT",
+        "high": "17.7",
+        "timestamp": "1666137600.0",
+        "open": "17.6",
+        "low": "16.5",
+        "close": "17.0"
+    },
+    {
+        "volume": "26800.0",
+        "date": "2022-10-20",
+        "symbol": "NXT",
+        "high": "17.0",
+        "timestamp": "1666224000.0",
+        "open": "17.0",
+        "low": "16.0",
+        "close": "16.5"
+    },
+    {
+        "volume": "16300.0",
+        "date": "2022-10-21",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1666310400.0",
+        "open": "16.4",
         "low": "16.1",
+        "close": "16.4"
+    },
+    {
+        "volume": "20600.0",
+        "date": "2022-10-24",
+        "symbol": "NXT",
+        "high": "17.2",
+        "timestamp": "1666569600.0",
+        "open": "16.4",
+        "low": "16.4",
+        "close": "16.8"
+    },
+    {
+        "volume": "13200.0",
+        "date": "2022-10-25",
+        "symbol": "NXT",
+        "high": "17.0",
+        "timestamp": "1666656000.0",
+        "open": "16.7",
+        "low": "16.6",
+        "close": "16.8"
+    },
+    {
+        "volume": "23200.0",
+        "date": "2022-10-26",
+        "symbol": "NXT",
+        "high": "16.7",
+        "timestamp": "1666742400.0",
+        "open": "16.7",
+        "low": "16.1",
+        "close": "16.4"
+    },
+    {
+        "volume": "15800.0",
+        "date": "2022-10-27",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1666828800.0",
+        "open": "16.2",
+        "low": "16.0",
+        "close": "16.4"
+    },
+    {
+        "volume": "20800.0",
+        "date": "2022-10-28",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1666915200.0",
+        "open": "16.3",
+        "low": "16.1",
+        "close": "16.1"
+    },
+    {
+        "volume": "17600.0",
+        "date": "2022-10-31",
+        "symbol": "NXT",
+        "high": "16.5",
+        "timestamp": "1667174400.0",
+        "open": "16.3",
+        "low": "16.0",
+        "close": "16.5"
+    },
+    {
+        "volume": "23100.0",
+        "date": "2022-11-01",
+        "symbol": "NXT",
+        "high": "16.8",
+        "timestamp": "1667260800.0",
+        "open": "16.3",
+        "low": "16.3",
+        "close": "16.6"
+    },
+    {
+        "volume": "20200.0",
+        "date": "2022-11-02",
+        "symbol": "NXT",
+        "high": "16.7",
+        "timestamp": "1667347200.0",
+        "open": "16.5",
+        "low": "16.0",
+        "close": "16.0"
+    },
+    {
+        "volume": "13700.0",
         "date": "2022-11-03",
-        "high": "16.4"
+        "symbol": "NXT",
+        "high": "16.4",
+        "timestamp": "1667433600.0",
+        "open": "16.1",
+        "low": "16.1",
+        "close": "16.3"
+    },
+    {
+        "volume": "16400.0",
+        "date": "2022-11-04",
+        "symbol": "NXT",
+        "high": "16.3",
+        "timestamp": "1667520000.0",
+        "open": "16.2",
+        "low": "16.0",
+        "close": "16.2"
+    },
+    {
+        "volume": "11300.0",
+        "date": "2022-11-07",
+        "symbol": "NXT",
+        "high": "16.4",
+        "timestamp": "1667779200.0",
+        "open": "16.2",
+        "low": "16.2",
+        "close": "16.4"
+    },
+    {
+        "volume": "21200.0",
+        "date": "2022-11-08",
+        "symbol": "NXT",
+        "high": "16.3",
+        "timestamp": "1667865600.0",
+        "open": "16.1",
+        "low": "16.0",
+        "close": "16.0"
+    },
+    {
+        "volume": "16500.0",
+        "date": "2022-11-09",
+        "symbol": "NXT",
+        "high": "16.3",
+        "timestamp": "1667952000.0",
+        "open": "16.1",
+        "low": "16.0",
+        "close": "16.2"
+    },
+    {
+        "volume": "11900.0",
+        "date": "2022-11-10",
+        "symbol": "NXT",
+        "high": "16.3",
+        "timestamp": "1668038400.0",
+        "open": "16.1",
+        "low": "16.0",
+        "close": "16.0"
+    },
+    {
+        "volume": "15700.0",
+        "date": "2022-11-11",
+        "symbol": "NXT",
+        "high": "16.3",
+        "timestamp": "1668124800.0",
+        "open": "16.2",
+        "low": "16.2",
+        "close": "16.3"
+    },
+    {
+        "volume": "5800.0",
+        "date": "2022-11-14",
+        "symbol": "NXT",
+        "high": "16.2",
+        "timestamp": "1668384000.0",
+        "open": "16.2",
+        "low": "15.5",
+        "close": "15.5"
+    },
+    {
+        "volume": "7200.0",
+        "date": "2022-11-15",
+        "symbol": "NXT",
+        "high": "15.7",
+        "timestamp": "1668470400.0",
+        "open": "15.5",
+        "low": "14.5",
+        "close": "14.5"
+    },
+    {
+        "volume": "5800.0",
+        "date": "2022-11-16",
+        "symbol": "NXT",
+        "high": "14.5",
+        "timestamp": "1668556800.0",
+        "open": "14.5",
+        "low": "13.2",
+        "close": "13.2"
+    },
+    {
+        "volume": "2300.0",
+        "date": "2022-11-17",
+        "symbol": "NXT",
+        "high": "13.8",
+        "timestamp": "1668643200.0",
+        "open": "13.4",
+        "low": "13.4",
+        "close": "13.8"
+    },
+    {
+        "volume": "1800.0",
+        "date": "2022-11-18",
+        "symbol": "NXT",
+        "high": "13.7",
+        "timestamp": "1668729600.0",
+        "open": "13.7",
+        "low": "13.7",
+        "close": "13.7"
+    },
+    {
+        "volume": "1700.0",
+        "date": "2022-11-21",
+        "symbol": "NXT",
+        "high": "13.7",
+        "timestamp": "1668988800.0",
+        "open": "13.7",
+        "low": "13.3",
+        "close": "13.3"
+    },
+    {
+        "volume": "2100.0",
+        "date": "2022-11-22",
+        "symbol": "NXT",
+        "high": "13.3",
+        "timestamp": "1669075200.0",
+        "open": "13.3",
+        "low": "13.0",
+        "close": "13.0"
+    },
+    {
+        "volume": "3500.0",
+        "date": "2022-11-23",
+        "symbol": "NXT",
+        "high": "13.1",
+        "timestamp": "1669161600.0",
+        "open": "13.0",
+        "low": "13.0",
+        "close": "13.0"
+    },
+    {
+        "volume": "1200.0",
+        "date": "2022-11-24",
+        "symbol": "NXT",
+        "high": "13.0",
+        "timestamp": "1669248000.0",
+        "open": "13.0",
+        "low": "12.6",
+        "close": "12.6"
+    },
+    {
+        "volume": "2700.0",
+        "date": "2022-11-25",
+        "symbol": "NXT",
+        "high": "12.8",
+        "timestamp": "1669334400.0",
+        "open": "12.6",
+        "low": "12.0",
+        "close": "12.3"
     }
 ]

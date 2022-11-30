@@ -1,82 +1,82 @@
 [
     {
-        "open": "1.99",
-        "close": "1.99",
+        "volume": "100",
         "date": "2018-02-09",
-        "volume": "100",
         "symbol": "FBC",
+        "high": "1.99",
         "timestamp": "1518134400",
+        "open": "1.99",
         "low": "1.99",
-        "high": "1.99"
+        "close": "1.99"
     },
     {
-        "open": "1.38",
-        "close": "1.2",
-        "date": "2018-11-09",
         "volume": "215000",
+        "date": "2018-11-09",
         "symbol": "FBC",
+        "high": "1.38",
         "timestamp": "1541721600",
+        "open": "1.38",
         "low": "1.2",
-        "high": "1.38"
+        "close": "1.2"
     },
     {
-        "open": "1.67",
-        "close": "1.67",
+        "volume": "100",
         "date": "2019-08-23",
-        "volume": "100",
         "symbol": "FBC",
+        "high": "1.67",
         "timestamp": "1566518400",
+        "open": "1.67",
         "low": "1.67",
-        "high": "1.67"
+        "close": "1.67"
     },
     {
-        "open": "2.32",
-        "close": "2.32",
+        "volume": "100",
         "date": "2021-08-11",
-        "volume": "100",
         "symbol": "FBC",
+        "high": "2.32",
         "timestamp": "1628640000",
+        "open": "2.32",
         "low": "2.32",
-        "high": "2.32"
+        "close": "2.32"
     },
     {
-        "open": "2.65",
-        "close": "2.65",
+        "volume": "100",
         "date": "2021-08-17",
-        "volume": "100",
         "symbol": "FBC",
+        "high": "2.65",
         "timestamp": "1629158400",
+        "open": "2.65",
         "low": "2.65",
-        "high": "2.65"
+        "close": "2.65"
     },
     {
-        "open": "3.7",
-        "close": "3.7",
+        "volume": "100",
         "date": "2022-05-17",
-        "volume": "100",
         "symbol": "FBC",
+        "high": "3.7",
         "timestamp": "1652745600",
+        "open": "3.7",
         "low": "3.7",
-        "high": "3.7"
+        "close": "3.7"
     },
     {
-        "open": "3.7",
-        "close": "3.7",
-        "date": "2022-05-18",
         "volume": "13900",
+        "date": "2022-05-18",
         "symbol": "FBC",
+        "high": "3.7",
         "timestamp": "1652832000",
+        "open": "3.7",
         "low": "3.7",
-        "high": "3.7"
+        "close": "3.7"
     },
     {
-        "open": "3.7",
-        "close": "3.7",
-        "date": "2022-05-20",
         "volume": "100",
+        "date": "2022-05-20",
         "symbol": "FBC",
+        "high": "3.7",
         "timestamp": "1653004800",
+        "open": "3.7",
         "low": "3.7",
-        "high": "3.7"
+        "close": "3.7"
     }
 ]

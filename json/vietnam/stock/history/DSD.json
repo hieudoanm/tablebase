@@ -1,362 +1,372 @@
 [
     {
-        "open": "14",
-        "close": "14",
+        "volume": "100",
         "date": "2022-05-17",
-        "volume": "100",
         "symbol": "DSD",
+        "high": "14",
         "timestamp": "1652745600",
+        "open": "14",
         "low": "14",
-        "high": "14"
+        "close": "14"
     },
     {
-        "open": "16.1",
-        "close": "16.1",
+        "volume": "300",
         "date": "2022-05-18",
-        "volume": "300",
         "symbol": "DSD",
+        "high": "16.1",
         "timestamp": "1652832000",
+        "open": "16.1",
         "low": "16.1",
-        "high": "16.1"
+        "close": "16.1"
     },
     {
-        "open": "16.1",
-        "close": "16.1",
+        "volume": "100",
         "date": "2022-05-19",
-        "volume": "100",
         "symbol": "DSD",
+        "high": "16.1",
         "timestamp": "1652918400",
-        "low": "16.1",
-        "high": "16.1"
-    },
-    {
         "open": "16.1",
-        "close": "16.1",
-        "date": "2022-05-20",
-        "volume": "100",
-        "symbol": "DSD",
-        "timestamp": "1653004800",
         "low": "16.1",
-        "high": "16.1"
+        "close": "16.1"
     },
     {
-        "open": "18.5",
-        "close": "18.5",
+        "volume": "100",
+        "date": "2022-05-20",
+        "symbol": "DSD",
+        "high": "16.1",
+        "timestamp": "1653004800",
+        "open": "16.1",
+        "low": "16.1",
+        "close": "16.1"
+    },
+    {
+        "volume": "300",
         "date": "2022-05-23",
-        "volume": "300",
         "symbol": "DSD",
+        "high": "18.5",
         "timestamp": "1653264000",
+        "open": "18.5",
         "low": "18.5",
-        "high": "18.5"
+        "close": "18.5"
     },
     {
-        "open": "21.2",
-        "close": "21.2",
+        "volume": "100",
         "date": "2022-05-24",
-        "volume": "100",
         "symbol": "DSD",
+        "high": "21.2",
         "timestamp": "1653350400",
+        "open": "21.2",
         "low": "21.2",
-        "high": "21.2"
+        "close": "21.2"
     },
     {
-        "open": "24.3",
-        "close": "24.3",
-        "date": "2022-05-25",
         "volume": "400",
+        "date": "2022-05-25",
         "symbol": "DSD",
+        "high": "24.3",
         "timestamp": "1653436800",
+        "open": "24.3",
         "low": "24.3",
-        "high": "24.3"
+        "close": "24.3"
     },
     {
-        "open": "27.9",
-        "close": "27.9",
+        "volume": "200",
         "date": "2022-05-27",
-        "volume": "200",
         "symbol": "DSD",
+        "high": "27.9",
         "timestamp": "1653609600",
+        "open": "27.9",
         "low": "27.9",
-        "high": "27.9"
+        "close": "27.9"
     },
     {
-        "open": "32",
-        "close": "32",
+        "volume": "100",
         "date": "2022-05-30",
-        "volume": "100",
         "symbol": "DSD",
+        "high": "32",
         "timestamp": "1653868800",
+        "open": "32",
         "low": "32",
-        "high": "32"
+        "close": "32"
     },
     {
-        "open": "27.2",
-        "close": "28",
+        "volume": "300",
         "date": "2022-05-31",
-        "volume": "300",
         "symbol": "DSD",
+        "high": "28",
         "timestamp": "1653955200",
+        "open": "27.2",
         "low": "27.2",
-        "high": "28"
+        "close": "28"
     },
     {
-        "open": "27.8",
-        "close": "27.8",
+        "volume": "300",
         "date": "2022-06-01",
-        "volume": "300",
         "symbol": "DSD",
+        "high": "27.8",
         "timestamp": "1654041600",
+        "open": "27.8",
         "low": "27.8",
-        "high": "27.8"
+        "close": "27.8"
     },
     {
-        "open": "23.7",
-        "close": "23.7",
+        "volume": "100",
         "date": "2022-06-03",
-        "volume": "100",
         "symbol": "DSD",
+        "high": "23.7",
         "timestamp": "1654214400",
+        "open": "23.7",
         "low": "23.7",
-        "high": "23.7"
+        "close": "23.7"
     },
     {
-        "open": "25",
-        "close": "25",
+        "volume": "200",
         "date": "2022-06-06",
-        "volume": "200",
         "symbol": "DSD",
+        "high": "25",
         "timestamp": "1654473600",
+        "open": "25",
         "low": "25",
-        "high": "25"
+        "close": "25"
     },
     {
-        "open": "22",
-        "close": "22",
-        "date": "2022-06-09",
         "volume": "1100",
+        "date": "2022-06-09",
         "symbol": "DSD",
+        "high": "22",
         "timestamp": "1654732800",
-        "low": "22",
-        "high": "22"
-    },
-    {
         "open": "22",
-        "close": "22",
-        "date": "2022-06-13",
-        "volume": "100",
-        "symbol": "DSD",
-        "timestamp": "1655078400",
         "low": "22",
-        "high": "22"
+        "close": "22"
     },
     {
-        "open": "21",
-        "close": "21",
-        "date": "2022-06-16",
+        "volume": "100",
+        "date": "2022-06-13",
+        "symbol": "DSD",
+        "high": "22",
+        "timestamp": "1655078400",
+        "open": "22",
+        "low": "22",
+        "close": "22"
+    },
+    {
         "volume": "200",
+        "date": "2022-06-16",
         "symbol": "DSD",
+        "high": "21",
         "timestamp": "1655337600",
+        "open": "21",
         "low": "21",
-        "high": "21"
+        "close": "21"
     },
     {
-        "open": "19",
-        "close": "17.9",
-        "date": "2022-06-17",
         "volume": "119488",
+        "date": "2022-06-17",
         "symbol": "DSD",
+        "high": "21",
         "timestamp": "1655424000",
+        "open": "19",
         "low": "17.9",
-        "high": "21"
+        "close": "17.9"
     },
     {
-        "open": "19",
-        "close": "17.9",
-        "date": "2022-06-20",
         "volume": "47812",
+        "date": "2022-06-20",
         "symbol": "DSD",
+        "high": "21",
         "timestamp": "1655683200",
-        "low": "17.9",
-        "high": "21"
-    },
-    {
-        "open": "21",
-        "close": "21",
-        "date": "2022-06-24",
-        "volume": "100",
-        "symbol": "DSD",
-        "timestamp": "1656028800",
-        "low": "21",
-        "high": "21"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-06-28",
-        "volume": "100",
-        "symbol": "DSD",
-        "timestamp": "1656374400",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "21",
-        "close": "21",
-        "date": "2022-07-01",
-        "volume": "100",
-        "symbol": "DSD",
-        "timestamp": "1656633600",
-        "low": "21",
-        "high": "21"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-07-18",
-        "volume": "100",
-        "symbol": "DSD",
-        "timestamp": "1658102400",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-07-20",
-        "volume": "300",
-        "symbol": "DSD",
-        "timestamp": "1658275200",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-07-28",
-        "volume": "166000",
-        "symbol": "DSD",
-        "timestamp": "1658966400",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-01",
-        "volume": "166100",
-        "symbol": "DSD",
-        "timestamp": "1659312000",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-03",
-        "volume": "165000",
-        "symbol": "DSD",
-        "timestamp": "1659484800",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-05",
-        "volume": "160000",
-        "symbol": "DSD",
-        "timestamp": "1659657600",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-09",
-        "volume": "160000",
-        "symbol": "DSD",
-        "timestamp": "1660003200",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-11",
-        "volume": "160000",
-        "symbol": "DSD",
-        "timestamp": "1660176000",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-15",
-        "volume": "160000",
-        "symbol": "DSD",
-        "timestamp": "1660521600",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-17",
-        "volume": "160000",
-        "symbol": "DSD",
-        "timestamp": "1660694400",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-22",
-        "volume": "90700",
-        "symbol": "DSD",
-        "timestamp": "1661126400",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "20",
-        "close": "20",
-        "date": "2022-08-23",
-        "volume": "70900",
-        "symbol": "DSD",
-        "timestamp": "1661212800",
-        "low": "20",
-        "high": "20"
-    },
-    {
-        "open": "17",
-        "close": "17",
-        "date": "2022-08-30",
-        "volume": "100",
-        "symbol": "DSD",
-        "timestamp": "1661817600",
-        "low": "17",
-        "high": "17"
-    },
-    {
         "open": "19",
-        "close": "19",
-        "date": "2022-09-08",
-        "volume": "1000",
-        "symbol": "DSD",
-        "timestamp": "1662595200",
-        "low": "19",
-        "high": "19"
+        "low": "17.9",
+        "close": "17.9"
     },
     {
-        "open": "26.6",
-        "close": "26.6",
-        "date": "2022-10-18",
-        "volume": "100.0",
+        "volume": "100",
+        "date": "2022-06-24",
         "symbol": "DSD",
+        "high": "21",
+        "timestamp": "1656028800",
+        "open": "21",
+        "low": "21",
+        "close": "21"
+    },
+    {
+        "volume": "100",
+        "date": "2022-06-28",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1656374400",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "100",
+        "date": "2022-07-01",
+        "symbol": "DSD",
+        "high": "21",
+        "timestamp": "1656633600",
+        "open": "21",
+        "low": "21",
+        "close": "21"
+    },
+    {
+        "volume": "100",
+        "date": "2022-07-18",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1658102400",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "300",
+        "date": "2022-07-20",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1658275200",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "166000",
+        "date": "2022-07-28",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1658966400",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "166100",
+        "date": "2022-08-01",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1659312000",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "165000",
+        "date": "2022-08-03",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1659484800",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "160000",
+        "date": "2022-08-05",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1659657600",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "160000",
+        "date": "2022-08-09",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1660003200",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "160000",
+        "date": "2022-08-11",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1660176000",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "160000",
+        "date": "2022-08-15",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1660521600",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "160000",
+        "date": "2022-08-17",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1660694400",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "90700",
+        "date": "2022-08-22",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1661126400",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "70900",
+        "date": "2022-08-23",
+        "symbol": "DSD",
+        "high": "20",
+        "timestamp": "1661212800",
+        "open": "20",
+        "low": "20",
+        "close": "20"
+    },
+    {
+        "volume": "100",
+        "date": "2022-08-30",
+        "symbol": "DSD",
+        "high": "17",
+        "timestamp": "1661817600",
+        "open": "17",
+        "low": "17",
+        "close": "17"
+    },
+    {
+        "volume": "1000",
+        "date": "2022-09-08",
+        "symbol": "DSD",
+        "high": "19",
+        "timestamp": "1662595200",
+        "open": "19",
+        "low": "19",
+        "close": "19"
+    },
+    {
+        "volume": "100.0",
+        "date": "2022-10-18",
+        "symbol": "DSD",
+        "high": "26.6",
         "timestamp": "1666051200.0",
+        "open": "26.6",
         "low": "26.6",
-        "high": "26.6"
+        "close": "26.6"
+    },
+    {
+        "volume": "600.0",
+        "date": "2022-11-23",
+        "symbol": "DSD",
+        "high": "30.5",
+        "timestamp": "1669161600.0",
+        "open": "26.6",
+        "low": "26.6",
+        "close": "30.5"
     }
 ]

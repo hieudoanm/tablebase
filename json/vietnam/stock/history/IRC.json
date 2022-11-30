@@ -1,262 +1,262 @@
 [
     {
-        "open": "7.93",
-        "close": "8.42",
+        "volume": "10500",
         "date": "2018-12-03",
-        "volume": "10500",
         "symbol": "IRC",
+        "high": "8.42",
         "timestamp": "1543795200",
+        "open": "7.93",
         "low": "7.93",
-        "high": "8.42"
+        "close": "8.42"
     },
     {
-        "open": "8.17",
-        "close": "8.26",
-        "date": "2018-12-05",
         "volume": "17800",
+        "date": "2018-12-05",
         "symbol": "IRC",
+        "high": "8.42",
         "timestamp": "1543968000",
+        "open": "8.17",
         "low": "8.09",
-        "high": "8.42"
+        "close": "8.26"
     },
     {
-        "open": "8.34",
-        "close": "8.09",
-        "date": "2018-12-06",
         "volume": "10400",
+        "date": "2018-12-06",
         "symbol": "IRC",
+        "high": "8.34",
         "timestamp": "1544054400",
+        "open": "8.34",
         "low": "8.09",
-        "high": "8.34"
+        "close": "8.09"
     },
     {
-        "open": "8.34",
-        "close": "8.01",
-        "date": "2018-12-07",
         "volume": "12800",
+        "date": "2018-12-07",
         "symbol": "IRC",
+        "high": "8.34",
         "timestamp": "1544140800",
+        "open": "8.34",
         "low": "8.01",
-        "high": "8.34"
+        "close": "8.01"
     },
     {
-        "open": "8.26",
-        "close": "8.17",
-        "date": "2018-12-10",
         "volume": "10800",
+        "date": "2018-12-10",
         "symbol": "IRC",
+        "high": "8.34",
         "timestamp": "1544400000",
+        "open": "8.26",
         "low": "8.17",
-        "high": "8.34"
+        "close": "8.17"
     },
     {
-        "open": "8.34",
-        "close": "8.09",
+        "volume": "10500",
         "date": "2018-12-11",
-        "volume": "10500",
         "symbol": "IRC",
+        "high": "8.34",
         "timestamp": "1544486400",
+        "open": "8.34",
         "low": "8.09",
-        "high": "8.34"
+        "close": "8.09"
     },
     {
-        "open": "8.51",
-        "close": "7.93",
-        "date": "2018-12-12",
         "volume": "12000",
+        "date": "2018-12-12",
         "symbol": "IRC",
+        "high": "8.51",
         "timestamp": "1544572800",
+        "open": "8.51",
         "low": "7.93",
-        "high": "8.51"
+        "close": "7.93"
     },
     {
-        "open": "8.17",
-        "close": "8.26",
-        "date": "2018-12-13",
         "volume": "9500",
+        "date": "2018-12-13",
         "symbol": "IRC",
+        "high": "8.26",
         "timestamp": "1544659200",
+        "open": "8.17",
         "low": "8.17",
-        "high": "8.26"
+        "close": "8.26"
     },
     {
-        "open": "8.26",
-        "close": "8.34",
-        "date": "2018-12-14",
         "volume": "10700",
+        "date": "2018-12-14",
         "symbol": "IRC",
+        "high": "8.34",
         "timestamp": "1544745600",
+        "open": "8.26",
         "low": "8.26",
-        "high": "8.34"
+        "close": "8.34"
     },
     {
-        "open": "8.09",
-        "close": "8.17",
-        "date": "2018-12-17",
         "volume": "11200",
+        "date": "2018-12-17",
         "symbol": "IRC",
+        "high": "8.17",
         "timestamp": "1545004800",
+        "open": "8.09",
         "low": "8.09",
-        "high": "8.17"
+        "close": "8.17"
     },
     {
-        "open": "8.17",
-        "close": "8.17",
-        "date": "2018-12-18",
         "volume": "9309",
+        "date": "2018-12-18",
         "symbol": "IRC",
+        "high": "8.17",
         "timestamp": "1545091200",
+        "open": "8.17",
         "low": "8.17",
-        "high": "8.17"
+        "close": "8.17"
     },
     {
-        "open": "8.17",
-        "close": "8.26",
-        "date": "2018-12-19",
         "volume": "9200",
+        "date": "2018-12-19",
         "symbol": "IRC",
+        "high": "8.26",
         "timestamp": "1545177600",
-        "low": "8.17",
-        "high": "8.26"
-    },
-    {
-        "open": "8.26",
-        "close": "8.26",
-        "date": "2018-12-20",
-        "volume": "8800",
-        "symbol": "IRC",
-        "timestamp": "1545264000",
-        "low": "8.26",
-        "high": "8.26"
-    },
-    {
-        "open": "8.34",
-        "close": "8.34",
-        "date": "2018-12-21",
-        "volume": "9300",
-        "symbol": "IRC",
-        "timestamp": "1545350400",
-        "low": "8.34",
-        "high": "8.34"
-    },
-    {
-        "open": "8.26",
-        "close": "8.26",
-        "date": "2018-12-24",
-        "volume": "9600",
-        "symbol": "IRC",
-        "timestamp": "1545609600",
-        "low": "8.26",
-        "high": "8.26"
-    },
-    {
-        "open": "8.34",
-        "close": "8.34",
-        "date": "2018-12-25",
-        "volume": "10000",
-        "symbol": "IRC",
-        "timestamp": "1545696000",
-        "low": "8.34",
-        "high": "8.34"
-    },
-    {
-        "open": "8.26",
-        "close": "8.26",
-        "date": "2018-12-26",
-        "volume": "9800",
-        "symbol": "IRC",
-        "timestamp": "1545782400",
-        "low": "8.26",
-        "high": "8.26"
-    },
-    {
-        "open": "8.34",
-        "close": "8.34",
-        "date": "2018-12-27",
-        "volume": "10300",
-        "symbol": "IRC",
-        "timestamp": "1545868800",
-        "low": "8.34",
-        "high": "8.34"
-    },
-    {
-        "open": "8.34",
-        "close": "8.34",
-        "date": "2018-12-28",
-        "volume": "9900",
-        "symbol": "IRC",
-        "timestamp": "1545955200",
-        "low": "8.34",
-        "high": "8.34"
-    },
-    {
-        "open": "8.34",
-        "close": "8.34",
-        "date": "2019-01-03",
-        "volume": "19600",
-        "symbol": "IRC",
-        "timestamp": "1546473600",
-        "low": "8.34",
-        "high": "8.34"
-    },
-    {
         "open": "8.17",
-        "close": "8.17",
-        "date": "2019-01-04",
-        "volume": "10500",
-        "symbol": "IRC",
-        "timestamp": "1546560000",
         "low": "8.17",
-        "high": "8.17"
+        "close": "8.26"
     },
     {
-        "open": "8.26",
-        "close": "8.26",
-        "date": "2019-01-08",
-        "volume": "6900",
+        "volume": "8800",
+        "date": "2018-12-20",
         "symbol": "IRC",
-        "timestamp": "1546905600",
+        "high": "8.26",
+        "timestamp": "1545264000",
+        "open": "8.26",
         "low": "8.26",
-        "high": "8.26"
+        "close": "8.26"
     },
     {
-        "open": "8.34",
-        "close": "8.34",
-        "date": "2019-01-10",
-        "volume": "21000",
+        "volume": "9300",
+        "date": "2018-12-21",
         "symbol": "IRC",
-        "timestamp": "1547078400",
-        "low": "8.34",
-        "high": "8.34"
-    },
-    {
+        "high": "8.34",
+        "timestamp": "1545350400",
         "open": "8.34",
-        "close": "8.34",
-        "date": "2019-01-11",
-        "volume": "10600",
-        "symbol": "IRC",
-        "timestamp": "1547164800",
         "low": "8.34",
-        "high": "8.34"
+        "close": "8.34"
     },
     {
+        "volume": "9600",
+        "date": "2018-12-24",
+        "symbol": "IRC",
+        "high": "8.26",
+        "timestamp": "1545609600",
         "open": "8.26",
-        "close": "8.26",
-        "date": "2019-01-14",
+        "low": "8.26",
+        "close": "8.26"
+    },
+    {
+        "volume": "10000",
+        "date": "2018-12-25",
+        "symbol": "IRC",
+        "high": "8.34",
+        "timestamp": "1545696000",
+        "open": "8.34",
+        "low": "8.34",
+        "close": "8.34"
+    },
+    {
+        "volume": "9800",
+        "date": "2018-12-26",
+        "symbol": "IRC",
+        "high": "8.26",
+        "timestamp": "1545782400",
+        "open": "8.26",
+        "low": "8.26",
+        "close": "8.26"
+    },
+    {
+        "volume": "10300",
+        "date": "2018-12-27",
+        "symbol": "IRC",
+        "high": "8.34",
+        "timestamp": "1545868800",
+        "open": "8.34",
+        "low": "8.34",
+        "close": "8.34"
+    },
+    {
         "volume": "9900",
+        "date": "2018-12-28",
         "symbol": "IRC",
-        "timestamp": "1547424000",
-        "low": "8.26",
-        "high": "8.26"
+        "high": "8.34",
+        "timestamp": "1545955200",
+        "open": "8.34",
+        "low": "8.34",
+        "close": "8.34"
     },
     {
-        "open": "8.18",
-        "close": "8.18",
-        "date": "2022-03-25",
-        "volume": "230000",
+        "volume": "19600",
+        "date": "2019-01-03",
         "symbol": "IRC",
+        "high": "8.34",
+        "timestamp": "1546473600",
+        "open": "8.34",
+        "low": "8.34",
+        "close": "8.34"
+    },
+    {
+        "volume": "10500",
+        "date": "2019-01-04",
+        "symbol": "IRC",
+        "high": "8.17",
+        "timestamp": "1546560000",
+        "open": "8.17",
+        "low": "8.17",
+        "close": "8.17"
+    },
+    {
+        "volume": "6900",
+        "date": "2019-01-08",
+        "symbol": "IRC",
+        "high": "8.26",
+        "timestamp": "1546905600",
+        "open": "8.26",
+        "low": "8.26",
+        "close": "8.26"
+    },
+    {
+        "volume": "21000",
+        "date": "2019-01-10",
+        "symbol": "IRC",
+        "high": "8.34",
+        "timestamp": "1547078400",
+        "open": "8.34",
+        "low": "8.34",
+        "close": "8.34"
+    },
+    {
+        "volume": "10600",
+        "date": "2019-01-11",
+        "symbol": "IRC",
+        "high": "8.34",
+        "timestamp": "1547164800",
+        "open": "8.34",
+        "low": "8.34",
+        "close": "8.34"
+    },
+    {
+        "volume": "9900",
+        "date": "2019-01-14",
+        "symbol": "IRC",
+        "high": "8.26",
+        "timestamp": "1547424000",
+        "open": "8.26",
+        "low": "8.26",
+        "close": "8.26"
+    },
+    {
+        "volume": "230000",
+        "date": "2022-03-25",
+        "symbol": "IRC",
+        "high": "8.18",
         "timestamp": "1648166400",
+        "open": "8.18",
         "low": "8.18",
-        "high": "8.18"
+        "close": "8.18"
     }
 ]

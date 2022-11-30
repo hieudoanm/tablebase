@@ -1,62 +1,62 @@
 [
     {
-        "open": "10",
-        "close": "10",
         "volume": "200",
-        "symbol": "RBC",
-        "timestamp": "1463702400",
-        "low": "10",
         "date": "2016-05-20",
-        "high": "10"
-    },
-    {
+        "symbol": "RBC",
+        "high": "10",
+        "timestamp": "1463702400",
         "open": "10",
-        "close": "10",
-        "volume": "800",
-        "symbol": "RBC",
-        "timestamp": "1464566400",
         "low": "10",
+        "close": "10"
+    },
+    {
+        "volume": "800",
         "date": "2016-05-30",
-        "high": "10"
+        "symbol": "RBC",
+        "high": "10",
+        "timestamp": "1464566400",
+        "open": "10",
+        "low": "10",
+        "close": "10"
     },
     {
-        "open": "14",
-        "close": "14",
         "volume": "100",
-        "symbol": "RBC",
-        "timestamp": "1468454400",
-        "low": "14",
         "date": "2016-07-14",
-        "high": "14"
+        "symbol": "RBC",
+        "high": "14",
+        "timestamp": "1468454400",
+        "open": "14",
+        "low": "14",
+        "close": "14"
     },
     {
-        "open": "14.6",
-        "close": "14.6",
         "volume": "100",
-        "symbol": "RBC",
-        "timestamp": "1498608000",
-        "low": "14.6",
         "date": "2017-06-28",
-        "high": "14.6"
+        "symbol": "RBC",
+        "high": "14.6",
+        "timestamp": "1498608000",
+        "open": "14.6",
+        "low": "14.6",
+        "close": "14.6"
     },
     {
-        "open": "14.6",
-        "close": "14.6",
         "volume": "100",
-        "symbol": "RBC",
-        "timestamp": "1499040000",
-        "low": "14.6",
         "date": "2017-07-03",
-        "high": "14.6"
+        "symbol": "RBC",
+        "high": "14.6",
+        "timestamp": "1499040000",
+        "open": "14.6",
+        "low": "14.6",
+        "close": "14.6"
     },
     {
-        "open": "14.6",
-        "close": "14.6",
         "volume": "2",
-        "symbol": "RBC",
-        "timestamp": "1499299200",
-        "low": "14.6",
         "date": "2017-07-06",
-        "high": "14.6"
+        "symbol": "RBC",
+        "high": "14.6",
+        "timestamp": "1499299200",
+        "open": "14.6",
+        "low": "14.6",
+        "close": "14.6"
     }
 ]

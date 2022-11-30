@@ -1,102 +1,102 @@
 [
     {
-        "open": "11",
-        "close": "11",
-        "date": "2017-03-31",
         "volume": "1200",
+        "date": "2017-03-31",
         "symbol": "FCC",
+        "high": "11",
         "timestamp": "1490918400",
+        "open": "11",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "11",
-        "close": "11",
-        "date": "2018-06-04",
         "volume": "270000",
+        "date": "2018-06-04",
         "symbol": "FCC",
+        "high": "11",
         "timestamp": "1528070400",
+        "open": "11",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "11",
-        "close": "11",
-        "date": "2018-06-07",
         "volume": "823000",
+        "date": "2018-06-07",
         "symbol": "FCC",
+        "high": "11",
         "timestamp": "1528329600",
+        "open": "11",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "11",
-        "close": "11",
-        "date": "2018-06-08",
         "volume": "848990",
+        "date": "2018-06-08",
         "symbol": "FCC",
+        "high": "11",
         "timestamp": "1528416000",
+        "open": "11",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "11",
-        "close": "11",
-        "date": "2018-07-05",
         "volume": "60",
+        "date": "2018-07-05",
         "symbol": "FCC",
+        "high": "11",
         "timestamp": "1530748800",
+        "open": "11",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "11",
-        "close": "11",
-        "date": "2021-02-26",
         "volume": "278000",
+        "date": "2021-02-26",
         "symbol": "FCC",
+        "high": "11",
         "timestamp": "1614297600",
-        "low": "11",
-        "high": "11"
-    },
-    {
         "open": "11",
-        "close": "11",
-        "date": "2021-07-21",
-        "volume": "10000",
-        "symbol": "FCC",
-        "timestamp": "1626825600",
         "low": "11",
-        "high": "11"
+        "close": "11"
     },
     {
-        "open": "6.6",
-        "close": "6.6",
-        "date": "2022-02-11",
+        "volume": "10000",
+        "date": "2021-07-21",
+        "symbol": "FCC",
+        "high": "11",
+        "timestamp": "1626825600",
+        "open": "11",
+        "low": "11",
+        "close": "11"
+    },
+    {
         "volume": "4300",
+        "date": "2022-02-11",
         "symbol": "FCC",
+        "high": "6.6",
         "timestamp": "1644537600",
-        "low": "6.6",
-        "high": "6.6"
-    },
-    {
         "open": "6.6",
-        "close": "6.6",
-        "date": "2022-02-18",
-        "volume": "100",
-        "symbol": "FCC",
-        "timestamp": "1645142400",
         "low": "6.6",
-        "high": "6.6"
+        "close": "6.6"
     },
     {
-        "open": "7.5",
-        "close": "7.5",
-        "date": "2022-05-13",
-        "volume": "1380",
+        "volume": "100",
+        "date": "2022-02-18",
         "symbol": "FCC",
+        "high": "6.6",
+        "timestamp": "1645142400",
+        "open": "6.6",
+        "low": "6.6",
+        "close": "6.6"
+    },
+    {
+        "volume": "1380",
+        "date": "2022-05-13",
+        "symbol": "FCC",
+        "high": "7.5",
         "timestamp": "1652400000",
+        "open": "7.5",
         "low": "7.5",
-        "high": "7.5"
+        "close": "7.5"
     }
 ]

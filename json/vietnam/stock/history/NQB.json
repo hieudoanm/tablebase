@@ -1,172 +1,172 @@
 [
     {
-        "open": "10.67",
-        "close": "10.67",
-        "volume": "5157000",
-        "symbol": "NQB",
         "timestamp": "1529539200",
+        "symbol": "NQB",
+        "close": "10.67",
         "low": "10.67",
-        "date": "2018-06-21",
-        "high": "10.67"
+        "open": "10.67",
+        "high": "10.67",
+        "volume": "5157000",
+        "date": "2018-06-21"
     },
     {
-        "open": "11.14",
-        "close": "11.14",
-        "volume": "200",
-        "symbol": "NQB",
         "timestamp": "1543968000",
+        "symbol": "NQB",
+        "close": "11.14",
         "low": "11.14",
-        "date": "2018-12-05",
-        "high": "11.14"
-    },
-    {
-        "open": "9.49",
-        "close": "9.49",
-        "volume": "100",
-        "symbol": "NQB",
-        "timestamp": "1545955200",
-        "low": "9.49",
-        "date": "2018-12-28",
-        "high": "9.49"
-    },
-    {
-        "open": "10.85",
-        "close": "10.85",
-        "volume": "100",
-        "symbol": "NQB",
-        "timestamp": "1546992000",
-        "low": "10.85",
-        "date": "2019-01-09",
-        "high": "10.85"
-    },
-    {
-        "open": "10.85",
-        "close": "10.85",
-        "volume": "100",
-        "symbol": "NQB",
-        "timestamp": "1557360000",
-        "low": "10.85",
-        "date": "2019-05-09",
-        "high": "10.85"
-    },
-    {
-        "open": "12.22",
-        "close": "12.22",
-        "volume": "100",
-        "symbol": "NQB",
-        "timestamp": "1576195200",
-        "low": "12.22",
-        "date": "2019-12-13",
-        "high": "12.22"
-    },
-    {
-        "open": "13.19",
-        "close": "13.19",
+        "open": "11.14",
+        "high": "11.14",
         "volume": "200",
+        "date": "2018-12-05"
+    },
+    {
+        "timestamp": "1545955200",
         "symbol": "NQB",
+        "close": "9.49",
+        "low": "9.49",
+        "open": "9.49",
+        "high": "9.49",
+        "volume": "100",
+        "date": "2018-12-28"
+    },
+    {
+        "timestamp": "1546992000",
+        "symbol": "NQB",
+        "close": "10.85",
+        "low": "10.85",
+        "open": "10.85",
+        "high": "10.85",
+        "volume": "100",
+        "date": "2019-01-09"
+    },
+    {
+        "timestamp": "1557360000",
+        "symbol": "NQB",
+        "close": "10.85",
+        "low": "10.85",
+        "open": "10.85",
+        "high": "10.85",
+        "volume": "100",
+        "date": "2019-05-09"
+    },
+    {
+        "timestamp": "1576195200",
+        "symbol": "NQB",
+        "close": "12.22",
+        "low": "12.22",
+        "open": "12.22",
+        "high": "12.22",
+        "volume": "100",
+        "date": "2019-12-13"
+    },
+    {
         "timestamp": "1576454400",
-        "low": "13.19",
-        "date": "2019-12-16",
-        "high": "13.19"
-    },
-    {
-        "open": "13.19",
+        "symbol": "NQB",
         "close": "13.19",
-        "volume": "1000",
-        "symbol": "NQB",
-        "timestamp": "1576627200",
         "low": "13.19",
-        "date": "2019-12-18",
-        "high": "13.19"
+        "open": "13.19",
+        "high": "13.19",
+        "volume": "200",
+        "date": "2019-12-16"
     },
     {
-        "open": "15.15",
-        "close": "15.15",
-        "volume": "100",
+        "timestamp": "1576627200",
         "symbol": "NQB",
+        "close": "13.19",
+        "low": "13.19",
+        "open": "13.19",
+        "high": "13.19",
+        "volume": "1000",
+        "date": "2019-12-18"
+    },
+    {
         "timestamp": "1579132800",
+        "symbol": "NQB",
+        "close": "15.15",
         "low": "15.15",
-        "date": "2020-01-16",
-        "high": "15.15"
+        "open": "15.15",
+        "high": "15.15",
+        "volume": "100",
+        "date": "2020-01-16"
     },
     {
-        "open": "17.4",
-        "close": "16.71",
-        "volume": "1600",
-        "symbol": "NQB",
         "timestamp": "1579478400",
+        "symbol": "NQB",
+        "close": "16.71",
         "low": "16.22",
-        "date": "2020-01-20",
-        "high": "17.4"
+        "open": "17.4",
+        "high": "17.4",
+        "volume": "1600",
+        "date": "2020-01-20"
     },
     {
-        "open": "16.42",
-        "close": "16.42",
-        "volume": "900",
-        "symbol": "NQB",
         "timestamp": "1593475200",
+        "symbol": "NQB",
+        "close": "16.42",
         "low": "16.42",
-        "date": "2020-06-30",
-        "high": "16.42"
+        "open": "16.42",
+        "high": "16.42",
+        "volume": "900",
+        "date": "2020-06-30"
     },
     {
-        "open": "22.97",
-        "close": "22.97",
-        "volume": "100",
-        "symbol": "NQB",
         "timestamp": "1601424000",
+        "symbol": "NQB",
+        "close": "22.97",
         "low": "22.97",
-        "date": "2020-09-30",
-        "high": "22.97"
+        "open": "22.97",
+        "high": "22.97",
+        "volume": "100",
+        "date": "2020-09-30"
     },
     {
-        "open": "26.39",
-        "close": "26.39",
-        "volume": "100",
-        "symbol": "NQB",
         "timestamp": "1604016000",
+        "symbol": "NQB",
+        "close": "26.39",
         "low": "26.39",
-        "date": "2020-10-30",
-        "high": "26.39"
+        "open": "26.39",
+        "high": "26.39",
+        "volume": "100",
+        "date": "2020-10-30"
     },
     {
-        "open": "16.51",
-        "close": "16.51",
-        "volume": "100",
-        "symbol": "NQB",
         "timestamp": "1609372800",
+        "symbol": "NQB",
+        "close": "16.51",
         "low": "16.51",
-        "date": "2020-12-31",
-        "high": "16.51"
+        "open": "16.51",
+        "high": "16.51",
+        "volume": "100",
+        "date": "2020-12-31"
     },
     {
-        "open": "22.91",
-        "close": "22.91",
-        "volume": "100",
-        "symbol": "NQB",
         "timestamp": "1636416000",
+        "symbol": "NQB",
+        "close": "22.91",
         "low": "22.91",
-        "date": "2021-11-09",
-        "high": "22.91"
+        "open": "22.91",
+        "high": "22.91",
+        "volume": "100",
+        "date": "2021-11-09"
     },
     {
-        "open": "17.36",
-        "close": "17.36",
-        "volume": "100",
-        "symbol": "NQB",
         "timestamp": "1640563200",
+        "symbol": "NQB",
+        "close": "17.36",
         "low": "17.36",
-        "date": "2021-12-27",
-        "high": "17.36"
+        "open": "17.36",
+        "high": "17.36",
+        "volume": "100",
+        "date": "2021-12-27"
     },
     {
-        "open": "19.93",
-        "close": "19.93",
-        "volume": "100",
-        "symbol": "NQB",
         "timestamp": "1640649600",
+        "symbol": "NQB",
+        "close": "19.93",
         "low": "19.93",
-        "date": "2021-12-28",
-        "high": "19.93"
+        "open": "19.93",
+        "high": "19.93",
+        "volume": "100",
+        "date": "2021-12-28"
     }
 ]

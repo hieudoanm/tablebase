@@ -1,62 +1,72 @@
 [
     {
-        "open": "8.55",
-        "close": "8.55",
         "volume": "200",
-        "symbol": "NVP",
-        "timestamp": "1508976000",
-        "low": "8.55",
         "date": "2017-10-26",
-        "high": "8.55"
+        "symbol": "NVP",
+        "high": "8.55",
+        "timestamp": "1508976000",
+        "open": "8.55",
+        "low": "8.55",
+        "close": "8.55"
     },
     {
-        "open": "7.6",
-        "close": "7.6",
         "volume": "200",
-        "symbol": "NVP",
-        "timestamp": "1509062400",
-        "low": "7.6",
         "date": "2017-10-27",
-        "high": "7.6"
+        "symbol": "NVP",
+        "high": "7.6",
+        "timestamp": "1509062400",
+        "open": "7.6",
+        "low": "7.6",
+        "close": "7.6"
     },
     {
-        "open": "6.65",
-        "close": "6.65",
         "volume": "200",
-        "symbol": "NVP",
-        "timestamp": "1509321600",
-        "low": "6.65",
         "date": "2017-10-30",
-        "high": "6.65"
+        "symbol": "NVP",
+        "high": "6.65",
+        "timestamp": "1509321600",
+        "open": "6.65",
+        "low": "6.65",
+        "close": "6.65"
     },
     {
-        "open": "5.98",
-        "close": "5.98",
         "volume": "200",
-        "symbol": "NVP",
-        "timestamp": "1509494400",
-        "low": "5.98",
         "date": "2017-11-01",
-        "high": "5.98"
+        "symbol": "NVP",
+        "high": "5.98",
+        "timestamp": "1509494400",
+        "open": "5.98",
+        "low": "5.98",
+        "close": "5.98"
     },
     {
-        "open": "3.71",
-        "close": "3.71",
         "volume": "800",
-        "symbol": "NVP",
-        "timestamp": "1639699200",
-        "low": "3.71",
         "date": "2021-12-17",
-        "high": "3.71"
+        "symbol": "NVP",
+        "high": "3.71",
+        "timestamp": "1639699200",
+        "open": "3.71",
+        "low": "3.71",
+        "close": "3.71"
     },
     {
-        "open": "5.18",
-        "close": "5.18",
         "volume": "100",
-        "symbol": "NVP",
-        "timestamp": "1646870400",
-        "low": "5.18",
         "date": "2022-03-10",
-        "high": "5.18"
+        "symbol": "NVP",
+        "high": "5.18",
+        "timestamp": "1646870400",
+        "open": "5.18",
+        "low": "5.18",
+        "close": "5.18"
+    },
+    {
+        "volume": "100.0",
+        "date": "2022-11-15",
+        "symbol": "NVP",
+        "high": "7.2",
+        "timestamp": "1668470400.0",
+        "open": "7.2",
+        "low": "7.2",
+        "close": "7.2"
     }
 ]

@@ -1,302 +1,302 @@
 [
     {
-        "open": "4.03",
-        "close": "4.03",
+        "volume": "3000",
         "date": "2017-09-15",
-        "volume": "3000",
         "symbol": "CDG",
+        "high": "4.03",
         "timestamp": "1505433600",
+        "open": "4.03",
         "low": "4.03",
-        "high": "4.03"
+        "close": "4.03"
     },
     {
-        "open": "5.61",
-        "close": "5.61",
+        "volume": "100",
         "date": "2018-01-16",
-        "volume": "100",
         "symbol": "CDG",
+        "high": "5.61",
         "timestamp": "1516060800",
+        "open": "5.61",
         "low": "5.61",
-        "high": "5.61"
+        "close": "5.61"
     },
     {
-        "open": "6.43",
-        "close": "6.43",
+        "volume": "100",
         "date": "2018-01-17",
-        "volume": "100",
         "symbol": "CDG",
+        "high": "6.43",
         "timestamp": "1516147200",
-        "low": "6.43",
-        "high": "6.43"
-    },
-    {
         "open": "6.43",
-        "close": "6.43",
-        "date": "2018-01-23",
-        "volume": "100",
-        "symbol": "CDG",
-        "timestamp": "1516665600",
         "low": "6.43",
-        "high": "6.43"
+        "close": "6.43"
     },
     {
-        "open": "6",
-        "close": "6",
+        "volume": "100",
+        "date": "2018-01-23",
+        "symbol": "CDG",
+        "high": "6.43",
+        "timestamp": "1516665600",
+        "open": "6.43",
+        "low": "6.43",
+        "close": "6.43"
+    },
+    {
+        "volume": "1000",
         "date": "2018-03-26",
-        "volume": "1000",
         "symbol": "CDG",
+        "high": "6",
         "timestamp": "1522022400",
+        "open": "6",
         "low": "6",
-        "high": "6"
+        "close": "6"
     },
     {
-        "open": "6",
-        "close": "6",
+        "volume": "1000",
         "date": "2018-03-27",
-        "volume": "1000",
         "symbol": "CDG",
+        "high": "6",
         "timestamp": "1522108800",
+        "open": "6",
         "low": "6",
-        "high": "6"
+        "close": "6"
     },
     {
-        "open": "6",
-        "close": "6",
-        "date": "2018-04-06",
         "volume": "3000",
+        "date": "2018-04-06",
         "symbol": "CDG",
+        "high": "6",
         "timestamp": "1522972800",
+        "open": "6",
         "low": "6",
-        "high": "6"
+        "close": "6"
     },
     {
-        "open": "6.04",
-        "close": "6.04",
+        "volume": "1200",
         "date": "2018-04-11",
-        "volume": "1200",
         "symbol": "CDG",
+        "high": "6.04",
         "timestamp": "1523404800",
+        "open": "6.04",
         "low": "6.04",
-        "high": "6.04"
+        "close": "6.04"
     },
     {
-        "open": "6",
-        "close": "6",
-        "date": "2018-04-24",
         "volume": "700",
+        "date": "2018-04-24",
         "symbol": "CDG",
+        "high": "6",
         "timestamp": "1524528000",
+        "open": "6",
         "low": "6",
-        "high": "6"
+        "close": "6"
     },
     {
-        "open": "6",
-        "close": "6",
-        "date": "2018-05-23",
         "volume": "3400",
+        "date": "2018-05-23",
         "symbol": "CDG",
+        "high": "6",
         "timestamp": "1527033600",
+        "open": "6",
         "low": "6",
-        "high": "6"
+        "close": "6"
     },
     {
-        "open": "6.9",
-        "close": "6.9",
+        "volume": "200",
         "date": "2018-06-06",
-        "volume": "200",
         "symbol": "CDG",
+        "high": "6.9",
         "timestamp": "1528243200",
+        "open": "6.9",
         "low": "6.9",
-        "high": "6.9"
+        "close": "6.9"
     },
     {
-        "open": "6",
-        "close": "6",
-        "date": "2018-06-12",
         "volume": "13000",
+        "date": "2018-06-12",
         "symbol": "CDG",
+        "high": "6",
         "timestamp": "1528761600",
-        "low": "6",
-        "high": "6"
-    },
-    {
         "open": "6",
-        "close": "6",
-        "date": "2018-06-22",
-        "volume": "1000",
-        "symbol": "CDG",
-        "timestamp": "1529625600",
         "low": "6",
-        "high": "6"
+        "close": "6"
     },
     {
-        "open": "6.22",
-        "close": "6.22",
+        "volume": "1000",
+        "date": "2018-06-22",
+        "symbol": "CDG",
+        "high": "6",
+        "timestamp": "1529625600",
+        "open": "6",
+        "low": "6",
+        "close": "6"
+    },
+    {
+        "volume": "2000",
         "date": "2018-07-11",
-        "volume": "2000",
         "symbol": "CDG",
+        "high": "6.22",
         "timestamp": "1531267200",
+        "open": "6.22",
         "low": "6.22",
-        "high": "6.22"
+        "close": "6.22"
     },
     {
-        "open": "6.22",
-        "close": "6.22",
-        "date": "2018-07-12",
         "volume": "2000",
+        "date": "2018-07-12",
         "symbol": "CDG",
+        "high": "6.22",
         "timestamp": "1531353600",
-        "low": "6.22",
-        "high": "6.22"
-    },
-    {
         "open": "6.22",
-        "close": "6.22",
-        "date": "2018-07-13",
-        "volume": "8000",
-        "symbol": "CDG",
-        "timestamp": "1531440000",
         "low": "6.22",
-        "high": "6.22"
+        "close": "6.22"
     },
     {
-        "open": "6.67",
-        "close": "6.67",
+        "volume": "8000",
+        "date": "2018-07-13",
+        "symbol": "CDG",
+        "high": "6.22",
+        "timestamp": "1531440000",
+        "open": "6.22",
+        "low": "6.22",
+        "close": "6.22"
+    },
+    {
+        "volume": "100",
         "date": "2018-10-25",
-        "volume": "100",
         "symbol": "CDG",
+        "high": "6.67",
         "timestamp": "1540425600",
-        "low": "6.67",
-        "high": "6.67"
-    },
-    {
         "open": "6.67",
-        "close": "6.67",
-        "date": "2018-10-29",
-        "volume": "100",
-        "symbol": "CDG",
-        "timestamp": "1540771200",
         "low": "6.67",
-        "high": "6.67"
+        "close": "6.67"
     },
     {
-        "open": "4",
-        "close": "4",
-        "date": "2019-03-11",
+        "volume": "100",
+        "date": "2018-10-29",
+        "symbol": "CDG",
+        "high": "6.67",
+        "timestamp": "1540771200",
+        "open": "6.67",
+        "low": "6.67",
+        "close": "6.67"
+    },
+    {
         "volume": "24000",
+        "date": "2019-03-11",
         "symbol": "CDG",
+        "high": "4",
         "timestamp": "1552262400",
+        "open": "4",
         "low": "4",
-        "high": "4"
+        "close": "4"
     },
     {
-        "open": "4",
-        "close": "4",
-        "date": "2019-03-14",
         "volume": "6000",
+        "date": "2019-03-14",
         "symbol": "CDG",
+        "high": "4",
         "timestamp": "1552521600",
+        "open": "4",
         "low": "4",
-        "high": "4"
+        "close": "4"
     },
     {
-        "open": "4.1",
-        "close": "4.1",
+        "volume": "1200",
         "date": "2019-09-12",
-        "volume": "1200",
         "symbol": "CDG",
+        "high": "4.1",
         "timestamp": "1568246400",
+        "open": "4.1",
         "low": "4.1",
-        "high": "4.1"
+        "close": "4.1"
     },
     {
-        "open": "4.1",
-        "close": "4.1",
-        "date": "2019-10-01",
         "volume": "500",
+        "date": "2019-10-01",
         "symbol": "CDG",
+        "high": "4.1",
         "timestamp": "1569888000",
+        "open": "4.1",
         "low": "4.1",
-        "high": "4.1"
+        "close": "4.1"
     },
     {
-        "open": "4.1",
-        "close": "4.1",
-        "date": "2019-11-26",
         "volume": "30600",
+        "date": "2019-11-26",
         "symbol": "CDG",
+        "high": "4.1",
         "timestamp": "1574726400",
+        "open": "4.1",
         "low": "4.1",
-        "high": "4.1"
+        "close": "4.1"
     },
     {
-        "open": "4.1",
-        "close": "4.1",
-        "date": "2020-01-14",
         "volume": "1200",
+        "date": "2020-01-14",
         "symbol": "CDG",
+        "high": "4.1",
         "timestamp": "1578960000",
-        "low": "4.1",
-        "high": "4.1"
-    },
-    {
         "open": "4.1",
-        "close": "4.1",
-        "date": "2020-04-03",
-        "volume": "100",
-        "symbol": "CDG",
-        "timestamp": "1585872000",
         "low": "4.1",
-        "high": "4.1"
+        "close": "4.1"
     },
     {
-        "open": "4",
-        "close": "4",
+        "volume": "100",
+        "date": "2020-04-03",
+        "symbol": "CDG",
+        "high": "4.1",
+        "timestamp": "1585872000",
+        "open": "4.1",
+        "low": "4.1",
+        "close": "4.1"
+    },
+    {
+        "volume": "100",
         "date": "2020-04-10",
-        "volume": "100",
         "symbol": "CDG",
+        "high": "4",
         "timestamp": "1586476800",
+        "open": "4",
         "low": "4",
-        "high": "4"
+        "close": "4"
     },
     {
-        "open": "4",
-        "close": "4",
+        "volume": "100",
         "date": "2020-04-14",
-        "volume": "100",
         "symbol": "CDG",
+        "high": "4",
         "timestamp": "1586822400",
-        "low": "4",
-        "high": "4"
-    },
-    {
         "open": "4",
-        "close": "4",
-        "date": "2020-04-15",
-        "volume": "200",
-        "symbol": "CDG",
-        "timestamp": "1586908800",
         "low": "4",
-        "high": "4"
+        "close": "4"
     },
     {
-        "open": "2.4",
-        "close": "2.4",
-        "date": "2020-09-16",
+        "volume": "200",
+        "date": "2020-04-15",
+        "symbol": "CDG",
+        "high": "4",
+        "timestamp": "1586908800",
+        "open": "4",
+        "low": "4",
+        "close": "4"
+    },
+    {
         "volume": "5300",
+        "date": "2020-09-16",
         "symbol": "CDG",
+        "high": "2.4",
         "timestamp": "1600214400",
+        "open": "2.4",
         "low": "2.4",
-        "high": "2.4"
+        "close": "2.4"
     },
     {
-        "open": "3.3",
-        "close": "3.3",
-        "date": "2022-08-23",
         "volume": "100",
+        "date": "2022-08-23",
         "symbol": "CDG",
+        "high": "3.3",
         "timestamp": "1661212800",
+        "open": "3.3",
         "low": "3.3",
-        "high": "3.3"
+        "close": "3.3"
     }
 ]
