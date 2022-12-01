@@ -4,6 +4,12 @@ csv2json:
 lock:
 	pigar
 
+nasdaq:
+	python3 ./scripts/usa/nasdaq.py
+
+nyse:
+	python3 ./scripts/usa/nyse.py
+
 vnindex-companies:
 	python3 ./scripts/vietnam/vnindex/companies.py
 
