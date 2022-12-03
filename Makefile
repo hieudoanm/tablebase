@@ -11,16 +11,16 @@ nyse:
 	python3 ./scripts/usa/nyse.py
 
 vnindex-companies:
-	python3 ./scripts/vietnam/vnindex/companies.py
+	python3 ./scripts/vietnam/vnindex/move_store/companies.py
 
 vnindex-history:
-	python3 ./scripts/vietnam/vnindex/history.py
+	python3 ./scripts/vietnam/vnindex/collect/history.py
 
 vnindex-all-time:
-	python3 ./scripts/vietnam/vnindex/all_time.py
+	python3 ./scripts/vietnam/vnindex/explore_transform/all_time.py
 
 vnindex-quarterly:
-	python3 ./scripts/vietnam/vnindex/quarterly.py
+	python3 ./scripts/vietnam/vnindex/explore_transform/quarterly.py
 
 vnindex-monthly:
-	python3 ./scripts/vietnam/vnindex/monthly.py
+	python3 ./scripts/vietnam/vnindex/explore_transform/monthly.py

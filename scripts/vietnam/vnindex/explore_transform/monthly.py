@@ -81,11 +81,17 @@ MONTHS = [
 
 
 def get_month(item) -> str:
-    month = "-".join(item.get("date", "").split("-")[0:2])
-    return month
+    """
+    Get Month
+    """
+    month_from_date = "-".join(item.get("date", "").split("-")[0:2])
+    return month_from_date
 
 
 def average(numbers) -> float:
+    """
+    Average
+    """
     number_of = len(numbers)
     if number_of == 0:
         return 0

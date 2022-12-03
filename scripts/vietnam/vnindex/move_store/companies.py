@@ -1,10 +1,9 @@
 """
-VNINDEX
+Companies
 """
 
 import csv
-
-from .companies import get_companies
+from collect import get_companies
 
 
 def write_to_file_csv(file_name, list_of_dict):

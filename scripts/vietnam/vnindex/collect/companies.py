@@ -50,6 +50,9 @@ HEADERS = {
 
 
 def get_symbols():
+    """
+    Get Symbols
+    """
     stock_symbols_response = requests.post(
         url=GATEWAY_URL, json={"query": STOCK_SYMBOL_QUERY}, timeout=10)
     stock_symbols_json = stock_symbols_response.json()
@@ -65,9 +68,13 @@ def get_symbols():
         filter(lambda stock_symbol: len(stock_symbol) == 3, stock_symbols))
     stock_symbols.sort()
     print(stock_symbols)
+    return stock_symbols
 
 
 def get_companies():
+    """
+    Get Companies
+    """
     stock_symbols = get_symbols()
     companies = []
     for stock_symbol in stock_symbols:

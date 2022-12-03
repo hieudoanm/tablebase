@@ -1,1 +1,5 @@
+"""
+Collect
+"""
+
 from .companies import *
