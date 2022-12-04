@@ -1,2 +1,2 @@
-volume,date,symbol,high,timestamp,open,low,close
-1000,2019-09-19,LDW,12.67,1568851200,12.67,12.67,12.67
+close,date,high,low,open,symbol,timestamp,volume
+12.67,2019-09-19,12.67,12.67,12.67,LDW,1568851200,1000

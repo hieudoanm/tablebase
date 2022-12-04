@@ -1,5 +1,0 @@
-"""
-VNINDEX
-"""
-
-from .collect import *

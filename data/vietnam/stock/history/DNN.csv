@@ -1,3 +1,3 @@
-volume,date,symbol,high,timestamp,open,low,close
-1200,2017-08-08,DNN,1.73,1502150400,1.73,1.73,1.73
-500,2017-08-14,DNN,1.87,1502668800,1.87,1.87,1.87
+close,date,high,low,open,symbol,timestamp,volume
+1.73,2017-08-08,1.73,1.73,1.73,DNN,1502150400,1200
+1.87,2017-08-14,1.87,1.87,1.87,DNN,1502668800,500

@@ -4,17 +4,17 @@ csv2json:
 lock:
 	pigar
 
-nasdaq:
+usa-nasdaq:
 	python3 ./scripts/usa/nasdaq.py
 
-nyse:
+usa-nyse:
 	python3 ./scripts/usa/nyse.py
 
 vnindex-companies:
-	python3 ./scripts/vietnam/vnindex/move_store/companies.py
+	python3 ./scripts/vietnam/vnindex/collect_move_store/companies.py
 
 vnindex-history:
-	python3 ./scripts/vietnam/vnindex/collect/history.py
+	python3 ./scripts/vietnam/vnindex/collect_move_store/history.py
 
 vnindex-all-time:
 	python3 ./scripts/vietnam/vnindex/explore_transform/all_time.py

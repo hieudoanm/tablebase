@@ -1,2 +1,2 @@
-volume,date,symbol,high,timestamp,open,low,close
-100,2019-04-03,THN,3.73,1554249600,3.73,3.73,3.73
+close,date,high,low,open,symbol,timestamp,volume
+3.73,2019-04-03,3.73,3.73,3.73,THN,1554249600,100

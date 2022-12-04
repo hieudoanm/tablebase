@@ -93,7 +93,8 @@ headers["X-API-Key"] = API_KEY_PROPUBLICA_CONGRESS
 
 BASE_FILE_PATH = "./data/usa/congress"
 
-def write_to_file_csv(file_name, list_of_dict):
+
+def write_to_file_csv(csv_file_name, list_of_dict):
     """
     Write to CSV
     """
@@ -102,7 +103,7 @@ def write_to_file_csv(file_name, list_of_dict):
         all_keys += list(item.keys())
         keys = list(set(all_keys))
     keys.sort()
-    with open(file_name, "w+", newline="", encoding="utf-8") as output_file:
+    with open(csv_file_name, "w+", newline="", encoding="utf-8") as output_file:
         dict_writer = csv.DictWriter(output_file, keys)
         dict_writer.writeheader()
         dict_writer.writerows(list_of_dict)
@@ -113,34 +114,37 @@ def get_members(congress, chamber):
     Get Members
     """
     members_url = MEMBERS_URL.format(BASE_URL, congress, chamber)
-    response = requests.get(members_url, headers=headers)
+    response = requests.get(members_url, headers=headers, timeout=30)
     response_json = response.json()
-    members_results = response_json.get("results", [])
-    return members_results
+    return response_json.get("results", [])
+
 
 def get_committees(congress, chamber):
+    """
+    Get Committees
+    """
     committees_url = COMMITTEES_URL.format(BASE_URL, congress, chamber)
-    response = requests.get(committees_url, headers=headers)
+    response = requests.get(committees_url, headers=headers, timeout=30)
     response_json = response.json()
-    committees_results = response_json.get("results", [])
-    return committees_results
+    return response_json.get("results", [])
 
-for chamber in CHAMBERS:
-    for congress in CONGRESSES:
-        print(chamber, congress)
+
+for CHAMBER in CHAMBERS:
+    for CONGRESS in CONGRESSES:
+        print(CHAMBER, CONGRESS)
         # Members
-        members_results = get_members(congress, chamber)
+        members_results = get_members(CONGRESS, CHAMBER)
         for members_result in members_results:
             members = members_result.get("members", [])
             if len(members) == 0:
                 continue
-            file_name = "{0}/{1}/{2}/members.csv".format(BASE_FILE_PATH, chamber, congress)
+            file_name = f"{BASE_FILE_PATH}/{CHAMBER}/{CONGRESS}/members.csv"
             write_to_file_csv(file_name, members)
         # Committees
-        committees_results = get_committees(congress, chamber)
+        committees_results = get_committees(CONGRESS, CHAMBER)
         for committees_result in committees_results:
             committees = committees_result.get("committees", [])
             if len(committees) == 0:
                 continue
-            file_name = "{0}/{1}/{2}/committees.csv".format(BASE_FILE_PATH, chamber, congress)
+            file_name = f"{BASE_FILE_PATH}/{CHAMBER}/{CONGRESS}/committees.csv"
             write_to_file_csv(file_name, committees)
