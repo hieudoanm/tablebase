@@ -19,6 +19,9 @@ vnindex-history:
 vnindex-all-time:
 	python3 ./scripts/vietnam/vnindex/explore_transform/all_time.py
 
+vnindex-yearly:
+	python3 ./scripts/vietnam/vnindex/explore_transform/yearly.py
+
 vnindex-quarterly:
 	python3 ./scripts/vietnam/vnindex/explore_transform/quarterly.py
 
