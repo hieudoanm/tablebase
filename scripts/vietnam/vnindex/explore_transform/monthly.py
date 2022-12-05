@@ -40,46 +40,6 @@ companies = csv_to_json("./data/vietnam/stock/companies.csv")
 symbols = list(map(lambda company: company.get("symbol", ""), companies))
 
 
-MONTHS = [
-    "2020-01",
-    "2020-02",
-    "2020-03",
-    "2020-04",
-    "2020-05",
-    "2020-06",
-    "2020-07",
-    "2020-08",
-    "2020-09",
-    "2020-10",
-    "2020-11",
-    "2020-12",
-    "2021-01",
-    "2021-02",
-    "2021-03",
-    "2021-04",
-    "2021-05",
-    "2021-06",
-    "2021-07",
-    "2021-08",
-    "2021-09",
-    "2021-10",
-    "2021-11",
-    "2021-12",
-    "2022-01",
-    "2022-02",
-    "2022-03",
-    "2022-04",
-    "2022-05",
-    "2022-06",
-    "2022-07",
-    "2022-08",
-    "2022-09",
-    "2022-10",
-    "2022-11",
-    "2022-12"
-]
-
-
 def get_month(item) -> str:
     """
     Get Month
@@ -101,40 +61,56 @@ def average(numbers) -> float:
     return round(total / number_of, 2)
 
 
-for month in MONTHS:
-    monthly_rows = []
-    for symbol in symbols:
-        try:
-            history = csv_to_json(f"./data/vietnam/stock/history/{symbol}.csv")
-            monthly_history = list(filter(
-                lambda item: get_month(item) == month, history))
-            close = list(
-                map(lambda item: float(item.get("close", "")), monthly_history)
-            )
-            if len(close) == 0:
-                monthly_rows.append(
-                    {
-                        "symbol": symbol,
-                        "percentage": -1,
-                        "number_of_dates": len(monthly_history),
-                    }
+def add_zero(number) -> str:
+    """
+    Add Zero
+    """
+    if number > 9:
+        return str(number)
+    return f"0{number}"
+
+
+MONTHS = range(1, 12+1)
+YEARS = range(2000, 2022+1)
+
+
+for MONTH in MONTHS:
+    for YEAR in YEARS:
+        FILE_NAME = f"{YEAR}-{add_zero(MONTH)}"
+        monthly_rows = []
+        for symbol in symbols:
+            try:
+                history = csv_to_json(
+                    f"./data/vietnam/stock/history/{symbol}.csv")
+                monthly_history = list(filter(
+                    lambda item: get_month(item) == FILE_NAME, history))
+                close = list(
+                    map(lambda item: float(item.get("close", "")), monthly_history)
                 )
-            else:
-                mean = average(close)
-                smallest = min(close)
-                biggest = max(close)
-                percentage = round((mean - smallest) / biggest * 100, 2)
-                monthly_rows.append(
-                    {
-                        "symbol": symbol,
-                        "percentage": percentage,
-                        "number_of_dates": len(monthly_history),
-                    }
-                )
-            sorted_monthly_rows = sorted(
-                monthly_rows, key=lambda d: d['percentage'])
-        except Exception as error:  # pylint: disable=bare-except
-            print(symbol, error)
-            continue
-    write_to_file_csv(
-        f"./data/vietnam/stock/monthly/{month}.csv", sorted_monthly_rows)
+                if len(close) == 0:
+                    monthly_rows.append(
+                        {
+                            "symbol": symbol,
+                            "percentage": -1,
+                            "number_of_dates": len(monthly_history),
+                        }
+                    )
+                else:
+                    mean = average(close)
+                    smallest = min(close)
+                    biggest = max(close)
+                    percentage = round((mean - smallest) / biggest * 100, 2)
+                    monthly_rows.append(
+                        {
+                            "symbol": symbol,
+                            "percentage": percentage,
+                            "number_of_dates": len(monthly_history),
+                        }
+                    )
+                sorted_monthly_rows = sorted(
+                    monthly_rows, key=lambda d: d['percentage'])
+            except Exception as error:  # pylint: disable=bare-except
+                print(symbol, error)
+                continue
+        write_to_file_csv(
+            f"./data/vietnam/stock/monthly/{FILE_NAME}.csv", sorted_monthly_rows)
