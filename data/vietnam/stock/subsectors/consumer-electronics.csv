@@ -1,3 +1,3 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Viettronics Bien Hoa Joint Stock Company,73200000000.0,Leisure Goods,BEL,Personal & Household Goods,Consumer Goods,12/07/2016 00:00:00,Consumer Electronics,6000000.0,6000000.0
-Global Electrical Technology Corporation,213039955200.0,Leisure Goods,GLT,Personal & Household Goods,Consumer Goods,26/11/2009 00:00:00,Consumer Electronics,9236446.0,9236446.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Goods,6000000.0,6000000.0,12/07/2016 00:00:00,70200000000.0,Viettronics Bien Hoa Joint Stock Company,Leisure Goods,Consumer Electronics,Personal & Household Goods,BEL
+Consumer Goods,9236446.0,9236446.0,26/11/2009 00:00:00,178888512000.0,Global Electrical Technology Corporation,Leisure Goods,Consumer Electronics,Personal & Household Goods,GLT

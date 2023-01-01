@@ -1,5 +1,5 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Cat Loi Joint Stock Company,925127679900.0,Tobacco,CLC,Personal & Household Goods,Consumer Goods,16/11/2006 00:00:00,Tobacco,26207583.0,26207583.0
-Hoa Viet Joint Stock Company,84830143200.0,Tobacco,HJC,Personal & Household Goods,Consumer Goods,14/10/2015 00:00:00,Tobacco,12853052.0,12853052.0
-Ngan Son Joint Stock Company,73933219800.0,Tobacco,NST,Personal & Household Goods,Consumer Goods,29/12/2006 00:00:00,Tobacco,11202003.0,11202003.0
-VI NA TA BA Trading & Investment Joint Stock Company,36480000000.0,Tobacco,VTJ,Personal & Household Goods,Consumer Goods,29/12/2014 00:00:00,Tobacco,11400000.0,11400000.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Goods,26207583.0,26207583.0,16/11/2006 00:00:00,826849243650.0,Cat Loi Joint Stock Company,Tobacco,Tobacco,Personal & Household Goods,CLC
+Consumer Goods,12853052.0,12853052.0,14/10/2015 00:00:00,123389299200.0,Hoa Viet Joint Stock Company,Tobacco,Tobacco,Personal & Household Goods,HJC
+Consumer Goods,11202003.0,11202003.0,29/12/2006 00:00:00,67212018000.0,Ngan Son Joint Stock Company,Tobacco,Tobacco,Personal & Household Goods,NST
+Consumer Goods,11400000.0,11400000.0,29/12/2014 00:00:00,43320000000.0,VI NA TA BA Trading & Investment Joint Stock Company,Tobacco,Tobacco,Personal & Household Goods,VTJ

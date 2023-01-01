@@ -1,3 +1,3 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-PVI Reinsurance Joint Stock Corporation,1237600000000.0,Nonlife Insurance,PRE,Insurance,Financials,24/12/2020 00:00:00,Reinsurance,72800000.0,72800000.0
-Viet Nam National Reinsurance Corporation,3421732851000.0,Nonlife Insurance,VNR,Insurance,Financials,13/03/2006 00:00:00,Reinsurance,150737130.0,150737130.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Financials,72800000.0,72800000.0,24/12/2020 00:00:00,2192400000000.0,PVI Reinsurance Joint Stock Corporation,Nonlife Insurance,Reinsurance,Insurance,PRE
+Financials,150737130.0,150737130.0,13/03/2006 00:00:00,2848931757000.0,Viet Nam National Reinsurance Corporation,Nonlife Insurance,Reinsurance,Insurance,VNR

@@ -1,5 +1,5 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-The Southern Rubber Industry Joint Stock Company,1626916613400.0,Automobiles & Parts,CSM,Automobiles & Parts,Consumer Goods,11/08/2009 00:00:00,Tires,103626467.0,103626467.0
-Da Nang Rubber Joint Stock Company,2744109175500.0,Automobiles & Parts,DRC,Automobiles & Parts,Consumer Goods,29/12/2006 00:00:00,Tires,118792605.0,118792605.0
-Sao Vang Rubber Joint Stock Company,566880033600.0,Automobiles & Parts,SRC,Automobiles & Parts,Consumer Goods,07/10/2009 00:00:00,Tires,28065765.0,28065765.0
-VKC Holdings Joint Stock Company,34702200000.0,Automobiles & Parts,VKC,Automobiles & Parts,Consumer Goods,08/12/2010 00:00:00,Tires,20000000.0,20000000.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Goods,103626467.0,103626467.0,11/08/2009 00:00:00,1445572404900.0,The Southern Rubber Industry Joint Stock Company,Automobiles & Parts,Tires,Automobiles & Parts,CSM
+Consumer Goods,118792605.0,118792605.0,29/12/2006 00:00:00,2470886184000.0,Da Nang Rubber Joint Stock Company,Automobiles & Parts,Tires,Automobiles & Parts,DRC
+Consumer Goods,28065765.0,28065765.0,07/10/2009 00:00:00,468658245600.0,Sao Vang Rubber Joint Stock Company,Automobiles & Parts,Tires,Automobiles & Parts,SRC
+Consumer Goods,20000000.0,20000000.0,08/12/2010 00:00:00,30846400000.0,VKC Holdings Joint Stock Company,Automobiles & Parts,Tires,Automobiles & Parts,VKC

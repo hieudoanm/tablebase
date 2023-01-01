@@ -1,2 +1,2 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-EVN Finance Joint Stock Company,2738299441800.0,Financial Services,EVF,Financial Services,Financials,07/08/2018 00:00:00,Consumer Finance,351064031.0,351064031.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Financials,351064031.0,351064031.0,07/08/2018 00:00:00,2931384658850.0,EVN Finance Joint Stock Company,Financial Services,Consumer Finance,Financial Services,EVF

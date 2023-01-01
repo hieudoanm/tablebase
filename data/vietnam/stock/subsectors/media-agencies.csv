@@ -1,5 +1,5 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Clever Group Corporation,683190516300.0,Media,ADG,Media,Consumer Services,26/12/2019 00:00:00,Media Agencies,19889098.0,19889098.0
-FPT Online Service Joint Stock Company,2109334596376.0,Media,FOC,Media,Consumer Services,10/12/2018 00:00:00,Media Agencies,18471275.0,18471275.0
-Vietnam Exhibition Fair Centre Joint Stock Company,12571715233000.0,Media,VEF,Media,Consumer Services,22/12/2015 00:00:00,Media Agencies,166604050.0,166604050.0
-Vietnam National Trade Fair And Advertising Company,58185030000.0,Media,VNX,Media,Consumer Services,10/06/2010 00:00:00,Media Agencies,1224948.0,1224948.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Services,19889098.0,19889098.0,26/12/2019 00:00:00,555893546000.0,Clever Group Corporation,Media,Media Agencies,Media,ADG
+Consumer Services,18471275.0,18471275.0,10/12/2018 00:00:00,1971848582200.0,FPT Online Service Joint Stock Company,Media,Media Agencies,Media,FOC
+Consumer Services,166604050.0,166604050.0,22/12/2015 00:00:00,10768258866750.0,Vietnam Exhibition Fair Centre Joint Stock Company,Media,Media Agencies,Media,VEF
+Consumer Services,1224948.0,1224948.0,10/06/2010 00:00:00,47160498000.0,Vietnam National Trade Fair And Advertising Company,Media,Media Agencies,Media,VNX

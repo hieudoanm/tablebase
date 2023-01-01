@@ -1,4 +1,4 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Vietnam Airlines Joint Stock Company,24136896496600.0,Travel & Leisure,HVN,Travel & Leisure,Consumer Services,03/01/2017 00:00:00,Airlines,2214394174.0,2214394174.0
-Saigon Cargo Service Corporation,6853180286000.0,Travel & Leisure,SCS,Travel & Leisure,Consumer Services,12/07/2017 00:00:00,Airlines,93879182.0,93879182.0
-VietJet Aviation Joint Stock Company,56869190070000.0,Travel & Leisure,VJC,Travel & Leisure,Consumer Services,28/02/2017 00:00:00,Airlines,541611334.0,541611334.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Services,2214394174.0,2214394174.0,03/01/2017 00:00:00,30005041057700.0,Vietnam Airlines Joint Stock Company,Travel & Leisure,Airlines,Travel & Leisure,HVN
+Consumer Services,93879182.0,93879182.0,12/07/2017 00:00:00,6684197758400.0,Saigon Cargo Service Corporation,Travel & Leisure,Airlines,Travel & Leisure,SCS
+Consumer Services,541611334.0,541611334.0,28/02/2017 00:00:00,60389663741000.0,VietJet Aviation Joint Stock Company,Travel & Leisure,Airlines,Travel & Leisure,VJC

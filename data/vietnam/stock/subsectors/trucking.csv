@@ -1,25 +1,25 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-DongThap Petroleum Transportation Joint Stock Company,67967280000.0,Industrial Transportation,DOP,Industrial Goods & Services,Industrials,30/10/2015 00:00:00,Trucking,4719950.0,4719950.0
-Hai Phong Cement Transport And Trading Joint Stock Company,34278545000.0,Industrial Transportation,HCT,Industrial Goods & Services,Industrials,27/11/2007 00:00:00,Trucking,2016385.0,2016385.0
-Hai Minh Corporation,142608881700.0,Industrial Transportation,HMH,Industrial Goods & Services,Industrials,28/07/2010 00:00:00,Trucking,13199847.0,13199847.0
-MHC Joint Stock Company,173908744800.0,Industrial Transportation,MHC,Industrial Goods & Services,Industrials,21/03/2005 00:00:00,Trucking,41406964.0,41406964.0
-Vietnam Gas and Chemicals Transportation Corporation,193200000000.0,Industrial Transportation,PCT,Industrial Goods & Services,Industrials,12/09/2011 00:00:00,Trucking,23000000.0,23000000.0
-Portserco Logistics Joint Stock Company,36000000000.0,Industrial Transportation,PRC,Industrial Goods & Services,Industrials,29/11/2010 00:00:00,Trucking,1200000.0,1200000.0
-Petrolimex Saigon Transportation And Service Joint Stock Company,93600000000.0,Industrial Transportation,PSC,Industrial Goods & Services,Industrials,29/12/2006 00:00:00,Trucking,7200000.0,7200000.0
-Dinh Vu Petroleum Service Port Joint Stock Company,376000000000.0,Industrial Transportation,PSP,Industrial Goods & Services,Industrials,10/11/2009 00:00:00,Trucking,22500000.0,22500000.0
-Hai Phong Petrolimex Transportation and Services Joint Stock Company,60134400000.0,Industrial Transportation,PTS,Industrial Goods & Services,Industrials,01/12/2006 00:00:00,Trucking,5568000.0,5568000.0
-Indochina Petroleum Transportation Joint Stock Company,82900000000.0,Industrial Transportation,PTT,Industrial Goods & Services,Industrials,29/04/2010 00:00:00,Trucking,10000000.0,10000000.0
-Petrolimex Nghe Tinh Transportation and Service Joint Stock Company,2923842500.0,Industrial Transportation,PTX,Industrial Goods & Services,Industrials,30/07/2018 00:00:00,Trucking,5847685.0,5847685.0
-Pacific Petroleum Transportation Joint Stock Company,945578530840.0,Industrial Transportation,PVP,Industrial Goods & Services,Industrials,20/12/2016 00:00:00,Trucking,94275028.0,94275028.0
-Railway Transport and Trade Joint Stock Company,91788535500.0,Industrial Transportation,RAT,Industrial Goods & Services,Industrials,15/08/2016 00:00:00,Trucking,5921841.0,5921841.0
-Saigon Transport Agency Joint Stock Company,96048995000.0,Industrial Transportation,STS,Industrial Goods & Services,Industrials,30/03/2010 00:00:00,Trucking,2768221.0,2768221.0
-Tan Cang Logistics and Stevedoring Join Stock Company,962054108400.0,Industrial Transportation,TCL,Industrial Goods & Services,Industrials,24/12/2009 00:00:00,Trucking,30158436.0,30158436.0
-Duyen Hai Multi Modal Transport Joint Stock Company,185238900000.0,Industrial Transportation,TCO,Industrial Goods & Services,Industrials,27/02/2012 00:00:00,Trucking,18711000.0,18711000.0
-Transport and Trading service Joint Stock Company,174580000000.0,Industrial Transportation,TJC,Industrial Goods & Services,Industrials,17/12/2007 00:00:00,Trucking,8600000.0,8600000.0
-Transimex Logistics Corporation,62643000000.0,Industrial Transportation,TOT,Industrial Goods & Services,Industrials,17/07/2017 00:00:00,Trucking,5495000.0,5495000.0
-VIMC Logistics Joint Stock Company,67978224000.0,Industrial Transportation,VLG,Industrial Goods & Services,Industrials,18/09/2015 00:00:00,Trucking,14212130.0,14212130.0
-Vinafreight Joint Stock Company,376801362000.0,Industrial Transportation,VNF,Industrial Goods & Services,Industrials,01/12/2010 00:00:00,Trucking,31679480.0,31679480.0
-Vinalink Logistics Corporation,197495650000.0,Industrial Transportation,VNL,Industrial Goods & Services,Industrials,17/08/2009 00:00:00,Trucking,9427000.0,9427000.0
-Foreign Trade Forwarding and Transportation Joint Stock Company,939594795000.0,Industrial Transportation,VNT,Industrial Goods & Services,Industrials,14/08/2009 00:00:00,Trucking,11949005.0,11949005.0
-Vietnam Ocean Shipping Agency Corporation,296026206000.0,Industrial Transportation,VSA,Industrial Goods & Services,Industrials,22/12/2015 00:00:00,Trucking,14096486.0,14096486.0
-VIETRANSTIMEX Multimodal Transport Holding Company,413154723700.0,Industrial Transportation,VTX,Industrial Goods & Services,Industrials,15/05/2014 00:00:00,Trucking,20972321.0,20972321.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Industrials,4719950.0,4719950.0,30/10/2015 00:00:00,58055385000.0,DongThap Petroleum Transportation Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,DOP
+Industrials,2016385.0,2016385.0,27/11/2007 00:00:00,34278545000.0,Hai Phong Cement Transport And Trading Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,HCT
+Industrials,13199847.0,13199847.0,28/07/2010 00:00:00,163165116900.0,Hai Minh Corporation,Industrial Transportation,Trucking,Industrial Goods & Services,HMH
+Industrials,41406964.0,41406964.0,21/03/2005 00:00:00,158588212520.0,MHC Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,MHC
+Industrials,23000000.0,23000000.0,12/09/2011 00:00:00,129719511200.0,Vietnam Gas and Chemicals Transportation Corporation,Industrial Transportation,Trucking,Industrial Goods & Services,PCT
+Industrials,1200000.0,1200000.0,29/11/2010 00:00:00,37800000000.0,Portserco Logistics Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,PRC
+Industrials,7200000.0,7200000.0,29/12/2006 00:00:00,105120000000.0,Petrolimex Saigon Transportation And Service Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,PSC
+Industrials,40000000.0,40000000.0,10/11/2009 00:00:00,283960000000.0,Dinh Vu Petroleum Service Port Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,PSP
+Industrials,5568000.0,5568000.0,01/12/2006 00:00:00,54566400000.0,Hai Phong Petrolimex Transportation and Services Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,PTS
+Industrials,10000000.0,10000000.0,29/04/2010 00:00:00,113960000000.0,Indochina Petroleum Transportation Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,PTT
+Industrials,5847685.0,5847685.0,30/07/2018 00:00:00,2923842500.0,Petrolimex Nghe Tinh Transportation and Service Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,PTX
+Industrials,94275028.0,94275028.0,20/12/2016 00:00:00,949066706876.0,Pacific Petroleum Transportation Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,PVP
+Industrials,5921841.0,5921841.0,15/08/2016 00:00:00,58626225900.0,Railway Transport and Trade Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,RAT
+Industrials,2768221.0,2768221.0,30/03/2010 00:00:00,66136593700.0,Saigon Transport Agency Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,STS
+Industrials,30158436.0,30158436.0,24/12/2009 00:00:00,922848141600.0,Tan Cang Logistics and Stevedoring Join Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,TCL
+Industrials,18711000.0,18711000.0,27/02/2012 00:00:00,125176590000.0,Duyen Hai Multi Modal Transport Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,TCO
+Industrials,8600000.0,8600000.0,17/12/2007 00:00:00,189200000000.0,Transport and Trading service Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,TJC
+Industrials,5495000.0,5495000.0,17/07/2017 00:00:00,67588500000.0,Transimex Logistics Corporation,Industrial Transportation,Trucking,Industrial Goods & Services,TOT
+Industrials,14212130.0,14212130.0,18/09/2015 00:00:00,51125289300.0,VIMC Logistics Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,VLG
+Industrials,31679480.0,31679480.0,01/12/2010 00:00:00,294813534000.0,Vinafreight Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,VNF
+Industrials,9427000.0,9427000.0,17/08/2009 00:00:00,197495650000.0,Vinalink Logistics Corporation,Industrial Transportation,Trucking,Industrial Goods & Services,VNL
+Industrials,11949005.0,11949005.0,14/08/2009 00:00:00,834931071000.0,Foreign Trade Forwarding and Transportation Joint Stock Company,Industrial Transportation,Trucking,Industrial Goods & Services,VNT
+Industrials,14096486.0,14096486.0,22/12/2015 00:00:00,284749017200.0,Vietnam Ocean Shipping Agency Corporation,Industrial Transportation,Trucking,Industrial Goods & Services,VSA
+Industrials,20972321.0,20972321.0,15/05/2014 00:00:00,413154723700.0,VIETRANSTIMEX Multimodal Transport Holding Company,Industrial Transportation,Trucking,Industrial Goods & Services,VTX

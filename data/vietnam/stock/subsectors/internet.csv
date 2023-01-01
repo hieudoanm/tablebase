@@ -1,2 +1,2 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Saigon Telecommunication And Technologies Corporation,1672436250400.0,Software & Computer Services,SGT,Technology,Technology,18/01/2008 00:00:00,Internet,74001914.0,74001914.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Technology,148003518.0,148003518.0,18/01/2008 00:00:00,1798238977200.0,Saigon Telecommunication And Technologies Corporation,Software & Computer Services,Internet,Technology,SGT

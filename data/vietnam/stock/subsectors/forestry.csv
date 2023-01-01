@@ -1,14 +1,14 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-An Cuong Wood - Working Joint Stock Company,6554112186500.0,Forestry & Paper,ACG,Basic Resources,Basic Materials,04/08/2021 00:00:00,Forestry,135846122.0,135846122.0
-Duc Long Gia Lai Group Joint Stock Company,613584926000.0,Forestry & Paper,DLG,Basic Resources,Basic Materials,22/06/2010 00:00:00,Forestry,299309720.0,299309720.0
-Forest Products Export Joint Stock Company of Quang Nam,84000000000.0,Forestry & Paper,FRC,Basic Resources,Basic Materials,26/07/2018 00:00:00,Forestry,3000000.0,3000000.0
-Saigon Forestry Import Export Joint Stock Company,140400000000.0,Forestry & Paper,FRM,Basic Resources,Basic Materials,24/11/2017 00:00:00,Forestry,11700000.0,11700000.0
-Thuan An Wood Processing Joint Stock Company,147450000000.0,Forestry & Paper,GTA,Basic Resources,Basic Materials,23/07/2007 00:00:00,Forestry,10400000.0,10400000.0
-MDF VRG - Quang Tri Wood Joint Stock Company,572520024860.0,Forestry & Paper,MDF,Basic Resources,Basic Materials,25/02/2011 00:00:00,Forestry,55113595.0,55113595.0
-PISICO Binh Dinh Corporation Joint Stock Company,280500000000.0,Forestry & Paper,PIS,Basic Resources,Basic Materials,12/01/2016 00:00:00,Forestry,27500000.0,27500000.0
-Phu Tai Joint Stock Company,3228422222350.0,Forestry & Paper,PTB,Basic Resources,Basic Materials,22/07/2011 00:00:00,Forestry,68038403.0,68038403.0
-Savimex Corporation,268612704750.0,Forestry & Paper,SAV,Basic Resources,Basic Materials,09/05/2002 00:00:00,Forestry,18363175.0,18363175.0
-Tan Mai General Wood Joint Stock Company,59211845000.0,Forestry & Paper,TMW,Basic Resources,Basic Materials,23/12/2009 00:00:00,Forestry,4662350.0,4662350.0
-Quang Ninh Pine Joint Stock Company,92519486000.0,Forestry & Paper,TQN,Basic Resources,Basic Materials,08/02/2017 00:00:00,Forestry,3600000.0,3600000.0
-Truong Thanh Furniture Corporation,1809202942800.0,Forestry & Paper,TTF,Basic Resources,Basic Materials,18/02/2008 00:00:00,Forestry,393548302.0,393548302.0
-VietNam Forestry Corporation - Joint Stock Company,5075000000000.0,Forestry & Paper,VIF,Basic Resources,Basic Materials,12/01/2017 00:00:00,Forestry,350000000.0,350000000.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Basic Materials,135846122.0,135846122.0,04/08/2021 00:00:00,4754278270000.0,An Cuong Wood - Working Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,ACG
+Basic Materials,299309720.0,299309720.0,22/06/2010 00:00:00,658481384000.0,Duc Long Gia Lai Group Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,DLG
+Basic Materials,3000000.0,3000000.0,26/07/2018 00:00:00,75300000000.0,Forest Products Export Joint Stock Company of Quang Nam,Forestry & Paper,Forestry,Basic Resources,FRC
+Basic Materials,11700000.0,11700000.0,24/11/2017 00:00:00,146250000000.0,Saigon Forestry Import Export Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,FRM
+Basic Materials,10400000.0,10400000.0,23/07/2007 00:00:00,120909000000.0,Thuan An Wood Processing Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,GTA
+Basic Materials,55113595.0,55113595.0,25/02/2011 00:00:00,551135950000.0,MDF VRG - Quang Tri Wood Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,MDF
+Basic Materials,27500000.0,27500000.0,12/01/2016 00:00:00,332750000000.0,PISICO Binh Dinh Corporation Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,PIS
+Basic Materials,68038403.0,68038403.0,22/07/2011 00:00:00,2990287811850.0,Phu Tai Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,PTB
+Basic Materials,18363175.0,18363175.0,09/05/2002 00:00:00,265917594000.0,Savimex Corporation,Forestry & Paper,Forestry,Basic Resources,SAV
+Basic Materials,4662350.0,4662350.0,23/12/2009 00:00:00,59211845000.0,Tan Mai General Wood Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,TMW
+Basic Materials,3600000.0,3600000.0,08/02/2017 00:00:00,92519486000.0,Quang Ninh Pine Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,TQN
+Basic Materials,393548302.0,393548302.0,18/02/2008 00:00:00,1700060343840.0,Truong Thanh Furniture Corporation,Forestry & Paper,Forestry,Basic Resources,TTF
+Basic Materials,350000000.0,350000000.0,12/01/2017 00:00:00,4655000000000.0,VietNam Forestry Corporation - Joint Stock Company,Forestry & Paper,Forestry,Basic Resources,VIF

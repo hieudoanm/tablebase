@@ -1,31 +1,31 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-An Pha Petrol Joint Stock Company,213208784820.0,"Gas, Water & Multi-utilities",ASP,Utilities,Utilities,15/02/2008 00:00:00,Gas Distribution,37339929.0,37339929.0
-Dong Nai Building Material and Fuel Joint Stock Company,105653840000.0,"Gas, Water & Multi-utilities",BMF,Utilities,Utilities,16/04/2018 00:00:00,Gas Distribution,4159600.0,4159600.0
-Cuchi Commercial and Industrial Developing Investment Joint Stock Company,470101614000.0,"Gas, Water & Multi-utilities",CCI,Utilities,Utilities,15/04/2010 00:00:00,Gas Distribution,17743865.0,17743865.0
-Clean Natural Gas Vietnam Joint Stock Company,719541285450.0,"Gas, Water & Multi-utilities",CNG,Utilities,Utilities,23/11/2011 00:00:00,Gas Distribution,27000000.0,27000000.0
-Indochine Import Export Investment Industrial Joint Stock Company,2387611451400.0,"Gas, Water & Multi-utilities",DDG,Utilities,Utilities,18/12/2018 00:00:00,Gas Distribution,57039886.0,57039886.0
-PetroVietnam Gas Joint Stock Corporation,210534500000000.0,"Gas, Water & Multi-utilities",GAS,Utilities,Utilities,21/05/2012 00:00:00,Gas Distribution,1913950000.0,1913950000.0
-PETEC Binh Dinh Joint Stock Company,70685072500.0,"Gas, Water & Multi-utilities",GCB,Utilities,Utilities,28/12/2016 00:00:00,Gas Distribution,4039147.0,4039147.0
-HFC Petroleum Corporation,67224461000.0,"Gas, Water & Multi-utilities",HFC,Utilities,Utilities,01/03/2010 00:00:00,Gas Distribution,8198105.0,8198105.0
-Hocmon Trade Joint Stock Company,333299858600.0,"Gas, Water & Multi-utilities",HTC,Utilities,Utilities,07/05/2010 00:00:00,Gas Distribution,16499993.0,16499993.0
-MT Gas JSC,25830000000.0,"Gas, Water & Multi-utilities",MTG,Utilities,Utilities,15/01/2009 00:00:00,Gas Distribution,6300000.0,6300000.0
-PetroVietnam Gas City Investment and Deverlopment Joint Stock Company,139638000000.0,"Gas, Water & Multi-utilities",PCG,Utilities,Utilities,29/12/2010 00:00:00,Gas Distribution,18870000.0,18870000.0
-PETEC Trading and Investment Corporation,1742142290000.0,"Gas, Water & Multi-utilities",PEG,Utilities,Utilities,05/11/2018 00:00:00,Gas Distribution,231898919.0,231898919.0
-Petrolimex Gas Corporation - Joint Stock Company,1074039273000.0,"Gas, Water & Multi-utilities",PGC,Utilities,Utilities,24/11/2006 00:00:00,Gas Distribution,60342638.0,60342638.0
-Petro Viet Nam Low Pressure Gas Distribution Joint Stock Company,2483946732000.0,"Gas, Water & Multi-utilities",PGD,Utilities,Utilities,26/11/2009 00:00:00,Gas Distribution,89999025.0,89999025.0
-Southern Gas Trading Joint Stock Company,1354967317400.0,"Gas, Water & Multi-utilities",PGS,Utilities,Utilities,15/11/2007 00:00:00,Gas Distribution,50000000.0,50000000.0
-Petrolimex Ha Noi Transportation and Trading Joint-Stock Company,168517803000.0,"Gas, Water & Multi-utilities",PJC,Utilities,Utilities,25/12/2006 00:00:00,Gas Distribution,7326928.0,7326928.0
-Petro Center Corporation,516649499700.0,"Gas, Water & Multi-utilities",PMG,Utilities,Utilities,25/01/2018 00:00:00,Gas Distribution,46336278.0,46336278.0
-PetroVietnam Oil Nam Dinh Joint Stock Company,71999992800.0,"Gas, Water & Multi-utilities",PND,Utilities,Utilities,20/02/2017 00:00:00,Gas Distribution,6666666.0,6666666.0
-Thai Binh Petrovietnam Oil Joint Stock Company,535190000000.0,"Gas, Water & Multi-utilities",POB,Utilities,Utilities,29/09/2017 00:00:00,Gas Distribution,10900000.0,10900000.0
-Vung Ang Petroleum Joint Stock Company,113933963380.0,"Gas, Water & Multi-utilities",POV,Utilities,Utilities,23/09/2010 00:00:00,Gas Distribution,12499612.0,12499612.0
-Petro Times Joint Stock Company,321315000000.0,"Gas, Water & Multi-utilities",PPT,Utilities,Utilities,17/06/2022 00:00:00,Gas Distribution,8000000.0,8000000.0
-Petrovietnam Oil Phu Yen Joint Stock Company,77554984200.0,"Gas, Water & Multi-utilities",PPY,Utilities,Utilities,02/03/2016 00:00:00,Gas Distribution,8651926.0,8651926.0
-Nam Song Hau Trading Investing Petroleum Joint Stock Company,773420751400.0,"Gas, Water & Multi-utilities",PSH,Utilities,Utilities,24/06/2020 00:00:00,Gas Distribution,126196780.0,126196780.0
-Ha Tay Petrolimex Transportation and Service JSC,43789550000.0,"Gas, Water & Multi-utilities",PTH,Utilities,Utilities,23/03/2010 00:00:00,Gas Distribution,3503164.0,3503164.0
-Petro Vietnam LPG Joint Stock Company,277400000000.0,"Gas, Water & Multi-utilities",PVG,Utilities,Utilities,07/01/2009 00:00:00,Gas Distribution,36500000.0,36500000.0
-Saigon Fuel Joint Stock Company,237054680900.0,"Gas, Water & Multi-utilities",SFC,Utilities,Utilities,21/09/2004 00:00:00,Gas Distribution,11291459.0,11291459.0
-TDG Global Investment Joint Stock Company,69763200000.0,"Gas, Water & Multi-utilities",TDG,Utilities,Utilities,15/06/2017 00:00:00,Gas Distribution,16770000.0,16770000.0
-Thanh Le Corporation,1987271160000.0,"Gas, Water & Multi-utilities",TLP,Utilities,Utilities,08/12/2017 00:00:00,Gas Distribution,236600000.0,236600000.0
-Thu Duc Trading and Import Export Joint Stock Company,152520000000.0,"Gas, Water & Multi-utilities",TMC,Utilities,Utilities,26/12/2006 00:00:00,Gas Distribution,12400000.0,12400000.0
-Vung Tau Petroleum Trading and Services Joint Stock Company,46080000000.0,"Gas, Water & Multi-utilities",VMG,Utilities,Utilities,11/10/2017 00:00:00,Gas Distribution,9600000.0,9600000.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Utilities,37339929.0,37339929.0,15/02/2008 00:00:00,193792222980.0,An Pha Petrol Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,ASP
+Utilities,4159600.0,4159600.0,16/04/2018 00:00:00,140594480000.0,Dong Nai Building Material and Fuel Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,BMF
+Utilities,17743865.0,17743865.0,15/04/2010 00:00:00,494659161000.0,Cuchi Commercial and Industrial Developing Investment Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,CCI
+Utilities,27000000.0,27000000.0,23/11/2011 00:00:00,658792021200.0,Clean Natural Gas Vietnam Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,CNG
+Utilities,57039886.0,57039886.0,18/12/2018 00:00:00,2435483360200.0,Indochine Import Export Investment Industrial Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,DDG
+Utilities,1913950000.0,1913950000.0,21/05/2012 00:00:00,194265925000000.0,PetroVietnam Gas Joint Stock Corporation,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,GAS
+Utilities,4039147.0,4039147.0,28/12/2016 00:00:00,97747357400.0,PETEC Binh Dinh Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,GCB
+Utilities,8198105.0,8198105.0,01/03/2010 00:00:00,42630146000.0,HFC Petroleum Corporation,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,HFC
+Utilities,16499993.0,16499993.0,07/05/2010 00:00:00,254099892200.0,Hocmon Trade Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,HTC
+Utilities,6300000.0,6300000.0,15/01/2009 00:00:00,55351800000.0,MT Gas Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,MTG
+Utilities,18870000.0,18870000.0,29/12/2010 00:00:00,116994000000.0,PetroVietnam Gas City Investment and Deverlopment Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PCG
+Utilities,231898919.0,231898919.0,05/11/2018 00:00:00,1468377073000.0,PETEC Trading and Investment Corporation,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PEG
+Utilities,60342638.0,60342638.0,24/11/2006 00:00:00,935258917500.0,Petrolimex Gas Corporation - Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PGC
+Utilities,89999025.0,89999025.0,26/11/2009 00:00:00,2339949820000.0,Petro Viet Nam Low Pressure Gas Distribution Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PGD
+Utilities,50000000.0,50000000.0,15/11/2007 00:00:00,1299968644000.0,Southern Gas Trading Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PGS
+Utilities,7326928.0,7326928.0,25/12/2006 00:00:00,185369583300.0,Petrolimex Ha Noi Transportation and Trading Joint-Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PJC
+Utilities,46336278.0,46336278.0,25/01/2018 00:00:00,574569847200.0,Petro Center Corporation,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PMG
+Utilities,6666666.0,6666666.0,20/02/2017 00:00:00,50666661600.0,PetroVietnam Oil Nam Dinh Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PND
+Utilities,10900000.0,10900000.0,29/09/2017 00:00:00,553720000000.0,Thai Binh Petrovietnam Oil Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,POB
+Utilities,12499612.0,12499612.0,23/09/2010 00:00:00,101496849440.0,Vung Ang Petroleum Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,POV
+Utilities,15000000.0,15000000.0,17/06/2022 00:00:00,318870000000.0,Petro Times Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PPT
+Utilities,8651926.0,8651926.0,02/03/2016 00:00:00,74751792000.0,Petrovietnam Oil Phu Yen Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PPY
+Utilities,126196780.0,126196780.0,24/06/2020 00:00:00,523604587000.0,Nam Song Hau Trading Investing Petroleum Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PSH
+Utilities,3503164.0,3503164.0,23/03/2010 00:00:00,50095245200.0,Ha Tay Petrolimex Transportation and Service JSC,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PTH
+Utilities,36500000.0,36500000.0,07/01/2009 00:00:00,262800000000.0,Petro Vietnam LPG Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,PVG
+Utilities,11291459.0,11291459.0,21/09/2004 00:00:00,214585042900.0,Saigon Fuel Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,SFC
+Utilities,16770000.0,16770000.0,15/06/2017 00:00:00,60372000000.0,TDG Global Investment Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,TDG
+Utilities,236600000.0,236600000.0,08/12/2017 00:00:00,1821665230000.0,Thanh Le Corporation,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,TLP
+Utilities,12400000.0,12400000.0,26/12/2006 00:00:00,148800000000.0,Thu Duc Trading and Import Export Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,TMC
+Utilities,9600000.0,9600000.0,11/10/2017 00:00:00,45120000000.0,Vung Tau Petroleum Trading and Services Joint Stock Company,"Gas, Water & Multi-utilities",Gas Distribution,Utilities,VMG

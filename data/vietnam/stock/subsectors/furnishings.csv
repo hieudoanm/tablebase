@@ -1,7 +1,7 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Dai Chau Group Joint Stock Company,54278579700.0,Household Goods & Home Construction,DCS,Personal & Household Goods,Consumer Goods,17/12/2007 00:00:00,Furnishings,60310988.0,60310988.0
-Dien Quang Joint Stock Company,462975508800.0,Household Goods & Home Construction,DQC,Personal & Household Goods,Consumer Goods,21/02/2008 00:00:00,Furnishings,34359416.0,34359416.0
-FBA International Group,3073410000.0,Household Goods & Home Construction,FBA,Personal & Household Goods,Consumer Goods,18/02/2011 00:00:00,Furnishings,3414900.0,3414900.0
-Duc Thanh Wood Processing Joint Stock Company,657442972200.0,Household Goods & Home Construction,GDT,Personal & Household Goods,Consumer Goods,17/11/2009 00:00:00,Furnishings,19747171.0,19747171.0
-Rang Dong Light Sources and Vacuum Flask Joint Stock Company,1847267229500.0,Household Goods & Home Construction,RAL,Personal & Household Goods,Consumer Goods,06/12/2006 00:00:00,Furnishings,22947419.0,22947419.0
-XuanHoa Viet Nam Joint Stock Company,769657250000.0,Household Goods & Home Construction,XHC,Personal & Household Goods,Consumer Goods,03/11/2016 00:00:00,Furnishings,21096500.0,21096500.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Goods,60310988.0,60310988.0,17/12/2007 00:00:00,45835245080.0,Dai Chau Group Joint Stock Company,Household Goods & Home Construction,Furnishings,Personal & Household Goods,DCS
+Consumer Goods,34359416.0,34359416.0,21/02/2008 00:00:00,460219702200.0,Dien Quang Joint Stock Company,Household Goods & Home Construction,Furnishings,Personal & Household Goods,DQC
+Consumer Goods,3414900.0,3414900.0,18/02/2011 00:00:00,3073410000.0,FBA International Group,Household Goods & Home Construction,Furnishings,Personal & Household Goods,FBA
+Consumer Goods,19747171.0,19747171.0,17/11/2009 00:00:00,658411224000.0,Duc Thanh Wood Processing Joint Stock Company,Household Goods & Home Construction,Furnishings,Personal & Household Goods,GDT
+Consumer Goods,22947419.0,22947419.0,06/12/2006 00:00:00,1833498778100.0,Rang Dong Light Sources and Vacuum Flask Joint Stock Company,Household Goods & Home Construction,Furnishings,Personal & Household Goods,RAL
+Consumer Goods,21096500.0,21096500.0,03/11/2016 00:00:00,695854500000.0,XuanHoa Viet Nam Joint Stock Company,Household Goods & Home Construction,Furnishings,Personal & Household Goods,XHC

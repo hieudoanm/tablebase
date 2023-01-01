@@ -27,3 +27,6 @@ vnindex-quarterly:
 
 vnindex-monthly:
 	python3 ./scripts/vietnam/vnindex/explore_transform/monthly.py
+
+vnindex-subsectors:
+	python3 ./scripts/vietnam/vnindex/explore_transform/subsectors.py

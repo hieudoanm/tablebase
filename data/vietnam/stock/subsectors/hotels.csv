@@ -1,11 +1,11 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Vimico - Cao Bang Bang Giang Travel And Trading Joint Stock Company,38700000000.0,Travel & Leisure,BCV,Travel & Leisure,Consumer Services,16/03/2021 00:00:00,Hotels,1800000.0,1800000.0
-Dong A Hotel Group Joint Stock Company,362902000000.0,Travel & Leisure,DAH,Travel & Leisure,Consumer Services,10/10/2016 00:00:00,Hotels,84200000.0,84200000.0
-DakLak Tourist Joint Stock Company,139611225000.0,Travel & Leisure,DLD,Travel & Leisure,Consumer Services,08/04/2011 00:00:00,Hotels,9307415.0,9307415.0
-Duc Trung Investment Join Stock Company,62908320800.0,Travel & Leisure,DTI,Travel & Leisure,Consumer Services,05/01/2018 00:00:00,Hotels,12097754.0,12097754.0
-Lang Son Tourism and Import - Export Joint Stock Company,34433730000.0,Travel & Leisure,DXL,Travel & Leisure,Consumer Services,28/06/2010 00:00:00,Hotels,3957900.0,3957900.0
-Power Investment - Trade - Service Joint Stock Company,158016920280.0,Travel & Leisure,EIN,Travel & Leisure,Consumer Services,16/03/2017 00:00:00,Hotels,45407161.0,45407161.0
-My Tra Tourist Joint Stock Company,14204002500.0,Travel & Leisure,MTC,Travel & Leisure,Consumer Services,17/08/2012 00:00:00,Hotels,5200000.0,5200000.0
-Saigon Hotel Corporation,335067110000.0,Travel & Leisure,SGH,Travel & Leisure,Consumer Services,13/07/2001 00:00:00,Hotels,12364100.0,12364100.0
-VungTau Intourco Resort Joint Stock Company,65920000000.0,Travel & Leisure,VIR,Travel & Leisure,Consumer Services,01/07/2010 00:00:00,Hotels,8240000.0,8240000.0
-Thanh Thanh Cong Tourism Joint Stock Company,700391577600.0,Travel & Leisure,VNG,Travel & Leisure,Consumer Services,17/12/2009 00:00:00,Hotels,97276608.0,97276608.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Services,1800000.0,1800000.0,16/03/2021 00:00:00,38700000000.0,Vimico - Cao Bang Bang Giang Travel And Trading Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,BCV
+Consumer Services,84200000.0,84200000.0,10/10/2016 00:00:00,360376000000.0,Dong A Hotel Group Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,DAH
+Consumer Services,9307415.0,9307415.0,08/04/2011 00:00:00,139611225000.0,DakLak Tourist Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,DLD
+Consumer Services,12097754.0,12097754.0,05/01/2018 00:00:00,93152705800.0,Duc Trung Investment Join Stock Company,Travel & Leisure,Hotels,Travel & Leisure,DTI
+Consumer Services,3957900.0,3957900.0,28/06/2010 00:00:00,21372660000.0,Lang Son Tourism and Import - Export Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,DXL
+Consumer Services,45407161.0,45407161.0,16/03/2017 00:00:00,148663045114.0,Power Investment - Trade - Service Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,EIN
+Consumer Services,5200000.0,5200000.0,17/08/2012 00:00:00,14204002500.0,My Tra Tourist Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,MTC
+Consumer Services,12364100.0,12364100.0,13/07/2001 00:00:00,476017850000.0,Saigon Hotel Corporation,Travel & Leisure,Hotels,Travel & Leisure,SGH
+Consumer Services,8240000.0,8240000.0,01/07/2010 00:00:00,57680000000.0,VungTau Intourco Resort Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,VIR
+Consumer Services,97276608.0,97276608.0,17/12/2009 00:00:00,971793313920.0,Thanh Thanh Cong Tourism Joint Stock Company,Travel & Leisure,Hotels,Travel & Leisure,VNG

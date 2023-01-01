@@ -1,15 +1,15 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Alphanam E&C Joint Stock Company,678080000000.0,Electronic & Electrical Equipment,AME,Industrial Goods & Services,Industrials,02/06/2010 00:00:00,Electronic Equipment,65200000.0,65200000.0
-Ha Noi Transformer Manufacturing And Electric Material Joint Stock Company,467500000000.0,Electronic & Electrical Equipment,BTH,Industrial Goods & Services,Industrials,04/01/2008 00:00:00,Electronic Equipment,25000000.0,25000000.0
-Central Area Electrical Mechanical Joint Stock Company,120000000000.0,Electronic & Electrical Equipment,CJC,Industrial Goods & Services,Industrials,14/12/2006 00:00:00,Electronic Equipment,4000000.0,4000000.0
-Hai Phong Electrical Mechanical Joint Stock Company,118652500000.0,Electronic & Electrical Equipment,DHP,Industrial Goods & Services,Industrials,21/03/2013 00:00:00,Electronic Equipment,9492200.0,9492200.0
-Thu Duc Electro Mechanical Joint Stock Company,255465461100.0,Electronic & Electrical Equipment,EMC,Industrial Goods & Services,Industrials,29/11/2012 00:00:00,Electronic Equipment,15297333.0,15297333.0
-Electro Mechanical Corporation,109628642000.0,Electronic & Electrical Equipment,EME,Industrial Goods & Services,Industrials,17/07/2017 00:00:00,Electronic Equipment,3780298.0,3780298.0
-Electrical Mechanical Equipment and Spare Parts Joint Stock Company,49500000000.0,Electronic & Electrical Equipment,EMG,Industrial Goods & Services,Industrials,16/02/2017 00:00:00,Electronic Equipment,3000000.0,3000000.0
-GELEX Electric Equipment Joint Stock Company,7601400000000.0,Electronic & Electrical Equipment,GEE,Industrial Goods & Services,Industrials,08/03/2022 00:00:00,Electronic Equipment,300000000.0,300000000.0
-Gelex Group Joint Stock Company,11069445309000.0,Electronic & Electrical Equipment,GEX,Industrial Goods & Services,Industrials,26/10/2015 00:00:00,Electronic Equipment,851495793.0,851495793.0
-Hanoi Electromechanical Manufacturing Joint Stock Company,483808125000.0,Electronic & Electrical Equipment,HEM,Industrial Goods & Services,Industrials,03/01/2017 00:00:00,Electronic Equipment,38704650.0,38704650.0
-Vietnam K.I.P Joint Stock Company,105448000000.0,Electronic & Electrical Equipment,KIP,Industrial Goods & Services,Industrials,12/04/2016 00:00:00,Electronic Equipment,9800000.0,9800000.0
-Machinery Joint Stock Company,157104535500.0,Electronic & Electrical Equipment,MA1,Industrial Goods & Services,Industrials,29/06/2020 00:00:00,Electronic Equipment,5289715.0,5289715.0
-Dong Anh Electrical Equipment Corporation,3186727933600.0,Electronic & Electrical Equipment,TBD,Industrial Goods & Services,Industrials,15/10/2014 00:00:00,Electronic Equipment,32486392.0,32486392.0
-Electrical Equipment Joint Stock Company,1144360000000.0,Electronic & Electrical Equipment,THI,Industrial Goods & Services,Industrials,15/06/2017 00:00:00,Electronic Equipment,48800000.0,48800000.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Industrials,65200000.0,65200000.0,02/06/2010 00:00:00,710680000000.0,Alphanam E&C Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,AME
+Industrials,25000000.0,25000000.0,04/01/2008 00:00:00,440000000000.0,Ha Noi Transformer Manufacturing And Electric Material Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,BTH
+Industrials,4000000.0,4000000.0,14/12/2006 00:00:00,120000000000.0,Central Area Electrical Mechanical Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,CJC
+Industrials,9492200.0,9492200.0,21/03/2013 00:00:00,119601720000.0,Hai Phong Electrical Mechanical Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,DHP
+Industrials,15297333.0,15297333.0,29/11/2012 00:00:00,189686929200.0,Thu Duc Electro Mechanical Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,EMC
+Industrials,3780298.0,3780298.0,17/07/2017 00:00:00,64643095800.0,Electro Mechanical Corporation,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,EME
+Industrials,3000000.0,3000000.0,16/02/2017 00:00:00,81600000000.0,Electrical Mechanical Equipment and Spare Parts Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,EMG
+Industrials,300000000.0,300000000.0,08/03/2022 00:00:00,8095800000000.0,GELEX Electricity Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,GEE
+Industrials,851495793.0,851495793.0,26/10/2015 00:00:00,11793216733050.0,Gelex Group Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,GEX
+Industrials,38704650.0,38704650.0,03/01/2017 00:00:00,905688810000.0,Hanoi Electromechanical Manufacturing Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,HEM
+Industrials,9800000.0,9800000.0,12/04/2016 00:00:00,90160000000.0,Vietnam K.I.P Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,KIP
+Industrials,5289715.0,5289715.0,29/06/2020 00:00:00,84106468500.0,Machinery Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,MA1
+Industrials,32486392.0,32486392.0,15/10/2014 00:00:00,3728115080000.0,Dong Anh Electrical Equipment Corporation,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,TBD
+Industrials,48800000.0,48800000.0,15/06/2017 00:00:00,1205360000000.0,Electrical Equipment Joint Stock Company,Electronic & Electrical Equipment,Electronic Equipment,Industrial Goods & Services,THI

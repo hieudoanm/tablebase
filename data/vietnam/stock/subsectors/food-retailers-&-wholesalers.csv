@@ -1,5 +1,5 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-An Giang Agriculture and Foods Import - Export Joint Stock Company,454125000000.0,Food & Drug Retailers,AFX,Retail,Consumer Services,02/12/2016 00:00:00,Food Retailers & Wholesalers,35000000.0,35000000.0
-Sai Gon Export Foodstuffs and Agricultural Products Joint Stock Company,367200000000.0,Food & Drug Retailers,AGX,Retail,Consumer Services,14/09/2015 00:00:00,Food Retailers & Wholesalers,10800000.0,10800000.0
-Hanoi Food Import - Export Joint Stock Company,46500000000.0,Food & Drug Retailers,FHN,Retail,Consumer Services,29/12/2017 00:00:00,Food Retailers & Wholesalers,3000000.0,3000000.0
-The Vietnam National General Export - Import Joint Stock Company No.1,60926517000.0,Food & Drug Retailers,TH1,Retail,Consumer Services,11/11/2009 00:00:00,Food Retailers & Wholesalers,13539267.0,13539267.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Services,35000000.0,35000000.0,02/12/2016 00:00:00,423115000000.0,An Giang Agriculture and Foods Import - Export Joint Stock Company,Food & Drug Retailers,Food Retailers & Wholesalers,Retail,AFX
+Consumer Services,10800000.0,10800000.0,14/09/2015 00:00:00,362091600000.0,Sai Gon Export Foodstuffs and Agricultural Products Joint Stock Company,Food & Drug Retailers,Food Retailers & Wholesalers,Retail,AGX
+Consumer Services,3000000.0,3000000.0,29/12/2017 00:00:00,46500000000.0,Hanoi Food Import - Export Joint Stock Company,Food & Drug Retailers,Food Retailers & Wholesalers,Retail,FHN
+Consumer Services,13539267.0,13539267.0,11/11/2009 00:00:00,40617678000.0,The Vietnam National General Export - Import Joint Stock Company No.1,Food & Drug Retailers,Food Retailers & Wholesalers,Retail,TH1

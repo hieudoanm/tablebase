@@ -1,2 +1,2 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Nam Hoa Trading &amp; Production Corporation,336052535000.0,Leisure Goods,NHT,Personal & Household Goods,Consumer Goods,01/12/2017 00:00:00,Toys,18488896.0,18488896.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Goods,24028169.0,24028169.0,01/12/2017 00:00:00,316848813600.0,Nam Hoa Trading & Production Corporation,Leisure Goods,Toys,Personal & Household Goods,NHT

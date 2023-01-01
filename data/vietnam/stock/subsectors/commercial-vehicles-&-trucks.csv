@@ -1,5 +1,6 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Danang Petroleum Machinery - Technology Joint Stock Company,51660000000.0,Industrial Engineering,DAS,Industrial Goods & Services,Industrials,25/09/2014 00:00:00,Commercial Vehicles & Trucks,4200000.0,4200000.0
-Vietnam Fishery Mechanical Shipbuilding Joint Stock Company,64687109000.0,Industrial Engineering,FSO,Industrial Goods & Services,Industrials,06/02/2017 00:00:00,Commercial Vehicles & Trucks,5624966.0,5624966.0
-Marine Supply And Engineering Service Joint Stock Company,118090011000.0,Industrial Engineering,MAC,Industrial Goods & Services,Industrials,24/12/2009 00:00:00,Commercial Vehicles & Trucks,15139745.0,15139745.0
-Song Cam Shipbuilding Joint Stock Company,805596038000.0,Industrial Engineering,SCY,Industrial Goods & Services,Industrials,25/10/2017 00:00:00,Commercial Vehicles & Trucks,61968926.0,61968926.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Industrials,4200000.0,4200000.0,25/09/2014 00:00:00,33180000000.0,Danang Petroleum Machinery - Technology Joint Stock Company,Industrial Engineering,Commercial Vehicles & Trucks,Industrial Goods & Services,DAS
+Industrials,5624966.0,5624966.0,06/02/2017 00:00:00,61874626000.0,Vietnam Fishery Mechanical Shipbuilding Joint Stock Company,Industrial Engineering,Commercial Vehicles & Trucks,Industrial Goods & Services,FSO
+Industrials,15139745.0,15139745.0,24/12/2009 00:00:00,136257705000.0,Marine Supply And Engineering Service Joint Stock Company,Industrial Engineering,Commercial Vehicles & Trucks,Industrial Goods & Services,MAC
+Industrials,8310000.0,8310000.0,20/10/2017 00:00:00,44043000000.0,Viet Nam Salvage Joint Stock Company,Industrial Engineering,Commercial Vehicles & Trucks,Industrial Goods & Services,SAL
+Industrials,61968926.0,61968926.0,25/10/2017 00:00:00,588704797000.0,Song Cam Shipbuilding Joint Stock Company,Industrial Engineering,Commercial Vehicles & Trucks,Industrial Goods & Services,SCY

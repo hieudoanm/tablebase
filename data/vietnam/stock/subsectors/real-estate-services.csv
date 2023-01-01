@@ -1,11 +1,11 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-BIG Invest Group Joint Stock Company,56175000000.0,Real Estate Investment & Services,BIG,Real Estate,Financials,10/01/2022 00:00:00,Real Estate Services,5000000.0,5000000.0
-BV Land Joint Stock Company,1289538000000.0,Real Estate Investment & Services,BVL,Real Estate,Financials,11/06/2021 00:00:00,Real Estate Services,57312800.0,57312800.0
-Kien Giang Construction Investment Consultancy Corporation,2686313980200.0,Real Estate Investment & Services,CKG,Real Estate,Financials,25/03/2020 00:00:00,Real Estate Services,86599781.0,86599781.0
-Ha Noi Cadastral Survey Joint Stock Company,16992000000.0,Real Estate Investment & Services,DCH,Real Estate,Financials,23/04/2018 00:00:00,Real Estate Services,2880000.0,2880000.0
-Dat Xanh Real Estate Services Joint Stock Company,3502635974210.0,Real Estate Investment & Services,DXS,Real Estate,Financials,15/07/2021 00:00:00,Real Estate Services,411930113.0,411930113.0
-Vietnam Enterprise Investment and Development Joint Stock Company,49431916000.0,Real Estate Investment & Services,FID,Real Estate,Financials,20/05/2015 00:00:00,Real Estate Services,24715958.0,24715958.0
-LDG Investment Joint stock Company,1309776244170.0,Real Estate Investment & Services,LDG,Real Estate,Financials,12/08/2015 00:00:00,Real Estate Services,240212451.0,240212451.0
-PIV Joint Stock Company,19057436200.0,Real Estate Investment & Services,PIV,Real Estate,Financials,18/08/2010 00:00:00,Real Estate Services,17324942.0,17324942.0
-Binhduong Trade And Development Joint Stock Company,1345000000000.0,Real Estate Investment & Services,TDC,Real Estate,Financials,04/05/2010 00:00:00,Real Estate Services,100000000.0,100000000.0
-Nam MeKong Group Joint Stock Company,3788224826400.0,Real Estate Investment & Services,VC3,Real Estate,Financials,13/12/2007 00:00:00,Real Estate Services,66811848.0,66811848.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Financials,5000000.0,5000000.0,10/01/2022 00:00:00,47255000000.0,BIG Invest Group Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,BIG
+Financials,57312800.0,57312800.0,11/06/2021 00:00:00,1259907282400.0,BV Land Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,BVL
+Financials,95259361.0,95259361.0,25/03/2020 00:00:00,1752772242400.0,Kien Giang Construction Investment Consultancy Corporation,Real Estate Investment & Services,Real Estate Services,Real Estate,CKG
+Financials,2880000.0,2880000.0,23/04/2018 00:00:00,16992000000.0,Ha Noi Cadastral Survey Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,DCH
+Financials,453122377.0,453122377.0,15/07/2021 00:00:00,2922639331650.0,Dat Xanh Real Estate Services Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,DXS
+Financials,24715958.0,24715958.0,20/05/2015 00:00:00,44488724400.0,Vietnam Enterprise Investment and Development Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,FID
+Financials,240212451.0,240212451.0,12/08/2015 00:00:00,1070946702100.0,LDG Investment Joint stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,LDG
+Financials,17324942.0,17324942.0,18/08/2010 00:00:00,19975658126.0,PIV Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,PIV
+Financials,100000000.0,100000000.0,04/05/2010 00:00:00,1065000000000.0,Binhduong Trade And Development Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,TDC
+Financials,100217588.0,100217588.0,13/12/2007 00:00:00,2846179499200.0,Nam MeKong Group Joint Stock Company,Real Estate Investment & Services,Real Estate Services,Real Estate,VC3

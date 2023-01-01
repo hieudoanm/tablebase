@@ -1,2 +1,2 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Hatay Pharmaceutical Joint Stock Company,1037807479500.0,Food & Drug Retailers,DHT,Retail,Consumer Services,03/12/2008 00:00:00,Drug Retailers,26408828.0,26408828.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Services,26408828.0,26408828.0,03/12/2008 00:00:00,1011400164500.0,Hatay Pharmaceutical Joint Stock Company,Food & Drug Retailers,Drug Retailers,Retail,DHT

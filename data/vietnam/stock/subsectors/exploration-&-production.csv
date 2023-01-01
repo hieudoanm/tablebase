@@ -1,4 +1,4 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Binh Son Refining and Petrochemical Joint Stock Company,55883405078784.0,Oil & Gas Producers,BSR,Oil & Gas,Oil & Gas,01/03/2018 00:00:00,Exploration & Production,244119369.0,244119369.0
-PetroVietnam Oil Corporation,8751650029000.0,Oil & Gas Producers,OIL,Oil & Gas,Oil & Gas,07/03/2018 00:00:00,Exploration & Production,201425936.0,201425936.0
-Vietnam National Petroleum Group,37228352485500.0,Oil & Gas Producers,PLX,Oil & Gas,Oil & Gas,21/04/2017 00:00:00,Exploration & Production,1293878081.0,1293878081.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Oil & Gas,244119369.0,244119369.0,01/03/2018 00:00:00,42641171218848.0,Binh Son Refining and Petrochemical Joint Stock Company,Oil & Gas Producers,Exploration & Production,Oil & Gas,BSR
+Oil & Gas,201425936.0,201425936.0,07/03/2018 00:00:00,7915992593000.0,PetroVietnam Oil Corporation,Oil & Gas Producers,Exploration & Production,Oil & Gas,OIL
+Oil & Gas,1293878081.0,1293878081.0,21/04/2017 00:00:00,39261300061500.0,Vietnam National Petroleum Group,Oil & Gas Producers,Exploration & Production,Oil & Gas,PLX

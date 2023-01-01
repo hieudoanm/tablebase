@@ -1,18 +1,19 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Bien Ho Tea Joint Stock Company,120631180500.0,Beverages,BHG,Food & Beverage,Consumer Goods,30/10/2018 00:00:00,Soft Drinks,8935643.0,8935643.0
-Thang Loi Coffee Joint Stock Company,507265000000.0,Beverages,CFV,Food & Beverage,Consumer Goods,03/06/2019 00:00:00,Soft Drinks,8096000.0,8096000.0
-Phuoc An Coffee Joint Stock Company,236279900000.0,Beverages,CPA,Food & Beverage,Consumer Goods,30/12/2019 00:00:00,Soft Drinks,23627990.0,23627990.0
-Minh Khang Capital Trading Public Joint Stock Company,55659963200.0,Beverages,CTP,Food & Beverage,Consumer Goods,28/07/2016 00:00:00,Soft Drinks,12099992.0,12099992.0
-Ea Pok Coffee Joint Stock Company,515428650000.0,Beverages,EPC,Food & Beverage,Consumer Goods,03/10/2018 00:00:00,Soft Drinks,9388500.0,9388500.0
-Gia Lai Coffee Joint Stock Company,183453750000.0,Beverages,FGL,Food & Beverage,Consumer Goods,14/09/2018 00:00:00,Soft Drinks,14676300.0,14676300.0
-Ego Viet Nam Investment Joint Stock Company,33129156600.0,Beverages,HKT,Food & Beverage,Consumer Goods,12/01/2017 00:00:00,Soft Drinks,6135029.0,6135029.0
-Interfood Shareholding Company,1612108204000.0,Beverages,IFS,Food & Beverage,Consumer Goods,16/11/2016 00:00:00,Soft Drinks,87140984.0,87140984.0
-Nafoods Group Joint Stock Company,573857969760.0,Beverages,NAF,Food & Beverage,Consumer Goods,07/10/2015 00:00:00,Soft Drinks,50564152.0,50564152.0
-PETEC Coffee Joint Stock Company,9108000000.0,Beverages,PCF,Food & Beverage,Consumer Goods,29/03/2017 00:00:00,Soft Drinks,3000000.0,3000000.0
-Quang Ninh Mineral Water Corporation,169163280000.0,Beverages,QHW,Food & Beverage,Consumer Goods,22/12/2016 00:00:00,Soft Drinks,8000000.0,8000000.0
-Chuong Duong Beverages Joint Stock Company,140728824000.0,Beverages,SCD,Food & Beverage,Consumer Goods,25/12/2006 00:00:00,Soft Drinks,8500000.0,8500000.0
-Khanh Hoa Sanest Soft Drink Joint Stock Company,825396000000.0,Beverages,SKH,Food & Beverage,Consumer Goods,25/10/2017 00:00:00,Soft Drinks,16126740.0,16126740.0
-Sanna Khanh Hoa Beverage Joint Stock Company,40000000000.0,Beverages,SKN,Food & Beverage,Consumer Goods,10/10/2018 00:00:00,Soft Drinks,5000000.0,5000000.0
-Khanh Hoa Salanges Nest Soft Drink Joint Stock Company,595792000000.0,Beverages,SKV,Food & Beverage,Consumer Goods,03/11/2017 00:00:00,Soft Drinks,23000000.0,23000000.0
-Thuan An Coffee Joint Stock Company,88914319000.0,Beverages,TAN,Food & Beverage,Consumer Goods,10/06/2019 00:00:00,Soft Drinks,1613690.0,1613690.0
-Vinacafe Bien Hoa Joint Stock Company,6347097438000.0,Beverages,VCF,Food & Beverage,Consumer Goods,28/01/2011 00:00:00,Soft Drinks,26579135.0,26579135.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Goods,8935643.0,8935643.0,30/10/2018 00:00:00,120631180500.0,Bien Ho Tea Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,BHG
+Consumer Goods,8096000.0,8096000.0,03/06/2019 00:00:00,215050000000.0,Thang Loi Coffee Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,CFV
+Consumer Goods,23627990.0,23627990.0,30/12/2019 00:00:00,241005498000.0,Phuoc An Coffee Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,CPA
+Consumer Goods,12099992.0,12099992.0,28/07/2016 00:00:00,44769970400.0,Minh Khang Capital Trading Public Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,CTP
+Consumer Goods,9388500.0,9388500.0,03/10/2018 00:00:00,309820500000.0,Ea Pok Coffee Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,EPC
+Consumer Goods,14676300.0,14676300.0,14/09/2018 00:00:00,183453750000.0,Gia Lai Coffee Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,FGL
+Consumer Goods,26000000.0,26000000.0,20/12/2022 00:00:00,561600000000.0,G.C Food Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,GCF
+Consumer Goods,6135029.0,6135029.0,12/01/2017 00:00:00,46012717500.0,Ego Viet Nam Investment Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,HKT
+Consumer Goods,87140984.0,87140984.0,16/11/2016 00:00:00,1760247876800.0,Interfood Shareholding Company,Beverages,Soft Drinks,Food & Beverage,IFS
+Consumer Goods,50564152.0,50564152.0,07/10/2015 00:00:00,500078850100.0,Nafoods Group Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,NAF
+Consumer Goods,3000000.0,3000000.0,29/03/2017 00:00:00,7257000000.0,PETEC Coffee Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,PCF
+Consumer Goods,8000000.0,8000000.0,22/12/2016 00:00:00,213847920000.0,Quang Ninh Mineral Water Corporation,Beverages,Soft Drinks,Food & Beverage,QHW
+Consumer Goods,8500000.0,8500000.0,25/12/2006 00:00:00,156412458000.0,Chuong Duong Beverages Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,SCD
+Consumer Goods,16126740.0,16126740.0,25/10/2017 00:00:00,765600000000.0,Khanh Hoa Sanest Soft Drink Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,SKH
+Consumer Goods,5000000.0,5000000.0,10/10/2018 00:00:00,33000000000.0,Sanna Khanh Hoa Beverage Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,SKN
+Consumer Goods,23000000.0,23000000.0,03/11/2017 00:00:00,637100000000.0,Khanh Hoa Salanges Nest Soft Drink Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,SKV
+Consumer Goods,1613690.0,1613690.0,10/06/2019 00:00:00,88914319000.0,Thuan An Coffee Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,TAN
+Consumer Goods,26579135.0,26579135.0,28/01/2011 00:00:00,6320518303000.0,Vinacafe Bien Hoa Joint Stock Company,Beverages,Soft Drinks,Food & Beverage,VCF

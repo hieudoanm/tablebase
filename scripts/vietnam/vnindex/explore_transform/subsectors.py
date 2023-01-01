@@ -53,10 +53,19 @@ def filter_companies(stock_subsector):
     return list(filter(lambda company: company["subsector"] == stock_subsector, companies))
 
 
+subsectors_csv = []
+
+
 for subsector in subsectors:
     print("subsector", subsector)
     filtered_companies = filter_companies(subsector)
-    SUBSECTOR_FILE_PATH = FILE_PATH + \
-        "-".join(subsector.lower().split(" ")) + ".csv"
+    SUBSECTOR_ID = "-".join(subsector.lower().split(" "))
+    subsectors_csv.append({
+        "id": SUBSECTOR_ID,
+        "name": subsector,
+    })
+    SUBSECTOR_FILE_PATH = FILE_PATH + SUBSECTOR_ID + ".csv"
     print(SUBSECTOR_FILE_PATH)
     write_to_file_csv(SUBSECTOR_FILE_PATH, filtered_companies)
+
+write_to_file_csv("./data/vietnam/stock/subsectors.csv", subsectors_csv)

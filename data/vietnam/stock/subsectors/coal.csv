@@ -1,14 +1,14 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-397 Joint Stock Company,2000000000.0,Mining,BCB,Basic Resources,Basic Materials,29/10/2018 00:00:00,Coal,5000000.0,5000000.0
-Vinacomin - Coal Import Export Joint Stock Company,792000000000.0,Mining,CLM,Basic Resources,Basic Materials,15/04/2016 00:00:00,Coal,11000000.0,11000000.0
-Cao Son Coal Joint Stock Company,640216482166.0,Mining,CST,Basic Resources,Basic Materials,26/04/2021 00:00:00,Coal,42846773.0,42846773.0
-Ha Lam -  Vinacomin Coal Joint Stock Company,241444390500.0,Mining,HLC,Basic Resources,Basic Materials,05/03/2009 00:00:00,Coal,25415199.0,25415199.0
-Vinacomin - Mong Duong Coal Joint Stock Company,169204933400.0,Mining,MDC,Basic Resources,Basic Materials,23/07/2009 00:00:00,Coal,21418346.0,21418346.0
-Vinacomin - Nui Beo Coal Joint Stock Company,314492554000.0,Mining,NBC,Basic Resources,Basic Materials,27/12/2006 00:00:00,Coal,36999124.0,36999124.0
-Hanoi Investment General Corporation,997975031900.0,Mining,SHN,Basic Resources,Basic Materials,16/12/2009 00:00:00,Coal,129607147.0,129607147.0
-Vinacomin - Coc Sau Coal Joint Stock Company,214474293000.0,Mining,TC6,Basic Resources,Basic Materials,26/06/2008 00:00:00,Coal,32496105.0,32496105.0
-Vinacomin - Deo Nai Coal Joint Stock Company,238456685700.0,Mining,TDN,Basic Resources,Basic Materials,21/11/2008 00:00:00,Coal,29439097.0,29439097.0
-Vinacomin - Ha Tu Coal Joint Stock Company,208836942000.0,Mining,THT,Basic Resources,Basic Materials,24/10/2008 00:00:00,Coal,24569052.0,24569052.0
-Vinacomin - Northern Coal Trading Joint Stock Company,283500000000.0,Mining,TMB,Basic Resources,Basic Materials,16/01/2017 00:00:00,Coal,15000000.0,15000000.0
-Vang Danh Coal Joint Stock Company,377688057600.0,Mining,TVD,Basic Resources,Basic Materials,11/01/2011 00:00:00,Coal,44962864.0,44962864.0
-Dong Bac Transport and Processing of Coal Joint Stock Company,7810414200.0,Mining,VDB,Basic Resources,Basic Materials,22/11/2018 00:00:00,Coal,8678238.0,8678238.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Basic Materials,5000000.0,5000000.0,29/10/2018 00:00:00,2000000000.0,397 Joint Stock Company,Mining,Coal,Basic Resources,BCB
+Basic Materials,11000000.0,11000000.0,15/04/2016 00:00:00,587400000000.0,Vinacomin - Coal Import Export Joint Stock Company,Mining,Coal,Basic Resources,CLM
+Basic Materials,42846773.0,42846773.0,26/04/2021 00:00:00,615279660280.0,Cao Son Coal Joint Stock Company,Mining,Coal,Basic Resources,CST
+Basic Materials,25415199.0,25415199.0,05/03/2009 00:00:00,208404631800.0,Ha Lam -  Vinacomin Coal Joint Stock Company,Mining,Coal,Basic Resources,HLC
+Basic Materials,21418346.0,21418346.0,23/07/2009 00:00:00,152070256600.0,Vinacomin - Mong Duong Coal Joint Stock Company,Mining,Coal,Basic Resources,MDC
+Basic Materials,36999124.0,36999124.0,27/12/2006 00:00:00,303392816800.0,Vinacomin - Nui Beo Coal Joint Stock Company,Mining,Coal,Basic Resources,NBC
+Basic Materials,129607147.0,129607147.0,16/12/2009 00:00:00,997975031900.0,Hanoi Investment General Corporation,Mining,Coal,Basic Resources,SHN
+Basic Materials,32496105.0,32496105.0,26/06/2008 00:00:00,152731693500.0,Vinacomin - Coc Sau Coal Joint Stock Company,Mining,Coal,Basic Resources,TC6
+Basic Materials,29439097.0,29439097.0,21/11/2008 00:00:00,220793227500.0,Vinacomin - Deo Nai Coal Joint Stock Company,Mining,Coal,Basic Resources,TDN
+Basic Materials,24569052.0,24569052.0,24/10/2008 00:00:00,213750752400.0,Vinacomin - Ha Tu Coal Joint Stock Company,Mining,Coal,Basic Resources,THT
+Basic Materials,15000000.0,15000000.0,16/01/2017 00:00:00,255000000000.0,Vinacomin - Northern Coal Trading Joint Stock Company,Mining,Coal,Basic Resources,TMB
+Basic Materials,44962864.0,44962864.0,11/01/2011 00:00:00,373191771200.0,Vang Danh Coal Joint Stock Company,Mining,Coal,Basic Resources,TVD
+Basic Materials,8678238.0,8678238.0,22/11/2018 00:00:00,7810414200.0,Dong Bac Transport and Processing of Coal Joint Stock Company,Mining,Coal,Basic Resources,VDB

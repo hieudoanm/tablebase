@@ -1,4 +1,4 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-CMC Corporation,5767555060400.0,Software & Computer Services,CMG,Technology,Technology,22/01/2010 00:00:00,Computer Services,150001432.0,150001432.0
-Telecommunication Technical Service Joint Stock Company,56160000000.0,Software & Computer Services,TST,Technology,Technology,13/12/2007 00:00:00,Computer Services,4800000.0,4800000.0
-Sao Mai Viet Investment and Development Joint Stock Company,135873398400.0,Software & Computer Services,UNI,Technology,Technology,30/05/2006 00:00:00,Computer Services,15617632.0,15617632.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Technology,150001432.0,150001432.0,22/01/2010 00:00:00,5873245248000.0,CMC Corporation,Software & Computer Services,Computer Services,Technology,CMG
+Technology,4800000.0,4800000.0,13/12/2007 00:00:00,56160000000.0,Telecommunication Technical Service Joint Stock Company,Software & Computer Services,Computer Services,Technology,TST
+Technology,15617632.0,15617632.0,30/05/2006 00:00:00,128064582400.0,Sao Mai Viet Investment and Development Joint Stock Company,Software & Computer Services,Computer Services,Technology,UNI

@@ -1,6 +1,6 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-American Vietnamese Biotech Incorporation,537533165000.0,Health Care Equipment & Services,AMV,Health Care,Health Care,20/12/2009 00:00:00,Medical Equipment,131105650.0,131105650.0
-Vinam Joint Stock Company,103949968500.0,Health Care Equipment & Services,CVN,Health Care,Health Care,06/08/2010 00:00:00,Medical Equipment,29699991.0,29699991.0
-Thanh Hoa Medical Materials Pharmaceutial Joint Stock Company,113501759200.0,Health Care Equipment & Services,DTH,Health Care,Health Care,18/04/2022 00:00:00,Medical Equipment,7471614.0,7471614.0
-Japan Vietnam Medical Investment and Development Joint Stock Company,365625555750.0,Health Care Equipment & Services,JVC,Health Care,Health Care,21/06/2011 00:00:00,Medical Equipment,112500171.0,112500171.0
-MERUFA Joint Stock Company,131076262800.0,Health Care Equipment & Services,MRF,Health Care,Health Care,12/12/2017 00:00:00,Medical Equipment,3675404.0,3675404.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Health Care,131105650.0,131105650.0,20/12/2009 00:00:00,458869775000.0,American Vietnamese Biotech Incorporation,Health Care Equipment & Services,Medical Equipment,Health Care,AMV
+Health Care,29699991.0,29699991.0,06/08/2010 00:00:00,89099973000.0,Vinam Joint Stock Company,Health Care Equipment & Services,Medical Equipment,Health Care,CVN
+Health Care,7471614.0,7471614.0,18/04/2022 00:00:00,101554205600.0,Thanh Hoa Medical Materials Pharmaceutial Joint Stock Company,Health Care Equipment & Services,Medical Equipment,Health Care,DTH
+Health Care,112500171.0,112500171.0,21/06/2011 00:00:00,348750530100.0,Japan Vietnam Medical Investment and Development Joint Stock Company,Health Care Equipment & Services,Medical Equipment,Health Care,JVC
+Health Care,3675404.0,3675404.0,12/12/2017 00:00:00,75635042400.0,MERUFA Joint Stock Company,Health Care Equipment & Services,Medical Equipment,Health Care,MRF

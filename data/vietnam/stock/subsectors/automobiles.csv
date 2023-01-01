@@ -1,11 +1,11 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-CMC Investment Joint Stock Company,31015140000.0,Automobiles & Parts,CMC,Automobiles & Parts,Consumer Goods,11/12/2006 00:00:00,Automobiles,4561050.0,4561050.0
-City Auto Corporation,1953650829400.0,Automobiles & Parts,CTF,Automobiles & Parts,Consumer Goods,30/05/2017 00:00:00,Automobiles,76017542.0,76017542.0
-GiaiPhong Motor Joint Stock Company,48177280000.0,Automobiles & Parts,GGG,Automobiles & Parts,Consumer Goods,12/10/2009 00:00:00,Automobiles,9635456.0,9635456.0
-Hang Xanh Motors Service Joint Stock Company,1116091306400.0,Automobiles & Parts,HAX,Automobiles & Parts,Consumer Goods,26/12/2006 00:00:00,Automobiles,56943434.0,56943434.0
-Hoang Huy Investment Services Joint Stock Company,1305079501180.0,Automobiles & Parts,HHS,Automobiles & Parts,Consumer Goods,15/02/2012 00:00:00,Automobiles,321448153.0,321448153.0
-Truong Long Engineering and Auto Joint Stock Company,179400000000.0,Automobiles & Parts,HTL,Automobiles & Parts,Consumer Goods,10/01/2011 00:00:00,Automobiles,12000000.0,12000000.0
-Sai Gon General Service Corporation,3737385590400.0,Automobiles & Parts,SVC,Automobiles & Parts,Consumer Goods,21/12/2006 00:00:00,Automobiles,33320532.0,33320532.0
-TMT Motors Corporation,381687093000.0,Automobiles & Parts,TMT,Automobiles & Parts,Consumer Goods,22/01/2010 00:00:00,Automobiles,37287680.0,37287680.0
-Vinacomin Motor Industry Joint Stock Company,15660000000.0,Automobiles & Parts,VMA,Automobiles & Parts,Consumer Goods,28/08/2015 00:00:00,Automobiles,2700000.0,2700000.0
-Vietnam Machine Investment Development Joint Stock Company,329537500000.0,Automobiles & Parts,VVS,Automobiles & Parts,Consumer Goods,07/10/2022 00:00:00,Automobiles,20500000.0,20500000.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Goods,4561050.0,4561050.0,11/12/2006 00:00:00,22805250000.0,CMC Investment Joint Stock Company,Automobiles & Parts,Automobiles,Automobiles & Parts,CMC
+Consumer Goods,76017542.0,76017542.0,30/05/2017 00:00:00,2280526260000.0,City Auto Corporation,Automobiles & Parts,Automobiles,Automobiles & Parts,CTF
+Consumer Goods,29388589.0,29388589.0,12/10/2009 00:00:00,141065227200.0,GiaiPhong Motor Joint Stock Company,Automobiles & Parts,Automobiles,Automobiles & Parts,GGG
+Consumer Goods,56943434.0,56943434.0,26/12/2006 00:00:00,945261004400.0,Hang Xanh Motors Service Joint Stock Company,Automobiles & Parts,Automobiles,Automobiles & Parts,HAX
+Consumer Goods,321448153.0,321448153.0,15/02/2012 00:00:00,1218288499870.0,Hoang Huy Investment Services Joint Stock Company,Automobiles & Parts,Automobiles,Automobiles & Parts,HHS
+Consumer Goods,12000000.0,12000000.0,10/01/2011 00:00:00,198600000000.0,Truong Long Engineering and Auto Joint Stock Company,Automobiles & Parts,Automobiles,Automobiles & Parts,HTL
+Consumer Goods,33320532.0,33320532.0,21/12/2006 00:00:00,3347658216000.0,Sai Gon General Service Corporation,Automobiles & Parts,Automobiles,Automobiles & Parts,SVC
+Consumer Goods,37287680.0,37287680.0,22/01/2010 00:00:00,346284232200.0,TMT Motors Corporation,Automobiles & Parts,Automobiles,Automobiles & Parts,TMT
+Consumer Goods,2700000.0,2700000.0,28/08/2015 00:00:00,15660000000.0,Vinacomin Motor Industry Joint Stock Company,Automobiles & Parts,Automobiles,Automobiles & Parts,VMA
+Consumer Goods,20500000.0,20500000.0,07/10/2022 00:00:00,362522000000.0,Vietnam Machine Investment Development Joint Stock Company,Automobiles & Parts,Automobiles,Automobiles & Parts,VVS

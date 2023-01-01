@@ -1,2 +1,2 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Lao Cai Gold Joint Stock Company,105000000000.0,Mining,GLC,Basic Resources,Basic Materials,09/01/2019 00:00:00,Gold Mining,10500000.0,10500000.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Basic Materials,10500000.0,10500000.0,09/01/2019 00:00:00,105000000000.0,Lao Cai Gold Joint Stock Company,Mining,Gold Mining,Basic Resources,GLC

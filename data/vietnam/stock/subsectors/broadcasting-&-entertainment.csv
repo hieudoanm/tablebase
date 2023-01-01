@@ -1,5 +1,5 @@
-name,market_cap,sector,symbol,supersector,industry,listing_date,subsector,issue_share,listed_value
-Vietnam Television Cable Joint Stock Company,548950512000.0,Media,CAB,Media,Consumer Services,06/09/2019 00:00:00,Broadcasting & Entertainment,45745876.0,45745876.0
-ODE Media and Entertainment Group Joint Stock Company,444520000000.0,Media,ODE,Media,Consumer Services,10/01/2022 00:00:00,Broadcasting & Entertainment,10000000.0,10000000.0
-PV-Inconess Investment Joint Stock Company,1509308166000.0,Media,RGC,Media,Consumer Services,19/06/2017 00:00:00,Broadcasting & Entertainment,89123600.0,89123600.0
-Yeah1 Group Corporation,372231619200.0,Media,YEG,Media,Consumer Services,26/06/2018 00:00:00,Broadcasting & Entertainment,31279968.0,31279968.0
+industry,issue_share,listed_value,listing_date,market_cap,name,sector,subsector,supersector,symbol
+Consumer Services,45745876.0,45745876.0,06/09/2019 00:00:00,699911902800.0,Vietnam Television Cable Joint Stock Company,Media,Broadcasting & Entertainment,Media,CAB
+Consumer Services,10000000.0,10000000.0,10/01/2022 00:00:00,430570000000.0,ODE Media and Entertainment Group Joint Stock Company,Media,Broadcasting & Entertainment,Media,ODE
+Consumer Services,89123600.0,89123600.0,19/06/2017 00:00:00,968417037600.0,PV-Inconess Investment Joint Stock Company,Media,Broadcasting & Entertainment,Media,RGC
+Consumer Services,31279968.0,31279968.0,26/06/2018 00:00:00,304979688000.0,Yeah1 Group Corporation,Media,Broadcasting & Entertainment,Media,YEG
